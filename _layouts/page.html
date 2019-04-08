@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		{% include head.html %}
+		{% seo %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | prepend:site.baseurl }}" class="logo">{{site.title}}</a>
+				</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+					<!-- Post -->
+					<section class="post">
+						<p>{{content}}</p>
+					</section>
+
+					<!-- Footer -->
+						<footer>
+              <ul class="actions">
+								<li><a href="{{ "/about/" | prepend:site.baseurl }}" class="button">Lo Squadrone</a></li>
+								<li><a href="{{ "/bgs/" | prepend:site.baseurl }}" class="button">Background Simulation</a></li>
+								<li><a href="{{ "/blog/" | prepend:site.baseurl }}" class="button">Blog</a></li>
+              </ul>
+						</footer>
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>

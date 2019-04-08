@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Euro Caps';
+    src: url('../fonts/EuroCaps.eot');
+    src: url('../fonts/EuroCaps.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/EuroCaps.woff2') format('woff2'),
+        url('../fonts/EuroCaps.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

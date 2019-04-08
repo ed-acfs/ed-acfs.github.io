@@ -1,0 +1,108 @@
+---
+layout: null
+title: Alto Comando Flotta Stellare
+description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti
+image: /images/logo_1080x1080.png
+sitemap:
+    priority: 1.0
+    lastmod: 2019-04-08
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+    {% include head.html %}
+		{% seo %}
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+				<!-- Intro -->
+					<div id="intro">
+            <h1 style="text-transform: lowercase;">{{site.title}}</h1>
+						<h2>{{site.bio}}</h2>
+						<p>Siamo uno Squadrone che opera attivamente all'interno di <a href="https://www.elitedangerous.com/">Elite Dangerous</a>.<br />
+							Giochiamo per divertirci insieme</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | prepend:site.baseurl }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<a href="#" class="image main"><img src="{{ "/images/logo_h.png" | prepend:site.baseurl }}" alt="" /></a>
+									<p>L'Alto Comando Flotta Stellare (<b>ACFS</b>) è uno squadrone italiano, attivo su <b>PS4</b>, che riunisce al suo interno giocatori a cui piace crescere e divertirsi insieme. <br>
+										Offriamo supporto attivo a tutti i nuovi piloti che si affacciano alla maestosa galassia di Elite. <br>
+										 Il nostro principale obiettivo è godersi il gioco.</p>
+								</header>
+								<p>Questo è il nostro sito web. 
+									Qui troverai informazioni su come <a href="/about/" rel="nofollow">unirti al nostro Squadrone</a> e contribuire all'<a href="/bgs/" rel="nofollow">espansione della minor faction</a> <b>Flotta Stellare</b> all'interno del mondo in continua espansione di <a href="/elite/">Elite: Dangerous</a>.
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="{{ post.image | prepend:site.baseurl }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | prepend:site.baseurl }}" class="button">Continua a leggere</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2><a href="#">Sponsored</a></h2>
+  									</header>
+
+  								</article>
+                  {% endif %}
+                {% endfor %}
+
+							</section>
+
+						<!-- Footer -->
+							<footer>
+                <ul class="actions">
+									<li><a href="{{ "/about/" | prepend:site.baseurl }}" class="button">Lo Squadrone</a></li>
+									<li><a href="{{ "/bgs/" | prepend:site.baseurl }}" class="button">Background Simulation</a></li>
+									<li><a href="{{ "/blog/" | prepend:site.baseurl }}" class="button">Blog</a></li>
+                </ul>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>

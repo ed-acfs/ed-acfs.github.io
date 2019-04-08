@@ -1,0 +1,91 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title:              Alto Comando Flotta Stellare
+bio:                'Abbiamo i biscotti'
+description:        "Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti"
+keywords:           elite dangerous, squadrone, squadron, ps4, flotta stellare, github, github pages
+locale:             it_IT
+baseurl: "" 
+url: https://flottastellare.it
+
+#
+###################################
+# Jekyll-SEO-tag settings
+####################################
+#
+lang: it_IT
+
+webmaster_verifications:
+  #google: FByo2xcDR6RaUId2DdQjhAmq9YMjlEhVlL0OgK8KDzU
+  #bing: FCA4B700F192727565A2354B488A3DD5
+
+# Comments
+disqus_shortname:   flottastellare
+
+# Social
+analytics-id:       "default"
+twitter:            Flotta_Stellare
+facebook:           Altocomandoflottastellare
+instagram:          cmdr_o7
+github:             ed-acfs
+logo:               /images/logo_1024x575.png
+
+# personal
+location:           Wong Sher
+phone:              310-318-5555
+email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+
+# Other
+background_image:   /images/bg.jpg
+# Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
+slapform_thankyou_page: /thank-you
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author:
+    image: /images/logo_1024x575.png
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Gems
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]

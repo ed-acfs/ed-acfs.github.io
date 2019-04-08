@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+    {% include head.html %}
+		{% seo %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | prepend:site.baseurl }}" class="logo">{{site.title}}</a>
+				</header>
+
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+						
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+          <article class="post featured">
+            <header class="major">
+              <h2><a href="#">Notizie dalla Galassia</a></h2>
+              <p>Segui il nostro blog per restare informato su tutte le attività dello Squadrone, 
+								per aggiornarti con le guide che pubblichiamo e per conoscere i principali eventi della Galassia.
+							</p>
+            </header>
+
+          </article>
+					<!-- Post -->
+					<section class="posts">
+						{% for post in site.posts %}
+						{% assign mod3 = forloop.index | modulo: 3 %}
+							<article>
+								<header>
+									<span class="date">{{ post.date | date_to_string }}</span>
+									<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
+								</header>
+								<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="{{ post.image | prepend:site.baseurl }}" alt="" /></a>
+								<p>{{ post.excerpt }}</p>
+								<ul class="actions">
+									<li><a href="{{ post.url | prepend:site.baseurl }}" class="button">COntinua a leggere</a></li>
+								</ul>
+							</article>
+							{% if mod3 == 0 %}
+							<article>
+								<header>
+									<h2><a href="#">Sponsored</a></h2>
+								</header>
+
+							</article>
+							{% endif %}
+						{% endfor %}
+
+					</section>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>

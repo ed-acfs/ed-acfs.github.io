@@ -1,0 +1,15 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | prepend:site.baseurl }}">Home</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | prepend:site.baseurl }}">Lo Squadrone</a></li>
+  <li class="{% if page.url contains '/bgs/' %} active {% endif %}"><a href="{{ "/bgs/" | prepend:site.baseurl }}">Background Simulation</a></li>
+  <li class="{% if page.url contains '/blog/' %} active {% endif %}" style="text-transform: lowercase;"><a href="{{ "/blog/" | prepend:site.baseurl }}">Blog</a></li>
+  <li class="{% if page.url contains '/elite/' %} active {% endif %}" style="text-transform: lowercase;"><a href="{{ "/elite/" | prepend:site.baseurl }}">Elite Dangerous</a></li>
+  <!--<li class="{% if page.url contains '/gallery/' %} active {% endif %}" style="text-transform: lowercase;"><a href="{{ "/gallery/" | prepend:site.baseurl }}">Photo Gallery</a></li>-->
+</ul>
+
+<ul class="icons">
+  <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+  <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+  <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+  <li><a href="https://discord.gg/mXpfjgd" class="fa fa-discord-alt" rel="nofollow"><span class="label">Discord</span></a></li> 
+</ul>
