@@ -29,7 +29,7 @@ twitter:
   card: summary
   username: Flotta_Stellare
 
-logo: /images/logo_1024x575.png
+logo: /images/logo_843x885.png
 
 # Comments
 disqus_shortname:   flottastellare
@@ -57,7 +57,7 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author:
-    image: /images/logo_1024x575.png
+    image: /images/logo_843x885.png
 
 #
 ###################################
