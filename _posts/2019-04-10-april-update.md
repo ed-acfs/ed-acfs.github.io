@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Annunciato un nuovo aggiornamento - Tutte le novità"
+title:  "Annunciato un nuovo aggiornamento - Le novità"
 date:   2019-04-10
 excerpt: "Frontier ha comunicato, un po' a sorpresa, un aggiornamento previsto per il 23 Aprile, che introdurrà tante novità interessanti"
 image: "/images/posts/aprilupdate/AprilUpdate.jpg"
