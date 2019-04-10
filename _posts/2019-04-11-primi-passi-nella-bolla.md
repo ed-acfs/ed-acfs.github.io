@@ -2,7 +2,7 @@
 layout: post
 title:  "Destinazione Wong Sher - Primi passi nella Bolla"
 date:   2019-04-11
-excerpt: "Hai appena finito le missioni di training e state ammirando il vostro nuovo Sidewinder comodamente attraccato in stazione?"
+excerpt: "Hai appena finito le missioni di training e stai ammirando il tuo nuovo Sidewinder comodamente attraccato in stazione?"
 image: "/images/ED-Ships-Wing-Squadron.png"
 ---
 Forse non lo sapete ma siete da qualche parte, in quella che i Cmdrs navigati chiamano la *Bolla*.
