@@ -59,11 +59,20 @@ defaults:
     author:
     image: /images/logo_843x885.png
 
+stickyposts:
+  #enabled: false   # Enable StickyPosts; default: true
+  debug: true       # Show additional info; default: false
+  #sort: "blah"      # Optional sort field; default: "date", use "none" to avoid sorting
+  reverse: false     # Ascending order, default: false
+  retain: false      # Also show sticky posts in their original positions; default: false
+  reverse_sticky: false    # Reverse the order of the sticky posts, e.g. oldest first; default: false
+
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
+timezone: Europe/Rome
 permalink:          /blog/:title/
 markdown:           kramdown
 highlighter:        rouge
@@ -86,6 +95,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-stickyposts
 
 paginate: 6
 paginate_path: "/blog/page:num/"
