@@ -72,7 +72,6 @@ stickyposts:
 # Jekyll configuration
 ####################################
 #
-timezone: Europe/Rome
 permalink:          /blog/:title/
 markdown:           kramdown
 highlighter:        rouge
