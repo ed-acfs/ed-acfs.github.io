@@ -58,7 +58,7 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-								{% assign sorted = paginator.posts | sort: "stickiness" %}
+								{% assign sorted = site.posts | sort: "stickiness" %}
 								{% for post in sorted limit:4 %}
   								<article>
 										<header>
