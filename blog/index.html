@@ -1,3 +1,12 @@
+---
+layout: null
+title: Blog
+description: Segui il nostro blog per restare informato sulle attività dello Squadrone, per aggiornarti con le guide pubblicate e per conoscere gli eventi nella Galassia.
+sitemap:
+    priority: 1.0
+    lastmod: 2019-04-08
+    changefreq: weekly
+---
 <!DOCTYPE HTML>
 
 <html>
@@ -24,8 +33,7 @@
 					</nav>
 
 				<!-- Main -->
-				<div id="main">
-
+				<div id="main">		
           <article class="post featured">
             <header class="major">
               <h2><a href="#">Notizie dalla Galassia</a></h2>
@@ -37,7 +45,7 @@
           </article>
 					<!-- Post -->
 					<section class="posts">
-						{% for post in site.posts %}
+						{% for post in paginator.posts %}
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
@@ -52,8 +60,7 @@
 						{% endfor %}
 
 					</section>
-
-					</div>
+				 </div>
 
 				<!-- Footer -->
         {% include foot.html %}
