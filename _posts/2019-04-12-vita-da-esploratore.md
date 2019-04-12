@@ -2,11 +2,10 @@
 layout: post
 title:  "Primi Passi - Vita da esploratore"
 date:   2019-04-12
-excerpt: "Hai appena finito le missioni di training e stai ammirando il tuo nuovo Sidewinder comodamente attraccato in stazione?"
+excerpt: "Fra le molteplici attività svolgibili all’interno dell’immensa galassia che utilizziamo come campo di gioco in Elite Dangerous sicuramente una delle più avvincenti è l’esplorazione"
 image: "/images/posts/vita-da-esploratore/saga.jpg"
 sticky: no
 ---
-Fra le molteplici attività svolgibili all’interno dell’immensa galassia che utilizziamo come campo di gioco in Elite Dangerous sicuramente una delle più avvincenti è l’esplorazione.
 
 > Mi presento, sono CMDR COK7SETTE (ID PSN: [Cok7sette](https://my.playstation.com/profile/Cok7sette)), vice ammiraglio dello
 Squadrone, ed in questo articolo cercherò di darvi qualche dritta su come preparare la vostra nave, pianificare la vostra avventura e gestire gli eventuali inconvenienti che potrebbero capitare.
