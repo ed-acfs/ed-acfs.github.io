@@ -62,7 +62,7 @@ sitemap:
 								{% for post in posts limit:1 %}
   								<article>
 										<header>
-  										<span class="date">{{ post.date | date_to_string }} &nbsp; <i class="fa fa-thumb-tack" aria-hidden="true""></i></span>
+  										<span class="date">{{ post.date | date_to_string }} &nbsp; <i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
 											<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
   									</header>
   									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="{{ post.image | prepend:site.baseurl }}" alt="" /></a>
