@@ -57,12 +57,12 @@ sitemap:
 							</article>
 
 						<!-- Posts -->
-							<section class="posts">
-								{% assign sorted = site.posts | sort: "stickiness" %}
-								{% for post in sorted limit:4 %}
+						<section class="posts">
+								{% assign posts = site.posts | where: "sticky", true | sort: "date" %}
+								{% for post in posts limit:1 %}
   								<article>
 										<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<span class="date">{{ post.date | date_to_string }} &nbsp; <i class="fa fa-thumb-tack" aria-hidden="true""></i></span>
 											<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
   									</header>
   									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="{{ post.image | prepend:site.baseurl }}" alt="" /></a>
@@ -71,6 +71,20 @@ sitemap:
   										<li><a href="{{ post.url | prepend:site.baseurl }}" class="button">Continua a leggere</a></li>
   									</ul>
 									</article>
+								{% endfor %}
+								{% assign normalPost = site.posts | where: "sticky", false %}
+								{% for post in normalPost limit:3 %}
+								<article>
+									<header>
+										<span class="date">{{ post.date | date_to_string }}</span>
+										<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
+									</header>
+									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="{{ post.image | prepend:site.baseurl }}" alt="" /></a>
+									<p>{{ post.excerpt }}</p>
+									<ul class="actions">
+										<li><a href="{{ post.url | prepend:site.baseurl }}" class="button">Continua a leggere</a></li>
+									</ul>
+								</article>
 								{% endfor %}
 							</section>
 
