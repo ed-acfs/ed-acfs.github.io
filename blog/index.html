@@ -60,9 +60,33 @@ sitemap:
 						{% endfor %}
 
 					</section>
-				 </div>
 
 				<!-- Footer -->
+				<footer>
+					<!-- pagination -->
+						{% if paginator.total_pages > 1 %}
+						<div class="pagination"> 
+							{% if paginator.previous_page %}
+								<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous">Prev</a>
+							{% endif %}
+
+							{% for page in (1..paginator.total_pages) %}
+								{% if page == paginator.page %}
+									<span class="page active">{{ page }}</span>
+								{% elsif page == 1 %}
+									<a href="/">{{ page }}</a>
+								{% else %}
+									<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page">{{ page }}</a>
+								{% endif %}
+							{% endfor %}
+
+							{% if paginator.next_page %}
+								<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">Next</a>
+							{% endif %}
+						</div>
+						{% endif %}
+				</footer>
+			</div>
         {% include foot.html %}
 
 			</div>
