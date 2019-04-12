@@ -86,6 +86,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jemoji
 
 paginate: 6
 paginate_path: "/blog/page:num/"
