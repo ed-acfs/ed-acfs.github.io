@@ -3,5 +3,6 @@ title: robots
 ---
 User-agent: *
 Disallow: /assets/*
+Disallow: /elements/
 
 Sitemap: {{site.url}}/sitemap.xml
