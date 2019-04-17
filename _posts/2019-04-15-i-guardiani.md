@@ -13,11 +13,11 @@ sticky: no
 I Guardiani erano un'antica razza aliena umanoide (ovvero caratteristiche fisiche/composizione chimica dell'organismo simile a quelle dell'uomo) ormai estinta tra 1 e 2 milioni di anni fa.<br>
 Sono stati scoperti grazie al ritrovamento di una loro antica struttura nel sistema [Synuefe XR-H D11-102](https://www.edsm.net/en/system/id/6379187/name/Synuefe+XR-H+d11-102) dal *Cmdr XDeath*. 
 
-Secondo la scala delle civiltà ideata da un antico astronomo terrestre Nikolj Kardasev i Guardiani sono una civiltà di tipo, 2 ovvero una civiltà in grado raccogliere tutta l'energia (in qualsiasi forma essa si presenti) del proprio Sistema Stellare.
+Secondo la scala delle civiltà ideata da un antico astronomo terrestre Nikolj Kardasev i Guardiani sono una civiltà di tipo 2, ovvero una civiltà in grado raccogliere tutta l'energia (in qualsiasi forma essa si presenti) del proprio Sistema Stellare.
 
 ## Storia dei Guardiani: Dall'antichità fino alla colonizzazione dello spazio
 
-La società dei Guardiani era inizialmente costituita da diversi clan nomadi dediti alla caccia ma, quando il loro pianeta natale si raffreddò all'improvviso, ebbero l'esigenza di stabilirsi in luoghi in cui riunire l'intera comunità creando quindi le prime città.
+La società dei Guardiani era inizialmente costituita da diversi clan nomadi dediti alla caccia ma, quando il loro pianeta natale si raffreddò all'improvviso, ebbero l'esigenza di unificarsi in luoghi comuni creando quindi le prime città.
 
 Crearono avanzate tecniche per procurarsi il cibo e in maniera del tutto soprprendente iniziarono a sviluppare molto velocemente una comprensione della genetica molto approfondita, tanto da scoprire la cura di molte malattie. E fu proprio questa loro comprensione della genetica a cambiare per sempre lo svolgersi delle lotte fra i clan: le armi batteriologiche, usate in guerre su larga scala, sostituirono le antiche lotte tra i campioni.
 
