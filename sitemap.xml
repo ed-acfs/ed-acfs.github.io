@@ -11,8 +11,10 @@ layout: null
       {% else %}
         <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
       {% endif %}
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
+      <changefreq>daily</changefreq>
+      {% if post.sitemap.priority == null %} <priority>0.7</priority>
+      {% else %} <priority>{{ post.sitemap.priority }}</priority>
+      {% endif %}
     </url>
   {% endfor %}
   {% for page in site.pages %}
