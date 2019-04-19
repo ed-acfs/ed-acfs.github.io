@@ -32,7 +32,7 @@ Con il tempo i Guardiani compresero la velocità superluminale, grazie alla qual
 
 Come conseguenza non tutti i Guardiani apprezzavano tutto questo progresso tecnologico e come le IA senzienti stavano gestendo svariati aspetti della società, il che portò ad una _rivoluzione_ di stampo religioso.
 
-La Pace si interruppe quando i **Thargoids** attaccarono i Guardiani.
+La Pace si interruppe quando i [Thargoids](/blog/storia-dei-thargoid/) attaccarono i Guardiani.
 
 <div class="box alt">
     <div class="row 50% uniform">
