@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Storia di Elite: La società Thargoid"
+title:  "Approfondimento: La società Thargoid"
 date:   2019-04-20
 excerpt: "Approfondiamo ulteriormente l'argomento Thargoids entrando nel dettaglio riguardo la loro struttura sociale e militare"
 image: "/images/posts/societa-thargoids/thargoids.jpg"
