@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Storia dei Thargoids"
+title:  "Storia di Elite: I Thargoids"
 date:   2019-04-19
 excerpt: "I Thargoid sono una specie aliena insettoide molto avanzata presente nella nostra Galassia da milioni di anni. E sono estremamente pericolosi"
 image: "/images/posts/storia-dei-thargoids/thargoids2.jpg"
 sticky: no
 ---
-> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l'Ammiraglio dello squadrone ed in questa prima parte dedicata ai
-Thargoids vi propongo tutte le notizie in nostro possesso riguardanti questa razza aliena presente nella nostra galassia!
+> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l'Ammiraglio dello squadrone ed in questa prima parte dedicata ai Thargoids vi propongo tutte le notizie in nostro possesso riguardanti questa razza aliena presente nella nostra galassia!
 
 ## Intro ai Thargoid
 
@@ -131,5 +130,5 @@ Negli ultimi giorni l’AEGIS ha deciso di incrementare la produzione delle armi
 <span class="image fit"><img src="/images/posts/storia-dei-thargoids/for-humanity.jpg" alt=""></span>
 
 <div class="box">
-Se ne avete voglia, continuate a seguire questo spazio: prossimamente la seconda parte sulla storia dei Thagoids!
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i> &nbsp; Prosegui la lettura sui Thargoids con la seconda parte di questo speciale: <a href="/blog/societa-targhoid/">La Società Thargoid</a>
 </div>
