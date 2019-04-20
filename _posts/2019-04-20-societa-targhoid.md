@@ -97,7 +97,7 @@ Aumenta la manovrabilità e la velocità degli scout nelle vicinanze.
 
 ### Nave Madre Thargoid
 
-Non si hanno informazioni sulle capacità belliche di questa nave. E' stata identificata durante la [prima guerra Thargoid](/blog/storia-dei-thargoid/), è stata vista distruggere una base dell’INRA nel sistema HIP 161824
+Non si hanno informazioni sulle capacità belliche di questa nave. E' stata identificata durante la [prima guerra Thargoid](/blog/storia-dei-thargoid/#prima-guerra-thargoid-umani), è stata vista distruggere una base dell’INRA nel sistema HIP 161824
 
 ## Tecnologia Thargoid
 
