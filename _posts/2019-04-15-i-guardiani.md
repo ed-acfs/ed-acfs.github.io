@@ -20,11 +20,9 @@ Secondo la scala delle civiltà ideata da un antico astronomo terrestre Nikolj K
 
 La società dei Guardiani era inizialmente costituita da diversi clan nomadi dediti alla caccia ma, quando il loro pianeta natale si raffreddò all'improvviso, ebbero l'esigenza di unificarsi in luoghi comuni creando quindi le prime città.
 
-Crearono avanzate tecniche per procurarsi il cibo e in maniera del tutto soprprendente iniziarono a sviluppare molto velocemente una comprensione della genetica molto approfondita, tanto da scoprire la cura di molte malattie. E fu proprio questa loro comprensione della genetica a cambiare per sempre lo svolgersi delle lotte fra i clan: le armi batteriologiche, usate in guerre su larga scala, sostituirono le antiche lotte tra i campioni.
+Crearono avanzate tecniche per procurarsi il cibo e, in maniera del tutto soprprendente, iniziarono a sviluppare velocemente una comprensione della genetica molto approfondita, tanto da scoprire la cura di molte malattie. E fu proprio questa loro comprensione della genetica a cambiare per sempre lo svolgersi delle lotte fra i clan: le armi batteriologiche, usate in guerre su larga scala, sostituirono le antiche lotte tra i campioni.
 
-Le guerre tra i vari clan durarono finchè un’alleanza di un certo numero di clan provenienti dalla regione settentrionale del continente principale sul pianeta natale dei Guardiani combatté una rapida guerra di conquista globale. Questo portò l'intera Specie dei Guardiani sotto la guida dei clan settentrionali, unificando di fatto la popolazione sul pianeta.
-
-Ne seguì quindi un lungo e duraturo periodo di pace, crescita e avanzamento, che permise loro di inviare le prime navi generazionali, sotto forma di grandi navi-arca, per avviare la colonizzazione lo spazio.  
+Con questa nuova arma, i clan situati nella parte settentrionale del continente più grande del loro pianeta iniziarono una guerra su larga scala per unificare tutti i guardiani. Unificando il pianeta i Guardiani godettero di un lungo periodo di pace che permise loro di inviare le prime navi generazionali  per colonizzare lo spazio.  
 
 <span class="image fit"><img src="/images/posts/i-guardiani/Guardians-Ancient-Relic-Monolith.png" alt=""></span>
 Con il tempo i Guardiani compresero la velocità superluminale, grazie alla quale poterono espandersi nello spazio, e realizzarono computer ed intelligenze artificiali sempre più sofisticate. L'apice di tale tecnologia è rappresentato da impianti neurali gestiti dai **Monoliti**, impianti speciali che fungevano da archivio in continua espansione collegato a tutta la rete dei Guardiani.
