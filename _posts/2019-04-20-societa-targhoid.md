@@ -4,6 +4,7 @@ title:  "Approfondimento: La società Thargoid"
 date:   2019-04-20
 excerpt: "Approfondiamo ulteriormente l'argomento Thargoids entrando nel dettaglio riguardo la loro struttura sociale e militare"
 image: "/images/posts/societa-thargoids/thargoids.jpg"
+author: scorpion
 sticky: no
 ---
 > Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l’ammiraglio dello squadrone ed in questo secondo rapporto dedicato ai Thargoid mi concentrerò sul darvi tutte le informazioni in nostro possesso sulla società Thargoid!
@@ -97,13 +98,13 @@ Aumenta la manovrabilità e la velocità degli scout nelle vicinanze.
 
 ### Nave Madre Thargoid
 
-Non si hanno informazioni sulle capacità belliche di questa nave. E' stata identificata durante la [prima guerra Thargoid](/blog/storia-dei-thargoid/#prima-guerra-thargoid-umani), è stata vista distruggere una base dell’INRA nel sistema HIP 161824
+Non si hanno informazioni sulle capacità belliche di questa nave. E' stata identificata durante la [prima guerra Thargoid](/blog/storia-dei-thargoid#prima-guerra-thargoid-umani); è stata vista distruggere una base dell’INRA nel sistema HIP 161824
 
 ## Tecnologia Thargoid
 
 ### Tecnologia dell'iperspazio
 
-La loro conoscenza dell'iperspazio sembra essere molto avanzata,  visto che le loro navi usano i wormholes( tunnel nell’iperspazio) per muoversi a capacità incredibilmente alte.<br>
+La loro conoscenza dell'iperspazio sembra essere molto avanzata,  visto che le loro navi usano i wormholes (tunnel nell’iperspazio) per muoversi a capacità incredibilmente elevate.<br>
 Inoltre, grazie a tali conoscenze, possono interdire le navi umane mentre stanno effettuando un salto da sistema ad un altro, specialmente se si trasportano **Meta-Alloys**, **tecnologia dei Guardiani** o **tecnologia Thargoid**
 
 ### Capacità di produzione delle risorse
