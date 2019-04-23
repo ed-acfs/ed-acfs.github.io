@@ -3,7 +3,7 @@ layout: post
 title:  "Approfondimento: Le Stazioni in Elite Dangerous"
 date:   2019-04-23
 excerpt: "Ne veniamo a contatto fin dai primi istanti di gioco. Conosciamo meglio tutte le tipologie di stazioni presenti in Elite: Dangerous"
-image: "/images/posts/stazioni-elitedangerous/coriolis_blueprint.png"
+image: "/images/posts/stazioni-elitedangerous/Elite-Dangerous-Star-port-Orbis.jpg"
 author: scorpion
 sticky: no
 ---
@@ -26,7 +26,7 @@ stazioni dispongono di grandi hangar e catapulte per poter ospitare le navi e ca
 movimento rotatorio delle stazione stessa.
 
 * Estetica:<br> I tre modelli di stazioni più grandi **Ocellus**, **Coriolis** e **Orbis** hanno colori interni che rappresentano l'economia della stazione oppure nel caso
-della stazione Orbis dove neib suoi bracci abitativi si possono vedere fattorie e città.
+della stazione Orbis dove nei suoi bracci abitativi si possono vedere fattorie e città.
 
 * Servizi standard:<br> Nelle stazioni si possono riparare, riarmare o acquistare le navi. Pagare multe o accedere ai servizi per i **Material Trader** o **Technology
 Broker** (questi ultimi due non sono presenti in tutte le stazioni).
@@ -67,12 +67,10 @@ La stazione può avere **da 1 a 3 anelli abitativi**, vengono costruiti in base 
 ## Stazione Coriolis
 
 <span class="image fit"><img src="/images/posts/stazioni-elitedangerous/d950c17ec69a72773fd793587ff07cf8.jpg" alt=""></span>
-Anche il progetto di questa stazione è vecchio di qualche secolo. Caratteristica è la sua struttura a cubo tetraedro, può essere costruita in poche settimane.
+Anche il progetto di questa stazione è vecchio di qualche secolo. Caratteristica è la sua struttura a cubo octaedro, può essere costruita in poche settimane.
 
-È la prima a stazione ad essere costruita quando un sistema viene colonizzato; nel tempo può essere modificata per avere un rilievo economico maggiore, espandendo i suoi
+È la prima stazione ad essere costruita quando un sistema viene colonizzato; nel tempo può essere modificata per avere un rilievo economico maggiore, espandendo i suoi
 magazzini.
-
-Anche se costruita fuori dalla bolla in verità è molto più costosa la sua manutenzione rispetto alle altre stazioni, essendo stata ingrandita nel 3330.
 
 Si può vedere una stazione Coriolis con lunghi bracci pieni di armi nel sistema Electra.
 
