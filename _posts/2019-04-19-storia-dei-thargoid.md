@@ -19,7 +19,7 @@ L’umanità è entrata in conflitto con i Thargoid in due occasioni:
 
 * **Primo conflitto: durò circa 25 anni; iniziato nel 3225 e terminato nel 3251**, conclusosi con la vittoria umana.
 
-* **Secondo conflitto: iniziato nel 3303** è tuttora in corso.
+* **Secondo conflitto: iniziato nel 3303** e tuttora in corso.
 
 Secondo la **classificazione delle civiltà** ideata dell'antico astrofisico
 terrestre [Nikolai Kardashev](https://it.wikipedia.org/wiki/Nikolaj_Karda%C5%A1%C3%ABv) i Thargoid possono essere classificati come specie di tipo 3, cioè in grado di imbrigliare e sfruttare l'energia (in qualsiasi forma si presenti) di tutta la galassia.
