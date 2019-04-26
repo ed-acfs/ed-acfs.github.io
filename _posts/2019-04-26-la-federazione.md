@@ -53,10 +53,10 @@ L’atto finale della guerra fu il bombardamento e distruzione dell'accademia na
 
 Nel 3300 viene eletta Presidente la liberale **Jasmina Halsey**, il cui obiettivo primario è la guerra al crimine legato ai narcotici, in particolare **l’Onion Head**. Nel dicembre dello stesso anno avvia una piccola campagna militare nel sistema di **Kappa Fornacis** proprio contro i produttori di questa droga.
 
-<span class="image right"><img src="/images/posts/la-federazione/portlarge_6.jpg" alt=""></span>
 Poco dopo, una fazione indipendente prese il controllo del sistema federale Lugh, spingendo Halsey a vendicarsi dando il via alla **Guerra per Lugh**, che si concluse con una sconfitta imbarazzante per la Federazione.<br>
 La reputazione di Halsey subì il colpo di grazia quando ordinò un attacco contro un convoglio di rifugiati disarmati che, secondo quanto riferito, trasportava invece il capo dei ribelli di Lugh, provocando la morte di quasi 10.000 civili federali innocenti. Il livello di approvazione di Halsey scese al 26%.
 
+<span class="image right"><img src="/images/posts/la-federazione/portlarge_6.jpg" alt=""></span>
 Il 26 Maggio 3301 la nave presidenziale **Starship One**, con a bordo sia il Presidente Halsey che il vicepresidente Ethan Naylor, scomparve.
 
 In seguito alla presunta morte di Halsey furono indette nuove elezioni ed il 2 Giugno dello stesso anno il Presidente Ombra **Zachary Hudson**, del Partito Repubblicano, fu eletto nuovo Presidente della Federazione.
@@ -140,59 +140,59 @@ forza di navale che si occupa di espandere o difendere i confini della Federazio
 </div>
 La marina federale dispone di diversi vascelli tra cui:
 
-- Caccia F-63 Condor: caccia federale, presenti in tutte le stazioni delle Federazione. È dispiegato  in gran numero sugli incrociatori Ferragut, dalle Corvette Federali e dalle cannoniere Federali. In battaglia viene dispiegato in squadriglie di circa 4/6 elementi facendo della sua agilità e velocità il suo punto di forza.
-- Federal Dropship (o nave “consegna”): è una nave federale di medie dimensioni, sacrifica la sua potenza di fuoco per poter consegnare carichi o personale molto importanti in tempi brevi. In battaglia può supportare altre navi della flotta, raccogliendo informazioni utili sul nemico comunicandole alle navi alleate.
-- Federal Assault Ship: nave adibita al combattimento anche se ingaggia solo bersagli piccoli e/o medi. In battaglia Serve da supporto per le navi più grandi della flotta. Vista la sua potenza di fuoco, la rende autonoma per eventuali scontri navali, viene usata per tale motivo dai servizi segreti Federali per missioni segrete.
-- Federal Gunship: come si può intuire dal nome questa nave dispone di molti armamenti pesanti, inoltre può dispiegare un caccia Condor. In battaglia affianca la la Corvetta per per fronteggiare le navi più forti del nemico, senza Corvetta viene creata una squaglia di 2 cannoniere affiancate dalla Dropship per affrontare al meglio un eventuale scontro.
-- Federal Corvette: nave multiruolo usata dalla Federazione. Può dispiegare un caccia Condor e vista la sua potenza di fuoco seconda solo all’incrociatore Ferragut, può essere impiegata in gran numero anche per la conquista planetaria. Inoltre la sua capacità di salto la rende ideale anche per incursioni segrete. In battaglia può essere  “ospitata” dagli hangar della Ferragut venendo poi dispiegata oppure partecipare in maniera autonoma in conflitti ad alta intensità sostituendo in tale ruolo l’incrociatore Ferragut  impiegato per missioni di grande importanza.
-- Incrociatore Ferragut: esso rappresenta la sintesi bellica della Federazione. La sua potenza è tale che può essere utilizzato sia per combattimenti navali al “fronte”, per la conquista di un sistema o semplicemente intimidire l'avversario con  la sua sola presenza. Dispone inoltre di ampi hangar che ospitano al suo interno tutte le navi Federali più piccole: dal Condor fino alla Corvette, potendo aumentare le missioni che richiedono la sua presenza. Inoltre due Ferragut sono dislocati nell'atmosfera della Terra e di Marte per difendere i pianti da qualsiasi minaccia.
+- Caccia F-63 Condor: caccia federale, presente in tutte le stazioni delle Federazione. È dispiegato in gran numero sugli incrociatori Ferragut, dalle Corvette e dalle Gunship. In battaglia viene dispiegato in squadroni di circa 4/6 elementi, facendo della sua agilità e velocità il proprio punto di forza.
+- Federal Dropship (o nave “consegna”): è una nave federale di medie dimensioni, sacrifica la sua potenza di fuoco per poter consegnare carichi o personale molto importanti in tempi brevi. In battaglia può supportare altre navi della flotta, raccogliendo informazioni utili sul nemico e comunicandole alle navi alleate.
+- Federal Assault Ship: nave adibita al combattimento, anche se ingaggia principalmente bersagli piccoli e/o medi. In battaglia serve da supporto per le navi più grandi della flotta. La sua potenza di fuoco la rende autonoma per eventuali scontri navali; viene usata per tale motivo dai servizi segreti Federali per missioni segrete.
+- Federal Gunship: come si può intuire dal nome questa nave dispone di molti armamenti pesanti, inoltre può dispiegare un caccia Condor. In battaglia affianca la la Corvette per per fronteggiare le navi più forti del nemico; senza Corvette viene solitamente impiegata in coppia, coiadiuvata dalla Dropship per affrontare al meglio un eventuale scontro.
+- Federal Corvette: nave multiruolo usata dalla Federazione. Può dispiegare un caccia Condor e vista la sua potenza di fuoco, seconda solo all’incrociatore Ferragut, può essere impiegata in gran numero anche per la conquista planetaria. Inoltre la sua capacità di salto la rende ideale anche per incursioni segrete. In battaglia può essere "ospitata" dagli hangar della Ferragut per venire poi dispiegata oppure partecipare in maniera autonoma in conflitti ad alta intensità, sostituendo in tale ruolo l’incrociatore.
+- Incrociatore Ferragut: esso rappresenta la sintesi bellica della Federazione. La sua potenza è tale che può essere utilizzato sia per combattimenti navali al fronte, per la conquista di un sistema, o semplicemente per intimidire l'avversario con  la sua sola presenza. Dispone inoltre di ampi hangar che ospitano al suo interno tutte le navi Federali più piccole: dal Condor fino alla Corvette, potendo aumentare le missioni che richiedono la sua presenza. Due Ferragut sono dislocati nell'atmosfera della Terra e di Marte per difendere i rispettivi pianeti da qualsiasi minaccia.
 
 <div class="box">
-<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i> &nbsp;Nota personale: il Ferragut situato nell’orbita intorno alla Terra è inoffensivo, anche se vi avvicinerete non vi farà nulla. Invece quello in orbita intorno a Marte aprirà il fuoco appena sarete a tiro!
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i> &nbsp;Nota personale: il Ferragut situato nell’orbita terrestre è inoffensivo: anche se vi avvicinerete non vi farà nulla. Invece quello in orbita intorno a Marte aprirà il fuoco appena sarete a tiro!
 </div>
 
 ## Sistemi chiave della Federazione
 
 ### Sistema solare
 
-accessibile quando sarete al quarto grado degli ufficiali Federali (Petty officer), rappresenta la culla dell'umanità ovvero la Terra e la capitale della Federazione cioè Marte(ad olimpus Village è situata la residenza presidenziale e il congresso)
+accessibile quando sarete al quarto grado degli ufficiali Federali (Petty officer), rappresenta la culla dell'umanità ovvero la Terra e la Capitale della Federazione, cioè Marte (ad olimpus Village è situata la residenza presidenziale e il congresso)
 
 ### Tau Ceti
 
-qui è stata trovata la prima biosfera extraterrestre, inoltre il sistema è uno dei fondatori della Federazione. 
+qui è stata trovata la prima biosfera extraterrestre. E' umo dei sistemi fondatori della Federazione.
 
 ### Delta Pavonis
 
-anche in questo sistema si è scoperta della biosfera extraterrestre ma è stata distrutta con la terraformazione. Il sistema rientra tra i fondatori della Federazione.
+altro sistema in cui si è scoperta biosfera extraterrestre, che però è andata distrutta con la terraformazione. Anch'esso è uno dei sistemi fondatori della Federazione.
 
 ### Altair
 
-sistema con una biosfera particolarmente pericolosa, è un importante centro turistico. Anche questo sistema è tra i fondatori della Federazione. 
+sistema con una biosfera particolarmente pericolosa, è un importante centro turistico. Anche questo sistema è tra i fondatori della Federazione.
 
-### Beta Hindry
+### Beta Hydri
 
-nel sistema ha  il maggior numero di abitanti in un pianeta Terrestre. Il sistema è tra i fondatori della Federazione. 
+fu una delle prime colonie umane. Oggi è uno dei mondi simili alla terra (Earth Like Worrld) più densamente popolati. Tra i sistemi fondatori della Federazione.
 
 ### Nanoman
 
-importante  produttore di materiali  bellici inoltre ed è  il quartier generale del presidente Zachary Hudson (per il powerplay).
+importante produttore di materiali bellici, vi è situato il quartier generale del presidente **Zachary Hudson** (utile per il powerplay).
 
 ### Rhea
 
-vi si trova il quartier generale della presidente dell’opposizione Felicia Winters (powerplay) 
+vi si trova il quartier generale della presidente dell’opposizione **Felicia Winters** (powerplay) 
 
 ### Lembava
 
-ospita numerose corporazioni tra cui la Sirius Corporation ed il suo CEO Li young-rui. 
+ospita numerose corporazioni, tra cui la **Sirius Corporation** ed il suo CEO **Li Yong-Rui**.
 
 ### Eta Cassiopeiae
 
-ospita il quartier generale della flotta federale, con importanti accademia navali ed numerosi cantieri navali per gli incrociatori Ferragut. 
+ospita il quartier generale della flotta federale, con importanti accademie navali e numerosi cantieri per la produzione di incrociatori Ferragut.
 
 <div class="box">
 <i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i> &nbsp;<b>Curiosità:</b>
-<ul><li>per linguaggio universale si intende la lingua inglese evoluta nel corso dei secoli, esso è utilizzata da tutta l’umanità,anche l'Impero usa tale linguaggio ma con un suo specifico dialetto.</li>
-<li>i piloti indipendenti che  vogliono accedere alla navi  della marina federale  devono prestare servizio e ottenere un determinato grado per poterle sbloccare. Inoltre in caso di necessità possono essere richiamati dalla marina per poter prestare servizio nelle guerre intraprese dalla Federazione.</li>
-<li>tutte le navi prodotte sono prodotte dall'industria bellica Core Dinamys grazie ad un speciale appalto con il governo Federale.</li>
-<li>quando il gioco era ancora in fase embrionale, il congresso Federale doveva essere composto da: Repubblicani, Democratici e Liberali. Ma in ultima fase si è optato per i primi due partiti.</li></ul>
+<ul><li>per <i>linguaggio universale</i> si intende la lingua inglese evoluta nel corso dei secoli; viene parlata da tutta l’umanità, anche se l'Impero usa un proprio specifico dialetto.</li>
+<li>i piloti indipendenti che vogliono accedere alla navi della marina federale devono prima prestare servizio ed ottenere uno specifico grado. Inoltre in caso di necessità possono essere richiamati dalla marina per poter prestare servizio nelle guerre intraprese dalla Federazione.</li>
+<li>tutte le navi sono prodotte dall'industria bellica Core Dinamycs grazie ad un speciale appalto ottenuto dal Governo Federale.</li>
+<li>inizialmente il congresso Federale avrebbe dovuto essere composto da Repubblicani, Democratici e Liberali. Ma in ultima fase si è optato per i primi due partiti.</li></ul>
 </div>
