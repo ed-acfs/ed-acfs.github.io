@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Come entrare a far parte dello Squadrone"
+title:  "Come entrare nello Squadrone Flotta Stellare"
 date:   2019-04-06
 excerpt: "Vuoi entrare nello Squadrone Alto Comando Flotta Stellare e divertirti insieme a noi? E' molto più semplice di quanto pensi."
 image: "/images/Beyond_Squadrons_1080.jpg"
