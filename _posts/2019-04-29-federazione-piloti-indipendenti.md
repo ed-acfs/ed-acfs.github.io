@@ -7,13 +7,13 @@ image: "/images/posts/federazione-piloti/Elite-Dangerous-Pilot-Reputation-Art.jp
 author: scorpion
 sticky: no
 ---
-> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l’ammiraglio dello squadrone ed oggi vi illustrerò l'organizzazione cui tutti noi apparteniamo: la Federazione dei Piloti Indipendenti!
+> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone ed oggi vi illustrerò l'organizzazione cui tutti noi apparteniamo: la Federazione dei Piloti Indipendenti!
 
 ## Le origini
 
 La Federazione dei Piloti nasce ufficialmente nel **2805**, anno in cui si verificarono molteplici attacchi da parte dei pirati su convogli commerciali non protetti. Numerosi piloti si allearono  per ottenere informazioni su quali sistemi evitare od avere protezione in cambio di favori, fondando l'organizzazione che conosciamo oggi.
 
-La Federazione dei Piloti possiede l'immensa rete dati di [GalNet](https://www.elitedangerousitalia.it/category/news/galnet/) (Galaxy Network), che inizialmente nacque per accedere ad informazioni riguardo le rotte sicure da seguire e che poi, nel tempo, ha iniziato ad evolversi fino a diventare oggi una importantissima fonte di notizie aggiornate in tempo reale su tutto quanto accade nella galassia: dai prezzi di mercato delle merci al livello di sicurezza dei sistemi eccetera.
+La Federazione dei Piloti possiede l'immensa rete dati di [GalNet](https://www.elitedangerousitalia.it/category/news/galnet/){:target="_blank"} (Galaxy Network), che inizialmente nacque per accedere ad informazioni riguardo le rotte sicure da seguire e che poi, nel tempo, ha iniziato ad evolversi fino a diventare oggi una importantissima fonte di notizie aggiornate in tempo reale su tutto quanto accade nella galassia: dai prezzi di mercato delle merci al livello di sicurezza dei sistemi eccetera.
 
 ## Organizzazione
 

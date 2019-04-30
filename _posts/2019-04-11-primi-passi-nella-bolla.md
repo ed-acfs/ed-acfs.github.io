@@ -60,7 +60,7 @@ il vostro Sidewinder o per acquistare una nuova nave capace di destreggiarsi meg
 nell’esplorazione o nel combattimento.
 
 Il combattimento non fa per voi? Sentite forte il richiamo dello spazio profondo?
-La [Road to Riches](https://www.spansh.co.uk/riches) è il vostro modo di fare i primi bei crediti, e molti di
+La [Road to Riches](https://www.spansh.co.uk/riches){:target="_blank"} è il vostro modo di fare i primi bei crediti, e molti di
 più, più avanti nel gioco.
 
 Migliorate quanto potete il vostro FSD (per un 2A ci vogliono 160K crediti ma già con un 2B salterete circa

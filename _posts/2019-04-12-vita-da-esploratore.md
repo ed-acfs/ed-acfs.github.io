@@ -8,7 +8,7 @@ author: cok7sette
 sticky: no
 ---
 
-> Mi presento, sono CMDR COK7SETTE (ID PSN: [Cok7sette](https://my.playstation.com/profile/Cok7sette)), vice ammiraglio dello
+> Mi presento, sono CMDR COK7SETTE (ID PSN: [Cok7sette](https://my.playstation.com/profile/Cok7sette){:target="_blank"}), vice ammiraglio dello
 Squadrone, ed in questo articolo cercherò di darvi qualche dritta su come preparare la vostra nave, pianificare la vostra avventura e gestire gli eventuali inconvenienti che potrebbero capitare.
 
 ## GUIDA all'Esplorazione in Elite: Dangerous
@@ -35,7 +35,7 @@ di salti, ma se l’obiettivo è quello di accumulare dati da rivendere non è t
 importante la distanza a cui vi porterete dal vostro punto di partenza.
 
 L’importante è fare un buon lavoro ma, soprattutto, tornare a vendere i dati di
-esplorazione a [Wong Sher](https://inara.cz/galaxy-starsystem/12424/)! :smile:
+esplorazione a [Wong Sher](https://inara.cz/galaxy-starsystem/12424/){:target="_blank"}! :smile:
 
 ## Preparazione della Nave
 
@@ -43,7 +43,7 @@ L’importante è montare il maggior numero di moduli di tipo “D”.
 I moduli di tipo D sono più leggeri e permettono quindi di arrivare ad un
 discreto numero di anni luce con un singolo salto.
 
-Un modulo fondamentale, assolutamente non opzionale se non volete iniziare una frenetica richiesta di aiuto ai [Fuel Rats](https://fuelrats.com/), è il **Fuel Scoop**
+Un modulo fondamentale, assolutamente non opzionale se non volete iniziare una frenetica richiesta di aiuto ai [Fuel Rats](https://fuelrats.com/){:target="_blank"}, è il **Fuel Scoop**
 
 <span class="image fit"><img src="/images/posts/vita-da-esploratore/dbx_fuelscooping.jpg" alt=""></span>
 Il Fuel Scoop è necessario e serve per dragare elio dalla superficie delle

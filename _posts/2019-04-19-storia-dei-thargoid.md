@@ -7,7 +7,7 @@ image: "/images/posts/storia-dei-thargoids/thargoids2.jpg"
 author: scorpion
 sticky: no
 ---
-> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l'Ammiraglio dello squadrone ed in questa prima parte dedicata ai Thargoids vi propongo tutte le notizie in nostro possesso riguardanti questa razza aliena presente nella nostra galassia!
+> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l'Ammiraglio dello squadrone ed in questa prima parte dedicata ai Thargoids vi propongo tutte le notizie in nostro possesso riguardanti questa razza aliena presente nella nostra galassia!
 
 ## Intro ai Thargoid
 
@@ -22,7 +22,7 @@ L’umanità è entrata in conflitto con i Thargoid in due occasioni:
 * **Secondo conflitto: iniziato nel 3303** e tuttora in corso.
 
 Secondo la **classificazione delle civiltà** ideata dell'antico astrofisico
-terrestre [Nikolai Kardashev](https://it.wikipedia.org/wiki/Nikolaj_Karda%C5%A1%C3%ABv) i Thargoid possono essere classificati come specie di tipo 3, cioè in grado di imbrigliare e sfruttare l'energia (in qualsiasi forma si presenti) di tutta la galassia.
+terrestre [Nikolai Kardashev](https://it.wikipedia.org/wiki/Nikolaj_Karda%C5%A1%C3%ABv){:target="_blank"} i Thargoid possono essere classificati come specie di tipo 3, cioè in grado di imbrigliare e sfruttare l'energia (in qualsiasi forma si presenti) di tutta la galassia.
 
 ## Storia dei Thargoid: le origini
 
@@ -63,9 +63,9 @@ Per riuscire a vincere la guerra la **Federazione** e **l'Impero** si allearono,
 tecnologia Thargoid e porre fine alla guerra.
 
 Vennero condotti numerosi esperimenti sulle navi catturare, si scoprì che le navi Thargoid erano in parte organiche e per poterle distruggere l’INRA avviò il
-progetto *Mycoid* creando un'arma batteriologica che venne utilizzata dal poi famoso pilota indipendente [**John Jameson**](https://elite-dangerous.fandom.com/wiki/John_Jameson) che riuscì ad annientare una nave madre thargoid, costringendo i Thargoid alla ritirata. 
+progetto *Mycoid* creando un'arma batteriologica che venne utilizzata dal poi famoso pilota indipendente [**John Jameson**](https://elite-dangerous.fandom.com/wiki/John_Jameson){:target="_blank"} che riuscì ad annientare una nave madre thargoid, costringendo i Thargoid alla ritirata. 
 
-Jameson morì durante l’operazione poiché il suo motore venne destabilizzato dalla stessa INRA e la guerra terminò nel 3151. Il relitto del suo Cobra MKIII si trova ancora oggi [sul luogo dello schianto](https://canonn.science/codex/cmdr-john-jameson-crashed-cobra-mkiii/).
+Jameson morì durante l’operazione poiché il suo motore venne destabilizzato dalla stessa INRA e la guerra terminò nel 3151. Il relitto del suo Cobra MKIII si trova ancora oggi [sul luogo dello schianto](https://canonn.science/codex/cmdr-john-jameson-crashed-cobra-mkiii/){:target="_blank"}.
 
 <span class="image fit"><img src="/images/posts/storia-dei-thargoids/John-Jameson-Crashed-Cobra.jpg" alt=""></span>
 

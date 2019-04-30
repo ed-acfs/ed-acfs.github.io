@@ -7,7 +7,7 @@ image: "/images/posts/societa-thargoids/thargoids.jpg"
 author: scorpion
 sticky: no
 ---
-> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l’ammiraglio dello squadrone ed in questo secondo rapporto dedicato ai Thargoid mi concentrerò sul darvi tutte le informazioni in nostro possesso sulla società Thargoid!
+> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone ed in questo secondo rapporto dedicato ai Thargoid mi concentrerò sul darvi tutte le informazioni in nostro possesso sulla società Thargoid!
 
 ## Biologia Thargoid
 

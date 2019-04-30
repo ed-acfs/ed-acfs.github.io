@@ -12,7 +12,7 @@ sticky: no
 ## Chi sono i Guardiani
 
 I Guardiani erano un'antica razza aliena umanoide (ovvero caratteristiche fisiche/composizione chimica dell'organismo simile a quelle dell'uomo) ormai estinta tra 1 e 2 milioni di anni fa.<br>
-Sono stati scoperti grazie al ritrovamento di una loro antica struttura nel sistema [Synuefe XR-H D11-102](https://www.edsm.net/en/system/id/6379187/name/Synuefe+XR-H+d11-102) dal *Cmdr XDeath*. 
+Sono stati scoperti grazie al ritrovamento di una loro antica struttura nel sistema [Synuefe XR-H D11-102](https://www.edsm.net/en/system/id/6379187/name/Synuefe+XR-H+d11-102){:target="_blank"} dal *Cmdr XDeath*. 
 
 Secondo la scala delle civiltà ideata da un antico astronomo terrestre Nikolj Kardasev i Guardiani sono una civiltà di tipo 2, ovvero una civiltà in grado raccogliere tutta l'energia (in qualsiasi forma essa si presenti) del proprio Sistema Stellare.
 

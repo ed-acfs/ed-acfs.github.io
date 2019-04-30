@@ -7,7 +7,7 @@ image: "/images/posts/la-federazione/Federation-Federal-Navy-Fleet-1.png"
 author: scorpion
 sticky: no
 ---
-> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l’ammiraglio dello squadrone e questo è primo articolo basato sulle tre superpotenze presenti in Elite Dangerous. Partiamo dalla Federazione dei Sistemi Stellari (FSS), comunemente detta Federazione.
+> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone e questo è primo articolo basato sulle tre superpotenze presenti in Elite Dangerous. Partiamo dalla Federazione dei Sistemi Stellari (FSS), comunemente detta Federazione.
 
 ## Storia Federale: Dalla terza guerra mondiale alla colonizzazione dello spazio
 

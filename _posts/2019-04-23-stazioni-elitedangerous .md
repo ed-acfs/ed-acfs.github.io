@@ -7,7 +7,7 @@ image: "/images/posts/stazioni-elitedangerous/Elite-Dangerous-Star-port-Orbis.jp
 author: scorpion
 sticky: no
 ---
-> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l’ammiraglio dello squadrone ed oggi vi parlerò di tutte le stazioni
+> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone ed oggi vi parlerò di tutte le stazioni
 presenti nel gioco!
 
 Le stazioni spaziali sono strutture costruite dall'uomo che svolgono moltissimi compiti utili per i comuni cittadini, per personale militare o chi è
