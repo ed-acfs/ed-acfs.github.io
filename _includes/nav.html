@@ -1,10 +1,103 @@
+<style>
+nav {
+  overflow: visible;
+  z-index: 1000 !important;
+}
+nav .links li {
+  position: relative;
+}
+nav .links li > a {
+  position: relative;
+  display: inline-block;
+  padding: 0 10px;
+  text-decoration: none;
+}
+nav .links li > a:hover {
+  color: #000;
+  border-radius: 2px;
+}
+nav .links li > a .arrow {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 35%;
+  text-align: center;
+  right: 10px;
+  border-width: 5px 5px 0 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, .3) transparent;
+}
+nav .links li > a .arrow:after {
+  content: "";
+  border-left: 1px solid rgba(0, 0, 0, .15);
+  top: -10px;
+  left: -15px;
+  position: absolute;
+  height: 15px;
+}
+nav .links li ul {
+  left: 0;
+  margin: 0;
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+  display: none;
+}
+nav .links li ul > li:hover {
+  background: #9494b8;
+}
+nav .links li ul > li:hover > a {
+  background: #9494b8;
+  color: #000;
+}
+nav .links li > .drop a {
+    color: black !important;
+}
+nav .links li ul > li a {
+    color: black;
+}
+nav .links li:hover > .drop {
+  display: block;
+  animation: fadeInRight 0.3s ease;
+  -webkit-animation: fadeInRight 0.3s ease;
+}
+</style>
+
+<!-- This finds the current page so it can be highlighted. -->
+{% for entry in site.data.navigation %}
+{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
+    {% if fullurl == page.url %}
+        {% assign current_page = fullurl %}
+        {% break %}
+    {% elsif page.url contains fullurl %}
+        {% assign current_page = fullurl %}
+    {% endif %}
+{% endfor %}
+
+<!-- Then we build the nav bar. -->
+
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | prepend:site.baseurl }}">Home</a></li>
-  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | prepend:site.baseurl }}">Lo Squadrone</a></li>
-  <li class="{% if page.url contains '/bgs/' %} active {% endif %}"><a href="{{ "/bgs/" | prepend:site.baseurl }}">Background Simulation</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}" style="text-transform: lowercase;"><a href="{{ "/blog/" | prepend:site.baseurl }}">Blog</a></li>
-  <li class="{% if page.url contains '/elite/' %} active {% endif %}" style="text-transform: lowercase;"><a href="{{ "/elite/" | prepend:site.baseurl }}">Elite Dangerous</a></li>
-  <!--<li class="{% if page.url contains '/gallery/' %} active {% endif %}" style="text-transform: lowercase;"><a href="{{ "/gallery/" | prepend:site.baseurl }}">Photo Gallery</a></li>-->
+    {% for entry in site.data.navigation %}
+        {% if entry.url == current_page %}
+            {% assign current = ' class="active"' %}
+        {% else %}
+            {% assign current = null %}
+        {% endif %}
+        {% assign sublinks = entry.sublinks %}
+        {% if sublinks %}
+        
+        <li{{ current }}>
+            <a href="{{ site.baseurl }}{{ entry.url }}" class="trigger-drop">{{ entry.title }} ▼</a>
+            <ul class="drop" style="list-style: none;">
+                {% for sublink in sublinks %}
+                <li class="active"><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </li>
+        {% else %}
+            <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        {% endif %}
+    {% endfor %}
 </ul>
 
 <ul class="icons">

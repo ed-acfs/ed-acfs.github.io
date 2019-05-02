@@ -1,0 +1,16 @@
+- title: Home
+  url: /
+
+- title: Lo Squadrone
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Il Gioco
+  url: "#"
+  sublinks:
+    - title: Elite Dangerous
+      url: /elite/
+    - title: Background Simulation
+      url: /bgs/
