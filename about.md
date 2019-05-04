@@ -37,7 +37,7 @@ L’unica regola è quella di giocare il più possibile in modalità **“open�
 ## Come unirsi alla Flotta Stellare
 
 Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo attualmente solo su **PS4**.<br>
-Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924), entrare nel nostro [canale discord](https://discord.gg/mXpfjgd) o sulla nostra [pagina FaceBook](https://www.facebook.com/Altocomandoflottastellare/).
+Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924), entrare nel nostro [canale discord](https://discord.gg/DrvkJrV) o sulla nostra [pagina FaceBook](https://www.facebook.com/Altocomandoflottastellare/).
 
 Oppure puoi seguire uno dei collegamenti social qui di seguito:
 
