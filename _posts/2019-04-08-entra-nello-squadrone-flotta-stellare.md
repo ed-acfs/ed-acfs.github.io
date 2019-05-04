@@ -52,7 +52,7 @@ Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https
 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="4u"><span class="image fit"><a href="https://discord.gg/mXpfjgd" class="image fit"><img src="{{ "/images/Discord-Logo+Wordmark-Color.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Discord Server" /></a></span></div>
+        <div class="4u"><span class="image fit"><a href="https://discord.gg/DrvkJrV" class="image fit"><img src="{{ "/images/Discord-Logo+Wordmark-Color.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Discord Server" /></a></span></div>
         <div class="4u"><span class="image fit"><a href="https://facebook.com/{{site.facebook}}" class="image fit"><img src="{{ "/images/new-facebook-logo.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Pagina FaceBook" /></a></span></div>
         <div class="4u$"><span class="image fit"><a href="https://inara.cz/squadron/4750/" class="image fit"><img src="{{ "/images/inara.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Inara" /></a></span></div>
     </div>
