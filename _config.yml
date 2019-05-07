@@ -49,15 +49,34 @@ background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
+# Scopes
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
-    image: /images/logo_843x885.png
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      permalink: "/blog/:title/"
+      layout: post
+      author:
+      image: /images/logo_843x885.png
+
+  -
+    scope:
+      path: ""
+      type: guide
+    values:
+      permalink: /guide/:title/
+      layout: guide
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+    
+  guide:
+    output: true
+    permalink: /guide/:title/
 
 #
 ###################################
