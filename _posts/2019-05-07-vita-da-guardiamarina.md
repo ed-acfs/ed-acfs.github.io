@@ -51,10 +51,12 @@ E ci facciamo un sacco di risate
 
 Ecco qualche testimonianza diretta...
 
-<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/Anaval.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/anaval.jpg" alt="Anaval: In wing mi sono fatto anche più di 50 milioni in una serata" title="E' molto difficile all'inizio trovare un gruppo di Elite Dangerous su PS4, ma poi l'ho trovato e mi è andata benissimo. In wing mi sono fatto anche più di 50 milioni in una serata. Aiutano moltissimo!"></span>
 
-<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/johntorri.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/johntorri.jpg" alt="Johntorri: Fotrunatamente ho incontrato un gruppo di giocatori che hanno contribuito a rendere l'esperienza di gioco molto più accativante, tra una risata e qualche consiglio le ore di gioco scorrono velocemente" title="Fotrunatamente ho incontrato un gruppo di giocatori che hanno contribuito a rendere l'esperienza di gioco molto più accativante, tra una risata e qualche consiglio le ore di gioco scorrono velocemente"></span>
 
-<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/ROST.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/rost.jpg" alt="Rost: Appena avuta la possibilità ho partecipato a una wing, raccimolando milioni di crediti che da solo non avrei mai potuto fare. Più altruisti di così si muore!" title="Accolto a braccia aperte nonostante i miei limiti di accesso al gioco, sin da subito aiutato sul gruppo ed indirizzato sul blog, aiutandomi anche con le impostazioni migliori per la mia prima nave seria"></span>
+
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/scorpion.jpg" alt="Scorpion: Ho creato lo squadrone per rendere più divertente e meno solitaria l'esperienza di Elite Dangerous" title="Come membro anziano ho aiutato l'amico Falcon danneggiato durante una missione esplorativa, sono andato a 700LY di distanza per ripararlo"></span>
 
 Quindi, cosa aspetti? Se anche tu sei in cerca di divertimento in Elite: Dangerous, [entra in Flotta Stellare](/about/){:target="_blank"} e vieni a giocare con noi!
