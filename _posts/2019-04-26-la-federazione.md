@@ -49,6 +49,8 @@ In passato la mobilitazione della flotta era scaurita dai fondi donati dai piane
 
 L’atto finale della guerra fu il bombardamento e distruzione dell'accademia navale ad Anderton da parte dei coloni che erano stati esiliati. I coloni vennero poi cacciati dal sistema grazie all'intervento dell’ammiraglio **Ghenkis B’nami**.
 
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+
 ## Dal 3300 fino a giorni nostri
 
 Nel 3300 viene eletta Presidente la liberale **Jasmina Halsey**, il cui obiettivo primario è la guerra al crimine legato ai narcotici, in particolare **l’Onion Head**. Nel dicembre dello stesso anno avvia una piccola campagna militare nel sistema di **Kappa Fornacis** proprio contro i produttori di questa droga.

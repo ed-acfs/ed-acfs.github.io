@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vita da guardiamarina"
-date:   2019-05-07
+date:   2019-05-08
 excerpt: "Perché giocare ad Elite Dangerous nella Flotta Stellare è così divertente? La risposta è semplice: We share our cookies!"
 image: "/images/posts/vita-da-guardiamarina/maxresdefault.jpg"
 sticky: no
@@ -47,6 +47,8 @@ Fra di noi. Coi nuovi
 
 E ci facciamo un sacco di risate
 
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+
 ## Qualche testimonianza
 
 Ecco qualche testimonianza diretta...
@@ -58,5 +60,7 @@ Ecco qualche testimonianza diretta...
 <span class="image fit"><img src="/images/posts/vita-da-guardiamarina/rost.jpg" alt="Rost: Appena avuta la possibilità ho partecipato a una wing, raccimolando milioni di crediti che da solo non avrei mai potuto fare. Più altruisti di così si muore!" title="Accolto a braccia aperte nonostante i miei limiti di accesso al gioco, sin da subito aiutato sul gruppo ed indirizzato sul blog, aiutandomi anche con le impostazioni migliori per la mia prima nave seria"></span>
 
 <span class="image fit"><img src="/images/posts/vita-da-guardiamarina/scorpion.jpg" alt="Scorpion: Ho creato lo squadrone per rendere più divertente e meno solitaria l'esperienza di Elite Dangerous" title="Come membro anziano ho aiutato l'amico Falcon danneggiato durante una missione esplorativa, sono andato a 700LY di distanza per ripararlo"></span>
+
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/spectre.jpg" alt="Spectre: La fazione ha ridato senso al gioco, altrimenti lo avrei abbandonato mesi fa" title="La fazione ha ridato senso al gioco, altrimenti lo avrei abbandonato mesi fa"></span>
 
 Quindi, cosa aspetti? Se anche tu sei in cerca di divertimento in Elite: Dangerous, [entra in Flotta Stellare](/about/){:target="_blank"} e vieni a giocare con noi!
