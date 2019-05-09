@@ -74,7 +74,7 @@ sitemap:
 								{% if page == paginator.page %}
 									<span class="page active">{{ page }}</span>
 								{% elsif page == 1 %}
-									<a href="/">{{ page }}</a>
+									<a href="/blog/">{{ page }}</a>
 								{% else %}
 									<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page">{{ page }}</a>
 								{% endif %}

@@ -31,6 +31,9 @@ twitter:
 
 logo: /images/logo_843x885.png
 
+settings:
+  rating: general  # May be general, mature, restricted, 14 years or safe for kids
+
 # Comments
 disqus_shortname:   flottastellare
 
@@ -105,6 +108,8 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-admin
+  - jekyll-redirect-from
   - jemoji
 
 paginate: 6
