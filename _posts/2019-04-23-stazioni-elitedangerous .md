@@ -39,6 +39,8 @@ immediatamente abbattuti!
 Le stazioni hanno caratteristiche costruttive diverse e vengono costruite per svariati obiettivi e si adattano alla politica, popolazione ed economia dei
 sistemi. Vediamole nel dettaglio.
 
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+
 ## Stazione Orbis
 
 <span class="image fit"><img src="/images/posts/stazioni-elitedangerous/dd10bde3f7c98acd3aebb842d31ca2b6.jpg" alt=""></span>
@@ -174,3 +176,9 @@ Le installazioni possono essere:
 ## Stazioni sulla superficie planetaria
 
 Svolgono gli stessi compiti degli spazioporti ed inoltre dispongono di strade su cui è possibile muoversi con gli SRV.
+
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+<div class="box alt">
+<b>Riferimenti:</b>
+<p><i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;L'immagine di testa è realizzata da <a href="http://www.elite-dangerous-blog.co.uk/post/Elite-Dangerous-Ship-Blueprints-January-2019">Anthony Hunt</a></p>
+</div>
