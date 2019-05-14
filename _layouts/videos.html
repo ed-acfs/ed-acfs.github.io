@@ -25,14 +25,14 @@
 				<!-- Main -->
 				<div id="main">		
 					<article class="post featured">
-							<header class="major">
+						<header class="major">
 							<h2><a href="#">I video tutorials di CMDR COK7SETTE</a></h2>
 							<p>Segui anche tu i Video Tutorials del nostro Vice Ammiraglio per arrivare lá... dove nessun video è mai giunto prima
-							</p>
-							</header>
-
+							</p>					
+						<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+						</header>
 						<!-- Ultimo Video -->
-						<h2>Video Recenti</h2>
+						<h2>Video in Evidenza</h2>
 						{% assign latestvideo = site.data.videos | sort: 'pubDate' | reverse %}
 						{% for video in latestvideo limit:1 %}
 						<div class="video-container">
@@ -44,6 +44,7 @@
 							</div>
 						{% endfor %}
 					</article>
+
 					<!-- Video -->
 					<section class="posts">
 							{% assign sorted = site.data.videos | sort: 'pubDate' %}
