@@ -8,6 +8,8 @@ $background_image: '{{site.background_image | prepend:site.baseurl }}';
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/skel';
+@import 'layout/social';
+@import 'components/video';
 @import 'font-awesome.min.css';
 @import 'fork-awesome.min.css';
 @import 'eurocaps.css';

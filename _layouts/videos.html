@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		{% include head.html %}
+		{% seo %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | prepend:site.baseurl }}" class="logo">{{site.title}}</a>
+				</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+				<div id="main">		
+					<article class="post featured">
+							<header class="major">
+							<h2><a href="#">I video tutorials di CMDR COK7SETTE</a></h2>
+							<p>Segui anche tu i Video Tutorials del nostro Vice Ammiraglio per arrivare lá... dove nessun video è mai giunto prima
+							</p>
+							</header>
+
+						<!-- Ultimo Video -->
+						<h2>Video Recenti</h2>
+						{% assign latestvideo = site.data.videos | sort: 'pubDate' | reverse %}
+						{% for video in latestvideo limit:1 %}
+						<div class="video-container">
+								<iframe 
+									id="ytplayer" width="560" height="315" 
+									src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent" 
+									frameborder="0" allowfullscreen>
+								</iframe>
+							</div>
+						{% endfor %}
+					</article>
+					<!-- Video -->
+					<section class="posts">
+							{% assign sorted = site.data.videos | sort: 'pubDate' %}
+							{% for video in sorted %}
+								<div class="video-container">
+									<iframe 
+										id="ytplayer" width="560" height="315" 
+										src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent" 
+										frameborder="0" allowfullscreen>
+									</iframe>
+								</div>
+							{% endfor %}
+					</section>
+
+					<!-- Footer -->
+						<footer>
+              <ul class="actions">
+				  			{% if page.url != "/about/" %}
+	  						  <li><a href="{{ "/about/" | prepend:site.baseurl }}" class="button">Lo Squadrone</a></li>
+							{% endif %}
+							{% if page.url != "/bgs/" %}
+							  <li><a href="{{ "/bgs/" | prepend:site.baseurl }}" class="button">Background Simulation</a></li>
+							{% endif %}
+							  <li><a href="{{ "/blog/" | prepend:site.baseurl }}" class="button">Blog</a></li>
+							{% if page.url != "/" %}
+ 							  <li><a href="{{ "/" | prepend:site.baseurl }}" class="button">Torna alla Home</a></li>
+							{% endif %}
+              </ul>
+						</footer>
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+		<!--	{% include tracking.html %} -->
+
+	</body>
+</html>

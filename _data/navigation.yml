@@ -7,6 +7,9 @@
 - title: Blog
   url: /blog/
 
+- title: Video
+  url: /videotutorials/
+  
 - title: Il Gioco
   url: "#"
   sublinks:
