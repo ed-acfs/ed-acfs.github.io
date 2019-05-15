@@ -1,3 +1,41 @@
+.hoverbox {
+  position: relative;
+  display: inline-block;
+  /* Make the width of box same as image */
+  border: 1px solid #eee;
+  border-top: 0;
+  border-left: 0;
+  .hovertext {
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #f07b05;
+    top: 10%;
+    /* Adjust this value to move the positioned div up and down */
+    width: 80%;
+    /* Set the width of the positioned div */
+    h3:hover {
+      color: #f07b05;
+    }
+  }
+  .hoversub {
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #f07b05;
+    width: 80%;
+    /* Set the width of the positioned div */
+    h3:hover {
+      color: #f07b05;
+    }
+  }
+}
 .youtube-wrapper {
   position: relative;
   width: 100%;
@@ -12,7 +50,6 @@
     border: 0;
   }
 }
-
 .video-container {
   position: relative;
   padding-bottom: 46.25% !important;
@@ -31,24 +68,4 @@
     padding: 20px;
     border-radius: 5px;
   }
-}
-#background-video {
-    /* Your background image */
- //   background-image: url('http://placehold.it/580x460');
-    background-repeat: no-repeat;
-    padding: 50px;
-  }
-
-#vidwrap {
-/* Your thumbnail image */
-    background: url('/images/logo_425x425.png') no-repeat center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    overflow: hidden;
-    background-repeat: no-repeat;
-    width: 480px;
-    height: 360px;
-    cursor: pointer;
 }

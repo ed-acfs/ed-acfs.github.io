@@ -49,10 +49,21 @@
 					<section class="posts">
 							{% assign sorted = site.data.videos | sort: 'pubDate' %}
 							{% for video in sorted %}
-								<div class="video-container">
+						
+							 <div class="hoverbox" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
+								<img src="/images/png-play-button-268.png" style="cursor:pointer" alt="{{video.title}}" title="{{video.title}}">
+									<div class="hovertext">
+										<h3>{{video.title}}</h3>
+									</div>
+									<div class="hoversub">
+										<h3>{{video.subtitle}}</h3>
+									</div>
+							 </div>
+					
+								<div class="video-container" style="display:none;">
 									<iframe 
-										id="ytplayer" width="560" height="315" 
-										src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent" 
+										width="560" height="315" 
+										src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=1&amp;wmode=transparent" 
 										frameborder="0" allowfullscreen>
 									</iframe>
 								</div>
