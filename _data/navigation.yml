@@ -9,9 +9,9 @@
 
 - title: Video
   url: /videotutorials/
-  
+
 - title: Il Gioco
-  url: "#"
+  url: '/#'
   sublinks:
     - title: Elite Dangerous
       url: /elite/
