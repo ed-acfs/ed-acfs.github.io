@@ -4,6 +4,7 @@ title:  "Approfondimento: I Caccia di Elite Dangerous"
 date:   2019-05-17
 excerpt: "Che differenze ci sono fra i vari tipi di caccia? Leggi la nostra panoramica su tutte le varianti di fighter presenti in Elite: Dangerous"
 image: "/images/posts/caccia-elite-dangerous/gfighter.jpg"
+author: scorpion
 sticky: no
 ---
 > Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone ed oggi vi parlerò nel dettaglio di tutti i caccia presenti in Elite Dangerous.
@@ -20,7 +21,7 @@ Prima di entrare nel discorso, vorrei darvi alcuni accorgimenti sull'uso corrett
 
 ## Caccia federale F-63 Condor
 
-<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/condor.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/condor.png" alt=""><sup style="float:right;">L'utilizzo di questa immagine è concesso da <a href="http://www.elite-dangerous-blog.co.uk/post/Elite-Dangerous-Ship-Blueprints-January-2019" target="_blank" rel="nofollow">Elite Dangerous Blog</a></sup></span>
 
 Il **Condor** è il caccia da superiorità spaziale della Federazione ed è la perfetta sintesi tra potenza di fuoco, velocità e manovrabilità. Viene prodotto dalla corporazione federale **Core Dynamics**.
 È acquistabile solo nelle stazioni federali,ma si puó rifornire ovunque.
@@ -38,7 +39,7 @@ L'F63 Condor dispone di corazza e scudi migliori rispetto ai caccia imperiali o 
 
 ## Caccia Imperiale Gu-97
 
-<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/imperial.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/imperial.png" alt=""><sup style="float:right;">L'utilizzo di questa immagine è concesso da <a href="http://www.elite-dangerous-blog.co.uk/post/Elite-Dangerous-Ship-Blueprints-January-2019" target="_blank" rel="nofollow">Elite Dangerous Blog</a></sup></span>
 
 Il **Gu-97** è il caccia da superiorità spaziale prodotto dalla corporazione **Gutamaya** per la marina Imperiale.
 Rispetto alla controparte federale, il caccia è più agile ma meno resistente ed infatti è sconsigliato lasciarlo ad un NPC poiché c'è un grande rischio che questo verrà abbattuto velocemente.
@@ -55,7 +56,7 @@ Anche il Gu-97 dispone di 5 varianti:
 
 ## Caccia Taipan
 
-<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/taipan.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/taipan.png" alt=""><sup style="float:right;">L'utilizzo di questa immagine è concesso da <a href="http://www.elite-dangerous-blog.co.uk/post/Elite-Dangerous-Ship-Blueprints-January-2019" target="_blank" rel="nofollow">Elite Dangerous Blog</a></sup></span>
 
 Il caccia Taipan è costruito dalla ditta **Faulcon DeLacy** ed è utilizzato dall'Alleanza e nei sistemi indipendenti.
 Caratteristiche sono le ali che si muovono a seconda della temperatura raggiunta dal caccia stesso. Al massimo calore le ali del caccia avranno una forma a V. 
@@ -78,19 +79,19 @@ Possono essere acquistati solo dopo aver investigato nel Nav Beacon dei guardian
 
 ## Caccia XG7 Trident
 
-<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/trident.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/trident.png" alt=""><sup style="float:right;">L'utilizzo di questa immagine è concesso da <a href="http://www.elite-dangerous-blog.co.uk/post/Elite-Dangerous-Ship-Blueprints-January-2019" target="_blank" rel="nofollow">Elite Dangerous Blog</a></sup></span>
 
 Il caccia è armato con un autocannone al plasma rendendo il caccia “universale” ovvero adatto sia contro navi umane sia contro i Thargoid.
 
 ## Caccia XG8 Javelin
 
-<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/javelin.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/javelin.png" alt=""><sup style="float:right;">L'utilizzo di questa immagine è concesso da <a href="http://www.elite-dangerous-blog.co.uk/post/Elite-Dangerous-Ship-Blueprints-January-2019" target="_blank" rel="nofollow">Elite Dangerous Blog</a></sup></span>
 
 Il secondo caccia ibrido ha la potenza di fuoco maggiore rispetto agli due caccia ibridi però ha una bassa cadenza di fuoco.
 
 ## Caccia XG9 Lance
 
-<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/lance.png" alt=""></span>
+<span class="image fit"><img src="/images/posts/caccia-elite-dangerous/lance.png" alt=""><sup style="float:right;">L'utilizzo di questa immagine è concesso da <a href="http://www.elite-dangerous-blog.co.uk/post/Elite-Dangerous-Ship-Blueprints-January-2019" target="_blank" rel="nofollow">Elite Dangerous Blog</a></sup></span>
 
 L'ultimo caccia creato, dispone di notevole potenza di fuoco anche le armi erogano molto calore. Scelta perfetta per chi vuole combattere i Thargoid, sconsigliato per chi vuole affrontare navi umane.
 
