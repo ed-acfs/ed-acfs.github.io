@@ -63,4 +63,8 @@ Ecco qualche testimonianza diretta...
 
 <span class="image fit"><img src="/images/posts/vita-da-guardiamarina/spectre.jpg" alt="Spectre: La fazione ha ridato senso al gioco, altrimenti lo avrei abbandonato mesi fa" title="La fazione ha ridato senso al gioco, altrimenti lo avrei abbandonato mesi fa"></span>
 
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/wiitiful.jpg" alt="WiitifulSky: Da quando sono qui ho ritrovato il gusto per il gioco online" title=" Da quando sono qui ho ritrovato il gusto per il gioco online"></span>
+
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/illuminati_delly.jpg" alt="Illuminati_Delly: Dopo tutto questo tempo è davvero un piacere avere un posto da chiamare CASA su Elite: Ormai è così che mi sento quando arrivo a Wong Sher" title=" è davvero un piacere avere un posto da chiamare CASA su Elite: Ormai è così che mi sento quando arrivo a Wong Sher"></span>
+
 Quindi, cosa aspetti? Se anche tu sei in cerca di divertimento in Elite: Dangerous, [entra in Flotta Stellare](/about/){:target="_blank"} e vieni a giocare con noi!
