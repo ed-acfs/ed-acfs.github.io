@@ -27,12 +27,19 @@ Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre 
 ## BGS (Background Simulation)
 
 Ci siamo stabiliti nel sistema [**Wong Sher**](https://inara.cz/galaxy-starsystem/12424/), home system della nostra minor faction **Flotta Stellare**.<br>
-Avere un posto da chiamare *casa* è per noi essenziale e ci da un grande senso di appartenenza ed aiuta il gruppo.
+Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso di appartenenza ed aiuta il gruppo.
 
-## Come svolgiamo le attività:
+Al momento siamo presenti in questi sistemi:
 
-La nostra fazione va continuamente sostenuta svolgendo missioni e attività per essa.
-L’unica regola è quella di giocare il più possibile in modalità **“open”**.
+| 👑 	| Sistema   	| Governo      	| Popolazione 	| Alleanza     	| Stato           	|
+|:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
+| 👑 	| Wong Sher 	| Democratico  	| 90.049      	| Indipendente 	| Controllato     	|
+|   	| LP 421-7  	| Dittatoriale 	| 26.010      	| Indipendente 	| Non Controllato 	|
+
+## Cronologia delle conquiste
+
+* Nel 9 di Giugno del 3305 la Flotta è pronta per espandersi verso un nuovo sistema
+* Il giorno 2 Giugno dell'anno 3305 la Flotta Stellare completa la sua prima espansione ed approda su [LP 427-1](https://inara.cz/galaxy-starsystem/12435/)
 
 ## Come unirsi alla Flotta Stellare
 
