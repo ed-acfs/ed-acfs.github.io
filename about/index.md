@@ -39,7 +39,7 @@ Al momento siamo presenti in questi sistemi:
 ### Cronologia delle conquiste
 
 * Nel 9 di Giugno del 3305 la Flotta è pronta per espandersi verso un nuovo sistema
-* Il giorno 2 Giugno dell'anno 3305 la Flotta Stellare completa la sua prima espansione ed approda su [LP 427-1](https://inara.cz/galaxy-starsystem/12435/)
+* Il giorno 2 Giugno dell'anno 3305 la Flotta Stellare completa la sua prima espansione ed approda su [LP 421-7](https://inara.cz/galaxy-starsystem/12435/)
 
 ## Come unirsi alla Flotta Stellare
 
