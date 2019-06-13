@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti
 sitemap:
     priority: 0.8
-    lastmod: 2019-04-08
+    lastmod: 2019-06-13
     changefreq: weekly
 ---
 ## Alto Comando Flotta Stellare
