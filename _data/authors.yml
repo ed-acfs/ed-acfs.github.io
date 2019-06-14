@@ -1,25 +1,26 @@
 skyflash:
-  name: Cristian Castellari
-  picture: /images/authorsbenbalter.png
-  twitter: BloggerStanco
-  web: https://cristiancastellari.it
-  bio:
-
+    name: Cristian Castellari
+    nick: WiitifulSky
+    picture: /images/authors/benbalter.png
+    twitter: BloggerStanco
+    web: https://cristiancastellari.it
+    bio:
 wiitifulsky:
-  name: WiitifulSky
-  picture: /images/authorsbenbalter.png
-  twitter: BloggerStanco
-  web:
-  bio:
-
+    name: WiitifulSky
+    nick: WiitifulSky
+    picture: /images/author/sbenbalter.png
+    twitter: BloggerStanco
+    web:
+    bio:
 scorpion:
-  name: Bernardino de Mare
-  picture: /images/authorspotus.png
-  web: https://my.playstation.com/profile/Scorpion01924
-  bio: wrewrwrwre
-
+    name: Bernardino de Mare
+    nick: Scorpion
+    picture: /images/author/spotus.png
+    web: https://my.playstation.com/profile/Scorpion01924
+    bio: wrewrwrwre
 cok7sette:
-  name: Enrico Orrico
-  picture: /images/authorspotus.png
-  web:
-  bio:
+    name: Enrico Orrico
+    nick: Cok7Sette
+    picture: /images/authors/potus.png
+    web:
+    bio:

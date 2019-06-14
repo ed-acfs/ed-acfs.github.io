@@ -4,6 +4,7 @@ title:  "Storia di Elite: I Thargoids"
 date:   2019-04-19
 excerpt: "I Thargoid sono una specie aliena insettoide molto avanzata presente nella nostra Galassia da milioni di anni. E sono estremamente pericolosi"
 image: "/images/posts/storia-dei-thargoids/thargoids2.jpg"
+tags: lore-di-elite thargoids
 author: scorpion
 sticky: no
 ---

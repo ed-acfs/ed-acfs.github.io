@@ -4,6 +4,7 @@ title:  "Storia di Elite: I Guardiani"
 date:   2019-04-15
 excerpt: "Prima ancora che l’uomo inventasse la ruota, una grande civiltà aliena, conosciuta come I Guardiani, dominava incontrastata un’ampia regione della Via Lattea"
 image: "/images/posts/i-guardiani/Elite_Dangerous_The_Guardians.jpg"
+tags: lore-di-elite guardiani thargoids
 author: scorpion
 sticky: no
 ---

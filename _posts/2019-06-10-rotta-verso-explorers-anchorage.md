@@ -4,6 +4,7 @@ title:  "In rotta verso Explorer's Anchorage"
 date:   2019-06-10
 excerpt: "Cosa si prova quando ci si trova al cospetto di Sag A*?: il racconto di Falco, un esploratore della Flotta"
 image: "/images/posts/rotta-verso-explorers-anchorage/explorersanchorage.png"
+Tags: flotta-stellare racconti esplorazione
 sticky: no
 ---
 <div class="box alt">

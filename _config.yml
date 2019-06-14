@@ -81,7 +81,7 @@ collections:
   guide:
     output: true
     permalink: /guide/:title/
-
+  
 #
 ###################################
 # Jekyll configuration

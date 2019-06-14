@@ -4,6 +4,7 @@ title:  "Lore di Elite: La Federazione dei Piloti Indipendenti"
 date:   2019-04-29
 excerpt: "La Federazione dei Piloti è un'organizzazione segreta che sovrintende e rappresenta i piloti indipendenti della galassia."
 image: "/images/posts/federazione-piloti/Elite-Dangerous-Pilot-Reputation-Art.jpg"
+tags: lore-di-elite federazione piloti
 author: scorpion
 sticky: no
 ---

@@ -42,4 +42,8 @@
 <meta name="google-site-verification" content="8QuFiJY38Jyt4KRoaQV7e3ymgmz2d1f2bs9-q6rPn8Q" />
 <meta name="msvalidate.01" content="FCA4B700F192727565A2354B488A3DD5" />
 
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+
 {% include cookieconsent.html %}

@@ -10,6 +10,9 @@
 - title: Video
   url: /videotutorials/
 
+- title: Archivi
+  url:  /search/
+  
 - title: Il Gioco
   url: '/#'
   sublinks:
@@ -17,3 +20,4 @@
       url: /elite/
     - title: Background Simulation
       url: /bgs/
+

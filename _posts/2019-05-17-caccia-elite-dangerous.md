@@ -4,6 +4,7 @@ title:  "Approfondimento: I Caccia di Elite Dangerous"
 date:   2019-05-17
 excerpt: "Che differenze ci sono fra i vari tipi di caccia? Leggi la nostra panoramica su tutte le varianti di fighter presenti in Elite: Dangerous"
 image: "/images/posts/caccia-elite-dangerous/gfighter.jpg"
+tags: tecnica combat
 author: scorpion
 sticky: no
 ---

@@ -4,6 +4,7 @@ title:  "Vita da guardiamarina"
 date:   2019-05-08
 excerpt: "Perché giocare ad Elite Dangerous nella Flotta Stellare è così divertente? La risposta è semplice: We share our cookies!"
 image: "/images/wehavecookies_vette.jpg"
+tags: flotta-stellare esperienze
 sticky: no
 ---
 > O7 CMDRs! Sono [Cok7sette](https://my.playstation.com/profile/cok7sette){:target="_blank"}, Contrammiraglio della Flotta e vorrei condividere con voi alcuni aspetti della vita nello squadrone migliore della galassia!

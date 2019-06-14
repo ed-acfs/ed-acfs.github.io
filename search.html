@@ -1,0 +1,71 @@
+---
+layout: page
+title: Archivi - Cerca nel Blog
+sitemap:
+    priority: 0.7
+    lastmod: 2019-06-14
+    changefreq: weekly
+---
+<style>
+.search-results ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.search-results ul li {
+    padding: 5px 20px;
+}
+.search-results ul li span {
+    font-size: .8em;
+    font-weight: 300;
+    color: #adb5bd;
+}
+.search-results ul li:not(:last-child) {
+    margin-bottom: 10px;
+}
+.search-results ul li:last-child {
+    margin-bottom: 3rem;
+}
+.search-results ul li a {
+    width: 100%;
+}
+.search-results ul li p {
+  margin: 1rem 0 0 0;
+}
+.site-tag a {
+  display: inline-block;
+  margin-right: 12px;
+}
+</style>
+
+<!-- HTML elements for search -->
+<input type="text" id="search-input" placeholder="Cerca nel blog...">
+<div class="search-results">
+<ul id="results" class="search-results-ul"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="/assets/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results'),
+    searchResultTemplate: '<li><a href="{url}" tabindex="1"><p>{title}</p><span>{url}</span></a></li>', 
+    noResultsText: '<i class="fa fa-spinner fa-pulse fa-fw" aria-hidden="true"></i>&nbsp;Nessun Risultato...',
+    json: '/search.json'
+  })
+</script>
+
+<!-- Tag Cloud -->
+<h2>Tag Cloud</h2>
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+ <span class="site-tag">
+    <a href="/search/tag/{{ tag | first | slugify }}/"
+        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+    </a>&nbsp;
+</span>
+{% endfor %}
