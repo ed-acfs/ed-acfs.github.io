@@ -35,9 +35,11 @@ Al momento siamo presenti in questi sistemi:
 |:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
 | 👑 	| Wong Sher 	| Democratico  	| 90.049      	| Indipendente 	| Controllato     	|
 |   	| LP 421-7  	| Dittatoriale 	| 26.010      	| Indipendente 	| Non Controllato 	|
+|   	| LHS 1857  	| Corporate 	| 48,197      	| Federazione 	| Non Controllato 	|
 
 ### Cronologia delle conquiste
 
+* Il 16 Giugno 3305 la Flotta approda su LHS 1857
 * Nel 9 di Giugno del 3305 la Flotta è pronta per espandersi verso un nuovo sistema
 * Il giorno 2 Giugno dell'anno 3305 la Flotta Stellare completa la sua prima espansione ed approda su [LP 421-7](https://inara.cz/galaxy-starsystem/12435/)
 
