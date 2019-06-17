@@ -3,7 +3,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
 <meta name="keywords" content="{{ site.keywords }}">
+{% if page.robots %}
+<meta name="robots" content="{{page.robots}},follow" />
+{% else %}  
 <meta name="robots" content="index,follow" />
+{% endif %}
 <meta name="rating" content="{{ site.settings.rating }}">
 
 <!-- Add to homescreen for Chrome on Android -->

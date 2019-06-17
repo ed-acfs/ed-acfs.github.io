@@ -1,46 +1,15 @@
 ---
 layout: page
 title: Archivi - Cerca nel Blog
+robots: noindex
 sitemap:
     priority: 0.7
     lastmod: 2019-06-14
     changefreq: weekly
 ---
-<style>
-.search-results ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-.search-results ul li {
-    padding: 5px 20px;
-}
-.search-results ul li span {
-    font-size: .8em;
-    font-weight: 300;
-    color: #adb5bd;
-}
-.search-results ul li:not(:last-child) {
-    margin-bottom: 10px;
-}
-.search-results ul li:last-child {
-    margin-bottom: 3rem;
-}
-.search-results ul li a {
-    width: 100%;
-}
-.search-results ul li p {
-  margin: 1rem 0 0 0;
-}
-.site-tag a {
-  display: inline-block;
-  margin-right: 12px;
-}
-</style>
-
 <!-- HTML elements for search -->
 <input type="text" id="search-input" placeholder="Cerca nel blog...">
-<div class="search-results">
+<div class="search-results" style="display:block;">
 <ul id="results" class="search-results-ul"></ul>
 </div>
 
