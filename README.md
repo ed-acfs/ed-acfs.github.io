@@ -38,6 +38,52 @@ Fly safe, commander!
 [local]: http://127.0.0.1:4000/
 [jekyll]: https://jekyllrb.com/
 
+## Come usare i tag
+
+In ogni post aggiungere nel front matter del post stesso (presumibilmente scritto in Markdown) il parametro 'tags:' seguito dalle parole chiave (ogni tag deve essere separato da uno spazio; per tag di più parole usare il separatore '-')
+
+*Esempio*:
+
+```
+tags: flotta-stellare esplorazione combat
+```
+
+## Come generare le pagine 'tag'
+
+Per ogni tag è necessario creare una nuova pagina all'interno della diectory /tag
+
+Il layout dell pagina deve essere simile a questo:
+
+```
+---
+layout: tagpage
+title: "Tag: flotta-stellare"
+tag: flotta-stellare
+permalink: /search/tag/flotta-stellare/
+robots: noindex
+---
+```
+
+| tagpage  	| è il layout della pagina. Si trova in _layouts  	|
+| robots  	| noindex: i motori di ricerca non indicizzeranno la pagina del tag (per ottimizzazione SEO)  	|
+
+## Generazione **automatica** delle pagine tag
+
+Nella root del sito è presente uno script in pyton (tag_generator.py)
+
+Prima di eseguire il commit su Github Pages eseguire lo script col seguente comando:
+
+```
+pyton tag_generator.py
+```
+
+**Nota bene** Su Mac OSX è necessario aggiornare Python dalla 2.7 alla 3.x<br>
+Evocare quindi lo script col comando:
+
+```
+pyton3 tag_generator.py
+```
+
 ## Features
 
 ### Auto-Generating Sitemap
