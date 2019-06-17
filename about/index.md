@@ -35,7 +35,7 @@ Al momento siamo presenti in questi sistemi:
 |:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
 | 👑 	| Wong Sher 	| Democratico  	| 90.049      	| Indipendente 	| Controllato     	|
 |   	| LP 421-7  	| Dittatoriale 	| 26.010      	| Indipendente 	| Non Controllato 	|
-|   	| LHS 1857  	| Corporate 	| 48,197      	| Federazione 	| Non Controllato 	|
+|   	| LHS 1857  	| Corporativo 	| 48,197      	| Federazione 	| Non Controllato 	|
 
 ### Cronologia delle conquiste
 
