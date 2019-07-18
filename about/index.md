@@ -33,14 +33,15 @@ Al momento siamo presenti in questi sistemi:
 
 | 👑 	| Sistema   	| Governo      	| Popolazione 	| Alleanza     	| Stato           	|
 |:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
-| 👑 	| Wong Sher 	| Democratico  	| 90.049      	| Indipendente 	| Controllato     	|
-|   	| LP 421-7  	| Dittatoriale 	| 26.010      	| Indipendente 	| Non Controllato 	|
-|   	| LHS 1857  	| Corporativo 	| 48,197      	| Federazione 	| Non Controllato 	|
-|	| Dewikum	| Corporativo	| 38,738	| Federazione	| Non Controlato	|
+| 👑 	| Wong Sher 	| Democratico  	| 90,049        | Indipendente 	| Controllato     	|
+|   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
+|   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
+|	    | Dewikum   	| Corporativo	| 38,738	    | Federazione	| Non Controlato	|
 
 ### Cronologia delle conquiste
 
-* Il 1 Luglio 3305 la **Flotta Stellare** completa l'ennesima espansione e arriva su Dewikum
+* 17 Luglio 3305: Flotta Stellare vince la guerra e prende il controllo di **LHS 1857**, diffondendo democrazia nel sistema!
+* Il 1 Luglio 3305 la **Flotta Stellare** completa l'ennesima espansione e arriva su **Dewikum**
 * Il 31 Giugno 3305 **Flotta Stellare** entra in guerra contro **LHS 1857 Jet Galactic Systems** per il controllo di LHS 1857
 * Il 16 Giugno 3305 la Flotta approda su LHS 1857
 * Nel 9 di Giugno del 3305 la Flotta è pronta per espandersi verso un nuovo sistema
