@@ -4,5 +4,6 @@ title: robots
 User-agent: *
 Disallow: /elements/
 Disallow: /thank-you/
+Disallow: /search/tag/
 
 Sitemap: {{site.url}}/sitemap.xml

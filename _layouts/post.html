@@ -32,6 +32,21 @@
       			</header>
       			<div class="image main"><img src="{{page.image}}" alt=""></div>
       			<p>{{content}}</p>
+
+            <sub>Tags: [
+              {% for tag in page.tags %}
+                {% capture tag_name %}{{ tag }}{% endcapture %}
+                <a href="/search/tag/{{ tag_name | slugify }}/" rel="nofollow"><nobr>{{ tag_name | slugify }}</nobr>&nbsp;</a>
+              {% endfor %}
+            ]</sub>
+
+            {% assign author = site.data.authors[page.author] %}
+            {% if author %}
+              <section class="box">
+                <p>L'autore: CMDR {{author.nick}}</p>
+                <p>{{author.bio}}</p>
+              </section>
+            {% endif %}
             {% include social.html %}
           </section>
 
