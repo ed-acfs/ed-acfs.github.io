@@ -26,7 +26,7 @@ Ad un certo punto cominciai a vedere un'ombra nella nuvola avanzare verso di me.
 
 >Sono riuscito a scappare, grazie al cielo.
 
-Un pò di adrenalina, dopo tutti questi giorni di viaggio, poteva pure andare ma decisi che per il momento poteva bastare. e saltai quindi saltato in un sistema vicino, di nome **Einheriar**. La gente, qui, è pacifica e molto cordiale. Ho deciso che mi sarei fermato qui per una breve sosta, che mi avrebbe permesso di riposare e ricaricare la nave.
+Un pò di adrenalina, dopo tutti questi giorni di viaggio, poteva pure andare ma decisi che per il momento poteva bastare. E saltai quindi in un sistema vicino di nome **[Einheriar](https://www.edsm.net/en/system/id/13729264/name/Einheriar){:target="_blank"}**. La gente, qui, è pacifica e molto cordiale. Ho deciso che mi sarei fermato qui per una breve sosta, che mi avrebbe permesso di riposare e ricaricare la nave.
 
 Ho conosciuto un meccanico che lavora al porto - un tipo sveglio, molto simpatico. Dopo qualche bevuta insieme abbiamo finito di rimettere in sesto la nave, dopo di che mi ha detto:
 
