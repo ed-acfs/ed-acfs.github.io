@@ -39,7 +39,7 @@
                 <a href="/search/tag/{{ tag_name | slugify }}/" rel="nofollow"><nobr>{{ tag_name | slugify }}</nobr>&nbsp;</a>
               {% endfor %}
             ]</sub>
-
+<!--
             {% assign author = site.data.authors[page.author] %}
             {% if author %}
               <section class="box">
@@ -47,6 +47,7 @@
                 <p>{{author.bio}}</p>
               </section>
             {% endif %}
+-->
             {% include social.html %}
           </section>
 
