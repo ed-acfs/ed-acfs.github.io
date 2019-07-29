@@ -22,7 +22,7 @@ I problemi sono arrivati quando pensavo fossero finiti. Arrivato nella regione d
 
 Comunque ormai ero arrivato e già che c'ero decisi di andare a curiosare un fenomeno stellare lì vicino, che poi si è rivelato essere una nuvola di Lagrange (davvero bella con quel suo colore arancione!).
 
-Ad un certo punto cominciai a vedere un'ombra nella nuvola avanzare verso di me. Una nave, pesantemente armata, mi stava puntando. Pensai fosse della sicurezza ma appena i suoi scanner finirono il lavoro cominciò a bersagliarmi con tutto quello che aveva. Comunque lo scudo, anche se leggero fece il suo lavoro. Con una manovra evasiva mi portai fuori dalla portata delle sue armi e, mentre lui era intento a girarsi, misi a caricare il mio fido FSD.
+Ad un certo punto cominciai a vedere un'ombra nella nuvola avanzare verso di me. Una nave, pesantemente armata, mi stava puntando. Pensai fosse della sicurezza ma appena i suoi scanner finirono il lavoro cominciò a bersagliarmi con tutto quello che aveva. Comunque lo scudo, anche se leggero, fece il suo lavoro. Con una manovra evasiva mi portai fuori dalla portata delle sue armi e, mentre lui era intento a girarsi, misi a caricare il mio fido FSD.
 
 >Sono riuscito a scappare, grazie al cielo.
 
