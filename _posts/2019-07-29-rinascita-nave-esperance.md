@@ -76,3 +76,5 @@ Oggi, data stellare **29-07-3305**, dopo solo quattro giorni - giusto il tempo d
         <div class="6u$"><span class="image fit"><img src="{{ "/images/posts/capitanoend-starfleet/Elite_Dangerous_20190727193839.jpg" | prepend:site.baseurl }}" alt="" /></span></div>
     </div>
 </div>
+
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
