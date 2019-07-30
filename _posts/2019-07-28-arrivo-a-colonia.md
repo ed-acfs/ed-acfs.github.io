@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arrivo a Colonia, con brivido"
+title:  "Cronache di viaggio: Arrivo a Colonia, con brivido"
 date:   2019-07-28
 excerpt: "L'arrivo a Colonia, laddove l'umanità ha creato un avamposto lontano dai Thargoids, può portare a volte ad incontri spiacevoli"
 image: "/images/posts/arrivo-a-colonia/dffd76fgiq021.jpg"

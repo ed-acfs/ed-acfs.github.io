@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Avvicinamento alla Zurara"
+title:  "Cronache di viaggio: Avvicinamento alla Zurara"
 date:   2019-06-15
 excerpt: "L'esperienza del nostro Ammiraglio, appena giunto alla megaship abbandonata Zurara in orbita attorno al pianeta Syreadiae JX-F c0 1"
 image: "/images/posts/avvicinamento-zurara/zurara_conda.jpg"
