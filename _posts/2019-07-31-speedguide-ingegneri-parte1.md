@@ -20,7 +20,7 @@ Prerequisiti: per compiere progressi significativi in ​​questa guida è **ne
 * Una nave con almeno 50T di cargo (AspX, Type-9 o Anaconda)
 * 10 milioni di CR da buttare
 * Tempo libero. Tanto
-* Materiali in grande quantità. Questi possono essere facilmente farmati ​​a **[Dav’s Hope](https://canonn.science/codex/davs-hope/){:target="_blank"}** e dalla **[Anaconda crashata](https://canonn.science/codex/orrere-crashed-ship/)**{:target="_blank"}.
+* Materiali in grande quantità. Questi possono essere facilmente farmati ​​a **[Dav’s Hope](https://canonn.science/codex/davs-hope/){:target="_blank"}** e dalla **[Anaconda crashata](https://canonn.science/codex/orrere-crashed-ship/){:target="_blank"}**.
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
@@ -36,9 +36,9 @@ Requisiti:
     <li>Donazione di 1 Meta-Alloy</li>
 </ul></div>
 
-Con un Discovery Scanner ed almeno 1T di Cargo Rack, dirigiti su Maia e fai un ["honk"](/blog/vita-da-esploratore/){:target="_blank"} per ogni sistema che attraversi. Arrivato Maia acquista 1 barra di Meta-Alloy presso **Darnielle's Progress** per 113.355 Cr. Se non vuoi spendere i soldi, puoi estrarre Meta Alloys nel sistema Merope a Merope 2 A, ma avrai bisogno di un Detailed Surface Scanner e di un SRV per trovarli e raccoglierli.
+Con un Discovery Scanner ed almeno 1T di Cargo Rack, dirigiti su Maia e fai un ["honk"](/blog/vita-da-esploratore/){:target="_blank"} per ogni sistema che attraversi. Arrivato Maia acquista 1 barra di Meta-Alloy presso **Darnielle's Progress** per 113.355 Cr. Se non vuoi spendere i soldi, puoi estrarre Meta Alloys nel sistema **Merope** a **Merope 2 A**, ma avrai bisogno di un Detailed Surface Scanner e di un SRV per trovarli e raccoglierli.
 
-Una volta che hai la Meta Alloy vai su **Eurybia** e consegna i tuoi dati cartografici alla **Eurybia Blue Mafia**. Questo dovrebbe darti i fondi sufficienti per raggiungere il rank Scout, aiutandoti anche a guadagnare reputazione con **Liz Ryder**.
+Una volta che hai la barra di Meta Alloy vai su **Eurybia** e consegna i tuoi dati cartografici alla **Eurybia Blue Mafia**. Questo dovrebbe darti i fondi sufficienti per raggiungere il rank Scout, aiutandoti anche a guadagnare reputazione con **Liz Ryder**.
 
 Procedi quindi verso **Deciat** e dona il Meta Alloy a **Felicity Farseer** presso la **Farseer Inc**. Crea modifiche con la Farseer fino a quando non ricevi informazioni su **Juri Ishmaak** (richiesto un livello fra 3 e 4 con la Farseer), quindi dirigiti verso il sistema **Ngurii**.
 
@@ -119,7 +119,7 @@ Requisiti:
 
 Atterra da qualche parte intorno all'area controllata da **Li Yong-Rui**. Acquista la solita merce a buon mercato (ricorda di ripetere questo giochino in ogni nuova stazione in cui attracchi, per un totale di 50 volte), quindi partecipa a una missione di tipo Cargo Delivery che richieda almeno **5 tonnellate** di merce da trasportare. 
 
-Abbandona immediatamente la missione, quindi cerca 5 Black Markets nelle vicinanze. Recati in ognuno di questi e vendi **una merce rubata**. Ricordati anche di vendere la merce economica ed acquistarne una nuova come al solito, quindi vai al prossimo mercato nero fino e ripeti a quando non hai venduto a tutti e 5.
+Abbandona immediatamente la missione, quindi cerca 5 Black Markets nelle vicinanze. Recati in ognuno di questi e vendi **una merce rubata**. Ricordati anche di vendere la merce economica ed acquistarne una nuova come al solito, quindi vai al prossimo mercato nero più vicino e ripeti fino a quando non hai venduto a tutte e 5 le merci rubate.
 
 Vendi il carico rimanente all'ultimo mercato nero, quindi vai nel sistema **Wyrd**. Atterra a **Black Hide**, dona 500.000 Cr a The Dweller e ranka (producendo, come al solito, modifiche) fino a quando non ricevi il messaggio di informazioni su **Lei Cheung**.
 
