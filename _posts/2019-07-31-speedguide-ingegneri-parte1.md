@@ -2,7 +2,7 @@
 layout: post
 title:  "Guida passo per passo: come sbloccare gli ingegneri - Parte 1"
 date:   2019-07-31
-excerpt: "Dal diario di bordo di CapitanoEND, la storia di una fine sofferta e di un nuovo inizio - Cronache della Starfleet Expedition: Il varo della Esperance"
+excerpt: "Sbloccare gli Ingegneri di Elite Dangerous può essere un lavoro molto lungo e noioso. Vediamo come raggiungere il massimo risultato con il minimo sforzo"
 image: "/images/posts/speedguide-ingegneri/Elite-Dangerous-The-Engineers.jpg"
 tags: guide ingegneri primi-passi tutorial
 sticky: no
