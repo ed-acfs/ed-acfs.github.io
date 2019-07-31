@@ -18,7 +18,7 @@ Prerequisiti: per compiere progressi significativi in ​​questa guida è **ne
 
 * Una nave in grado di saltare lungo (preferibilmente DBX, AspX, Krait Phantom o Anaconda).
 * Una nave con almeno 50T di cargo (AspX, Type-9 o Anaconda)
-* 10 milioni di CR da buttare
+* 10 milioni di CR da spendere
 * Tempo libero. Tanto
 * Materiali in grande quantità. Questi possono essere facilmente farmati ​​a **[Dav’s Hope](https://canonn.science/codex/davs-hope/){:target="_blank"}** e dalla **[Anaconda crashata](https://canonn.science/codex/orrere-crashed-ship/){:target="_blank"}**.
 
@@ -36,7 +36,7 @@ Requisiti:
     <li>Donazione di 1 Meta-Alloy</li>
 </ul></div>
 
-Con un Discovery Scanner ed almeno 1T di Cargo Rack, dirigiti su Maia e fai un ["honk"](/blog/vita-da-esploratore/){:target="_blank"} per ogni sistema che attraversi. Arrivato Maia acquista 1 barra di Meta-Alloy presso **Darnielle's Progress** per 113.355 Cr. Se non vuoi spendere i soldi, puoi estrarre Meta Alloys nel sistema **Merope** a **Merope 2 A**, ma avrai bisogno di un Detailed Surface Scanner e di un SRV per trovarli e raccoglierli.
+Con un Discovery Scanner ed almeno 1T di Cargo Rack, dirigiti su **Maia** e fai un ["honk"](/blog/vita-da-esploratore/){:target="_blank"} in ogni sistema che attraversi. Arrivato a Maia acquista 1 barra di Meta-Alloy presso **Darnielle's Progress** per 113.355 Cr. Se non vuoi spendere soldi, puoi estrarre Meta Alloys nel sistema **Merope** a **Merope 2 A**, ma avrai bisogno di un Detailed Surface Scanner e di un SRV per trovarli e raccoglierli.
 
 Una volta che hai la barra di Meta Alloy vai su **Eurybia** e consegna i tuoi dati cartografici alla **Eurybia Blue Mafia**. Questo dovrebbe darti i fondi sufficienti per raggiungere il rank Scout, aiutandoti anche a guadagnare reputazione con **Liz Ryder**.
 
@@ -57,11 +57,11 @@ Tempo: molto breve<br>
 Modulo migliore: <b>Frame Shift Drive</b><br>
 Requisiti:
 <ul>
-    <li>Vai 300 LY dalla posizione di partenza <b>FATTO!</b></li>
-    <li>Fornire 3 Soontill Relics</li>
+    <li>Viaggia a 300 LY dalla posizione di partenza <b>FATTO!</b></li>
+    <li>Dona 3 Soontill Relics</li>
 </ul></div>
 
-Ora che sei a Ngurii, vai a **Cheranovsky City**. Lì puoi acquistare le 3 Soontill Relics a 19.885 Cr per tonnellata (avrai bisogno dello spazio di carico). Viaggia fino a **Long Sight Base** nel sistema **Khun**, dona le Soontill Relics ed aggiorna i tuoi moduli fino a quando non ricevi informazioni su **Zacariah Nemo** e **Marco Qwent**.
+Ora che sei a Ngurii, vai a **Cheranovsky City**. Lì puoi acquistare le 3 Soontill Relics a 19.885 Cr per tonnellata (avrai bisogno di sufficiente spazio di carico). Viaggia fino a **Long Sight Base** nel sistema **Khun**, dona le Soontill Relics e modifica i tuoi moduli fino a quando non ricevi informazioni su **Zacariah Nemo** e **Marco Qwent**.
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
@@ -74,16 +74,16 @@ Modulo migliore: <b>Power Plant</b> (Grado 4)<br>
 Requisiti:
 <ul>
     <li>Ottieni l'accesso al sistema Sirius (invito da Sirius Corporation)</li>
-    <li>Fornire 25 unità di Modular Terminals</li>
+    <li>Dona 25 unità di Modular Terminals</li>
 </ul></div>
 
 Prendi la tua migliore nave esplorativa e pianifica un percorso a **5.000 LY** dal tuo sistema di partenza. Dovrai perlomeno fare un honk su ciascun sistema che attraversi, ma considera anche di fare alcune scansioni con Detailed Surface Scanner, che aiuteranno il progresso generale di questa guida.
 
-Una volta che sei alla fine del percorso, seleziona il tuo sistema di partenza per assicurarti che sia a più di 5.000 LY di distanza, quindi vai al sistema **Procyon**. Vendi i tuoi dati in una stazione di proprietà della Sirius Corporation fino a quando non ricevi l'invito per il sistema Sirius ed acquisisci il permesso per Sirius. Quindi vai a **78 Ursae Majoris** e consegna i dati rimanenti ad una stazione di proprietà degli **Alioth Independents**. Da qui, verifica di avere almeno 30 tonnellate di capacità di carico, acquista una commodity qualsiasi dal Market (quale sia non è importante, quindi acquista la più economica che trovi) e partecipa ad una missione di Data Delivery, preferibilmente con una ricompensa in Modular Terminals.
+Una volta che sei alla fine del percorso, seleziona il tuo sistema di partenza per assicurarti che sia a più di 5.000 LY di distanza, quindi vai al sistema **Procyon**. Vendi i tuoi dati in una stazione di proprietà della Sirius Corporation fino a quando non ricevi l'invito per **Sirius** ed acquisisci il relativo permesso. Quindi vai a **78 Ursae Majoris** e consegna i dati rimanenti ad una stazione di proprietà degli **Alioth Independents**. Da qui, verifica di avere almeno 30 tonnellate di capacità di carico, acquista una commodity qualsiasi dal Market (quale sia non è importante, quindi acquista la più economica che trovi) e partecipa ad una missione di Data Delivery, preferibilmente con una ricompensa in Modular Terminals.
 
-Una volta atterrato al termine della missione di Data Delivery vendi la merce economica ed acquistane una nuova. Prendi una nuova missione di Data Delivery per Modular Terminals, e continua a ripetere lo stesso loop fino a quando non hai 25 Modular Terminals. Questo ti aiuterà lungo la strada con **Lei Cheung**, oltre a sbloccare Qwent.
+Una volta atterrato al termine della missione di Data Delivery vendi la merce economica ed acquistane una nuova. Prendi una nuova missione di Data Delivery per Modular Terminals, e continua a ripetere lo stesso loop fino a quando non avrai un totale di 25 Modular Terminals. Questo ti aiuterà lungo la strada con **Lei Cheung**, oltre a sbloccare Qwent.
 
-Torna a Sirius con i tuoi 25 Modular Terminals e completa la missione per sbloccare Marco Qwent (fornita in qualsiasi stazione di Sirius). A questo punto potrai finalmente donare i Modular Terminals a Marco Qwent e cominciare a produrre modifiche fino a quando non ricevi informazioni (sempre fra Grado 3 e Grado 4) sul **Professor Palin** e **Lori Jameson**.
+Torna a Sirius con i tuoi 25 Modular Terminals e completa la missione per sbloccare Marco Qwent (fornita in qualsiasi stazione di Sirius). A questo punto potrai finalmente donare i Modular Terminals a Marco Qwent e cominciare a produrre modifiche fino a quando non riceverai informazioni (sempre fra Grado 3 e Grado 4) sul **Professor Palin** e **Lori Jameson**.
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
