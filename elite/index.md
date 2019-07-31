@@ -3,10 +3,7 @@ layout: page
 title: Il Gioco - Cosa è Elite Dangerous
 description: Cosa è Elite Dangerous? Scopriamo insieme la storia del più famoso videogioco di simulazione spaziale di sempre.
 image: "/images/elite_fight_station.jpg"
-sitemap:
-    priority: 0.7
-    lastmod: 2019-04-05
-    changefreq: weekly
+last_modified_at: 2019-04-26
 ---
 ## Il gioco
 

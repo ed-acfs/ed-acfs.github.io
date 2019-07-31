@@ -16,7 +16,7 @@ Diario di Bordo del Capitano Nick</p>
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 Il tragitto per arrivare a Colonia è stato molto leggero; ho avuto anche la possibilità di esplorare qualche sistema lungo la tratta.<br>
-I problemi sono arrivati quando pensavo fossero finiti. Arrivato nella regione di **Colonia** ho tirato un sospiro di solievo
+I problemi sono arrivati quando pensavo fossero finiti. Arrivato nella regione di **Colonia** ho tirato un sospiro di sollievo
 
 >ero proprio contento di rivedere degli esseri umani svolazzare in giro per il sistema.
 

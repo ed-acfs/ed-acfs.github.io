@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thank you for your correspondence
+sitemap: false
 robots: noindex
 ---
 ## Thank you for your correspondence

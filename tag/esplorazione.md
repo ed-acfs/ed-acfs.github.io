@@ -3,5 +3,6 @@ layout: tagpage
 title: "Tag: esplorazione"
 tag: esplorazione
 permalink: /search/tag/esplorazione/
+sitemap: false
 robots: noindex
 ---

@@ -5,10 +5,7 @@ date:   2019-04-06
 excerpt: "Vuoi entrare nello Squadrone Alto Comando Flotta Stellare e divertirti insieme a noi? E' molto più semplice di quanto pensi."
 image: "/images/Beyond_Squadrons_1080.jpg"
 tags: flotta-stellare squadrone
-sitemap:
-    priority: 0.9
-    lastmod: 2019-04-08
-    changefreq: weekly
+last_modified_at: 2019-07-19
 sticky: true
 ---
 
