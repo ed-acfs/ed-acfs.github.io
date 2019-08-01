@@ -38,6 +38,8 @@ Al momento siamo presenti in questi sistemi:
 
 ### Cronologia delle conquiste
 
+* 31 Luglio 3305: La nostra espansione all'interno di 14 Geminorum continua e prendiamo il controllo anche di **Clarke Keep**
+* 24 Luglio 3305: Prendiamo in controllo di **Eisenhower Square**
 * 19 Luglio 3305: Inizia la battaglia per il controllo di **Eisenhower Square** su 14 Geminorum. Obiettivo: vincere!
 * 18 Luglio 3305: Dopo un estenuante lavoro di "convincimento", Flotta Stellare riesce ad entrare a [14 Geminorum](https://inara.cz/galaxy-starsystem/127021/){:target="_blank"}
 * 17 Luglio 3305: Flotta Stellare vince la guerra e prende il controllo di **LHS 1857**, diffondendo democrazia nel sistema!

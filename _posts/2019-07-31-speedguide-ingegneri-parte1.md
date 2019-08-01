@@ -186,6 +186,6 @@ Vai a **Kuk**, dona la Painite a Selene Jean e ranka fino a quando non ottieni i
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-### Fine della parte 1
+#### Prosegui la lettura: [Come sbloccare gli Ingegneri di Elite Dangerous - Parte 2](/blog/speedguide-ingegneri-parte2/)
 
-#### Riferimenti: [Fox's Step-by-Step Guide to Unlocking Engineers Quickly - Reddit](https://www.reddit.com/r/EliteOne/comments/8bs6g8/foxs_stepbystep_guide_to_unlocking_engineers/){:target="_blank"}
+##### Riferimenti: [Fox's Step-by-Step Guide to Unlocking Engineers Quickly - Reddit](https://www.reddit.com/r/EliteOne/comments/8bs6g8/foxs_stepbystep_guide_to_unlocking_engineers/){:target="_blank"}
