@@ -40,4 +40,4 @@ Stati ed influenza si aggiornano circa ogni 24 ore, con il “Tick” . Intorno 
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-#### Prosegui la lettura: [BGS for Dummies - La Guerra](/blog//blog/bgs-for-dummies-parte2/)
+#### Prosegui la lettura: [BGS for Dummies - La Guerra](/blog/bgs-for-dummies-parte2/)
