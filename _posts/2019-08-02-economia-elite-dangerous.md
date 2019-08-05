@@ -2,7 +2,7 @@
 layout: post
 title:  "L'economia in Elite Dangerous"
 date:   2019-08-02
-excerpt: "La Galassia non si conquisterà da sola : BGS for Dummies - Parte 1"
+excerpt: "Una esaustiva guida sul funzionamento dell'economia all'interno della Galassia di Elite Dangerous"
 image: "/images/posts/guida-economia/Type-9-Heavy-Coriolis-Station.png"
 tags: guide commercio tutorial
 sticky: no
