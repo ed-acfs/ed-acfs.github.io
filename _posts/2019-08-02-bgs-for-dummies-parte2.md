@@ -10,12 +10,11 @@ sticky: no
 Nella [prima parte](/blog/bgs-for-dummies-parte1/) di questa guida abbiamo capito che tutte le azioni dei nostri comandanti si ripercuotono sulla vita della nostra fazione.
 Ora le cose si fanno complicate, ma seguendo le gesta dei nostri eroi della Flotta ed accompagnandoli alla conquista di un nuovo ipotetico sistema, vedremo di mettere un po’ d’ordine.
 
-### Scenario
-
-La **Flotta Stellare** ha appena terminato una espansione che ci ha portato in un nuovo sistema “*L 07*”. Ci sono due stazioni: una Coriolis ed un outpost, oltre ad una installazione scientifica su una luna di un pianeta con anelli di ghiaccio.<br>
-La Fazione dominante è sempre quella che ha il controllo dell’asset di maggior valore, che in questo caso è la Coriolis. La fazione dominante, “*I Custodi di L 07*” è una Democrazia (come la Flotta Stellare) nativa del sistema, mentre la fazione *"Seguaci di Sol"* è una dittatura non originaria di questo sistema e controlla l’outpost e l’installazione planetaria. I *“Custodi”* sono al 60%, i *“Seguaci”* al 22%, la Flotta è al 14%  e altre 4 fazioni native del sistema sono all’1%.
-
-L’obbiettivo della Flotta è prendere il controllo del sistema. Per farlo dovrà scontrarsi con le altrte fazioni, in modo da prendere il controllo della Coriolis attualmente in mano ai Custodi.
+<div class="box">
+<i class="fa fa-quote-left fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Scenario:</b>&nbsp;La <b>Flotta Stellare</b> ha appena terminato una espansione che ci ha portato in un nuovo sistema <i>“L 07”</i>. Ci sono due stazioni: una Coriolis ed un outpost, oltre ad una installazione scientifica su una luna di un pianeta con anelli di ghiaccio.
+<p>La Fazione dominante è sempre quella che ha il controllo dell’asset di maggior valore, che in questo caso è la Coriolis. La fazione dominante, <i>“I Custodi di L 07”</i> è una Democrazia (come la Flotta Stellare) nativa del sistema, mentre la fazione <i>"Seguaci di Sol"</i> è una dittatura non originaria di questo sistema e controlla l’outpost e l’installazione planetaria. I <i>“Custodi”</i> sono al 60%, i <i>“Seguaci”</i> al 22%, la Flotta è al 14%  e altre 4 fazioni native del sistema sono all’1%.</p>
+<p>L’obbiettivo della Flotta è prendere il controllo del sistema. Per farlo dovrà scontrarsi con le altre fazioni, in modo da prendere il controllo della Coriolis attualmente in mano ai Custodi.</p>
+</div>
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
@@ -59,4 +58,4 @@ Nel mirino ci sono ora i *“Custodi”* i quali, essendo anch’essi una democr
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-#### Fine della seconda parte
+#### Prosegui la lettura: [BGS for Dummies - Parte 3 - Le Elezioni](/blog/bgs-for-dummies-parte3/)

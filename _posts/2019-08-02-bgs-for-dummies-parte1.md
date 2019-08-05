@@ -3,7 +3,7 @@ layout: post
 title:  "La Galassia non si conquisterà da sola: BGS for Dummies - Le Basi"
 date:   2019-08-02
 excerpt: "La prima parte della nostra guida sulla Background Simulation in Elite Dangerous. Una prima introduzione sulle meccaniche e sui termini di base"
-image: "/images/posts/bgs-for-dummies-parte1/home-masthead-poster.553d3b7f.jpg"
+image: "/images/posts/bgs-for-dummies/home-masthead-poster.553d3b7f.jpg"
 tags: guide bgs tutorial
 sticky: no
 ---
@@ -40,4 +40,4 @@ Stati ed influenza si aggiornano circa ogni 24 ore, con il “Tick” . Intorno 
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-#### Prosegui la lettura: [BGS for Dummies - La Guerra](/blog/bgs-for-dummies-parte2/)
+#### Prosegui la lettura: [BGS for Dummies - Parte 2 - La Guerra](/blog/bgs-for-dummies-parte2/)
