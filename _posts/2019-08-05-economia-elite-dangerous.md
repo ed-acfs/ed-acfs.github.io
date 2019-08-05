@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "L'economia in Elite Dangerous"
-date:   2019-08-02
+date:   2019-08-05
 excerpt: "Una esaustiva guida sul funzionamento dell'economia all'interno della Galassia di Elite Dangerous"
 image: "/images/posts/guida-economia/Type-9-Heavy-Coriolis-Station.png"
 tags: guide commercio tutorial
