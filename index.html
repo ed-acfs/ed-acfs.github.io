@@ -70,7 +70,7 @@ last_modified_at: 2019-04-08
 									</article>
 								{% endfor %}
 								{% assign normalPost = site.posts | where: "sticky", false %}
-								{% for post in normalPost limit:3 %}
+								{% for post in normalPost limit:5 %}
 								<article>
 									<header>
 										<span class="date">{{ post.date | date_to_string }}</span>
