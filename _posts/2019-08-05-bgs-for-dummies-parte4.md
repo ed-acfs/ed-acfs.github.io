@@ -49,4 +49,4 @@ La situazione non migliora analizzando i sistemi vicini: una decina di sistemi s
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-#### Fine della Parte 4
+#### Prosegui la lettura: [BGS for Dummies - Parte 5 - Strategia e Undermining](/blog/bgs-for-dummies-parte5/)
