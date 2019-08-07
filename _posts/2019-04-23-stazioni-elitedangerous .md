@@ -5,7 +5,6 @@ date:   2019-04-23
 excerpt: "Ne veniamo a contatto fin dai primi istanti di gioco. Conosciamo meglio tutte le tipologie di stazioni presenti in Elite: Dangerous"
 image: "/images/posts/stazioni-elitedangerous/coriolisblueprint.png"
 tags: tecnica stazioni lore-di-elite
-author: scorpion
 sticky: no
 ---
 > Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone ed oggi vi parlerò di tutte le stazioni

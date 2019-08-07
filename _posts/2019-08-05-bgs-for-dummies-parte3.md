@@ -5,6 +5,7 @@ image: "/images/posts/bgs-for-dummies/protesta.png"
 date:   2019-08-05T13:00
 excerpt: "La terza parte della nostra guida sulla Background Simulation in Elite Dangerous. Sistema Politico ed Elezioni"
 tags: guide bgs tutorial
+author: habba-nero
 sticky: no
 ---
 
