@@ -5,7 +5,6 @@ date:   2019-04-12
 excerpt: "Fra le molteplici attività svolgibili all’interno dell’immensa galassia che utilizziamo come campo di gioco in Elite Dangerous sicuramente una delle più avvincenti è l’esplorazione"
 image: "/images/posts/vita-da-esploratore/saga.jpg"
 tags: esplorazione guide primi-passi
-author: cok7sette
 sticky: no
 ---
 

@@ -4,7 +4,6 @@ title:  "Lore di Elite: La Federazione"
 date:   2019-04-26
 excerpt: "Benvenuti nella Federazione. Si prega di dichiarare la propria fedeltà prima di registrare il proprio voto"
 image: "/images/posts/la-federazione/Federation-Federal-Navy-Fleet-1.png"
-author: scorpion
 tags: lore-di-elite federazione thargoids
 sticky: no
 ---

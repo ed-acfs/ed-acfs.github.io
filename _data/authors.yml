@@ -1,32 +1,39 @@
 skyflash:
     name: Cristian Castellari
-    nick: WiitifulSky
-    picture: /images/authors/benbalter.png
+    display_name: WiitifulSky
+    about:
     twitter: BloggerStanco
     web: https://cristiancastellari.it
-    bio:
+    gravatar: /images/authors/generic.png
+
 wiitifulsky:
-    name: WiitifulSky
-    nick: WiitifulSky
-    picture: /images/author/sbenbalter.png
+    name: Cristian Castellari
+    display_name: WiitifulSky
+    about:
     twitter: BloggerStanco
-    web:
-    bio:
+    web: https://my.playstation.com/profile/WiitifulSky
+    gravatar: /images/authors/skyflash.png
+
 scorpion:
     name: Bernardino de Mare
-    nick: Scorpion
-    picture: /images/author/spotus.png
+    display_name: Scorpion
+    about:
+    twitter: Flotta_Stellare
     web: https://my.playstation.com/profile/Scorpion01924
-    bio: wrewrwrwre
+    gravatar: /images/authors/generic.png
+
 cok7sette:
     name: Enrico Orrico
-    nick: Cok7Sette
-    picture: /images/authors/potus.png
-    web:
-    bio:
+    display_name: Cok7Sette
+    about:
+    twitter: Flotta_Stellare
+    web: https://my.playstation.com/profile/cok7sette
+    gravatar: /images/authors/generic.png
+
 habba-nero:
-    name: Luca Abbaneo
-    nick: Habba-Nero
-    picture:
-    web:
-    bio: Sono Habba-Nero un cmdr vecchio e stanco a cui, nella sua ora più buia,un losco figuro con gli occhiali scuri ha offerto una scelta:\ pillola blu o pillola rossa. Ho scelto la blu, sperando fosse viagra, invece era BGS...
+    name: Labbaneo
+    display_name: Habba-nero
+    about: "Sono Habba-Nero un cmdr vecchio e stanco a cui, nella sua ora più buia, un losco figuro con gli occhiali scuri ha offerto una scelta&#58; pillola blu o pillola rossa. Ho scelto la blu, sperando fosse viagra, invece era BGS..."
+    twitter: Flotta_Stellare
+    web: https://my.playstation.com/profile/Habba-nero
+    gravatar: /images/authors/generic.png

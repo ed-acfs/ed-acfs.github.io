@@ -5,6 +5,7 @@ date:   2019-08-02
 excerpt: "La seconda parte della nostra guida sulla Background Simulation in Elite Dangerous. Le Guerre, perché si verificano e come usarle a proprio vantaggio"
 image: "/images/wing_fight.jpg"
 tags: guide bgs tutorial
+author: habba-nero
 sticky: no
 ---
 Nella [prima parte](/blog/bgs-for-dummies-parte1/) di questa guida abbiamo capito che tutte le azioni dei nostri comandanti si ripercuotono sulla vita della nostra fazione.

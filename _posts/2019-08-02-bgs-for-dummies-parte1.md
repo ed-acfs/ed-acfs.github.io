@@ -5,6 +5,7 @@ date:   2019-08-02
 excerpt: "La prima parte della nostra guida sulla Background Simulation in Elite Dangerous. Una prima introduzione sulle meccaniche e sui termini di base"
 image: "/images/posts/bgs-for-dummies/home-masthead-poster.553d3b7f.jpg"
 tags: guide bgs tutorial
+author: habba-nero
 sticky: no
 ---
 La Background Simulation è in pratica un modello “Black box” che regola l’evoluzione della galassia di ED come risposta alle azioni di ogni singolo giocatore.

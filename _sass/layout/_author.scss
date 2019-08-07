@@ -1,0 +1,92 @@
+div#author-content {
+    /*width:90%;*/
+    margin: 5px;
+    padding-bottom: 35px;
+    /* padding-top: 1.5rem;*/
+  }
+  
+  hr.author-container {
+    margin: 0 0 2rem 0;
+  }
+  
+  .authorbox {
+    margin-top: 1.5rem;
+    display: inline-block;
+  }
+  
+  .author-bio {
+    position: relative;
+    width: 100%;
+    float: left;
+    clear: both;
+    /*    margin: 0 0 32px;*/
+    img {
+      position: absolute;
+      display: block;
+      top: 0;
+      left: 0;
+      z-index: 1;
+      border-radius: 100%;
+      width: 40px;
+      height: 40px;
+      + .author-details {
+        border-left: 1px solid #E1E9ED;
+        margin-left: 56px;
+        padding-left: 16px;
+        min-height: 40px;
+      }
+    }
+  }
+  
+  .section-title {
+    position: relative;
+    display: block;
+    float: left;
+    margin: 0 0 16px;
+    font-size: .9375em;
+    padding-right: 8px;
+    &:after {
+      content: "\00a0|";
+      font-weight: 400;
+    }
+  }
+  
+  img#image-author {
+    margin-left: 0px;
+    margin-right: 10px;
+    float: left;
+  }
+  
+  #about-author {
+    line-height: 1.5;
+    font-size: 0.875rem;
+  }
+  
+  p#name-author {
+    margin: 0;
+  }
+  
+  #social-author {
+    float: right;
+    margin-right: 2rem;
+    font-size: 1.25rem;
+    a:link {
+      text-decoration: none;
+      border-bottom-color: transparent;
+    }
+  }
+  
+  @media screen and (min-width: 767px) {
+    .author-bio img {
+      width: 96px;
+      height: 96px;
+    }
+  }
+  
+  @media screen and (min-width: 767px) {
+    .author-bio img + .author-details {
+      margin-left: 120px;
+      padding-left: 24px;
+      min-height: 96px;
+    }
+  }
