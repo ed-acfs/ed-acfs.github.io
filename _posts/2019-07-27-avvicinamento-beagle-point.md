@@ -5,6 +5,7 @@ date:   2019-07-27
 excerpt: "In viaggio verso Beagle Point, l'Ammiraglio della Flotta Stellare fa una breve sosta a Explorer's Anchorage per poi ripartire verso nuove, incredibili scoperte"
 image: "/images/posts/avvicinamento-beagle-point/67287101_2178701832255205_1589871059027361792_o.jpg"
 tags: flotta-stellare racconti esplorazione
+author: scorpion
 sticky: no
 ---
 <div class="box alt">

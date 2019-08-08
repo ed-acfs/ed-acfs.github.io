@@ -5,6 +5,7 @@ date:   2019-08-05T11:30
 excerpt: "Una esaustiva guida sul funzionamento dell'economia all'interno della Galassia di Elite Dangerous"
 image: "/images/posts/guida-economia/Type-9-Heavy-Coriolis-Station.png"
 tags: guide commercio
+author: scorpion
 sticky: no
 ---
 > Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone ed oggi vi mostrerò come funziona il commercio in tutta la sua totalità, sia legale che illegale, in Elite Dangerous e come iniziare al meglio la carriera di imprenditore spaziale!

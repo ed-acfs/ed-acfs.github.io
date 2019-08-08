@@ -5,6 +5,7 @@ date:   2019-04-20
 excerpt: "Approfondiamo ulteriormente l'argomento Thargoids entrando nel dettaglio riguardo la loro struttura sociale e militare"
 image: "/images/posts/societa-thargoids/thargoids.jpg"
 tags: lore-di-elite thargoids
+author: scorpion
 sticky: no
 ---
 > Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone ed in questo secondo rapporto dedicato ai Thargoid mi concentrerò sul darvi tutte le informazioni in nostro possesso sulla società Thargoid!

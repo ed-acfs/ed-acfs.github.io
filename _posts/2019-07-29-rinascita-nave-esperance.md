@@ -5,6 +5,7 @@ date:   2019-07-29
 excerpt: "Dal diario di bordo di CapitanoEND, la storia di una fine sofferta e di un nuovo inizio - Cronache della Starfleet Expedition: Il varo della Esperance"
 image: "/images/posts/capitanoend-starfleet/Elite_Dangerous_20181010124802.jpg"
 tags: flotta-stellare racconti esplorazione colonia
+author: capitanoend
 sticky: no
 ---
 <div class="box alt">

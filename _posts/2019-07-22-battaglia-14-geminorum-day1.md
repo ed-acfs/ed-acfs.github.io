@@ -5,6 +5,7 @@ date:   2019-07-22
 excerpt: "Un breve aggiornamento dal fronte, ad opera del nostro Ammiraglio. Flotta Stellare continua la propria espansione all'interno della Galassia!"
 image: "/images/posts/battaglia-14-geminorum-1/ED-Combat-6-1024x576.jpg"
 tags: flotta-stellare racconti squadrone
+author: scorpion
 sticky: no
 ---
 <div class="box alt">

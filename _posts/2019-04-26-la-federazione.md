@@ -5,6 +5,7 @@ date:   2019-04-26
 excerpt: "Benvenuti nella Federazione. Si prega di dichiarare la propria fedeltà prima di registrare il proprio voto"
 image: "/images/posts/la-federazione/Federation-Federal-Navy-Fleet-1.png"
 tags: lore-di-elite federazione thargoids
+author: scorpion
 sticky: no
 ---
 > Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone e questo è primo articolo basato sulle tre superpotenze presenti in Elite Dangerous. Partiamo dalla Federazione dei Sistemi Stellari (FSS), comunemente detta Federazione.

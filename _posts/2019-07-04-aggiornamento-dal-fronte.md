@@ -5,6 +5,7 @@ date:   2019-07-04
 excerpt: "Un breve aggiornamento dal fronte, ad opera del nostro Ammiraglio. Flotta Stellare continua la propria espansione all'interno della Galassia!"
 image: "/images/posts/aggiornamenti-dal-fronte/b813-6c514ab69878.jpeg"
 tags: flotta-stellare racconti
+author: scorpion
 sticky: no
 ---
 <div class="box alt">

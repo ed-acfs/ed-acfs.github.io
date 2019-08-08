@@ -5,6 +5,7 @@ date:   2019-05-17
 excerpt: "Che differenze ci sono fra i vari tipi di caccia? Leggi la nostra panoramica su tutte le varianti di fighter presenti in Elite: Dangerous"
 image: "/images/posts/caccia-elite-dangerous/gfighter.jpg"
 tags: tecnica combat navi
+author: scorpion
 sticky: no
 ---
 > Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone ed oggi vi parlerò nel dettaglio di tutti i caccia presenti in Elite Dangerous.

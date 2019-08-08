@@ -5,6 +5,7 @@ date:   2019-04-15
 excerpt: "Prima ancora che l’uomo inventasse la ruota, una grande civiltà aliena, conosciuta come I Guardiani, dominava incontrastata un’ampia regione della Via Lattea"
 image: "/images/posts/i-guardiani/Elite_Dangerous_The_Guardians.jpg"
 tags: lore-di-elite guardiani thargoids
+author: scorpion
 sticky: no
 ---
 > Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924), l'Ammiraglio dello squadrone Flotta Stellare e oggi vi propongo un po’ di xenobiologia per conoscere meglio la galassia di Elite!
