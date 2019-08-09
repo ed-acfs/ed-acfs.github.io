@@ -66,7 +66,7 @@ Lo stato di Guerra/Guerra Civile si conclude con una sconfitta o vittoria nelle 
 * Cooldown: non esiste, termina alla fine del conflitto.
 
 <div class="box">
-<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Nota:</b>&nbsp;Durante lo stato di Guerra/Guerra Civile l'Influenza delle due fazzioni coinvolte nello scontro viene bloccata; qualsiasi azione intrapresa in favore di una delle due sarà quindi vana.</diV>
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Nota:</b>&nbsp;Durante lo stato di Guerra/Guerra Civile l'Influenza delle due fazioni coinvolte nello scontro viene bloccata; qualsiasi azione intrapresa in favore di una delle due sarà quindi vana.</diV>
 
 <header>
     <h3>Elezioni</h3>
@@ -151,7 +151,7 @@ Tutte le attività non prioritarie saranno sospese fino a nuovo ordine. E' neces
 
 ### Ricchezza e felicità
 
-Due aspetti non sottovalutare sono la ricchezza della Fazione e la felicità dei suoi cittadini.
+Due aspetti da non sottovalutare sono la ricchezza della Fazione e la felicità dei suoi cittadini.
 
 * La ricchezza può aumentare tramite transazioni commerciali legate all'import/export negli spazioporti di nostra proprietà. 
 * La felicità si basa sulla ricchezza e su stati positivi (Boom, Investiment). 
