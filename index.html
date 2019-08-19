@@ -62,7 +62,7 @@ last_modified_at: 2019-04-08
   										<span class="date">{{ post.date | date_to_string }} &nbsp; <i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
 											<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="{{ post.image | prepend:site.baseurl }}" alt="" /></a>
+  									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="/images/blank.png" alt="" data-echo="{{ post.image | prepend:site.baseurl }}" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
   										<li><a href="{{ post.url | prepend:site.baseurl }}" class="button">Continua a leggere</a></li>
@@ -76,7 +76,7 @@ last_modified_at: 2019-04-08
 										<span class="date">{{ post.date | date_to_string }}</span>
 										<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
 									</header>
-									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="{{ post.image | prepend:site.baseurl }}" alt="" /></a>
+									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="/images/blank.png" alt="" data-echo="{{ post.image | prepend:site.baseurl }}" /></a>
 									<p>{{ post.excerpt }}</p>
 									<ul class="actions">
 										<li><a href="{{ post.url | prepend:site.baseurl }}" class="button">Continua a leggere</a></li>
@@ -104,6 +104,9 @@ last_modified_at: 2019-04-08
 		<!-- Scripts -->
 		{% include scripts-main.html %}
    <!-- {% include tracking.html %} -->
+	
+   <!-- Lazy Load -->
+   {% include lazyload.html %}
 
 	</body>
 </html>
