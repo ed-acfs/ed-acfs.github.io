@@ -40,8 +40,10 @@ Raggiunto il 75% di influenza, la Flotta Stellare può espandersi in un altro si
 
 <header>
     <h3>Investment</h3>
-    <p>Si verifica quando fallisce l'espansione; il gioco, per non mantenere in stallo una fazione, aumenta il raggio dell'espansione di 40ly. Si consiglia di vendere dati dell'esplorazione</p>
+    <p>Si verifica dopo il Boom ed il pensiero comune è che rappresenti una sorta di "Super Boom" ma non vi è la sicurezza che il commercio “paghi” doppia influenza.</p>
 </header>
+
+Dalla release 3.3 lo stato Investiment non si presenta più dopo che viene saturato lo spazio di 20 LY dove espandersi, per portarlo a 40 LY. Ad oggi non vi sono informazioni certe sulle specifiche dello stato.
 
 * Durata: è al momento sconosciuta
 
@@ -61,9 +63,9 @@ Raggiunto il 75% di influenza, la Flotta Stellare può espandersi in un altro si
 
 Lo stato di Guerra/Guerra Civile si conclude con una sconfitta o vittoria nelle Conflict Zone (CZ) da parte di una delle due fazioni coinvolte nel conflitto.
 
-* Durata (per entrambi i conflitti): da 4 a 28 giorni.
-* Pending: 3 giorni
-* Cooldown: non esiste, termina alla fine del conflitto.
+* Durata (per entrambi i conflitti): da 5 a 7 giorni
+* Pending: 1 giorno
+* Cooldown: 1 giorno
 
 <div class="box">
 <i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Nota:</b>&nbsp;Durante lo stato di Guerra/Guerra Civile l'Influenza delle due fazioni coinvolte nello scontro viene bloccata; qualsiasi azione intrapresa in favore di una delle due sarà quindi vana.</diV>
