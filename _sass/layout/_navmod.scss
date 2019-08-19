@@ -1,0 +1,62 @@
+nav {
+    overflow: visible;
+    z-index: 1000 !important;
+    .links li {
+      position: relative;
+      > a {
+        position: relative;
+        display: inline-block;
+        padding: 0 10px;
+        text-decoration: none;
+        &:hover {
+          color: #000;
+          border-radius: 2px;
+        }
+        .arrow {
+          position: absolute;
+          width: 10px;
+          height: 10px;
+          top: 35%;
+          text-align: center;
+          right: 10px;
+          border-width: 5px 5px 0 5px;
+          border-style: solid;
+          border-color: rgba(0, 0, 0, 0.3) transparent;
+          &:after {
+            content: "";
+            border-left: 1px solid rgba(0, 0, 0, 0.15);
+            top: -10px;
+            left: -15px;
+            position: absolute;
+            height: 15px;
+          }
+        }
+      }
+      ul {
+        left: 0;
+        margin: 0;
+        background: #fff;
+        border-radius: 2px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+        display: none;
+        > li:hover {
+          background: #9494b8;
+          > a {
+            background: #9494b8;
+            color: #000;
+          }
+        }
+        > li a {
+          color: black;
+        }
+      }
+      > .drop a {
+        color: black !important;
+      }
+      &:hover > .drop {
+        display: block;
+        animation: fadeInRight 0.3s ease;
+        -webkit-animation: fadeInRight 0.3s ease;
+      }
+    }
+  }

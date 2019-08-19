@@ -4,6 +4,40 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti
 last_modified_at: 2019-08-01
 ---
+<style>
+.wrap-collabsible {
+  margin: 0 0 1rem 0;
+}
+input[type='checkbox'] {
+  display: none;
+}
+input[type="checkbox"]+label, input[type="radio"]+label {
+  color: #212931;
+  font-family: "Euro Caps","Source Sans Pro",Helvetica,sans-serif;
+  font-size: 1.25rem;
+  margin: 0 0 1.5rem 0;
+  font-weight: 800;
+  line-height: 1.5;
+  letter-spacing: 0.075em;
+}
+input[type="checkbox"]+label:before { 
+  content: '\f0da';
+  border-color: transparent;
+  position: inherit;
+  background-color: transparent;
+  border-color: transparent;
+  color: #212931;
+  top: .075rem;
+}
+input[type="checkbox"]:checked+label:before {
+  content: '\f0da';
+  background-color: transparent;
+  border-color: transparent;
+  color: #212931;
+  top: .075rem;
+}
+</style>
+
 ## Alto Comando Flotta Stellare
 
 L'Alto Comando Flotta Stellare (**ACFS**)  è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia garantendo loro una casa lontano da casa; per questa ragione l'ingresso è libero e garantito a tutti, basta fare richiesta, in modo da rendere meno solitaria la vastità della galassia di Elite Dangerous. 
@@ -35,19 +69,29 @@ Al momento siamo presenti in questi sistemi:
 |   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
 |	    | Dewikum   	| Corporativo	| 38,738	    | Federazione	| Non Controlato	|
 |	    | 14 Geminorum 	| Democratico	| 36.42 Milioni | Federazione	| Non Controlato	|
+|     | Toog        | Corporativo   | 19,253        | Federazione | Non Controllato |
 
-### Cronologia delle conquiste
-
-* 31 Luglio 3305: La nostra espansione all'interno di 14 Geminorum continua e prendiamo il controllo anche di **Clarke Keep**
-* 24 Luglio 3305: Prendiamo in controllo di **Eisenhower Square**
-* 19 Luglio 3305: Inizia la battaglia per il controllo di **Eisenhower Square** su 14 Geminorum. Obiettivo: vincere!
-* 18 Luglio 3305: Dopo un estenuante lavoro di "convincimento", Flotta Stellare riesce ad entrare a [14 Geminorum](https://inara.cz/galaxy-starsystem/127021/){:target="_blank"}
-* 17 Luglio 3305: Flotta Stellare vince la guerra e prende il controllo di **LHS 1857**, diffondendo democrazia nel sistema!
-* Il 1 Luglio 3305 la **Flotta Stellare** completa l'ennesima espansione e arriva su **Dewikum**
-* Il 31 Giugno 3305 **Flotta Stellare** entra in guerra contro **LHS 1857 Jet Galactic Systems** per il controllo di LHS 1857
-* Il 16 Giugno 3305 la Flotta approda su LHS 1857
-* Nel 9 di Giugno del 3305 la Flotta è pronta per espandersi verso un nuovo sistema
-* Il giorno 2 Giugno dell'anno 3305 la Flotta Stellare completa la sua prima espansione ed approda su [LP 421-7](https://inara.cz/galaxy-starsystem/12435/){:target="_blank"}
+<div class="wrap-collabsible">
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="12u$ lbl-toggle">Cronologia delle Conquiste</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <ul>
+          <li>18 Agosto 3305: Entriamo in punta di piedi a <b>Toog</b></li>
+          <li>31 Luglio 3305: La nostra espansione all'interno di 14 Geminorum continua e prendiamo il controllo anche di <strong>Clarke Keep</strong></li>
+          <li>24 Luglio 3305: Prendiamo in controllo di <strong>Eisenhower Square</strong></li>
+          <li>19 Luglio 3305: Inizia la battaglia per il controllo di <strong>Eisenhower Square</strong> su 14 Geminorum. Obiettivo: vincere!</li>
+          <li>18 Luglio 3305: Dopo un estenuante lavoro di "convincimento", Flotta Stellare riesce ad entrare a <a href="https://inara.cz/galaxy-starsystem/127021/">14 Geminorum</a></li>
+          <li>17 Luglio 3305: Flotta Stellare vince la guerra e prende il controllo di <strong>LHS 1857</strong>, diffondendo democrazia nel sistema!</li>
+          <li>Il 1 Luglio 3305 la <strong>Flotta Stellare</strong> completa l'ennesima espansione e arriva su <strong>Dewikum</strong></li>
+          <li>Il 31 Giugno 3305 <strong>Flotta Stellare</strong> entra in guerra contro <strong>LHS 1857 Jet Galactic Systems</strong> per il controllo di LHS 1857</li>
+          <li>Il 16 Giugno 3305 la Flotta approda su LHS 1857</li>
+          <li>Nel 9 di Giugno del 3305 la Flotta è pronta per espandersi verso un nuovo sistema</li>
+          <li>Il giorno 2 Giugno dell'anno 3305 la Flotta Stellare completa la sua prima espansione ed approda su <a href="https://inara.cz/galaxy-starsystem/12435/">LP 421-7</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ## Come unirsi alla Flotta Stellare
 
@@ -63,6 +107,17 @@ Oppure puoi seguire uno dei collegamenti social qui di seguito:
         <div class="4u$"><span class="image fit"><a href="https://inara.cz/squadron/4750/" class="image fit"><img src="{{ "/images/inara.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Inara" /></a></span></div>
     </div>
 </div>
+
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+
+## Fazioni Italiane Unite
+
+<span class="image fit"><img src="/images/trattato_fazioni_unite.jpg" alt=""></span>
+
+Alto Comando Flotta Stellare aderisce e supporta pienamente le **Fazioni Italiane Unite**, perseguendo i comuni principi di collaborazione ed unità che da sempre hanno contraddistinto la Flotta Stellare.<br>
+F.I.U. unisce tutte le maggiori Fazioni italiane che operano all'interno del mondo di Elite: Dangerous, indipendentemente dal tipo di piattaforma utilizzata
+
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 *Ex Astris, Scientia <br>
 Ubi non est tempus ludere electi*
