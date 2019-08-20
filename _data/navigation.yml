@@ -14,7 +14,7 @@
   url:  /search/
   
 - title: Il Gioco
-  url: '/#'
+  url: '#'
   sublinks:
     - title: Elite Dangerous
       url: /elite/
