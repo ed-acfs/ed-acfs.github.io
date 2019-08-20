@@ -1,17 +1,18 @@
 skyflash:
     name: Cristian Castellari
-    display_name: WiitifulSky
-    about:
-    twitter: BloggerStanco
+    display_name: Cristian Castellari
+    about: "Aloha! Sono Cristian, Ufficiale della Flotta e webmaster a tempo perso. Mi dedico principalmente al BGS della Flotta, aiuto i nuovi confezionando di tanto in tanto biscotti e gestisco il nostro sito"
+    facebook: https://www.facebook.com/cristian.castellari
+    twitter: https://twitter.com/BloggerStanco
     web: https://cristiancastellari.it
-    gravatar: /images/authors/skyflash.png
+    gravatar: /images/authors/me.jpg
 
 wiitifulsky:
     name: Cristian Castellari
     display_name: WiitifulSky
-    about:
+    about: "Aloha! Sono WiitifulSky, Ufficiale della Flotta e webmaster a tempo perso. Mi dedico principalmente al BGS della Flotta, aiuto i nuovi confezionando di tanto in tanto biscotti e gestisco il nostro sito"
     twitter: BloggerStanco
-    web: https://my.playstation.com/profile/WiitifulSky
+    psnid: https://my.playstation.com/profile/WiitifulSky
     gravatar: /images/authors/skyflash.png
 
 scorpion:
@@ -19,7 +20,7 @@ scorpion:
     display_name: Scorpion
     about: "Sono Scorpion, l'Ammiragglio della Flotta. Aiuto tutti i membri dello Squadrone a comprendere al meglio la galassia di Elite Dangerous scrivendo guide e approfondimenti."
     twitter: Flotta_Stellare
-    web: https://my.playstation.com/profile/Scorpion01924
+    psnid: https://my.playstation.com/profile/Scorpion01924
     gravatar: /images/authors/generic.png
 
 cok7sette:
@@ -27,7 +28,7 @@ cok7sette:
     display_name: Cok7Sette
     about:
     twitter: Flotta_Stellare
-    web: https://my.playstation.com/profile/cok7sette
+    psnid: https://my.playstation.com/profile/cok7sette
     gravatar: /images/authors/generic.png
 
 habba-nero:
@@ -35,7 +36,7 @@ habba-nero:
     display_name: Habba-nero
     about: "Sono Habba-Nero un cmdr vecchio e stanco a cui, nella sua ora più buia, un losco figuro con gli occhiali scuri ha offerto una scelta&#58; pillola blu o pillola rossa. Ho scelto la blu, sperando fosse viagra, invece era BGS..."
     twitter: Flotta_Stellare
-    web: https://my.playstation.com/profile/Habba-nero
+    psnid: https://my.playstation.com/profile/Habba-nero
     gravatar: /images/authors/generic.png
 
 capitanoend:
@@ -43,5 +44,5 @@ capitanoend:
     display_name: CapitanoEND
     about: "Sono un vecchio Capitano di fregata, con la passione per tutto ciò che è esplorabile... vuoi che ti faccia visitare le meraviglie della nostra galassia? Ok, sarò il tuo Capitano... ma i buchi neri te li lascio volentieri..."
     twitter: Flotta_Stellare
-    web: https://my.playstation.com/profile/CapitanoEND
+    psnid: https://my.playstation.com/profile/CapitanoEND
     gravatar: /images/authors/capitanoend.jpg

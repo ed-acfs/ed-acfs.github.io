@@ -5,6 +5,8 @@ date:   2019-04-10
 excerpt: "Frontier ha comunicato, un po' a sorpresa, un aggiornamento previsto per il 23 Aprile, che introdurrà tante novità interessanti"
 image: "/images/posts/aprilupdate/AprilUpdate.jpg"
 tags: annunci
+author: skyflash
+last_modified_at: 2019-08-19
 sticky: no
 ---
 Poco fa Will Flanagan, con un [post sul forum ufficiale di Frontier](https://forums.frontier.co.uk/threads/april-update-coming-23-april-2019.508239/), ha annunciato che il prossimo aggiornamento di Elite: Dangerous è imminente e che avrà luogo il 23 Aprile 2019.

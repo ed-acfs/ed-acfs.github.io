@@ -5,6 +5,7 @@ date:   2019-07-31
 excerpt: "Sbloccare gli Ingegneri di Elite Dangerous può essere un lavoro molto lungo e noioso. Vediamo come raggiungere il massimo risultato con il minimo sforzo"
 image: "/images/posts/speedguide-ingegneri/Elite-Dangerous-The-Engineers.jpg"
 tags: guide ingegneri primi-passi tutorial
+author: wiitifulsky
 sticky: no
 ---
 Ciao a tutti, sono il CMDR WiitifulSky, benvenuti. Quella che segue è la nostra guida per sbloccare gli **ingegneri più utili** nel modo più rapido ed indolore possibile, partendo da zero! 

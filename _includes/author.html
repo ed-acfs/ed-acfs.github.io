@@ -11,7 +11,13 @@
         <div id="about-author">{{ author.about }}</div>
      </div>
       <div id="social-author">
-            <a href="{{ author.web }}" target="_blank"><span class="iconify" data-icon="fa-brands:playstation" data-inline="false" style="color:#2e6db4;"></span></a>
+        {% if author.web %}
+            <a href="{{ author.facebook }}" target="_blank"><span class="iconify" data-icon="brandico:facebook-rect" data-inline="false" style="color:#2e6db4;"></span></a>
+            <a href="{{ author.twitter }}" target="_blank"><span class="iconify" data-icon="brandico:twitter-bird" data-inline="false" style="color:#2e6db4;"></span></a>
+            <a href="{{ author.web }}" target="_blank"><span class="iconify" data-icon="ls:web" data-inline="false" style="color:#2e6db4;"></span></a>
+        {% elsif  author.psnid %}
+            <a href="{{ author.psnid }}" target="_blank"><span class="iconify" data-icon="fa-brands:playstation" data-inline="false" style="color:#2e6db4;"></span></a>
+        {% endif %}
       </div>
     </div>
     </div>
