@@ -6,6 +6,7 @@ excerpt: "Seconda parte della guida agli Ingegneri di Elite Dangerous. Vediamo c
 image: "/images/posts/speedguide-ingegneri/Elite-Dangerous-The-Engineers2.jpg"
 tags: guide ingegneri primi-passi tutorial
 author: wiitifulsky
+last_modified_at: 2019-08-21
 sticky: no
 ---
 Ciao a tutti, sono il CMDR WiitifulSky. Quella che segue è la seconda e conclusiva parte della nostra guida agli **Ingegneri di Elite Dangerous**. Se siete arrivati fino a qui probabilmente avete già letto la [prima parte](/blog/speedguide-ingegneri-parte1/), quindi direi di saltare ogni altro cappello introduttivo e passare immediatamente al sodo.
@@ -121,5 +122,7 @@ Qui ti servià un po' di tempo, poiché il tè di Fujin viene venduto ad appena 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 #### Leggi la prima parte: [Come sbloccare gli Ingegneri di Elite Dangerous - Parte 1](/blog/speedguide-ingegneri-parte1/)
+
+#### Leggi l'appendice conclusiva: [Guida agli Ingegneri - Appendice](/blog/speedguide-ingegneri-appendice/)
 
 ##### Riferimenti: [Fox's Step-by-Step Guide to Unlocking Engineers Quickly - Reddit](https://www.reddit.com/r/EliteOne/comments/8bs6g8/foxs_stepbystep_guide_to_unlocking_engineers/){:target="_blank"}
