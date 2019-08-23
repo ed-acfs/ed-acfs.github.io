@@ -6,7 +6,7 @@ skyflash:
     twitter: https://twitter.com/BloggerStanco
     web: https://cristiancastellari.it
     psnid: https://my.playstation.com/profile/WiitifulSky
-    gravatar: /images/authors/me.jpg
+    picture: /images/authors/me.jpg
 
 wiitifulsky:
     name: Cristian Castellari
@@ -16,7 +16,7 @@ wiitifulsky:
     twitter: https://twitter.com/BloggerStanco
     web: https://cristiancastellari.it
     psnid: https://my.playstation.com/profile/WiitifulSky
-    gravatar: /images/authors/skyflash.png
+    picture: /images/authors/skyflash.png
 
 scorpion:
     name: Bernardino de Mare
@@ -24,7 +24,7 @@ scorpion:
     about: "Sono Scorpion, l'Ammiragglio della Flotta. Aiuto tutti i membri dello Squadrone a comprendere al meglio la galassia di Elite Dangerous scrivendo guide e approfondimenti."
     twitter: Flotta_Stellare
     psnid: https://my.playstation.com/profile/Scorpion01924
-    gravatar: /images/authors/generic.png
+    picture: /images/authors/generic.png
 
 cok7sette:
     name: Enrico Orrico
@@ -32,7 +32,7 @@ cok7sette:
     about:
     twitter: Flotta_Stellare
     psnid: https://my.playstation.com/profile/cok7sette
-    gravatar: /images/authors/generic.png
+    picture: /images/authors/generic.png
 
 habba-nero:
     name: Labbaneo
@@ -40,7 +40,7 @@ habba-nero:
     about: "Sono Habba-Nero un cmdr vecchio e stanco a cui, nella sua ora più buia, un losco figuro con gli occhiali scuri ha offerto una scelta&#58; pillola blu o pillola rossa. Ho scelto la blu, sperando fosse viagra, invece era BGS..."
     twitter: Flotta_Stellare
     psnid: https://my.playstation.com/profile/Habba-nero
-    gravatar: /images/authors/generic.png
+    picture: /images/authors/generic.png
 
 capitanoend:
     name: CapitanoEND
@@ -48,4 +48,4 @@ capitanoend:
     about: "Sono un vecchio Capitano di fregata, con la passione per tutto ciò che è esplorabile... vuoi che ti faccia visitare le meraviglie della nostra galassia? Ok, sarò il tuo Capitano... ma i buchi neri te li lascio volentieri..."
     twitter: Flotta_Stellare
     psnid: https://my.playstation.com/profile/CapitanoEND
-    gravatar: /images/authors/capitanoend.jpg
+    picture: /images/authors/capitanoend.jpg
