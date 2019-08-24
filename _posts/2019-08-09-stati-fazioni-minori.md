@@ -49,7 +49,7 @@ Dalla release 3.3 lo stato Investiment non si presenta più dopo che viene satur
 
 <header>
     <h3>Bust (recessione economica)</h3>
-    <p>Per risollevare l'economia bisogna vedere dati derivati dal l'esplorazione ed effettuare import, similmente allo stato Boom</p>
+    <p>Per risollevare l'economia bisogna vendere dati derivati dall'esplorazione ed effettuare import, similmente allo stato Boom</p>
 </header>
 
 * Durata: da 3 a 28 giorni
