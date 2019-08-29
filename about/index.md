@@ -2,7 +2,7 @@
 layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti
-last_modified_at: 2019-08-19
+last_modified_at: 2019-08-29
 ---
 <style>
 .wrap-collabsible {
@@ -49,7 +49,7 @@ Le nostre attività ed interessi sono rivolte a tutte le opportunità che l'univ
 - Commercio 
 - Bounty hunting 
 - Esplorazione
-- Xeno ricerca 
+- Xeno ricerca
 - Xeno hunting
   
 Inoltre organizziamo piccoli campionati CQC, corse attraverso i canyon e rally con i nostri amati SRV!<br>
@@ -66,8 +66,8 @@ Al momento siamo presenti in questi sistemi:
 |:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
 | 👑 	| Wong Sher 	| Democratico  	| 90,049        | Indipendente 	| Controllato     	|
 |   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
+|	    | Dewikum   	| Democratico	| 38,738	        | Indipendente	|  Controlato	|
 |   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
-|	    | Dewikum   	| Corporativo	| 38,738	    | Federazione	| Non Controlato	|
 |	    | 14 Geminorum 	| Democratico	| 36.42 Milioni | Federazione	| Non Controlato	|
 |     | Toog        | Corporativo   | 19,253        | Federazione | Non Controllato |
 
@@ -77,6 +77,7 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>28 Agosto 3305: Nel nome dell'Imperatore del Sistema, Flotta Stellare acquisisce il controllo di Dewikum, riscendo ad imporre la propria idea di Democrazia ed offrendo biscotti a tutti gli abitanti per festeggiare l'evento</li>
           <li>18 Agosto 3305: Entriamo in punta di piedi a <b>Toog</b></li>
           <li>31 Luglio 3305: La nostra espansione all'interno di 14 Geminorum continua e prendiamo il controllo anche di <strong>Clarke Keep</strong></li>
           <li>24 Luglio 3305: Prendiamo in controllo di <strong>Eisenhower Square</strong></li>
