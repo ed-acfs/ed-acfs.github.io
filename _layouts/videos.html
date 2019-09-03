@@ -35,7 +35,7 @@
 						<h2>Video in Evidenza</h2>
 						{% assign latestvideo = site.data.videos | sort: 'pubDate' | reverse %}
 						{% for video in latestvideo limit:1 %}
-						<div class="video-container">
+						<div class="video-container" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
 								<iframe 
 									id="ytplayer" width="560" height="315" 
 									src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent" 
@@ -60,7 +60,7 @@
 									</div>
 							 </div>
 					
-								<div class="video-container" style="display:none;">
+								<div class="video-container" style="display:none;" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
 									<iframe 
 										width="560" height="315" 
 										src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=1&amp;wmode=transparent" 
