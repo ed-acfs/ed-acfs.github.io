@@ -2,6 +2,7 @@ skyflash:
     name: Cristian Castellari
     display_name: Cristian Castellari
     about: "Aloha! Sono Cristian, Ufficiale della Flotta e webmaster a tempo perso. Mi dedico principalmente al BGS della Flotta, aiuto i nuovi confezionando di tanto in tanto biscotti e gestisco il nostro sito"
+    inara: https://inara.cz/cmdr/132146/
     facebook: https://www.facebook.com/cristian.castellari
     twitter: https://twitter.com/BloggerStanco
     web: https://cristiancastellari.it
@@ -11,6 +12,7 @@ skyflash:
 wiitifulsky:
     name: Cristian Castellari
     display_name: WiitifulSky
+    inara: https://inara.cz/cmdr/132146/
     about: "Aloha! Sono WiitifulSky, Ufficiale della Flotta e webmaster a tempo perso. Mi dedico principalmente al BGS della Flotta, aiuto i nuovi confezionando di tanto in tanto biscotti e gestisco il nostro sito"
     facebook: https://www.facebook.com/cristian.castellari
     twitter: https://twitter.com/BloggerStanco
@@ -49,3 +51,12 @@ capitanoend:
     twitter: Flotta_Stellare
     psnid: https://my.playstation.com/profile/CapitanoEND
     picture: /images/authors/capitanoend.jpg
+
+bigbadshow:
+    name: BigBadShow80
+    display_name: BigBadShow80
+    about: "Sono l'Ammiraglio Federale BigBadShow80 e navigo nella galassia di Elite Dangerous dal day one su PS4. Durante la mia carriera da viaggiatore dello spazio ho avuto modo di approfondire esplorazione e combattimento, portando le mie navi ai massimi livelli e cercando sempre di migliorarle ulteriormente. Trovo affascinante l'ingegnerizzazione e come funzionano le meccaniche. Detesto servire setup per navi preconfezionate ma preferisco donare agli altri comandanti le conoscenze per cucirsi addosso la nave perfetta per le loro esigenze"
+    inara: https://inara.cz/cmdr/141183/
+    twitter: Flotta_Stellare
+    psnid: https://my.playstation.com/profile/BigBadShow80
+    picture: /images/authors/big.jpg

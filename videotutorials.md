@@ -6,6 +6,8 @@ image: /images/videodelcock.png
 author: cok7sette
 seo:
     type: VideoObject
+    name: "Video Tutorials di Elite Dangerous, in Italiano, by COK7SETTE"
+    links: https://www.youtube.com/channel/UCm_5BwEeZyzvildWQ73u0IQ
     date_modified: 2019-09-03
 sitemap:
     priority: 0.8
