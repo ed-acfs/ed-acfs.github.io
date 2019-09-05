@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Engineering Workshop: Capitolo 2 - Il Frame Shift Drive"
-date:   2019-09-04
+date:   2019-09-05
 excerpt: "Il secondo capitolo della nostra guida agli Ingegneri di Elite Dangerous - Conosciamo il FSD"
 image: "/images/posts/engineers-workshop/felicity_farseer.jpg"
 tags: guide ingegneri tutorial
 author: bigbadshow
+last_modified_at: 2019-09-05
 sticky: no
 ---
 Comandanti O7,<br>

@@ -6,6 +6,7 @@ excerpt: "Gli Ingegneri di Elite Dangerous, questi sconosciuti. Grazie alla nost
 image: "/images/posts/engineers-workshop/xT9DHXV.png"
 tags: guide ingegneri tutorial
 author: bigbadshow
+last_modified_at: 2019-09-05
 sticky: no
 ---
 >Comandanti O7,<br>
