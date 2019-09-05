@@ -79,4 +79,4 @@ Questa piccola frase racchiude lo spirito dell'ingegnerizzazione. Ci sono tante 
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-#### Fine della prima parte. Continuate a seguirci con i prossimi capitoli
+#### Prosegui la lettura: [Engineering Workshop: Capitolo 2 - Il Frame Shift Drive](/blog/engineering-workshop-parte2/)

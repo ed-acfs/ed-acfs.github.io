@@ -19,7 +19,7 @@
 			(sdict "name" "Link Inara" "value" $inara "inline" false) 
 			(sdict "name" "Link al sito web" "value" $website "inline" false) 
 			(sdict "name" "La nostra pagina Facebook" "value" $fbpage "inline" false) 
-			(sdict "name" "Member Count" "value" (toString .Guild.MemberCount) "inline" true) 
+			(sdict "name" "Quanti Siamo" "value" (toString .Guild.MemberCount) "inline" true) 
 			(sdict "name" "Home System" "value" $homesystem "inline" true) 
 			(sdict "name" "Guild ID" "value" (toString .Guild.ID) "inline" true)) 
 			"author" 
