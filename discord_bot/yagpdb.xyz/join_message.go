@@ -1,4 +1,4 @@
-/* Custom Embed di saluto ai nuovi utenti entrati sul server */
+{{/* Custom Embed di saluto ai nuovi utenti entrati sul server */}}
 
 {{ $icon := (joinStr "" "https://cdn.discordapp.com/icons/" (toString .Guild.ID) "/" .Guild.Icon ".png") }}
 {{ $inara := "https://inara.cz/squadron/4750/"}}
@@ -29,6 +29,7 @@
 				(sdict "text" "YAGPDB.xyz, il tuo assistente virtuale di fiducia" "icon_url" "https://cdn.discordapp.com/avatars/204255221017214977/2fa57b425415134d4f8b279174131ad6.png") 
 			"timestamp"  currentTime}}
 
-{{$ref_append := sendMessageNoEscapeRetID nil (joinStr "" "o7 "  .User.Mention ", benvenuto!")}} /* Tagga l'utente appena entrato sul server */
+{{/* Tagga l'utente appena entrato sul server */}}
+{{$ref_append := sendMessageNoEscapeRetID nil (joinStr "" "o7 "  .User.Mention ", benvenuto!")}} 
 
 {{ sendMessage nil $embed }}
