@@ -65,7 +65,7 @@ Come per i livelli 7 e 8 sono presenti **4 esploratori** Thargoid e un intercett
 
 Per poter affrontare al meglio i livelli sopra citati è preferibile avere:
 
-* Armenti Guardian
+* Armamenti Guardian
 * Scafo e Scudi **rinforzati**
 * Limpet di **decontaminazione**
 * Neutralizzatore EMP (Shotdown Field Neutralizer)
