@@ -4,9 +4,6 @@
 {{ $inara := "https://inara.cz/squadron/4750/"}}
 {{ $website := "https://flottastellare.it" }}
 {{ $fbpage := "https://www.facebook.com/Altocomandoflottastellare"}}
-{{ $advice := (execAdmin "advice") }}
-{{ $topic := (execAdmin "topic") }}
-{{ $catfact := (execAdmin "catfact") }}
 {{ $homesystem := "Wong Sher" }}
 {{ $avatar := (joinStr "" "https://cdn.discordapp.com/avatars/" (toString .User.ID) "/" .User.Avatar ".png") }}
 
