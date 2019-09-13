@@ -6,7 +6,7 @@ excerpt: "Il secondo capitolo della nostra guida agli Ingegneri di Elite Dangero
 image: "/images/posts/engineers-workshop/felicity_farseer.jpg"
 tags: guide ingegneri tutorial
 author: bigbadshow
-last_modified_at: 2019-09-05
+last_modified_at: 2019-09-12
 sticky: no
 ---
 Comandanti O7,<br>
@@ -238,4 +238,4 @@ Le combinazioni sono infinite e solamente testando queste modifiche sarà possib
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-#### Fine della seconda parte. Continuate a seguirci con i prossimi capitoli
+#### Prosegui la lettura: [Engineering Workshop: Capitolo 3 - Power Plant](/blog/engineering-workshop-parte3)
