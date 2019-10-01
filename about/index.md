@@ -68,6 +68,7 @@ Al momento siamo presenti in questi sistemi:
 |	    | 14 Geminorum 	| Democratico	| 36.42 Milioni | Federazione	|  Controlato	|
 |   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
 |	    | Dewikum   	| Democratico	| 38,738	        | Indipendente	|  Controlato	|
+|     | LHS 6103    | Democratico   | 28,482        | Indipendente | Non Controllato |
 |   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
 |     | Toog        | Corporativo   | 19,253        | Federazione | Non Controllato |
 
@@ -77,6 +78,7 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>1 Ottobre 3305: Flotta Stellare completa la sua sesta espansione ed approda su LHS 6103, sistema che ci troveremo a dover condividere con alcuni vicini di casa. I nostri amabasciatori andranno ad offrire loro un comodo bidet in segno di pace</li>
           <li>1 Settembre 3305: Flotta Stellare, dopo un periodo elettorale complicato e combattuto, riesce ad ottenere il controllo totale di <b>14 Geminorum</b>, estendendo la propria idea di governo ad oltre 36 milioni di abitanti</li>
           <li>28 Agosto 3305: Nel nome dell'Imperatore del Sistema, Flotta Stellare acquisisce il controllo di Dewikum, riscendo ad imporre la propria idea di Democrazia ed offrendo biscotti a tutti gli abitanti per festeggiare l'evento</li>
           <li>18 Agosto 3305: Entriamo in punta di piedi a <b>Toog</b></li>
