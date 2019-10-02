@@ -129,7 +129,7 @@ Abbiamo la bellezza di **sette ingegneri** che si prodigano nella modifica di qu
 | **Lori Jameson**      | **G5**            |
 | Tiana Fortune         | G5                |
 
-Chi consigliare? Difficile a dirsi perché dipende anche da quali e quanti ingegneri avete sbloccato e quali modifiche avete pinnato. Supponendo di aver fatto il viaggio a Colonia per sgravare la beneamata Lori Jameson del compito di ingegnerizzare Life Support e Shield Cell Banks e che abbiate almeno un livello Elite in un delle discipline, l'ideale potrebbe essere proprio la Signora in questione anche se **Shinrarta Dezhra** è tristemente famoso per l'eccessiva presenza di ganker e psicolabili che hanno necessità di ricordare la loro mascolinità con azioni deplorevoli. Altrimenti, viabile, è anche Lei Cheung che ha il vantaggio di ingegnerizzare in G5 anche gli Shield Generators.
+Chi consigliare? Difficile a dirsi perché dipende anche da quali e quanti ingegneri avete sbloccato e quali modifiche avete pinnato. Supponendo di aver fatto il viaggio a Colonia per sgravare la beneamata [Lori Jameson](/blog/speedguide-ingegneri-appendice/#lori-jameson) del compito di ingegnerizzare Life Support e Shield Cell Banks e che abbiate almeno un livello Elite in un delle discipline, l'ideale potrebbe essere proprio la Signora in questione anche se **Shinrarta Dezhra** è tristemente famoso per l'eccessiva presenza di ganker e psicolabili che hanno necessità di ricordare la loro mascolinità con azioni deplorevoli. Altrimenti, viabile, è anche [Lei Cheung](/blog/speedguide-ingegneri-parte1/#sesto-passo-lei-cheung) che ha il vantaggio di ingegnerizzare in G5 anche gli Shield Generators.
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
