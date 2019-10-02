@@ -6,7 +6,7 @@ excerpt: "Il terzo capitolo della nostra guida agli Ingegneri di Elite Dangerous
 image: "/images/posts/engineers-workshop/engineers-page-ed3-0.jpg"
 tags: guide ingegneri tutorial
 author: bigbadshow
-last_modified_at: 2019-09-13
+last_modified_at: 2019-10-02
 sticky: no
 ---
 In questo nuovo capitolo andremo a trattare di una componente estremamente delicata e fondamentale delle nostre navi, che viene spesso male interpretata e, altrettanto spesso, genera confusione soprattutto tra i giovani Comandanti. L'obiettivo è quello di capire bene il suo funzionamento e come l'ingegnerizzazione vada a modificare le sue peculiarità, analizzandone vantaggi e svantaggi.
@@ -291,4 +291,4 @@ Al prossimo appuntamento!
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-#### Fine della terza parte. Continuate a seguirci con i prossimi capitoli
+#### Prosegui la lettura: [Engineering Workshop: Capitolo 4 - Sensors & Life Support](/blog/engineering-workshop-parte4/)
