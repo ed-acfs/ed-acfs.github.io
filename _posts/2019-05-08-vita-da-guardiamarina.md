@@ -5,6 +5,7 @@ date:   2019-05-08
 excerpt: "Perché giocare ad Elite Dangerous nella Flotta Stellare è così divertente? La risposta è semplice: We share our cookies!"
 image: "/images/wehavecookies_vette.jpg"
 tags: flotta-stellare esperienze
+last_modified_at: 2019-11-05
 sticky: no
 ---
 > O7 CMDRs! Sono [Cok7sette](https://my.playstation.com/profile/cok7sette){:target="_blank"}, Contrammiraglio della Flotta e vorrei condividere con voi alcuni aspetti della vita nello squadrone migliore della galassia!
@@ -67,5 +68,7 @@ Ecco qualche testimonianza diretta...
 <span class="image fit"><img src="/images/posts/vita-da-guardiamarina/wiitiful.jpg" alt="WiitifulSky: Da quando sono qui ho ritrovato il gusto per il gioco online" title=" Da quando sono qui ho ritrovato il gusto per il gioco online"></span>
 
 <span class="image fit"><img src="/images/posts/vita-da-guardiamarina/illuminati_delly.jpg" alt="Illuminati_Delly: Dopo tutto questo tempo è davvero un piacere avere un posto da chiamare CASA su Elite: Ormai è così che mi sento quando arrivo a Wong Sher" title=" è davvero un piacere avere un posto da chiamare CASA su Elite: Ormai è così che mi sento quando arrivo a Wong Sher"></span>
+
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/xarder.png" alt="devo dire che questo squadrone è il migliore, gestito alla perfezione, educazione e maturità, e con gente sempre pronta ad aiutare" title="devo dire che questo squadrone è il migliore, gestito alla perfezione, educazione e maturità, e con gente sempre pronta ad aiutare"></span>
 
 Quindi, cosa aspetti? Se anche tu sei in cerca di divertimento in Elite: Dangerous, [entra in Flotta Stellare](/about/){:target="_blank"} e vieni a giocare con noi!
