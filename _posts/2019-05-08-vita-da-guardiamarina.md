@@ -69,6 +69,6 @@ Ecco qualche testimonianza diretta...
 
 <span class="image fit"><img src="/images/posts/vita-da-guardiamarina/illuminati_delly.jpg" alt="Illuminati_Delly: Dopo tutto questo tempo è davvero un piacere avere un posto da chiamare CASA su Elite: Ormai è così che mi sento quando arrivo a Wong Sher" title=" è davvero un piacere avere un posto da chiamare CASA su Elite: Ormai è così che mi sento quando arrivo a Wong Sher"></span>
 
-<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/xarder.jpg" alt="devo dire che questo squadrone è il migliore, gestito alla perfezione, educazione e maturità, e con gente sempre pronta ad aiutare" title="devo dire che questo squadrone è il migliore, gestito alla perfezione, educazione e maturità, e con gente sempre pronta ad aiutare"></span>
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/xarder.jpg" alt="Xarder: devo dire che questo squadrone è il migliore, gestito alla perfezione, educazione e maturità e con gente sempre pronta ad aiutare" title="devo dire che questo squadrone è il migliore, gestito alla perfezione, educazione e maturità"></span>
 
-Quindi, cosa aspetti? Se anche tu sei in cerca di divertimento in Elite: Dangerous, [entra in Flotta Stellare](/about/){:target="_blank"} e vieni a giocare con noi!
+Quindi, cosa aspetti? Se anche tu sei in cerca di divertimento in Elite Dangerous, [entra in Flotta Stellare](/about/){:target="_blank"} e vieni a giocare con noi!
