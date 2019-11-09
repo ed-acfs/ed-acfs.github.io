@@ -78,6 +78,7 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+	  <li>9 Novembre 3305: La Flotta Stellare è riuscita, grazie al proprio ambasciatore, ad inserirsi nel sistema LTT 12033. Il prossimo obiettivo è ottenere il pieno controllo del sistema</li>
           <li>1 Ottobre 3305: Flotta Stellare completa la sua sesta espansione ed approda su LHS 6103, sistema già controllato da un’altra fazione e con cui dovremo coabitare. Vista la particolare nazionalità dei nuovi vicini di casa, Flotta Stellare ha affidato ai propri ambasciatori uno speciale compito: offrire loro un comodo bidet in segno di pace</li>
           <li>1 Settembre 3305: Flotta Stellare, dopo un periodo elettorale complicato e combattuto, riesce ad ottenere il controllo totale di <b>14 Geminorum</b>, estendendo la propria idea di governo ad oltre 36 milioni di abitanti</li>
           <li>28 Agosto 3305: Nel nome dell'Imperatore del Sistema, Flotta Stellare acquisisce il controllo di Dewikum, riscendo ad imporre la propria idea di Democrazia ed offrendo biscotti a tutti gli abitanti per festeggiare l'evento</li>
