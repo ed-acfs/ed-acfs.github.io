@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Approfondimento: I segnali &quot;Non Umani&quot;"
+title:  "Approfondimento: I segnali 'Non Umani'"
 date:   2019-09-12
 excerpt: "I Non Human Signal Sources ci indicano un possibile incontro con i Thargoids. Conosciamo meglio questa tipologia di segnali"
 image: "/images/medusa.jpg"
 tags: lore-di-elite thargoids
+last_modified_at: 2019-11-20
 author: scorpion
 sticky: no
 ---
