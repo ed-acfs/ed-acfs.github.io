@@ -2,7 +2,7 @@
 layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti
-last_modified_at: 2019-11-20
+last_modified_at: 2019-11-25
 ---
 <style>
 .wrap-collabsible {
@@ -65,12 +65,13 @@ Al momento siamo presenti in questi sistemi:
 | 👑 	| Sistema   	| Governo      	| Popolazione 	| Alleanza     	| Stato           	|
 |:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
 | 👑 	| Wong Sher 	| Democratico  	| 90,049        | Indipendente 	| Controllato     	|
-|	    | 14 Geminorum 	| Democratico	| 36.42 Milioni | Federazione	|  Controlato	|
+|	    | 14 Geminorum 	| Democratico	| 36.42 Milioni | Indipendente	|  Controlato     	|
+|   	| LTT 12033  	| Democratico 	| 118,987      	| Indipendente 	|  Controllato    	|
 |   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
 |	    | Dewikum   	| Democratico	| 38,738	        | Indipendente	|  Controlato	|
-|   	| LTT 12033  	| Democratico 	| 118,987      	| Indipendente 	| Non Controllato    	|
 |   	| LP 308-10  	| Dittatoriale 	| 85,846      	| Indipendente 	| Non Controllato    	|
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente | Non Controllato |
+|     | Wolf 289    | Confederale   | 27,645        | Federazione  | Non Controllato  |
 |   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
 |     | Toog        | Corporativo   | 19,253        | Federazione | Non Controllato |
 
@@ -80,6 +81,7 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>24 Novembre 3305: grazie al lavoro di tutti i reparti della Flotta Stellare, oggi si celebra un doppio colpo! Nello stesso giorno, completiamo la nostra <b>nona espansione</b>, approdando su <b>Wolf 289</b> e diventiamo la Fazione dominante su <b>LTT 12033</b>, prendendone quindi il pieno controllo!</li>
           <li>9 Novembre 3305: Le nostre mire espansionistiche non si fermano. Oggi siamo approdati su <b>LTT 12033</b>. Il nostro obiettivo per questo sistema è semplice: consolidare la nostra presenza fino al suo controllo totale!</lI>
           <li>1 Ottobre 3305: Flotta Stellare completa la sua sesta espansione ed approda su LHS 6103, sistema già controllato da un’altra fazione e con cui dovremo coabitare. Vista la particolare nazionalità dei nuovi vicini di casa, Flotta Stellare ha affidato ai propri ambasciatori uno speciale compito: offrire loro un comodo bidet in segno di pace</li>
           <li>1 Settembre 3305: Flotta Stellare, dopo un periodo elettorale complicato e combattuto, riesce ad ottenere il controllo totale di <b>14 Geminorum</b>, estendendo la propria idea di governo ad oltre 36 milioni di abitanti</li>
