@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2019-11-25
+last_modified_at: 2019-12-15
 ---
 <style>
 .wrap-collabsible {
@@ -70,9 +70,9 @@ Al momento siamo presenti in questi sistemi:
 |   	| LTT 12033  	| Democratico 	| 118,987      	| Indipendente 	|  Controllato    	|
 |   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
 |	    | Dewikum   	| Democratico	| 38,738	        | Indipendente	|  Controlato	|
+|     | LHS 6103    | Democratico   | 28,482        | Indipendente |  Controllato |
 |     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato   |
 |   	| LP 308-10  	| Dittatoriale 	| 85,846      	| Indipendente 	| Non Controllato    	|
-|     | LHS 6103    | Democratico   | 28,482        | Indipendente | Non Controllato |
 |     | Wolf 289    | Confederale   | 27,645        | Federazione  | Non Controllato  |
 |   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
 |     | Toog        | Corporativo   | 19,253        | Federazione | Non Controllato |
