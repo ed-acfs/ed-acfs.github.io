@@ -5,6 +5,7 @@ date:   2020-01-22
 excerpt: "Stare in esplorazione per mesi, lontano da casa. Un'esperienza pesante per chiunque, ma NON un CMDR della Flotta"
 image: "/images/posts/casa-lontana/PS_Communities_20200125_232210.jpg"
 tags: flotta-stellare racconti esplorazione
+author: soglioletta
 sticky: no
 ---
 <div class="box alt">
