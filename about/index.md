@@ -71,7 +71,7 @@ Al momento siamo presenti in questi sistemi:
 |   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
 |	    | Dewikum   	| Democratico	| 38,738	        | Indipendente	|  Controlato	|
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente |  Controllato |
-|     | Wolf 289    | Confederale   | 27,645        | Federazione  |  Controllato  |
+|     | Wolf 289    | Democratico   | 27,645        | Indipendente |  Controllato  |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente |  Non Controlalto  |
 |     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato   |
 |     | Julanggarri | Dittatoriale   | 10,60 Milioni | Indipendente | Non Controllato   |
