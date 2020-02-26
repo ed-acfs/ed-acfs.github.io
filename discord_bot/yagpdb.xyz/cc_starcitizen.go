@@ -1,0 +1,2 @@
+{{ $embed := cembed "title" "Interessante 'sto gioco! Parlamene pure, non immagini quanto mi interessi..." "image" (sdict "url" "https://media.giphy.com/media/l378fAEzVybK1OPYI/giphy.gif")  }}
+{{  sendMessage nil $embed }}

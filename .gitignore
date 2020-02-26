@@ -2,6 +2,7 @@ _site
 _old
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 .idea
 .DS_Store
 node_modules
