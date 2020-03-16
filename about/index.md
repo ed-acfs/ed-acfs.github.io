@@ -67,14 +67,15 @@ Al momento siamo presenti in questi sistemi:
 |:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
 | 👑 	| Wong Sher 	| Democratico  	| 90,049        | Indipendente 	| Controllato     	|
 |	    | 14 Geminorum 	| Democratico	| 36.42 Milioni | Indipendente	|  Controlato     	|
+|     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente |  Controllato   |
 |   	| LTT 12033  	| Democratico 	| 118,987      	| Indipendente 	|  Controllato    	|
 |   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
 |	    | Dewikum   	| Democratico	| 38,738	        | Indipendente	|  Controlato	|
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente |  Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente |  Controllato  |
+|     | Susanoo     | Democratico   | 2644 | Indipendente |  Controllato   |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente |  Non Controlalto  |
 |     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato   |
-|     | Julanggarri | Dittatoriale   | 10,60 Milioni | Indipendente | Non Controllato   |
 |   	| LP 308-10  	| Dittatoriale 	| 85,846      	| Indipendente 	| Non Controllato    	|
 |   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
 |     | Toog        | Corporativo   | 19,253        | Federazione | Non Controllato |
@@ -85,6 +86,9 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>15 Marzo 3306: Flotta Stellare vince la guerra a Susanoo e ne acquisisce il controllo. Susanoo è il <b>nono sistema</b> sotto il nostro governo</li>
+          <li>10 Marzo 3306: Ci espandiamo verso <b>Susanoo</b>, un piccolo sistema di grande importanza strategica</b>
+          <li>4 Marzo 3306: La Flotta esce vincitrice dalla guerra per Julanggarri e ne acquisisce quindi il controllo. Julanggarri diventa <b>l'ottavo sistema sotto il nostro controllo diretto</b></li>
           <li>22 Febbraio 3306: In seguito ad una complessa operazione di intelligence, la Flotta approda a <b>Julanggarri</b>, decisa a conquistare il sistema</li>
           <li>10 Dicembre 3305: La Flotta riesce ad entrare a <b>NLTT 18561</b>. Obiettivo: prendere il pieno controllo del sistema!</lI>
           <li>24 Novembre 3305: grazie al lavoro di tutti i reparti della Flotta Stellare, oggi si celebra un doppio colpo! Nello stesso giorno, completiamo la nostra <b>nona espansione</b>, approdando su <b>Wolf 289</b> e diventiamo la Fazione dominante su <b>LTT 12033</b>, prendendone quindi il pieno controllo!</li>
