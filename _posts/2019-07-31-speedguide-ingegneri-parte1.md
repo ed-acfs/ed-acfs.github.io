@@ -6,6 +6,7 @@ excerpt: "Sbloccare gli Ingegneri di Elite Dangerous può essere un lavoro molto
 image: "/images/posts/speedguide-ingegneri/Elite-Dangerous-The-Engineers.jpg"
 tags: guide ingegneri primi-passi tutorial
 author: wiitifulsky
+last_modified_at: 2020-03-30
 sticky: no
 ---
 Ciao a tutti, sono il CMDR WiitifulSky, benvenuti. Quella che segue è la nostra guida per sbloccare gli **ingegneri più utili** nel modo più rapido ed indolore possibile, partendo da zero! 
@@ -80,7 +81,12 @@ Requisiti:
 
 Prendi la tua migliore nave esplorativa e pianifica un percorso a **5.000 LY** dal tuo sistema di partenza. Dovrai perlomeno fare un honk su ciascun sistema che attraversi, ma considera anche di fare alcune scansioni con Detailed Surface Scanner, che aiuteranno il progresso generale di questa guida.
 
-Una volta che sei alla fine del percorso, seleziona il tuo sistema di partenza per assicurarti che sia a più di 5.000 LY di distanza, quindi vai al sistema **Procyon**. Vendi i tuoi dati in una stazione di proprietà della Sirius Corporation fino a quando non ricevi l'invito per **Sirius** ed acquisisci il relativo permesso. Quindi vai a **78 Ursae Majoris** e consegna i dati rimanenti ad una stazione di proprietà degli **Alioth Independents**. Da qui, verifica di avere almeno 30 tonnellate di capacità di carico, acquista una commodity qualsiasi dal Market (quale sia non è importante, quindi acquista la più economica che trovi) e partecipa ad una missione di Data Delivery, preferibilmente con una ricompensa in Modular Terminals.
+Una volta che sei alla fine del percorso, seleziona il tuo sistema di partenza per assicurarti che sia a più di 5.000 LY di distanza, quindi vai al sistema **Procyon**. Vendi i tuoi dati in una stazione di proprietà della Sirius Corporation fino a quando non ricevi l'invito per **Sirius** ed acquisisci il relativo permesso. 
+
+<div class="box">
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Attenzione!</b>&nbsp;l'invito arriva sotto forma di <b>missione</b>, <u>solo dopo che sarai diventato <b>Friendly</b></u> con la Sirius Corporation)</div>
+
+Quindi vai a **78 Ursae Majoris** e consegna i dati rimanenti ad una stazione di proprietà degli **Alioth Independents**. Da qui, verifica di avere almeno 30 tonnellate di capacità di carico, acquista una commodity qualsiasi dal Market (quale sia non è importante, quindi acquista la più economica che trovi) e partecipa ad una missione di Data Delivery, preferibilmente con una ricompensa in Modular Terminals.
 
 Una volta atterrato al termine della missione di Data Delivery vendi la merce economica ed acquistane una nuova. Prendi una nuova missione di Data Delivery per Modular Terminals, e continua a ripetere lo stesso loop fino a quando non avrai un totale di 25 Modular Terminals. Questo ti aiuterà lungo la strada con **Lei Cheung**, oltre a sbloccare Qwent.
 
