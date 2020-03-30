@@ -87,7 +87,7 @@ Al momento siamo presenti in questi sistemi:
     <div class="content-inner">
       <ul>
           <li>15 Marzo 3306: Flotta Stellare vince la guerra a Susanoo e ne acquisisce il controllo. Susanoo è il <b>nono sistema</b> sotto il nostro governo</li>
-          <li>10 Marzo 3306: Ci espandiamo verso <b>Susanoo</b>, un piccolo sistema di grande importanza strategica</b>
+          <li>10 Marzo 3306: Ci espandiamo verso <b>Susanoo</b>, un piccolo sistema di grande importanza strategica</li>
           <li>4 Marzo 3306: La Flotta esce vincitrice dalla guerra per Julanggarri e ne acquisisce quindi il controllo. Julanggarri diventa <b>l'ottavo sistema sotto il nostro controllo diretto</b></li>
           <li>22 Febbraio 3306: In seguito ad una complessa operazione di intelligence, la Flotta approda a <b>Julanggarri</b>, decisa a conquistare il sistema</li>
           <li>10 Dicembre 3305: La Flotta riesce ad entrare a <b>NLTT 18561</b>. Obiettivo: prendere il pieno controllo del sistema!</lI>
