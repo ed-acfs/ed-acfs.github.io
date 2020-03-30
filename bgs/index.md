@@ -2,6 +2,7 @@
 layout: page
 title: BGS - Background Simulation
 description: Cosa è la Background Simulation (BGS) Di Elite Dangerous e come far si che la propria fazione si possa espndare all'interno del mondo di gioco
+image: /images/logo_843x885.png
 last_modified_at: 2019-04-09
 ---
 ## Cosa è la BGS
