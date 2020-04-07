@@ -76,6 +76,7 @@ Al momento siamo presenti in questi sistemi:
 |     | Susanoo     | Democratico   | 2644 | Indipendente |  Controllato   |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente |  Non Controlalto  |
 |     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato   |
+|     | Nandjabinja | Anarchico  | 3,46 Milioni | Indipendente |  Non Controlalto  |
 |   	| LP 308-10  	| Dittatoriale 	| 85,846      	| Indipendente 	| Non Controllato    	|
 |   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
 |     | Toog        | Corporativo   | 19,253        | Federazione | Non Controllato |
@@ -86,6 +87,7 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>6 Aprile 3306: Le operazioni sotto copertura compiute dalle nostre forze TSD ci ha consentito di entrare a <b>Nandjabinja</b>. Inizia immediatamente la scalata per il controllo del sistema!</li>
           <li>15 Marzo 3306: Flotta Stellare vince la guerra a Susanoo e ne acquisisce il controllo. Susanoo è il <b>nono sistema</b> sotto il nostro governo</li>
           <li>10 Marzo 3306: Ci espandiamo verso <b>Susanoo</b>, un piccolo sistema di grande importanza strategica</li>
           <li>4 Marzo 3306: La Flotta esce vincitrice dalla guerra per Julanggarri e ne acquisisce quindi il controllo. Julanggarri diventa <b>l'ottavo sistema sotto il nostro controllo diretto</b></li>
