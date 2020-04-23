@@ -6,51 +6,45 @@ excerpt: "Hai appena finito le missioni di training e stai ammirando il tuo nuov
 image: "/images/ED-Ships-Wing-Squadron.png"
 tags: primi-passi tutorial navi guide
 author: habba-nero
+last_modified_at: 2020-04-16
 sticky: no
 ---
-Forse non lo sapete ma siete da qualche parte, in quella che i Cmdrs navigati chiamano la *Bolla*.
+"Forse non lo sapete ma siete da qualche parte, in quella che i Cmdrs navigati chiamano la Bolla"
 
-La bolla è l’insieme dello spazio colonizzato dagli umani, organizzati in varie fazioni e *superpotenze* che
-definiscono le leggi e i tipi di governo presenti in E:D. Il Powerplay, l’Impero, l’Alleanza, la Federazione e le
-*minor faction* meritano un approfondimento che troverete in un articolo dedicato.
+<div class="box">
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Tip:</b>&nbsp;La <i><b>Bolla</b></i> è l’insieme dello spazio colonizzato dagli umani, organizzati in varie fazioni e <i>superpotenze</i> che definiscono le leggi e i tipi di governo presenti in Elite Dangerous. Powerplay, l’Impero, l’Alleanza, la Federazione e le <i>minor factions</i> meritano un approfondimento che troverete altri articoli dedicati</div>
 
-Molti di voi avranno fatto i compiti a casa e studiato tutti i video tutorial di Youtube disponibili, ma la **Flotta
-Stellare** è qui per aiutarvi a scalare in sicurezza la parete verticale che è la curva di apprendimento di Elite:
-Dangerous.
+Molti di voi avranno fatto i compiti a casa e studiato tutti i video tutorial di Youtube disponibili, ma la **Flotta Stellare** è qui per aiutarvi a scalare in sicurezza la parete verticale che è la curva di apprendimento di Elite: Dangerous.
+
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 ## Volevi solo soldi, soldi…
 
-Nella galassia di E:D potrete intraprendere svariati mestieri (più o meno legali) secondo le vostre preferenze
-ed inclinazioni e avrete la possibilità di allestire e personalizzare le vostre navi al meglio per ogni compito e
-missione.
+Nella galassia di E:D potrete intraprendere svariati mestieri (più o meno legali) secondo le vostre preferenze ed inclinazioni e avrete la possibilità di allestire e personalizzare le vostre navi al meglio per ogni compito e missione.
 
-Vi serviranno un sacco di crediti (e materiali per gli Ingegneri, ma anche di questo parleremo in altra sede) e
-vi suggerisco due modi per cominciare a farli.
+Vi serviranno un sacco di crediti (e materiali per gli Ingegneri, ma anche di questo parleremo in altra sede) e vi suggerisco due modi per cominciare a farli.
 
-Premetto che se potessi darvi UN solo consiglio per godersi a pieno Elite sarebbe questo: Non abbiate
-fretta! La Corvette o l’Anaconda sono navi fantastiche, ma averle SUBITO vi ruberà molto delle esperienze
-che la galassia ha da offrirvi e non vi renderà piloti migliori e soprattutto per nulla imbattibili!
+<div class="box">
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Tip:</b> Se potessi darvi UN solo consiglio per godersi a pieno Elite sarebbe questo: <b>Non abbiate fretta!</b> La Corvette o l’Anaconda sono navi fantastiche, ma averle SUBITO vi ruberà molto delle esperienze che la galassia ha da offrirvi e non vi renderà piloti migliori e soprattutto per nulla imbattibili!</div>
 
-Il primo modo per fare qualche buon credito divertendosi è quello di aiutare le forze di sicurezza locali ad
-abbattere i pirati nelle RES con il vostro fidato Sidy così come uscito di fabbrica!
+### Il bounty hunting
 
-Le RES (Resource Extracion Site) sono siti negli anelli dei pianeti dove si concentrano le attività di estrazione
-mineraria degli NPC (I piloti gestiti dal gioco)
+Il primo modo per fare qualche buon credito divertendosi è quello di aiutare le forze di sicurezza locali adabbattere i pirati nelle RES con il vostro fidato Sidey così come uscito di fabbrica!
 
-Sono di 4 livelli: Low, Medium, High e Hazardous. Se siete fortunati nel vostro sistema natale ci sarà un
-gigante gassoso con una LOW Res, altrimenti cercatela nei sistemi vicini che il vostro FSD vi permette di
-raggiungere (www.Inara.cz e www. Eddb.io sono le bibbie nelle quali troverete tutte le informazioni per
-semplificarvi la vita in E:D). Anche una Medium o una High posso andare bene per iniziare ma dovrete
-prestare molta più attenzione.
+Le **RES** (Resource Extracion Site) sono siti negli anelli dei pianeti dove si concentrano le attività di estrazione mineraria degli NPC (I piloti gestiti dal gioco). Sono di 4 livelli:
 
-Raggiunta la vostra RES cominciate a scansionare tutte le navi che incontrate. Appena trovate il gruppo
-delle forze di sicurezza siete a metà dell’opera.
+- Low
+- Medium
+- High
+- Hazardous
+
+Se siete fortunati nel vostro sistema natale ci sarà un gigante gassoso con una LOW Res, altrimenti cercatela nei sistemi vicini che il vostro FSD vi permette di raggiungere. ([Inara](https://www.inara.cz){:target="_blank"} e [Eddb](https://eddb.io){:target="_blank"} sono le bibbie nelle quali troverete tutte le informazioni per semplificarvi la vita in E:D). Anche una Medium o una High posso andare bene per iniziare ma dovrete prestare molta più attenzione.
+
+Raggiunta la vostra RES cominciate a scansionare tutte le navi che incontrate. Appena trovate il gruppo delle forze di sicurezza siete a metà dell’opera.
 Cercate di restare sotto la loro ala protettrice e aspettate che inizio ad attaccare i pirati presenti.
-Mettete nel mirino il pirata sotto attacco e lasciate fare il lavoro sporco a loro. Una volta che il povero
-pirata avrà lo scafo danneggiato intorno al 20%, potete cominciare a sparargli con i vostri implacabili pulse
-laser.<br>
-Con uno solo colpo a segno il marker del pirata diventerà rosso, e appena esploso vi sarà riconosciuta la
-taglia che riscuoterete (insieme a molte altre) tornati in stazione.
+
+Mettete nel mirino il pirata sotto attacco e lasciate fare il lavoro sporco a loro. Una volta che il povero pirata avrà lo scafo danneggiato intorno al 20%, potete cominciare a sparargli con i vostri implacabili pulse laser.<br>
+Con uno solo colpo a segno il marker del pirata diventerà rosso, e appena esploso vi sarà riconosciuta la taglia che riscuoterete (insieme a molte altre) tornati in stazione.
 
 Attenzione che il vostro fidato Sidey, così come mamma deLacy l’ha fatto, ha scudi e scafo di robusta carta
 velina.<br>
@@ -60,6 +54,8 @@ scafo per limitarvi a finire il lavoro con pochi colpi ben assestati.
 Con una sessione di gioco fortunata avrete crediti sufficienti per cominciare a migliorare significativamente
 il vostro Sidewinder o per acquistare una nuova nave capace di destreggiarsi meglio nel trasporto,
 nell’esplorazione o nel combattimento.
+
+### La Road to Riches
 
 Il combattimento non fa per voi? Sentite forte il richiamo dello spazio profondo?
 La [Road to Riches](https://www.spansh.co.uk/riches){:target="_blank"} è il vostro modo di fare i primi bei crediti, e molti di
