@@ -74,6 +74,7 @@ Al momento siamo presenti in questi sistemi:
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente |  Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente |  Controllato  |
 |     | Susanoo     | Democratico   | 2644 | Indipendente |  Controllato   |
+|     | Ao Kang    | Corporativo  | 2,21 Miliardi | Federazione |  Non Controlalto  |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente |  Non Controlalto  |
 |     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato   |
 |     | Nandjabinja | Anarchico  | 3,46 Milioni | Indipendente |  Non Controlalto  |
@@ -87,6 +88,7 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>23 Aprile 3306: In seguito ad un'importante opera di intelligence, <b>Flotta Stellare</b> entra ad <b>Ao Kang</b>, un importante sistema che conta oltre <b>due miliardi</b> di popolazione!</li>
           <li>6 Aprile 3306: Le operazioni sotto copertura compiute dalle nostre forze TSD ci ha consentito di entrare a <b>Nandjabinja</b>. Inizia immediatamente la scalata per il controllo del sistema!</li>
           <li>15 Marzo 3306: Flotta Stellare vince la guerra a Susanoo e ne acquisisce il controllo. Susanoo è il <b>nono sistema</b> sotto il nostro governo</li>
           <li>10 Marzo 3306: Ci espandiamo verso <b>Susanoo</b>, un piccolo sistema di grande importanza strategica</li>
