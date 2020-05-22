@@ -46,6 +46,7 @@ L'Alto Comando Flotta Stellare (**ACFS**)  è lo squadrone che riunisce al suo i
 ## Cosa facciamo
 
 Le nostre attività ed interessi sono rivolte a tutte le opportunità che l'universo di **Elite: Dangerous** ha da offrire:
+
 - Mining
 - Commercio 
 - Bounty hunting 
@@ -54,10 +55,13 @@ Le nostre attività ed interessi sono rivolte a tutte le opportunità che l'univ
 - Xeno hunting
   
 Inoltre organizziamo piccoli campionati CQC, corse attraverso i canyon e rally con i nostri amati SRV!<br>
-Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre esperienze e conoscenze. 
+Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre esperienze e conoscenze.
+
+Giochiamo **prevalentemente in OPEN PLAY**, unica modalità di gioco che ci interessa e che raccomandiamo a tutti.
 
 ## BGS (Background Simulation)
 
+Il [BGS](/bgs/) è una parte molto importante per noi e per questo ti chiediamo, se la senti, di dedicare un po’ del tuo tempo di gioco a questo genere di attività.<br>
 Ci siamo stabiliti nel sistema [**Wong Sher**](https://inara.cz/galaxy-starsystem/12424/){:target="_blank"}, home system della nostra minor faction **Flotta Stellare**.<br>
 Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso di appartenenza ed aiuta il gruppo.
 
@@ -65,9 +69,10 @@ Al momento siamo presenti in questi sistemi:
 
 | 👑 	| Sistema   	| Governo      	| Popolazione 	| Alleanza     	| Stato           	|
 |:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
-| 👑 	| Wong Sher 	| Democratico  	| 90,049        | Indipendente 	| Controllato     	|
+| 👑  | Wong Sher 	| Democratico  	| 90,049        | Indipendente 	| Controllato     	|
 |	    | 14 Geminorum 	| Democratico	| 36.42 Milioni | Indipendente	|  Controlato     	|
-|     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente |  Controllato   |
+|     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  |  Controllato   |
+|     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato | 
 |   	| LTT 12033  	| Democratico 	| 118,987      	| Indipendente 	|  Controllato    	|
 |   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
 |	    | Dewikum   	| Democratico	| 38,738	        | Indipendente	|  Controlato	|
@@ -88,6 +93,7 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>13 Maggio 3306: In seguito ad una espansione da <b>Wong Sher</b>, entriamo nel sistema <b>LP 542-33</b></li>
           <li>23 Aprile 3306: In seguito ad un'importante opera di intelligence, <b>Flotta Stellare</b> entra ad <b>Ao Kang</b>, un importante sistema che conta oltre <b>due miliardi</b> di popolazione!</li>
           <li>6 Aprile 3306: Le operazioni sotto copertura compiute dalle nostre forze TSD ci ha consentito di entrare a <b>Nandjabinja</b>. Inizia immediatamente la scalata per il controllo del sistema!</li>
           <li>15 Marzo 3306: Flotta Stellare vince la guerra a Susanoo e ne acquisisce il controllo. Susanoo è il <b>nono sistema</b> sotto il nostro governo</li>
