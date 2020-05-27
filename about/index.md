@@ -61,31 +61,31 @@ Giochiamo **prevalentemente in OPEN PLAY**, unica modalità di gioco che ci inte
 
 ## BGS (Background Simulation)
 
-Il [BGS](/bgs/) è una parte molto importante per noi e per questo ti chiediamo, se la senti, di dedicare un po’ del tuo tempo di gioco a questo genere di attività.<br>
+Il [BGS](/bgs/) è una parte molto importante per noi e per questo ti chiediamo, se te la senti, di dedicare un po’ del tuo tempo di gioco a questo genere di attività.<br>
 Ci siamo stabiliti nel sistema [**Wong Sher**](https://inara.cz/galaxy-starsystem/12424/){:target="_blank"}, home system della nostra minor faction **Flotta Stellare**.<br>
 Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso di appartenenza ed aiuta il gruppo.
 
 Al momento siamo presenti in questi sistemi:
 
-| 👑 	| Sistema   	| Governo      	| Popolazione 	| Alleanza     	| Stato           	|
-|:-:	|-----------	|--------------	|-------------	|--------------	|-----------------	|
-| 👑  | Wong Sher 	| Democratico  	| 90,049        | Indipendente 	| Controllato     	|
-|	    | 14 Geminorum 	| Democratico	| 36.42 Milioni | Indipendente	|  Controlato     	|
-|     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  |  Controllato   |
-|     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato | 
-|   	| LTT 12033  	| Democratico 	| 118,987      	| Indipendente 	|  Controllato    	|
-|   	| LHS 1857  	| Democratico 	| 48,197      	| Indipendente 	| Controllato    	|
-|	    | Dewikum   	| Democratico	| 38,738	        | Indipendente	|  Controlato	|
-|     | LHS 6103    | Democratico   | 28,482        | Indipendente |  Controllato |
-|     | Wolf 289    | Democratico   | 27,645        | Indipendente |  Controllato  |
-|     | Susanoo     | Democratico   | 2644 | Indipendente |  Controllato   |
-|     | Ao Kang    | Corporativo  | 2,21 Miliardi | Federazione |  Non Controlalto  |
-|     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente |  Non Controlalto  |
-|     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato   |
-|     | Nandjabinja | Anarchico  | 3,46 Milioni | Indipendente |  Non Controlalto  |
-|   	| LP 308-10  	| Dittatoriale 	| 85,846      	| Indipendente 	| Non Controllato    	|
-|   	| LP 421-7  	| Dittatoriale 	| 26,010      	| Indipendente 	| Non Controllato 	|
-|     | Toog        | Corporativo   | 19,253        | Federazione | Non Controllato |
+| 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
+|:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
+| 👑  | Wong Sher   | Democratico    90,049        | Indipendente   | Controllato     |
+|     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
+|     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
+|     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
+|     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
+|     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
+|     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
+|     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
+|     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
+|     | Susanoo     | Democratico   | 2644          | Indipendente  | Controllato     |
+|     | Ao Kang     | Corporativo   | 2,21 Miliardi | Federazione   | Non Controlalto |
+|     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controlalto |
+|     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato |
+|     | Nandjabinja | Anarchico     | 3,46 Milioni  | Indipendente  | Non Controlalto |
+|     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
+|     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
+|     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 
 <div class="wrap-collabsible">
   <input id="collapsible" class="toggle" type="checkbox">
