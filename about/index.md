@@ -69,7 +69,7 @@ Al momento siamo presenti in questi sistemi:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
-| 👑  | Wong Sher   | Democratico    90,049        | Indipendente   | Controllato     |
+| 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
