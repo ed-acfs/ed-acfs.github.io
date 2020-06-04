@@ -19,15 +19,16 @@ Se sei un nuovo giocatore di Elite Dangerous e stai cercando di orientarti con i
 ## Cosa facciamo
 
 Le nostre attività ed interessi sono rivolte a tutte le opportunità che l'universo di **Elite: Dangerous** ha da offrire:
+
 - Mining
-- Commercio 
-- Bounty hunting 
+- Commercio
+- Bounty hunting
 - Esplorazione
-- Xeno ricerca 
+- Xeno ricerca
 - Xeno hunting
   
 Inoltre organizziamo piccoli campionati CQC, corse attraverso i canyon e rally con i nostri amati SRV!<br>
-Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre esperienze e conoscenze. 
+Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre esperienze e conoscenze.
 
 ## Cosa ti offriamo
 

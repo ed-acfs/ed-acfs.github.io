@@ -45,7 +45,7 @@ discreto numero di anni luce con un singolo salto.
 
 Un modulo fondamentale, assolutamente non opzionale se non volete iniziare una frenetica richiesta di aiuto ai [Fuel Rats](https://fuelrats.com/){:target="_blank"}, è il **Fuel Scoop**
 
-<span class="image fit"><img src="/images/posts/vita-da-esploratore/dbx_fuelscooping.jpg" alt=""></span>
+<span class="image fit"><a href="/images/posts/vita-da-esploratore/dbx_fuelscooping.jpg"><img src="/images/posts/vita-da-esploratore/dbx_fuelscooping.jpg" alt=""></a></span>
 Il Fuel Scoop è necessario e serve per dragare elio dalla superficie delle
 stelle. In parole povere serve per fare <b>rifornimento di carburante</b> direttamente grazie all’energia emessa
 dagli astri celesti senza dover passare in qualche base perché, sappiatelo e
@@ -79,7 +79,7 @@ Non resta che pianificare la nostra rotta.
 
 Aprite la mappa stellare ed attivate la visualizzazione per **Star Class**.
 
-<p><span class="image right"><img src="/images/posts/vita-da-esploratore/1475341075.jpg" alt=""></span>
+<p><span class="image right"><a href="/images/posts/vita-da-esploratore/1475341075.jpg"><img src="/images/posts/vita-da-esploratore/1475341075.jpg" alt=""></a></span>
 Impostate un filtro sulla mappa attivando le seguenti tipologie di Stelle: A, B,
 F, G, K, M, O. Per ricordarle utilizzo l’acronimo <b>KGB FOAM</b> (Schiuma del KGB). Queste sono le stelle che, normalmente, sono utilizzate dal Fuel Scoop per
 riempire il vostro serbatoio. Impostando il filtro in questo modo avrete modo, praticamente ad ogni salto, di fare il pieno al vostro serbatoio.</p>
@@ -118,7 +118,7 @@ al sistema che avete prescelto come vostra destinazione finale.
 
 ## IL VIAGGIO
 
-<span class="image fit"><img src="/images/Beyond_Exploration.jpg" alt=""></span>
+<span class="image fit"><a href="/images/Beyond_Exploration.jpg"><img src="/images/Beyond_Exploration.jpg" alt=""></a></span>
 Ad ogni salto, e qui inizia la parte noiosa, dovrete fare sostanzialmente le
 seguenti cose:
 

@@ -31,8 +31,8 @@ Invecchiato, stanco, ma con lo spirito rafforzato
 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="6u"><span class="image fit"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180108.jpg" | prepend:site.baseurl }}" alt="" /></span></div>
-        <div class="6u$"><span class="image fit"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180120.jpg" | prepend:site.baseurl }}" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><a href="/images/posts/avvicinamento-casa/PS_Communities_20200306_180108.jpg"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180108.jpg" | prepend:site.baseurl }}" alt="" /></a></span></div>
+        <div class="6u$"><span class="image fit"><a href="/images/posts/avvicinamento-casa/PS_Communities_20200306_180120.jpg"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180120.jpg" | prepend:site.baseurl }}" alt="" /></a></span></div>
     </div>
 </div>
 
@@ -40,8 +40,8 @@ La **ESPERANCE-01** è stata messa a dura prova, ma tornerà tutta intera....
 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="6u"><span class="image fit"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180113.jpg" | prepend:site.baseurl }}" alt="" /></span></div>
-        <div class="6u$"><span class="image fit"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180135.jpg" | prepend:site.baseurl }}" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><a href="/images/posts/avvicinamento-casa/PS_Communities_20200306_180113.jpg"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180113.jpg" | prepend:site.baseurl }}" alt="" /></a></span></div>
+        <div class="6u$"><span class="image fit"><a href="/images/posts/avvicinamento-casa/PS_Communities_20200306_180135.jpg"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180135.jpg" | prepend:site.baseurl }}" alt="" /></a></span></div>
     </div>
 </div>
 
@@ -49,8 +49,8 @@ E dopo aver visitato la Stella di tipo B, che condivide con **Sagittarius A\*** 
 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="6u"><span class="image fit"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180124.jpg" | prepend:site.baseurl }}" alt="" /></span></div>
-        <div class="6u$"><span class="image fit"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180129.jpg" | prepend:site.baseurl }}" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><a href="/images/posts/avvicinamento-casa/PS_Communities_20200306_180124.jpg"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180124.jpg" | prepend:site.baseurl }}" alt="" /></a></span></div>
+        <div class="6u$"><span class="image fit"><a href="/images/posts/avvicinamento-casa/PS_Communities_20200306_180129.jpg"><img src="{{ "/images/posts/avvicinamento-casa/PS_Communities_20200306_180129.jpg" | prepend:site.baseurl }}" alt="" /></a></span></div>
     </div>
 </div>
 
