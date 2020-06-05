@@ -15,7 +15,7 @@ sticky: no
 ### Chloe Sedesi
 
 <div class="box">
-<span class="image right"><img src="/images/posts/speedguide-ingegneri/chloe.jpg" alt=""></span>
+<span class="image right"><a href="/images/posts/speedguide-ingegneri/chloe.jpg"><img src="/images/posts/speedguide-ingegneri/chloe.jpg" alt=""></a></span>
 Utilità: Clone di <a href="/blog/speedguide-ingegneri-parte1/#quarto-passo-il-professor-palin">Palin</a><br>
 Modulo migliore: <b>Thrusters</b><br>
 Requisiti:
@@ -36,7 +36,7 @@ Se hai già [sbloccato il Professor Palin](/blog/speedguide-ingegneri-parte1/#qu
 ### Zacariah Nemo
 
 <div class="box">
-<span class="image right"><img src="/images/posts/speedguide-ingegneri/nemo.jpg" alt=""></span>
+<span class="image right"><a href="/images/posts/speedguide-ingegneri/nemo.jpg"><img src="/images/posts/speedguide-ingegneri/nemo.jpg" alt=""></a></span>
 Utilità: Medio/Bassa<br>
 Modulo migliore: <b>Frag Cannons</b><br>
 Requisiti:
@@ -55,7 +55,7 @@ Requisiti:
 ### Lori Jameson
 
 <div class="box">
-<span class="image right"><img src="/images/posts/speedguide-ingegneri/lori.jpg" alt=""></span>
+<span class="image right"><a href="/images/posts/speedguide-ingegneri/lori.jpg"><img src="/images/posts/speedguide-ingegneri/lori.jpg" alt=""></a></span>
 Utilità: Bassa<br>
 Moduli migliori: <b>Fuel Sccop</b>, <b>AMFU</b>, <b>Life Support</b>, <b>Shield Cell Banks</b>, <b>Raffinerie</b>, tutti gli <b>Scanner</b><br>
 Requisiti:
@@ -76,7 +76,7 @@ Lori Jameson è di stanza a **Shinrarta Dezhra**, il che significa che devi aver
 ### Ram Tah
 
 <div class="box">
-<span class="image right"><img src="/images/posts/speedguide-ingegneri/ram.jpg" alt=""></span>
+<span class="image right"><a href="/images/posts/speedguide-ingegneri/lori.jpg"><img src="/images/posts/speedguide-ingegneri/lori.jpg" alt=""></a></span>
 Utilità: Medio/Bassa<br>
 Modulo migliore: <b>Limpets</b>, <b>Heat Sinks</b>, <b>Point Defencesa</b>, <b>ECM</b> e <b>Chaff Launchers</b><br>
 Requisiti:
@@ -97,7 +97,7 @@ Ram Tah ingegnerizza moduli secondari, ma può sicuramente tornare utile per aum
 ### Tiana Fortune
 
 <div class="box">
-<span class="image right"><img src="/images/posts/speedguide-ingegneri/tiana.jpg" alt=""></span>
+<span class="image right"><a href="/images/posts/speedguide-ingegneri/tiana.jpg"><img src="/images/posts/speedguide-ingegneri/tiana.jpg" alt=""></a></span>
 Utilità: Bassa<br>
 Modulo migliore: <b>Utillity Scanners</b>, <b>Interdictors</b>, <b>Limpet Controllers</b>, e <b>Sensori</b><br>
 Requisiti:
@@ -116,7 +116,7 @@ Requisiti:
 ### Colonnello Bris Dekker
 
 <div class="box">
-<span class="image right"><img src="/images/posts/speedguide-ingegneri/bris.jpg" alt=""></span>
+<span class="image right"><a href="/images/posts/speedguide-ingegneri/bris.jpg"><img src="/images/posts/speedguide-ingegneri/bris.jpg" alt=""></a></span>
 Utilità: Nessuna<br>
 Modulo migliore: <b>FSD Interdictor</b><br>
 Requisiti:
@@ -136,7 +136,7 @@ Non conduce ad altri Ingegneri, né fornisce un servizio che altri Ingegneri non
 ### The Sarge
 
 <div class="box">
-<span class="image right"><img src="/images/posts/speedguide-ingegneri/sarge.jpg" alt=""></span>
+<span class="image right"><a href="/images/posts/speedguide-ingegneri/sarge.jpg"><img src="/images/posts/speedguide-ingegneri/sarge.jpg" alt=""></a></span>
 Utilità: Bassa<br>
 Utilità: Nessuna<br>
 Modulo migliore: <b>Cannoni</b><br>
