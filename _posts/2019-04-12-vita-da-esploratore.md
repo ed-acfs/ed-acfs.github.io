@@ -45,7 +45,7 @@ discreto numero di anni luce con un singolo salto.
 
 Un modulo fondamentale, assolutamente non opzionale se non volete iniziare una frenetica richiesta di aiuto ai [Fuel Rats](https://fuelrats.com/){:target="_blank"}, è il **Fuel Scoop**
 
-<span class="image fit"><a href="/images/posts/vita-da-esploratore/dbx_fuelscooping.jpg"><img src="/images/posts/vita-da-esploratore/dbx_fuelscooping.jpg" alt=""></a></span>
+<span class="image fit"><a href="/images/posts/vita-da-esploratore/dbx_fuelscooping.jpg" title="Fuel Scooping"><img src="/images/posts/vita-da-esploratore/dbx_fuelscooping.jpg" alt="Fuel Scooping"></a></span>
 Il Fuel Scoop è necessario e serve per dragare elio dalla superficie delle
 stelle. In parole povere serve per fare <b>rifornimento di carburante</b> direttamente grazie all’energia emessa
 dagli astri celesti senza dover passare in qualche base perché, sappiatelo e
@@ -167,7 +167,7 @@ Il trucco ora è decidere a cosa dedicare la nostra attenzione. Scansioniamo
 tutto oppure solo i corpi celesti di un certo valore? Mi spiego meglio.<br>
 Prendiamo in esame la seguente tabella:
 
-![Tabella dati di esplorazione Elite Dangerous](/images/posts/vita-da-esploratore/tabella.jpg)
+<span class="image fit"><a href="/images/posts/vita-da-esploratore/tabella.jpg" title="Guadagni >Esplorazione Elite Dangerous"><img src="/images/posts/vita-da-esploratore/tabella.jpg" alt="Tabella guadagni esplorazione Elite Dangerous" width="50%" height="50%"></a></span>
 
 Come è possibile constatare i valori (ovvero la quantità di crediti che si
 ottengono vendendo i dati di esplorazione) fra le varie tipologie di corpi

@@ -150,7 +150,7 @@ Oppure puoi seguire uno dei collegamenti social qui di seguito:
 
 ## Fazioni Italiane Unite
 
-<span class="image fit"><img src="/images/blank.png" data-echo="/images/trattato_fazioni_unite.jpg" alt=""></span>
+<span class="image fit"><a href="/images/trattato_fazioni_unite.jpg"><img src="/images/blank.png" data-echo="/images/trattato_fazioni_unite.jpg" alt=""></a></span>
 
 Alto Comando Flotta Stellare aderisce e supporta pienamente le **Fazioni Italiane Unite**, perseguendo i comuni principi di collaborazione ed unità che da sempre hanno contraddistinto la Flotta Stellare.<br>
 F.I.U. unisce tutte le maggiori Fazioni italiane che operano all'interno del mondo di Elite: Dangerous, indipendentemente dal tipo di piattaforma utilizzata
