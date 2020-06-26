@@ -111,7 +111,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-admin
   - jekyll-redirect-from
   - jemoji
 
