@@ -80,7 +80,9 @@ Al momento siamo presenti in questi sistemi:
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
+|     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controlalto     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
+|     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controlalto     |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
@@ -89,12 +91,13 @@ Al momento siamo presenti in questi sistemi:
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2644          | Indipendente  | Controllato     |
-|     | Ao Kang     | Corporativo   | 2,21 Miliardi | Federazione   | Non Controlalto |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controlalto |
 |     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato |
-|     | Nandjabinja | Anarchico     | 3,46 Milioni  | Indipendente  | Non Controlalto |
+|     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controlalto |
+|     | Nandjabinja | Anarchico     | 3.46 Milioni  | Indipendente  | Non Controlalto |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
+|     | LHS 1794    | Corporativo   | 22,187        | Federazione   | Non Controlalto |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 
 <div class="wrap-collabsible">
