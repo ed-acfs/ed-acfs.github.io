@@ -84,6 +84,7 @@ Al momento siamo presenti in questi sistemi:
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
 |     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controlalto     |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
+|     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controlalto     |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
@@ -94,7 +95,6 @@ Al momento siamo presenti in questi sistemi:
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controlalto |
 |     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controlalto |
-|     | Nandjabinja | Anarchico     | 3.46 Milioni  | Indipendente  | Non Controlalto |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | LHS 1794    | Corporativo   | 22,187        | Federazione   | Non Controlalto |
@@ -106,6 +106,9 @@ Al momento siamo presenti in questi sistemi:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>12 Luglio 3306: Conquistiamo <b>Nandjabinja</b>. Questa operazione passerà alla storia come la prima condivisa con un altro Squadrone a livello internazionale. La Flotta espande i suoi orizzonti e comincia ad intessere contatti diplomatici oltre i propri confini nazionali</li>
+          <li>6 Luglio 3306: Grazie ad una espansione lampo entriamo a Pularungu, ventesimo sistema in cui la Flotta è presente</li>
+          <li>23 Giugno 3306: La Flotta entra a LHS 1794</li>
           <li>13 Maggio 3306: In seguito ad una espansione da <b>Wong Sher</b>, entriamo nel sistema <b>LP 542-33</b></li>
           <li>23 Aprile 3306: In seguito ad un'importante opera di intelligence, <b>Flotta Stellare</b> entra ad <b>Ao Kang</b>, un importante sistema che conta oltre <b>due miliardi</b> di popolazione!</li>
           <li>6 Aprile 3306: Le operazioni sotto copertura compiute dalle nostre forze TSD ci ha consentito di entrare a <b>Nandjabinja</b>. Inizia immediatamente la scalata per il controllo del sistema!</li>
