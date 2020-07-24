@@ -75,13 +75,14 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **21 sistemi** e ne controlliano **13**:
+Al momento siamo presenti in **21 sistemi** e ne controlliano **14**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
+|     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
@@ -93,7 +94,6 @@ Al momento siamo presenti in **21 sistemi** e ne controlliano **13**:
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644          | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
-|     | NLTT 18561  | Corporativo   | 30.62 Milioni | Federazione   | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | LTT 17868   | Confederato   | 98,232        | Federazione   | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
@@ -107,6 +107,7 @@ Al momento siamo presenti in **21 sistemi** e ne controlliano **13**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>22 Luglio 3306: Dopo sette mesi di incessante lavoro nell'ombra e grazie ad una importante strategia chiamata <i>Operazione Epaminonda</i> la Flotta conquista <b>NLTT 18561</b>, che diventa il <u>quattordicesimo sistema sotto al nostro controllo diretto</u></li>
           <li>19 Luglio 3306: LTT 17868 diventa il <b>ventunesimo sistema</b> in cui la Flotta è presente</li>
           <li>12 Luglio 3306: Conquistiamo <b>Nandjabinja</b>. Questa operazione passerà alla storia come la prima condivisa con un altro Squadrone a livello internazionale. La Flotta espande i suoi orizzonti e comincia ad intessere contatti diplomatici oltre i propri confini nazionali</li>
           <li>6 Luglio 3306: Grazie ad una espansione lampo entriamo a Pularungu, ventesimo sistema in cui la Flotta è presente</li>
