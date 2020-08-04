@@ -75,7 +75,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **21 sistemi** e ne controlliano **14**:
+Al momento siamo presenti in **21 sistemi** e ne controlliano **16**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -88,17 +88,17 @@ Al momento siamo presenti in **21 sistemi** e ne controlliano **14**:
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
+|     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
 |     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
-|     | Susanoo     | Democratico   | 2,644          | Indipendente  | Controllato     |
+|     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
+|     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
-|     | LTT 17868   | Confederato   | 98,232        | Federazione   | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
-|     | LHS 1794    | Corporativo   | 22,187        | Federazione   | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 
 <div class="wrap-collabsible">
@@ -107,6 +107,7 @@ Al momento siamo presenti in **21 sistemi** e ne controlliano **14**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>04 Agosto 3306: Nello stesso giorno, Flotta Stellare vince due conflitti in altrtettanti sistemi e prende il controllo in un sol colpo sia di <b>LHS 1794</b> che di <b>LTT 17868</b></li>
           <li>22 Luglio 3306: Dopo sette mesi di incessante lavoro nell'ombra e grazie ad una importante strategia chiamata <i>Operazione Epaminonda</i> la Flotta conquista <b>NLTT 18561</b>, che diventa il <u>quattordicesimo sistema sotto al nostro controllo diretto</u></li>
           <li>19 Luglio 3306: LTT 17868 diventa il <b>ventunesimo sistema</b> in cui la Flotta è presente</li>
           <li>12 Luglio 3306: Conquistiamo <b>Nandjabinja</b>. Questa operazione passerà alla storia come la prima condivisa con un altro Squadrone a livello internazionale. La Flotta espande i suoi orizzonti e comincia ad intessere contatti diplomatici oltre i propri confini nazionali</li>
