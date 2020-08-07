@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chi Siamo" 
-description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, abbiamo una minor faction in gioco e abbiamo i biscotti
+description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
 last_modified_at: 2020-04-07
 ---
@@ -75,7 +75,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **21 sistemi** e ne controlliano **16**:
+Al momento siamo presenti in **21 sistemi** e ne controlliamo **16**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -143,7 +143,7 @@ Al momento siamo presenti in **21 sistemi** e ne controlliano **16**:
 
 ## Come unirsi alla Flotta Stellare
 
-Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo attualmente solo su **PS4**.<br>
+Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo attualmente su **PS4** e su **PC**.<br>
 Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924), entrare nel nostro [canale discord](https://discord.gg/DrvkJrV){:target="_blank"} o sulla nostra [pagina FaceBook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}.
 
 Oppure puoi seguire uno dei collegamenti social qui di seguito:
