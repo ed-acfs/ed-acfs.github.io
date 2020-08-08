@@ -65,7 +65,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    kramdown (2.2.1)
+    kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -107,7 +107,6 @@ GEM
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
     zeitwerk (2.3.0)
 
 PLATFORMS
@@ -124,7 +123,6 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   rack (>= 2.1.4)
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.1.4
