@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2020-04-07
+last_modified_at: 2020-08-31
 ---
 <style>
 .wrap-collabsible {
@@ -75,7 +75,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **21 sistemi** e ne controlliamo **16**:
+Al momento siamo presenti in **22 sistemi** e ne controlliamo **16**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -97,6 +97,7 @@ Al momento siamo presenti in **21 sistemi** e ne controlliamo **16**:
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
+|     | Tao Ti      | Corporativo   | 3.41 Milioni  | Federazione   | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
@@ -107,6 +108,8 @@ Al momento siamo presenti in **21 sistemi** e ne controlliamo **16**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>27 Agosto 3306: Usciamo vincitori dalla guerra per la permanenza a Tao Ti e cominciamo la nostra scalata, che ci porterà prossimamente al controllo del sistema</li>
+          <li>22 Agosto 3306: Invadiamo Tao Ti, determinati a vincere il conflitto che ci consentirà di restare</li>
           <li>04 Agosto 3306: Nello stesso giorno, Flotta Stellare vince due conflitti in altrtettanti sistemi e prende il controllo in un sol colpo sia di <b>LHS 1794</b> che di <b>LTT 17868</b></li>
           <li>22 Luglio 3306: Dopo sette mesi di incessante lavoro nell'ombra e grazie ad una importante strategia chiamata <i>Operazione Epaminonda</i> la Flotta conquista <b>NLTT 18561</b>, che diventa il <u>quattordicesimo sistema sotto al nostro controllo diretto</u></li>
           <li>19 Luglio 3306: LTT 17868 diventa il <b>ventunesimo sistema</b> in cui la Flotta è presente</li>

@@ -92,8 +92,10 @@ Solo dopo il balzo ho capito di essermi ritrovato in una nebulosa stellare, irra
     <span class="image fit"><a href="/images/posts/missione-cloud-hunter/IMG_20200718_144432.jpg"><img src="{{ "/images/posts/missione-cloud-hunter/IMG_20200718_144432.jpg" | prepend:site.baseurl }}" alt=""  title="Sito 16"/></a></span>
 </div>
 
-> Mai ho visto un cielo così
+> Mai ho visto un cielo così!
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 Si conclude qui il primo di una serie di racconti di Grecale, in cui ci racconterà il suo ultimo viaggio, durato un mese e mezzo ed oltre 60.000 anni luce. Continuate a seguirci per i prossimi episodi e per le prossime foto mozzafiato!
+
+#### Prosegui la lettura:  [I diari di Grecale: Missione Cloud Hunter - Week Two (parte 1)](/blog/missione-cloud-hunter-w2/)

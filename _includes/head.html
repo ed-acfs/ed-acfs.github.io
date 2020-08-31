@@ -9,7 +9,7 @@
 <meta name="robots" content="index,follow" />
 {% endif %}
 <meta name="rating" content="{{ site.settings.rating }}">
-
+ 
 <!-- Add to homescreen for Chrome on Android -->
 <meta name="mobile-web-app-capable" content="yes">
 
@@ -41,6 +41,11 @@
 <!-- CSS -->
 <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend:site.baseurl }}" />
 <noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
+
+<!-- Fonts Preload -->
+<link rel="preload" href="/assets/fonts/EuroCaps.woff2" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/fontawesome-webfont.woff2" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/forkawesome-webfont.woff2" type="font/woff2" crossorigin>
 
 <!-- Webmaster Verification Codes -->
 <meta name="google-site-verification" content="8QuFiJY38Jyt4KRoaQV7e3ymgmz2d1f2bs9-q6rPn8Q" />
