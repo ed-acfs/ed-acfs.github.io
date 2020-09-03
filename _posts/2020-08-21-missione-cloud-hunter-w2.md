@@ -2,7 +2,7 @@
 layout: post
 title:  "I diari di Grecale: Missione Cloud Hunter - Week Two (parte 1)"
 date:   2020-07-28
-excerpt: "I racconti di viaggio di Gecale proseguono: ecco un'altra avvicente settimana della sua avventura di 60.000 LY"
+excerpt: "Proseguono i racconti di viaggio di Grecale: ecco un'altra avvicente settimana della sua avventura in giro per la Galassia"
 image: "/images/posts/missione-cloud-hunter/IMG_Femme_20200713_004306_processed.jpg"
 tags: flotta-stellare racconti esplorazione
 author: grecale
