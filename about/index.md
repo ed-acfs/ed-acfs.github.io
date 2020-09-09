@@ -63,6 +63,8 @@ Il [BGS](/bgs/) è una parte molto importante per noi e per questo ti chiediamo,
 Ci siamo stabiliti nel sistema [**Wong Sher**](https://inara.cz/galaxy-starsystem/12424/){:target="_blank"}, home system della nostra minor faction **Flotta Stellare**.<br>
 Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso di appartenenza ed aiuta il gruppo.
 
+> Il nostro motto è **BGS ONLY IN OPEN** ed intendiamo rispettarlo sempre.
+
 ## Alcune semplici regole da rispettare
 
 - Giocare in **Open Play**, unica modalità di gioco che ci interessa e che raccomandiamo
@@ -75,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **22 sistemi** e ne controlliamo **16**:
+Al momento siamo presenti in **22 sistemi** e ne controlliamo **17**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
