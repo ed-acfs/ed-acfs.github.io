@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2020-08-31
+last_modified_at: 2020-09-09
 ---
 <style>
 .wrap-collabsible {
@@ -86,6 +86,7 @@ Al momento siamo presenti in **22 sistemi** e ne controlliamo **16**:
 |     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
+|     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
@@ -97,7 +98,6 @@ Al momento siamo presenti in **22 sistemi** e ne controlliamo **16**:
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
-|     | Tao Ti      | Corporativo   | 3.41 Milioni  | Federazione   | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
@@ -108,6 +108,7 @@ Al momento siamo presenti in **22 sistemi** e ne controlliamo **16**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>09 Settembre 3306: La <b>guerra per il controllo di Tao Ti</b> è stata tanto dura quanto esaltante ma alla fine ci ha visto uscire vincitori. Questa verrà ricordata come la più impegnativa battaglia che ha visto impegnata la Flotta fino ad oggi, arrivando a toccare quota <b>100 conflict zone completate in un solo giorno</b>, la maggior parte delle quali <b>HIGH</b>.</li>
           <li>27 Agosto 3306: Usciamo vincitori dalla guerra per la permanenza a Tao Ti e cominciamo la nostra scalata, che ci porterà prossimamente al controllo del sistema</li>
           <li>22 Agosto 3306: Invadiamo Tao Ti, determinati a vincere il conflitto che ci consentirà di restare</li>
           <li>04 Agosto 3306: Nello stesso giorno, Flotta Stellare vince due conflitti in altrtettanti sistemi e prende il controllo in un sol colpo sia di <b>LHS 1794</b> che di <b>LTT 17868</b></li>
