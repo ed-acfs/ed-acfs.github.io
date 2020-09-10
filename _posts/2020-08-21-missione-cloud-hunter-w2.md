@@ -155,3 +155,5 @@ Dopo un'attenta visione dei pianeti presenti decido di atterrare su un planetoid
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 Si conclude qui il secondo appuntamento con i racconti di Grecale. I luoghi visitati, le foto fatte, sono stati così tanti che abbiamo preferito dividere questa settimana in due parti. Continuate a seguirci per altre splendide immagini mozzafiato e per sapere come si svilupperà il viaggio!
+
+#### Prosegui la lettura:  [I diari di Grecale: Missione Cloud Hunter - Week Two (parte 2)](/blog/missione-cloud-hunter-w2p2/)
