@@ -6,7 +6,7 @@ image: /images/logo_843x885.png
 last_modified_at: 2020-09-09
 ---
 <style>
-.wrap-collabsible {
+.wrap-collapsible {
   margin: 0 0 1rem 0;
 }
 input[type='checkbox'] {
@@ -77,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **22 sistemi** e ne controlliamo **17**:
+Al momento siamo presenti in **23 sistemi** e ne controlliamo **17**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -99,17 +99,19 @@ Al momento siamo presenti in **22 sistemi** e ne controlliamo **17**:
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
+|     | Suyarang    | Corporativo   | 31,15 Milioni | Federazione   | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 
-<div class="wrap-collabsible">
+<div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="12u$ lbl-toggle">Cronologia delle Conquiste</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>14 Settembre 3306: <b>Suyarang</b> è il <b>ventitreesimo sistema</b> in cui <b>Flotta Stellare</b> è presente</li>
           <li>09 Settembre 3306: La <b>guerra per il controllo di Tao Ti</b> è stata tanto dura quanto esaltante ma alla fine ci ha visto uscire vincitori. Questa verrà ricordata come la più impegnativa battaglia che ha visto impegnata la Flotta fino ad oggi, arrivando a toccare quota <b>100 conflict zone completate in un solo giorno</b>, la maggior parte delle quali <b>HIGH</b>.</li>
           <li>27 Agosto 3306: Usciamo vincitori dalla guerra per la permanenza a Tao Ti e cominciamo la nostra scalata, che ci porterà prossimamente al controllo del sistema</li>
           <li>22 Agosto 3306: Invadiamo Tao Ti, determinati a vincere il conflitto che ci consentirà di restare</li>

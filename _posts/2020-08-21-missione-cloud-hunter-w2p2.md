@@ -9,7 +9,7 @@ author: grecale
 sticky: no
 ---
 <div class="box alt">
-<p>31 Luglio 3306<br>
+<p>29 Luglio 3306<br>
 Dal diario personale del CMDR Grecale80</p>
 
 <p>U.S.S Jules Verne NX-828<br>
@@ -159,3 +159,5 @@ Guadagnata di nuovo la luce mi dedico ad esplorare il resto del sistema
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 Si conclude qui il terzo appuntamento con i racconti di Grecale, che in questo episodio hanno riguardato la seconda parte della sua seconda settimana. Restate con noi e continuate a seguirci: stiamo per intraprendere insieme la parte conclusiva del viaggio e, credeteci, non avete ancora visto nulla!
+
+#### Prosegui la lettura:  [I diari di Grecale: Missione Cloud Hunter - Week Two (parte 3)](/blog/missione-cloud-hunter-w3/)
