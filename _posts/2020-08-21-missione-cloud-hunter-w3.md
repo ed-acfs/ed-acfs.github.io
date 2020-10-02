@@ -2,7 +2,7 @@
 layout: post
 title:  "I diari di Grecale: Missione Cloud Hunter - Week Three"
 date:   2020-07-31
-excerpt: "Alla sua terza settimana di viaggio, Grecale raggiunge finalmete il suo obiettivo. Ma un vero esploratore non si accontenta mai..."
+excerpt: "Alla sua terza settimana di viaggio, Grecale raggiunge finalmente il suo obiettivo. Ma un vero esploratore non si accontenta mai..."
 image: "/images/posts/missione-cloud-hunter/IMG_Femme_20200713_004306_processed.jpg"
 tags: flotta-stellare racconti esplorazione
 author: grecale
@@ -38,7 +38,7 @@ Oppure di questi water geyser sotto una classe A?
 
 ## Missione Cloud Hunter - Day Fourteen
 
-Finalmente l'ultima parte del viaggio è conclusa; il sistema di destinazione si manifesta in tutta la sua simpatia con una **neutron star**, anche se la cosa che più mi infastidisce è la consapevolazza di non essere solo: una **Fleet Carrier** si trova nel sistema, insieme a me...
+Finalmente l'ultima parte del viaggio è conclusa; il sistema di destinazione si manifesta in tutta la sua simpatia con una **neutron star**, anche se la cosa che più mi infastidisce è la consapevolezza di non essere solo: una **Fleet Carrier** si trova nel sistema, insieme a me...
 
 <div class="box alt">
     <span class="image fit"><a href="/images/posts/missione-cloud-hunter/IMG_20200728_011806.jpg"><img src="{{ "/images/posts/missione-cloud-hunter/IMG_20200728_011806.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 4"/></a></span>
@@ -209,4 +209,6 @@ Conclusa con successo la terza settimana di viaggio. 20.000 ly percorsi, oltre 1
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-Anche questa settimana di viaggio ha saputo riservarci grandi e bellssime sorprese. Il viaggio di Grecale continua, per cui non mancate di seguire le prossime puntate!
+Stavolta la paura è stata tante, ma l'esperto esploratore Grecale ha trovato il bandolo della matassa ed è riuscito a riprendere il suo viaggio. Continuate a seguirci, per non perdervi le prossime puntate!
+
+#### Prosegui la lettura:  [I diari di Grecale: Missione Cloud Hunter - Week Four](/blog/missione-cloud-hunter-w4/)

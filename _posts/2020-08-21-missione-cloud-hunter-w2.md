@@ -9,7 +9,7 @@ author: grecale
 sticky: no
 ---
 <div class="box alt">
-<p>28 Luglio 3306<br>
+<p>22 Luglio 3306<br>
 Dal diario personale del CMDR Grecale80</p>
 
 <p>U.S.S Jules Verne NX-828<br>
