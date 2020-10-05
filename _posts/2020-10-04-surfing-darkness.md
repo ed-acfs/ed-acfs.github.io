@@ -13,7 +13,7 @@ sticky: no
 <p>04 Ottobre 3006<br>
 Diario di Bordo del CMDR BigBadShow80</p>
 
-<p>ISS Enterprise NX-01D<br>
+<p>U.S.S. Enterprise NX-01D<br>
 Alto Comando Flotta Stellare</p>
 </div>
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
