@@ -7,6 +7,7 @@ skyflash:
     twitter: https://twitter.com/BloggerStanco
     web: https://cristiancastellari.it
     psnid: https://my.playstation.com/profile/WiitifulSky
+    steam: https://steamcommunity.com/id/skyflash/
     picture: /images/authors/me.jpg
 
 wiitifulsky:
@@ -19,6 +20,7 @@ wiitifulsky:
     twitter: https://twitter.com/BloggerStanco
     web: https://cristiancastellari.it
     psnid: https://my.playstation.com/profile/WiitifulSky
+    steam: https://steamcommunity.com/id/skyflash/
     picture: /images/authors/skyflash.png
 
 scorpion:
@@ -26,6 +28,7 @@ scorpion:
     display_name: Scorpion
     about: "Sono Scorpion, l'Ammiragglio della Flotta. Aiuto tutti i membri dello Squadrone a comprendere al meglio la galassia di Elite Dangerous scrivendo guide e approfondimenti."
     twitter: Flotta_Stellare
+    inara: https://inara.cz/cmdr/73522/
     psnid: https://my.playstation.com/profile/Scorpion01924
     picture: /images/authors/scorpion.jpg
 
@@ -50,6 +53,7 @@ capitanoend:
     display_name: CapitanoEND
     about: "Sono un vecchio Capitano di fregata, con la passione per tutto ciò che è esplorabile... vuoi che ti faccia visitare le meraviglie della nostra galassia? Ok, sarò il tuo Capitano... ma i buchi neri te li lascio volentieri..."
     twitter: Flotta_Stellare
+    inara: https://inara.cz/cmdr/128671/
     psnid: https://my.playstation.com/profile/CapitanoEND
     picture: /images/authors/capitanoend.jpg
 
@@ -88,3 +92,12 @@ grecale:
     twitter: Flotta_Stellare
     psnid: https://my.playstation.com/profile/Grecale80
     picture: /images/authors/grecale.jpg
+    
+hellblack:
+    name: Hellblack0093
+    display_name: Hellblack0093
+    about: 
+    inara: https://inara.cz/cmdr/156671/
+    twitter: Flotta_Stellare
+    steam:
+    picture: /images/authors/generic.png

@@ -1,4 +1,4 @@
-<script src="https://code.iconify.design/1/1.0.3/iconify.min.js"></script>
+<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 
 <div class="authorbox">
  <hr class="author-container">
@@ -25,6 +25,14 @@
 
         {% if author.psnid %}
             <a href="{{ author.psnid }}" target="_blank" title="Profilo PSN di {{ author.display_name }}"><span class="iconify" data-icon="fa-brands:playstation" data-inline="false" style="color:#2e6db4;"></span></a>
+        {% endif %}
+
+        {% if author.steam %}
+            <a href="{{ author.steam }}" target="_blank" title="Profilo Steam di {{ author.display_name }}"><span class="iconify" data-icon="simple-icons:steam" data-inline="false" style="color:#2e6db4;"></span></a>
+        {% endif %}
+
+        {% if author.inara %}
+            <a href="{{ author.inara }}" target="_blank" title="Profilo Inara di {{ author.display_name }}"><span class="acfs-squadrons" data-inline="false" style="color:#ff7100;"></span></a>
         {% endif %}
      </div>
     </div>
