@@ -3,12 +3,12 @@ layout: post
 title:  "Le Fleet Carrier"
 date:   2020-10-23
 excerpt: "Fleet Carrier: cosa sono e quanto costano questi colossali vascelli in Elite Dangerous? Sono davvero utili? Ce lo spiega l'Ammiraglio Scorprion in persona"
-image: "/images/posts/fleet-Carriers/PS_Messages_20200824_091657.jpg"
+image: "/images/posts/fleet-carriers/PS_Messages_20200824_091657.jpg"
 tags: tecnica lore-di-elite fleet-carrier
 author: scorpion
 sticky: no
 ---
-> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone. Oggi vi parlerò di **Fleet Carrier** e, più nello specifico, della **Classe Drake**
+> Salve CMDRs! Sono [Scorpion](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, l’ammiraglio dello squadrone. Oggi vi parlerò di **Fleet Carrier**
 
 ## Fleet Carrier: Definizione
 
@@ -79,7 +79,7 @@ I costi si dividono in:
 * **Tariffa**: il proprietario può aggiungere un tariffa generale su tutti servizi per generare entrate direttamente inviate al fondo cassa del Carrier. Tale tariffa **varia fra 0 e 100%**.
 
 <div class="box alt">
-    <span class="image fit"><a href="/images/posts/fleet-Carriers/unnamed.jpg"><img src="{{ "/images/posts/fleet-Carriers/unnamed.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 1"/></a></span>
+    <span class="image fit"><a href="/images/posts/fleet-carriers/unnamed.jpg"><img src="{{ "/images/posts/fleet-carriers/unnamed.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 1"/></a></span>
 </div>
 
 ## FSD e Autonomia Operativa
@@ -111,7 +111,7 @@ Il Carrier può essere demolito in due occasioni:
 2. Demolizione volontaria: Stanco di avere un Carrier? Bene! Puoi decidere in qualsiasi momento di demolirlo. La fase di demolizione anche in questo caso dura **una settimana**. Eventuali navi o moduli verranno trasferiti allo spazioporto più vicino e **verrà risarcito interamente il valore di Carrier più i costi dei servizi installati**. Si dovrà però pagare una **tassa di 125 milioni di cr**. 
 
 <div class="box alt">
-    <span class="image fit"><a href="/images/posts/fleet-Carriers/PS_Messages_20201022_173120.jpg"><img src="{{ "/images/posts/fleet-Carriers/PS_Messages_20201022_173120.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 2"/></a></span>
+    <span class="image fit"><a href="/images/posts/fleet-carriers/PS_Messages_20201022_173120.jpg"><img src="{{ "/images/posts/fleet-carriers/PS_Messages_20201022_173120.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 2"/></a></span>
 </div>
 
 ## Altre caratteristiche
