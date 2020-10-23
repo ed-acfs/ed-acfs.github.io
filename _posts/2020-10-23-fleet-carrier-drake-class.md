@@ -4,7 +4,7 @@ title:  "Le Fleet Carrier"
 date:   2020-10-23
 excerpt: "Fleet Carrier: cosa sono e quanto costano questi colossali vascelli in Elite Dangerous? Sono davvero utili? Ce lo spiega l'Ammiraglio Scorprion in persona"
 image: "/images/posts/fleet-Carriers/PS_Messages_20200824_091657.jpg"
-tags: tecnica lore-di-elite fleet-Carrier
+tags: tecnica lore-di-elite fleet-carrier
 author: scorpion
 sticky: no
 ---
