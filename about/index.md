@@ -77,17 +77,18 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **24 sistemi** e ne controlliamo **18**:
+Al momento siamo presenti in **25 sistemi** e ne controlliamo **19**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
-|     | Suyarang    | Corporativo   | 31,15 Milioni | Federazione   | Controllato     |
+|     | Suyarang    | Corporativo   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
+|     | M Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
@@ -100,7 +101,7 @@ Al momento siamo presenti in **24 sistemi** e ne controlliamo **18**:
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
-|     | M Tauri     | Corporativo   | 8.78 Milioni  | Federazione   | Non Controllato |
+|     | Zandu       | Democratico   | 11.09 Milioni | Federazione   | No Controllato     |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
@@ -112,6 +113,7 @@ Al momento siamo presenti in **24 sistemi** e ne controlliamo **18**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>29 Ottobre 3306: Flotta Stellare supera una forte resistenza interna, riusciendo a vincere una guerra particolarmente impegnativa, ed ottiene il controllo di <b>M Tauri</b></li>
           <li>13 Ottobre 3306: Dopo aver <b>conquistato interamente</b> Suyarang, Flotta Stellare entra a <b>M Tauri</b>, decisa a conquistare il <b>Material Trader</b> Raw</li> 
           <li>14 Settembre 3306: <b>Suyarang</b> è il <b>ventitreesimo sistema</b> in cui <b>Flotta Stellare</b> è presente</li>
           <li>09 Settembre 3306: La <b>guerra per il controllo di Tao Ti</b> è stata tanto dura quanto esaltante ma alla fine ci ha visto uscire vincitori. Questa verrà ricordata come la più impegnativa battaglia che ha visto impegnata la Flotta fino ad oggi, arrivando a toccare quota <b>100 conflict zone completate in un solo giorno</b>, la maggior parte delle quali <b>HIGH</b>.</li>

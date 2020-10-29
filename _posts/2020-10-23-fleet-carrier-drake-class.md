@@ -12,8 +12,8 @@ sticky: no
 
 ## Fleet Carrier: Definizione
 
-Il Fleet Carrier Drake-Class è una enorme nave da guerra acquistabile, tramite una speciale licenza, dai tutti piloti indipendenti. 
-La Classe Drake è stata annunciata più di due anni fa, nel 3304, dalla **Brewer Corporation**. Dopo alcuni problemi nello sviluppo è stata rilasciato nel Giugno del 3306. 
+Il Fleet Carrier è una enorme nave da guerra acquistabile, tramite una speciale licenza, dai tutti piloti indipendenti. 
+La Classe Drake è stata annunciata più di due anni fa, nel 3304, dalla **Brewer Corporation**. Dopo alcuni problemi nello sviluppo venne finalmente rilasciata nel Giugno del 3306. 
 
 ## Sviluppo Turbolento
 
@@ -22,8 +22,8 @@ Il Fleet Carrier era previsto già nel Dicembre del 3304 con la formazione degli
 <div class="box">
 <i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>I punti salienti della presentazione:</b>
     <ul>
-        <li>I Fleet Carrier non appartengono agli Squadroni ma ai singoli Cmdrs</li>
-        <li>Sono disponibili <b>tre differenti vascelli di supporto</b> per l'esplorazione il mining ed bounty hunting</li>
+        <li>I Fleet Carrier <b>non</b> appartengono agli Squadroni ma ai <b>singoli Cmdrs</b></li>
+        <li>Sono disponibili <b>tre differenti vascelli di supporto</b>: per l'esplorazione, il mining ed bounty hunting</li>
         <li>I Cmdr avrebbero potuto acquistare i Fleet Carrier nel <b>Dicembre del 3305</b></li>
     </ul>
 <i class="fa fa-exclamation-triangle" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;&nbsp;All'incirca un mese dopo la Brewer Corporation rinviò nuovamente il varo dei Fleet Carrier all'anno successivo
@@ -143,5 +143,5 @@ Analizziamo insieme le possibili applicazioni:
 * Commercio: è possibile acquistare  e vendere tutte le merci di Elite dangerous, perché non sfruttare l'economia per diventare ricchi?
 * Esplorazione: Il Carrier può fungere da base mobile per assicurare una "casa lontana da casa" durante una  spedizione esplorativa. 
 * Guerra: come nel XXI secolo i Carrier possono dispiegare i Cmdr nei sistemi dove ci sono dei conflitti in corso. Stesso discorso vale per combattere i Thargoid. Supportando le navi e garantendo loro un porto sicuro. 
-* Taxi: i Carrier possono spostare in tranquillità giovani Cmdr che non hanno un FSD potente, oppure trasportare le navi da combattimento al fronte e perché no, scoccare semplicemente un passaggio verso Colonia.
+* Taxi: i Carrier possono spostare in tranquillità giovani Cmdr che non hanno un FSD potente, oppure trasportare le navi da combattimento al fronte e perché no, scroccare semplicemente un passaggio verso Colonia.
 * Rappresentanza e Proiezione di forza:utile per il bgs, avere un Fleet Carrier che compare nel sistema sicuramente metterà il nemico in allarme! Un Carrier si traduce in uno squadrone ricco, potente e pronto a combattere! 
