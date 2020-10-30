@@ -77,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **25 sistemi** e ne controlliamo **19**:
+Al momento siamo presenti in **25 sistemi** e ne controlliamo **20**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -87,6 +87,7 @@ Al momento siamo presenti in **25 sistemi** e ne controlliamo **19**:
 |     | Suyarang    | Corporativo   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controllato     |
+|     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
 |     | M Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
@@ -101,7 +102,6 @@ Al momento siamo presenti in **25 sistemi** e ne controlliamo **19**:
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
-|     | Zandu       | Democratico   | 11.09 Milioni | Federazione   | No Controllato     |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
@@ -113,6 +113,7 @@ Al momento siamo presenti in **25 sistemi** e ne controlliamo **19**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>30 Ottobre 3306: Con la conquista di <b>Zandu</b>, Flotta Stellare pone sotto il proprio controllo il trittico dei <b>material trader</b> ed entrambi i <b>techology broker</b>: sial quello umano che quello <b>Guardian</b></li>
           <li>29 Ottobre 3306: Flotta Stellare supera una forte resistenza interna, riusciendo a vincere una guerra particolarmente impegnativa, ed ottiene il controllo di <b>M Tauri</b></li>
           <li>13 Ottobre 3306: Dopo aver <b>conquistato interamente</b> Suyarang, Flotta Stellare entra a <b>M Tauri</b>, decisa a conquistare il <b>Material Trader</b> Raw</li> 
           <li>14 Settembre 3306: <b>Suyarang</b> è il <b>ventitreesimo sistema</b> in cui <b>Flotta Stellare</b> è presente</li>
