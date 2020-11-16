@@ -10,7 +10,7 @@ last_modified_at: 2020-11-13
 sticky: no
 ---
 <div class="box alt">
-<p>12 Novembre 3006<br>
+<p>12 Novembre 3306<br>
 Diario di Bordo del CMDR MazakLas</p>
 
 <p>U.S.S. Vojager 3<br>
@@ -18,9 +18,9 @@ Alto Comando Flotta Stellare</p>
 </div>
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
-## Antefatto
+### Antefatto
 
-La spedizione _“Lux in Tenebris”_ partita a Settembre è in procinto di approdare a Colonia. Mi trovo per caso a pochi salti dalla Fleet Carrier **_Infinity_** con in plancia l’Ammiraglio Scorpion01924, il comandante in capo del nostro amato squadrone. Decido in tutta fretta di aggregarmi alla spedizione perché corrisponde più o meno ai miei piani esplorativi.
+La spedizione [_Lux in Tenebris_](https://www.edsm.net/en/expeditions/summary/id/122/name/Lux+in+Tenebris+Expedition) partita a Settembre è in procinto di approdare a Colonia. Mi trovo per caso a pochi salti dalla Fleet Carrier **_Infinity_** con in plancia l’Ammiraglio Scorpion01924, il comandante in capo del nostro amato squadrone. Decido in tutta fretta di aggregarmi alla spedizione perché corrisponde più o meno ai miei piani esplorativi.
 
 Dopo un paio di settimane arriviamo al cospetto del _“Pianeta della Morte”_. L’Ammiraglio decide di organizzare lo sbarco sul pianeta **accarezzato da una Neutron** poco collaborativa! 
 
