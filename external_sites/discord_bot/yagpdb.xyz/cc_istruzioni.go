@@ -15,7 +15,7 @@
 
 {{$embed := cembed 
 	"title" "Benvenuto sul nostro server Discord. Eccoti qualche informazione utile per iniziare..."
-	"description" "\n\n1) Fai richiesta per lo Squadrone ingame, verrà accettata il prima possibile\n\n2) Fai richiesta su [Inara](https://inara.cz/squadron/4750/)\n\n3) Allinea cortesemente il tuo nick al tuo PlayStation ID e scrivilo su <#572400615745912872>\n\n**COLLEGAMENTI UTILI**" 
+	"description" "\n\n1) Fai richiesta per lo Squadrone ingame, verrà accettata il prima possibile\n\n2) Fai richiesta su [Inara](https://inara.cz/squadron/4750/)\n\n3) Allinea cortesemente il tuo nickname a quello che usi in gioco\n\n**COLLEGAMENTI UTILI**" 
 	"color" 0xf07b05 
 	"fields" 
 		(cslice 

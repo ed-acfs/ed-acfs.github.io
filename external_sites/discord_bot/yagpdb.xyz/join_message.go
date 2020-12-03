@@ -9,7 +9,7 @@
 
 {{$embed := cembed 
 	"title" "Benvenuto sul nostro server Discord. Eccoti qualche informazione utile per iniziare...<:acfs:572729316861804554>" 
-	"description" "\n\n1) Fai richiesta per lo Squadrone ingame, verrà accettata il prima possibile\n\n2) Fai richiesta su [Inara](https://inara.cz/squadron/4750/)\n\n3) Allinea cortesemente il tuo nick al tuo PlayStation ID e scrivilo su <#572400615745912872>\n\n4) Leggi per favore il regolamento su <#555350348013895701> e presentati in <#581916569140068378>\n\nSaremo lieti di accoglierti fra i membri della **Flotta Stellare**" 
+	"description" "\n\n1) Fai richiesta per lo Squadrone ingame, verrà accettata il prima possibile\n\n2) Fai richiesta su [Inara](https://inara.cz/squadron/4750/)\n\n3) Allinea cortesemente il tuo nickname su questo server a quello che usi in gioco\n\n4) Leggi per favore il regolamento su <#555350348013895701> e presentati in <#581916569140068378>\n\nSaremo lieti di accoglierti fra i membri della **Flotta Stellare**" 
 	"color" 4645612 
 	"fields" 
 		(cslice 

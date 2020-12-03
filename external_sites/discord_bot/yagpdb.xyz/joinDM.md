@@ -2,7 +2,7 @@ o7 {{.User.Username}}, benvenuto nella **Flotta Stellare**! Ho qualche informazi
 
 1. Fai richiesta per lo Squadrone in game; verrà accettata il prima possibile
 2. Fai richiesta su **Inara**
-3. Allinea cortesemente il tuo nick al tuo **PlayStation ID** e scrivilo su <#572400615745912872>
+3. Allinea cortesemente il tuo nickname su questo server a quello che usi in gioco
 4. Leggi per favore il regolamento su <#555350348013895701> e presentati in <#581916569140068378>
 
 Saremo lieti di accoglierti fra i membri della **Flotta Stellare**
