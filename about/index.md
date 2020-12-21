@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2020-10-16
+last_modified_at: 2020-12-16
 ---
 <style>
 .wrap-collapsible {
@@ -77,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **25 sistemi** e ne controlliamo **20**:
+Al momento siamo presenti in **27 sistemi** e ne controlliamo **21**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -95,6 +95,7 @@ Al momento siamo presenti in **25 sistemi** e ne controlliamo **20**:
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
+|     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
 |     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
@@ -103,6 +104,7 @@ Al momento siamo presenti in **25 sistemi** e ne controlliamo **20**:
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
+|     | G 108-26    | Corporativo   | 87,705        | Federazione   | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
@@ -113,7 +115,9 @@ Al momento siamo presenti in **25 sistemi** e ne controlliamo **20**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>30 Ottobre 3306: Con la conquista di <b>Zandu</b>, Flotta Stellare pone sotto il proprio controllo il trittico dei <b>material trader</b> ed entrambi i <b>techology broker</b>: sial quello umano che quello <b>Guardian</b></li>
+          <li>20 Dicembre 3306: Senza trovare la minima opposizione, Flotta Stellare prende il controllo di <b>Timocani</b></li>
+          <li>14 Dicembre 3306: La Flotta si espande a <b>G 108-26</b>, che diventa il ventisettesimo sistema in cui siamo presenti</li>
+          <li>12 Novembre 3306: Con la conquista di <b>Zandu</b>, Flotta Stellare pone sotto il proprio controllo il trittico dei <b>material trader</b> ed entrambi i <b>techology broker</b>: sial quello umano che quello <b>Guardian</b></li>
           <li>29 Ottobre 3306: Flotta Stellare supera una forte resistenza interna, riusciendo a vincere una guerra particolarmente impegnativa, ed ottiene il controllo di <b>M Tauri</b></li>
           <li>13 Ottobre 3306: Dopo aver <b>conquistato interamente</b> Suyarang, Flotta Stellare entra a <b>M Tauri</b>, decisa a conquistare il <b>Material Trader</b> Raw</li> 
           <li>14 Settembre 3306: <b>Suyarang</b> è il <b>ventitreesimo sistema</b> in cui <b>Flotta Stellare</b> è presente</li>
