@@ -4,6 +4,7 @@
 {{$args := parseArgs 1 ""
   (carg "user" "target")}}
 {{giveRoleID ($args.Get 0).ID 571710879880708097}}
+{{giveRoleID ($args.Get 0).ID 712280073721610314}}{{/* Ruoli Operativi*/}}
 {{giveRoleID ($args.Get 0).ID 741253469737844858}}{{/* Medagliere */}}
 {{giveRoleID ($args.Get 0).ID 718116478338990130}}{{/* Altri Ruoli */}}
 {{takeRoleID ($args.Get 0).ID 600385868280365059}}
