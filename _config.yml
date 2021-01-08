@@ -13,6 +13,16 @@ url: https://flottastellare.it
 
 #
 ###################################
+# PWA Settings
+####################################
+#
+name: "Alto Comando Flotta Stellare"
+short_name: "ACFS"
+lang_direction: "ltr"
+color: "#abc123"
+
+#
+###################################
 # Jekyll-SEO-tag settings
 ####################################
 #
@@ -72,8 +82,9 @@ defaults:
       path: ""
       type: guide
     values:
-      permalink: /guide/:title/
-      layout: guide
+      permalink: "/guide/:title/"
+      layout: post
+      image: /images/logo_843x885.png
 
 collections:
   posts:
@@ -84,12 +95,16 @@ collections:
     output: true
     permalink: /guide/:title/
   
+  author:
+    output: true
+    permalink: /autore/:name/
+
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-permalink:          /blog/:title/
+#permalink:          /blog/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
