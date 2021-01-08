@@ -4,7 +4,7 @@ if ("serviceWorker" in navigator) {
     } else {
       // Register the service worker
       navigator.serviceWorker
-        .register("{{ "/serviceworker.js" | prepend:site.baseurl }}", {
+      .register("https://flottastellare.it/serviceworker.js", {
           scope: "./"
         })
         .then(function (reg) {

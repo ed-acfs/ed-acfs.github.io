@@ -20,6 +20,7 @@ name: "Alto Comando Flotta Stellare"
 short_name: "ACFS"
 lang_direction: "ltr"
 color: "#abc123"
+background_color: "#ccc"
 
 #
 ###################################

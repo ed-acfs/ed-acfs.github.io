@@ -1,8 +1,6 @@
 ---
 layout: none
-
 ---
-
 {
   "lang": "{{ site.lang }}",
   "dir": "{{ site.lang_direction }}",
@@ -10,13 +8,13 @@ layout: none
   "short_name": {{ site.short_name | smartify | jsonify }},
   "icons": [
     {
-      "src": "\/assets\/images\/touch\/android-chrome-192x192.png",
+      "src": "\/assets\/icon\/android-icon-192x192.png",
       "sizes": "192x192",
       "type": "image\/png"
     }
   ],
   "theme_color": "{{ site.color }}",
-  "background_color": "{{ site.color }}",
+  "background_color": "{{ site.background_color }}",
   "start_url": "{{ site.url }}",
   "display": "standalone",
   "orientation": "natural"
