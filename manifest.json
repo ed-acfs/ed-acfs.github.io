@@ -2,20 +2,134 @@
 layout: none
 ---
 {
-  "lang": "{{ site.lang }}",
+  "lang": "Italian",
   "dir": "{{ site.lang_direction }}",
   "name": {{ site.name | smartify | jsonify }},
   "short_name": {{ site.short_name | smartify | jsonify }},
   "icons": [
     {
-      "src": "\/assets\/icon\/android-icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image\/png"
+        "src": "/images/assets/icon/android-icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/2acf4749-9cf7-7fb7-36c9-75244421faee.webPlatform.png",
+        "sizes": "44x44",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/e5346fb3-ea7e-bc6e-1e63-4d617ef83ce7.webPlatform.png",
+        "sizes": "48x48",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/9fa8cb01-fe73-e328-b910-56f3def4af2e.webPlatform.png",
+        "sizes": "1240x600",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/111bd9fe-9b0d-e9fb-2742-1b0c40445386.webPlatform.png",
+        "sizes": "300x300",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/5ff4030b-a2d0-1c4a-0275-3fd18f01972a.webPlatform.png",
+        "sizes": "150x150",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/db3c3273-2660-c0b5-ffbf-018ccc0881c5.webPlatform.png",
+        "sizes": "88x88",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/d5f385ab-38d3-f2c9-9699-1a9ff7b09085.webPlatform.png",
+        "sizes": "24x24",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/cb8f579e-56f6-0cfb-e41b-98b2bce521b7.webPlatform.png",
+        "sizes": "50x50",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/2f4dc6c8-cf81-16bf-d447-88603d3bfdc6.webPlatform.png",
+        "sizes": "620x300",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/1c9f58e1-cc66-d030-f17f-752382c297f6.webPlatform.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/f67a2617-b26b-beae-2efa-137d2946e01a.webPlatform.png",
+        "sizes": "96x96",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/d66f4a54-0398-890d-9d7d-f10374799ec6.webPlatform.png",
+        "sizes": "72x72",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/f0ec22ff-7026-cbac-2d93-9ac749bfedf7.webPlatform.png",
+        "sizes": "36x36",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/e8eaabb1-0e30-2005-9fee-fad4f2340d46.webPlatform.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/37903b3e-4d08-57e8-a171-594d194747cb.webPlatform.png",
+        "sizes": "180x180",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/d4ec72d3-b7c0-9874-8ddd-48585186e0ba.webPlatform.png",
+        "sizes": "152x152",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/22ae1b07-85bb-7e40-d387-28e6f1b055a9.webPlatform.png",
+        "sizes": "120x120",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/681ed673-49ae-f069-36cf-44a259281e49.webPlatform.png",
+        "sizes": "76x76",
+        "type": "image/png"
+    },
+    {
+        "src": "/images/touch/6dd9e5c4-bfa8-f2f5-d6b7-37ec82d1e738.webPlatform.png",
+        "sizes": "32x32",
+        "type": "image/png"
     }
   ],
   "theme_color": "{{ site.color }}",
   "background_color": "{{ site.background_color }}",
   "start_url": "{{ site.url }}",
+  "url": "{{ site.url }}",
   "display": "standalone",
-  "orientation": "natural"
+  "orientation": "natural",
+  "screenshots": [
+    {
+        "src": "/images/screenshot1.png",
+        "sizes": "1280x800",
+        "type": "image/png",
+        "fileName": "/images/screenshot1.png",
+        "generated": true
+    },
+    {
+        "src": "/images/screenshot2.png",
+        "sizes": "750x1334",
+        "type": "image/png",
+        "fileName": "/images/screenshot2.png",
+        "generated": true
+    }
+  ],
+  "description": "Alto Comando Flotta Stellare (ACFS) è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia, garantendo loro una casa; per questa ragione l’ingresso è libero e garantito a tutti.",
+  "categories": [ "elite dangerous", "squadrone", "squadron", "ps4", "flotta stellare", "videogames" ]
 }

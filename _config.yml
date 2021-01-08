@@ -19,8 +19,8 @@ url: https://flottastellare.it
 name: "Alto Comando Flotta Stellare"
 short_name: "ACFS"
 lang_direction: "ltr"
-color: "#abc123"
-background_color: "#ccc"
+color: "#f07b05"
+background_color: "#1a1919"
 
 #
 ###################################
