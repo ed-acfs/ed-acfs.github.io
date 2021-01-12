@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-01-04
+last_modified_at: 2021-12-04
 ---
 <style>
 .wrap-collapsible {
@@ -77,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **28 sistemi** e ne controlliamo **22**:
+Al momento siamo presenti in **29 sistemi** e ne controlliamo **22**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -104,6 +104,7 @@ Al momento siamo presenti in **28 sistemi** e ne controlliamo **22**:
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
+|     | Ragapajo    | Corporativo   | 1.63 Miliardi | Federale      | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | Kungurutii  | Corporativo   | 95,223        | Federazione   | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
@@ -116,6 +117,7 @@ Al momento siamo presenti in **28 sistemi** e ne controlliamo **22**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>10 Gennaio 3307: la Flotta concretizza la prima fase di una importante e fondamentale operazione strategica entrando a <b>Ragapajo</b></li>
           <li>01 Gennaio 3307: Conquistiamo <b>G 108-26</b>, che diventa il <b>ventiduesimo sistema</b> sotto al nostro controllo</li>
           <li>20 Dicembre 3306: Senza trovare la minima opposizione, Flotta Stellare prende il controllo di <b>Timocani</b></li>
           <li>14 Dicembre 3306: La Flotta si espande a <b>G 108-26</b>, ventisettesimo sistema in cui siamo presenti</li>
