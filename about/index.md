@@ -77,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **29 sistemi** e ne controlliamo **22**:
+Al momento siamo presenti in **29 sistemi** e ne controlliamo **23**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -95,6 +95,7 @@ Al momento siamo presenti in **29 sistemi** e ne controlliamo **22**:
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
+|     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
@@ -106,7 +107,6 @@ Al momento siamo presenti in **29 sistemi** e ne controlliamo **22**:
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | Ragapajo    | Corporativo   | 1.63 Miliardi | Federale      | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
-|     | Kungurutii  | Corporativo   | 95,223        | Federazione   | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
@@ -117,6 +117,7 @@ Al momento siamo presenti in **29 sistemi** e ne controlliamo **22**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>17 Gennaio 3307: Nello stesso giorno <b>conquistiamo Kungurutii</b>, che diviene il ventireesimo sistema sotto la nostra guida e cominciamo la guerra per il controllo di <b>Ragapajo</b></li>
           <li>10 Gennaio 3307: la Flotta concretizza la prima fase di una importante e fondamentale operazione strategica entrando a <b>Ragapajo</b></li>
           <li>01 Gennaio 3307: Conquistiamo <b>G 108-26</b>, che diventa il <b>ventiduesimo sistema</b> sotto al nostro controllo</li>
           <li>20 Dicembre 3306: Senza trovare la minima opposizione, Flotta Stellare prende il controllo di <b>Timocani</b></li>
