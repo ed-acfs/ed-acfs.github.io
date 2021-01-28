@@ -56,10 +56,10 @@ last_modified_at: 2019-04-08
 						<!-- Posts -->
 						<section class="posts">
 								{% assign posts = site.posts | where: "sticky", true | sort: "date" %}
-								{% for post in posts limit:1 %}
+								{% for post in posts limit:2 %}
   								<article>
 										<header>
-  										<span class="date">{{ post.date | date_to_string }} &nbsp; <i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+  										<span class="date">Post in Evidenza &nbsp; <i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
 											<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
   									</header>
   									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" alt="" data-echo="{{ post.image | prepend:site.baseurl }}" /></a>
@@ -70,7 +70,7 @@ last_modified_at: 2019-04-08
 									</article>
 								{% endfor %}
 								{% assign normalPost = site.posts | where: "sticky", false %}
-								{% for post in normalPost limit:5 %}
+								{% for post in normalPost limit:6 %}
 								<article>
 									<header>
 										<span class="date">{{ post.date | date_to_string }}</span>
