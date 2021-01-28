@@ -84,7 +84,7 @@ Prendi la tua migliore nave esplorativa e pianifica un percorso a **5.000 LY** d
 Una volta che sei alla fine del percorso, seleziona il tuo sistema di partenza per assicurarti che sia a più di 5.000 LY di distanza, quindi vai al sistema **Procyon**. Vendi i tuoi dati in una stazione di proprietà della Sirius Corporation fino a quando non ricevi l'invito per **Sirius** ed acquisisci il relativo permesso. 
 
 <div class="box">
-<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Attenzione!</b>&nbsp;l'invito arriva sotto forma di <b>missione</b>, <u>solo dopo che sarai diventato <b>Friendly</b></u> con la Sirius Corporation)</div>
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Attenzione!</b>&nbsp;l'invito arriva sotto forma di <b>missione</b>, <u>solo dopo che sarai diventato <b>Allied</b></u> con la Sirius Corporation)</div>
 
 Quindi vai a **78 Ursae Majoris** e consegna i dati rimanenti ad una stazione di proprietà degli **Alioth Independents**. Da qui, verifica di avere almeno 30 tonnellate di capacità di carico, acquista una commodity qualsiasi dal Market (quale sia non è importante, quindi acquista la più economica che trovi) e partecipa ad una missione di Data Delivery, preferibilmente con una ricompensa in Modular Terminals.
 
