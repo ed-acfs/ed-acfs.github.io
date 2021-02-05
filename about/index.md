@@ -77,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **29 sistemi** e ne controlliamo **23**:
+Al momento siamo presenti in **30 sistemi** e ne controlliamo **23**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -106,6 +106,7 @@ Al momento siamo presenti in **29 sistemi** e ne controlliamo **23**:
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | Ragapajo    | Corporativo   | 1.63 Miliardi | Federale      | Non Controllato |
+|     | BD+08 1303  | Democratico   | 20.85 Milioni | Federale      | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
@@ -117,6 +118,7 @@ Al momento siamo presenti in **29 sistemi** e ne controlliamo **23**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>24 Gennaio 3307: L'ingresso a <b>BD+08 1303</b> ci porta a fare la conoscenza di un simpatico gruppo di alchimisti spaziali, epserti nell'arte del tramutare patate in un portentoso liquido capace di donare felicità e disinibizione</li>
           <li>17 Gennaio 3307: Nello stesso giorno <b>conquistiamo Kungurutii</b>, che diviene il ventireesimo sistema sotto la nostra guida e cominciamo la guerra per il controllo di <b>Ragapajo</b></li>
           <li>10 Gennaio 3307: la Flotta concretizza la prima fase di una importante e fondamentale operazione strategica entrando a <b>Ragapajo</b></li>
           <li>01 Gennaio 3307: Conquistiamo <b>G 108-26</b>, che diventa il <b>ventiduesimo sistema</b> sotto al nostro controllo</li>
