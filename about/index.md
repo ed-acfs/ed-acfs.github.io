@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-25
 ---
 <style>
 .wrap-collapsible {
@@ -77,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **31 sistemi** e ne controlliamo **24**:
+Al momento siamo presenti in **32 sistemi** e ne controlliamo **24**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -110,6 +110,7 @@ Al momento siamo presenti in **31 sistemi** e ne controlliamo **24**:
 |     | Flech       | Corporativo   | 1.45 Miliardi | Federale      | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
+|     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 
@@ -119,7 +120,8 @@ Al momento siamo presenti in **31 sistemi** e ne controlliamo **24**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>17 Febbraio 3307: Conquistiamo <b>BD+08 1303</b> e con esso la sua particolarità che lo rende unico in tutta la Galassia</li>
+          <li>25 Febbraio 3307: Entriamo, senza desideri di conquista, ad <b>Amait</b>, sistema già controllato da una fazione con cui esiste un trattato di non belligeranza.</li>
+          <li>17 Febbraio 3307: Conquistiamo <b>BD+08 1303</b> e con esso la sua particolarità che lo rende unico in tutta la Galassia: un sistema nascosto accessibile solo passando da qui.</li>
           <li>24 Gennaio 3307: L'ingresso a <b>BD+08 1303</b> ci porta a fare la conoscenza di un simpatico gruppo di alchimisti spaziali, epserti nell'arte del tramutare patate in un portentoso liquido capace di donare felicità e disinibizione</li>
           <li>17 Gennaio 3307: Nello stesso giorno <b>conquistiamo Kungurutii</b>, che diviene il ventireesimo sistema sotto la nostra guida e cominciamo la guerra per il controllo di <b>Ragapajo</b></li>
           <li>10 Gennaio 3307: la Flotta concretizza la prima fase di una importante e fondamentale operazione strategica entrando a <b>Ragapajo</b></li>

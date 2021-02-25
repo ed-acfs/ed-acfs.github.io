@@ -31,12 +31,12 @@
 	$palette: (
 		wrapper-bg:			#212931,
 
-		bg:					#ffffff,
-		fg:					#212931,
-		fg-bold:			#212931,
+		bg:					#212931,
+		fg:					#ffffff,
+		fg-bold:			#ffffff,
 		fg-light:			mix(#212931, #ffffff, 50%),
-		border:				mix(#dcdcdc, #ffffff, 50%),
-		border-bg:			rgba(#dcdcdc, 0.25),
+		border:				mix(#212931, #ffffff, 50%),
+		border-bg:			rgba(#212931, 0.25),
 		accent:				#f07b05,
 
 		alt: (
