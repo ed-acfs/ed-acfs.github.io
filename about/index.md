@@ -77,12 +77,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **32 sistemi** e ne controlliamo **24**:
+Al momento siamo presenti in **32 sistemi** e ne controlliamo **25**:
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
+|     | Ragapajo    | Corporativo   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
 |     | Suyarang    | Corporativo   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
@@ -106,7 +107,6 @@ Al momento siamo presenti in **32 sistemi** e ne controlliamo **24**:
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
-|     | Ragapajo    | Corporativo   | 1.63 Miliardi | Federale      | Non Controllato |
 |     | Flech       | Corporativo   | 1.45 Miliardi | Federale      | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
@@ -120,6 +120,7 @@ Al momento siamo presenti in **32 sistemi** e ne controlliamo **24**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>06 Marzo 3307: Flotta Stellare conquista <b>Ragapajo</b> e porta a 25 il conteggio dei sistemi controllati.</li>
           <li>25 Febbraio 3307: Entriamo, senza desideri di conquista, ad <b>Amait</b>, sistema già controllato da una fazione con cui esiste un trattato di non belligeranza.</li>
           <li>17 Febbraio 3307: Conquistiamo <b>BD+08 1303</b> e con esso la sua particolarità che lo rende unico in tutta la Galassia: un sistema nascosto accessibile solo passando da qui.</li>
           <li>24 Gennaio 3307: L'ingresso a <b>BD+08 1303</b> ci porta a fare la conoscenza di un simpatico gruppo di alchimisti spaziali, epserti nell'arte del tramutare patate in un portentoso liquido capace di donare felicità e disinibizione</li>

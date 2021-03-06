@@ -60,3 +60,5 @@ Ogni violazione sarà perseguita in sede civile e penale.
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 Il presente sito è stato realizzato in HTML, Markdown e JavaScript, processato con [Jekyll](https://jekyllrb.com/) ed è hostato su [GitHub Pages](https://pages.github.com/)
+
+Documento aggiornato alla data del **16 Febbraio 2021**
