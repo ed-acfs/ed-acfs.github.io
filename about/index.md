@@ -83,9 +83,9 @@ Al momento siamo presenti in **32 sistemi** e ne controlliamo **25**:
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
-|     | Ragapajo    | Corporativo   | 1.63 Miliardi | Indipendente  | Controllato     |
+|     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
-|     | Suyarang    | Corporativo   | 31,15 Milioni | Indipendente  | Controllato     |
+|     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controllato     |
@@ -184,6 +184,20 @@ Oppure puoi seguire uno dei collegamenti social qui di seguito:
         <div class="4u$"><span class="image fit"><a href="https://inara.cz/squadron/4750/" class="image fit"><img src="{{ "/images/inara.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Inara" /></a></span></div>
     </div>
 </div>
+
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+
+## Accordo contro l’uso dei Bot
+
+L’uso delle “_Wing Ombra_” e delle “_Flotte Fantasma_” nel Power Play e nel BGS (Backgorund Simulation) sono cose che non vorremmo facessero parte di Elite: Dangerous. Piuttosto che sperare che il fenomeno sparisca da solo o peggio influenzi il gioco di qualcun altro, i seguenti gruppi e giocatori singoli sono orgogliosi di sottoscrivere il seguente __Codice di Condotta__:
+
+Noi **ci impegniamo** a:
+
+* non utilizzare Commanders automatizzati in Elite: Dangerous
+* non trarre beneficio dall’utilizzo di Commanders automatizzati usati da terze parti in Elite: Dangerous
+* segnalare ogni account sospetto di far utilizzo di Automazioni al Frontier Develpments Community Protection Team
+
+Per maggiori informazioni ti rimandiamo alla pagina Inara del <a href="https://inara.cz/squadron/9820/" title="Anti-Botting Agreement" target="_blank">Anti-Botting Agreement</a>
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
