@@ -2,7 +2,7 @@
 layout: post
 title:  "Spedizione Esplorativa: Destinazone Colonia"
 date:   2021-02-22
-excerpt: "Il viaggio verso Colonia può riservere tante soddisfazioni ed alcune sorprese non sempre gradite. Leggiamo insieme il primo, avvincente racconto del nostro CMDR Aleksej Stukov"
+excerpt: "Il viaggio verso Colonia può riservare tante soddisfazioni ed alcune sorprese non sempre gradite. Leggiamo insieme il primo, avvincente racconto del nostro CMDR Aleksej Stukov"
 image: "/images/posts/spedizione-esplorativa-destinazione-colonia/136448x1512.jpg"
 tags: flotta-stellare racconti esplorazione colonia
 author: aleksej
