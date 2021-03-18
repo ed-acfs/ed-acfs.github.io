@@ -13,7 +13,7 @@ sticky: no
 <p>20 Febbraio 3307<br>
 Diario di Bordo del CMDR Aleksej Stukov</p>
 
-<p>U.S.S. Enterprise NX-01D<br>
+<p>Spear Of Alexiodar AL-04A<br>
 Alto Comando Flotta Stellare</p>
 </div>
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
