@@ -68,7 +68,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 ## Alcune semplici regole da rispettare
 
 - Giocare in **Open Play**, unica modalità di gioco che ci interessa e che raccomandiamo
-- Presenza attiva sul nostro [**server Discord**](https://discord.gg/DrvkJrV)
+- Presenza attiva sul nostro [**server Discord**](https://discord.gg/TQcbuT7z8D)
 - Iscrizione ed __aggiornamento costante__ su [Inara](https://inara.cz/squadron/4750)
 - Diventare Allied della nostra PMF "**Flotta Stellare**"
 - Giocare pulito: ACFS è stata, è, e sempre sarà contro pratiche scorrette di gioco come ganking e griefing. Chiediamo quindi a tutti i nostri Cmdrs di giocare onestamente ed offriamo supporto per il contrasto di suddette pratiche
@@ -174,13 +174,13 @@ Al momento siamo presenti in **32 sistemi** e ne controlliamo **26**:
 ## Come unirsi alla Flotta Stellare
 
 Come già scritto sopra non esistono requisiti per accedere al nostro squadrone, attivo attualmente su **PS4** e su **PC**.<br>
-Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924), entrare nel nostro [canale discord](https://discord.gg/DrvkJrV){:target="_blank"} o sulla nostra [pagina FaceBook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}.
+Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924), entrare nel nostro [canale discord](https://discord.gg/TQcbuT7z8D){:target="_blank"} o sulla nostra [pagina FaceBook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}.
 
 Oppure puoi seguire uno dei collegamenti social qui di seguito:
 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="4u"><span class="image fit"><a href="https://discord.gg/DrvkJrV" class="image fit"><img src="{{ "/images/Discord-Logo+Wordmark-Color.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Discord Server" /></a></span></div>
+        <div class="4u"><span class="image fit"><a href="https://discord.gg/TQcbuT7z8D" class="image fit"><img src="{{ "/images/Discord-Logo+Wordmark-Color.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Discord Server" /></a></span></div>
         <div class="4u"><span class="image fit"><a href="https://facebook.com/{{site.facebook}}" class="image fit"><img src="{{ "/images/new-facebook-logo.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Pagina FaceBook" /></a></span></div>
         <div class="4u$"><span class="image fit"><a href="https://inara.cz/squadron/4750/" class="image fit"><img src="{{ "/images/inara.png" | prepend:site.baseurl }}" alt="Alto Comando Flotta Stellare | Inara" /></a></span></div>
     </div>

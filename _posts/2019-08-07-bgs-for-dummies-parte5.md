@@ -48,7 +48,7 @@ Non resta che attendere qualche giorno la fine della nostra espansione, mantenen
 
 Con questo capitolo abbiamo dato un primo sguardo agli scenari di gioco principali.
 Vi sono numerosi altri stati e scenari che non abbiamo affrontato e che offrono altre meccaniche di gioco.<br>
-Se vi foste incuriositi, per approfondire vi rimando al [nostro server discord](https://discord.gg/DrvkJrV), oltre a questi utili link:
+Se vi foste incuriositi, per approfondire vi rimando al [nostro server discord](https://discord.gg/TQcbuT7z8D), oltre a questi utili link:
 
 ##### [Forum Frontier](https://forums.frontier.co.uk/threads/dont-panic-bgs-guides-and-help.400110/) (trovate molti link utili anche nei commenti)
 

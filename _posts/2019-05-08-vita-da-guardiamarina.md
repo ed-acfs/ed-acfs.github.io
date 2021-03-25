@@ -19,7 +19,7 @@ Io non ho sentito nulla...
 ## Appoggio, aiuto, condivisione... in una parola Wing!
 
 <span class="image fit"><img src="/images/posts/vita-da-guardiamarina/Elite-Wing.png" alt=""></span>
-Il supporto ai nuovi Comandanti non si basa esclusivamente su quello che potete trovare H24 sul nostro [server Discord](https://discord.gg/DrvkJrV){:target="_blank"}, ma anche e sopratutto in gioco.<br>
+Il supporto ai nuovi Comandanti non si basa esclusivamente su quello che potete trovare H24 sul nostro [server Discord](https://discord.gg/TQcbuT7z8D){:target="_blank"}, ma anche e sopratutto in gioco.<br>
 Condividiamo wing mission milionarie a ciclo continuo e questo, ovvero lo scoglio economico per aquistare navi più performanti e competitive, è già una bella cosa.
 
 Lo facciamo perchè crediamo nelllo spirito della condivisione e perchè speriamo che, così facendo, quando quelli che ora sono _nuovi player_ diventeranno _comandanti navigati_, saranno i primi a fare altrettanto quando ne avranno l'occasione.

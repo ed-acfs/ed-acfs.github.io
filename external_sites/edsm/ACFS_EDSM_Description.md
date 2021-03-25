@@ -25,12 +25,12 @@ Avere un posto da chiamare casa è per noi essenziale, ci da un grande senso di 
 **Alcune semplici regole da rispettare**
 
 - Giocare in **Open Play**, unica modalità di gioco che ci interessa e che raccomandiamo
-- Presenza attiva sul nostro [**server Discord**](https://discord.gg/DrvkJrV)
+- Presenza attiva sul nostro [**server Discord**](https://discord.gg/TQcbuT7z8D)
 - Iscrizione ed __aggiornamento costante__ su [Inara](https://inara.cz/squadron/4750)
 - Diventare Allied della nostra PMF "**Flotta Stellare**"
 - Giocare pulito: ACFS è stata, è, e sempre sarà contro pratiche scorrette di gioco come ganking e griefing. Chiediamo quindi a tutti i nostri Cmdrs di giocare pulito e offriamo supporto per il contrasto di suddette pratiche
 
-**Discord**: https://discord.gg/DrvkJrV - **Inara**: https://inara.cz/squadron/4750/
+**Discord**: https://discord.gg/TQcbuT7z8D - **Inara**: https://inara.cz/squadron/4750/
 
 **ENGLISH VERSION**
 Alto Comando Flotta Stellare (**ACFS**) is the squadron that reunites independent players throughout the galaxy, granting them a new home; for that reason, joining the squadron is free and granted for everyone.
@@ -56,9 +56,9 @@ Having a place that we can call home, for us, is very important. It give us a gr
 **Few and simple rules to follow**
 
 - Play in **Open Play**, the only mode that we really accept, care for and recommend
-- Active presence on our [**server Discord**](https://discord.gg/DrvkJrV)
+- Active presence on our [**server Discord**](https://discord.gg/TQcbuT7z8D)
 - Squadron joining and update on [Inara](https://inara.cz/squadron/4750)
 - Become allied with our PMF “**Flotta Stellare**”
 - Play it straight: ACFS was, is and will always be against unfair playing styles like ganking and griefing. We ask to all our CMDRs a straight edge line of conduct and we offer support against those unworthy practices
 
-**Discord**: https://discord.gg/DrvkJrV - **Inara**: https://inara.cz/squadron/4750/
+**Discord**: https://discord.gg/TQcbuT7z8D - **Inara**: https://inara.cz/squadron/4750/
