@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-03-12
+last_modified_at: 2021-04-06
 ---
 <style>
 .wrap-collapsible {
@@ -77,7 +77,11 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **32 sistemi** e ne controlliamo **26**:
+Al momento siamo presenti in **34 sistemi**, di cui ne controlliamo **26**.<br>
+Abbiamo messo sotto al nostro governo:
+- Oltre **5,5 miliardi** di abitanti
+- **45 stazioni**
+- **27 settlements**
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -109,10 +113,12 @@ Al momento siamo presenti in **32 sistemi** e ne controlliamo **26**:
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
+|     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
+|     | Ndozins     | Corporativo   | 2,821         | Federazione   | Non Controllato |
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -120,7 +126,9 @@ Al momento siamo presenti in **32 sistemi** e ne controlliamo **26**:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>12 Marzo 3007: Vinciamo un estenuante conflitto che, dopo una fortissima ostruzione esterna, ci porta alla conquista di <b>Flech</b>, sistema fra i più popolosi sotto il governo della Flotta.</li>
+          <li>1 Aprile 3307: Entriamo in un piccolo sistema, Ndozins. La scalata per il controllo sarà una passeggiata</li>
+          <li>22 Marzo 3307: Il nostro ingresso a LHS 1681 si trasforma in quella che verrà ricordata come una guerra interplanetaria di dimensioni galattiche. Un piccolo manipolo di CMDRs della Flotta ha tentato di tener testa ad una forze di oltre 1000 avversari, non riuscendovi ma comunque ricoprendosi di infifita gloria! E, andatene certi, il nodo al fazzoletot è stato fatto</li>
+          <li>12 Marzo 3307: Vinciamo un estenuante conflitto che, dopo una fortissima ostruzione esterna, ci porta alla conquista di <b>Flech</b>, sistema fra i più popolosi sotto il governo della Flotta.</li>
           <li>06 Marzo 3307: Flotta Stellare conquista <b>Ragapajo</b> e porta a 25 il conteggio dei sistemi controllati.</li>
           <li>25 Febbraio 3307: Entriamo, senza desideri di conquista, ad <b>Amait</b>, sistema già controllato da una fazione con cui esiste un trattato di non belligeranza.</li>
           <li>17 Febbraio 3307: Conquistiamo <b>BD+08 1303</b> e con esso la sua particolarità che lo rende unico in tutta la Galassia: un sistema nascosto accessibile solo passando da qui.</li>
