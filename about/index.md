@@ -77,10 +77,9 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **34 sistemi**, di cui ne controlliamo **26**.<br>
-Abbiamo messo sotto al nostro governo:
-- Oltre **5,5 miliardi** di abitanti
-- **45 stazioni**
+Al momento siamo presenti in **34 sistemi**, di cui ne controlliamo **27**.<br>
+Governiamo su oltre **5,5 miliardi** di abitanti e:
+- **46 stazioni**
 - **27 settlements**
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -110,6 +109,7 @@ Abbiamo messo sotto al nostro governo:
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
+|     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
@@ -118,7 +118,6 @@ Abbiamo messo sotto al nostro governo:
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
-|     | Ndozins     | Corporativo   | 2,821         | Federazione   | Non Controllato |
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -126,6 +125,7 @@ Abbiamo messo sotto al nostro governo:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>12 Aprile 3307: Come previsto, prendiamo il controllo di <b>Ndozins</b></li>
           <li>1 Aprile 3307: Entriamo in un piccolo sistema, Ndozins. La scalata per il controllo sarà una passeggiata</li>
           <li>22 Marzo 3307: Il nostro ingresso a LHS 1681 si trasforma in quella che verrà ricordata come una guerra interplanetaria di dimensioni galattiche. Un piccolo manipolo di CMDRs della Flotta ha tentato di tener testa ad una forze di oltre 1000 avversari, non riuscendovi ma comunque ricoprendosi di infifita gloria! E, andatene certi, il nodo al fazzoletot è stato fatto</li>
           <li>12 Marzo 3307: Vinciamo un estenuante conflitto che, dopo una fortissima ostruzione esterna, ci porta alla conquista di <b>Flech</b>, sistema fra i più popolosi sotto il governo della Flotta.</li>
