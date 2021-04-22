@@ -39,13 +39,22 @@
                 <a href="/search/tag/{{ tag_name | slugify }}/" rel="nofollow"><nobr>{{ tag_name | slugify }}</nobr>&nbsp;</a>
               {% endfor %}
             ]</sup>
+
             {% assign author = site.data.authors[page.author] %}
+            {% if author %}
+            <section class="policy-container">
+              {% include policy.html %}
+            </section>
+            {% endif %}
+            
             {% if author %}
             <section class="authorbox">
               {% include author.html %}
             </section>
             {% endif %}
+
             {% include social.html %}
+
           </section>
 
           <div class="comments-wrapper">
