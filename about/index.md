@@ -129,7 +129,7 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
           <li>20 Aprile 3307: Vinciamo la war di invasione e ci stabiliamo in un piccolo sistema, <b>GD 69</b>, che diventa quindi il trentacinqesimo in cui la Flotta è presente</li>
           <li>12 Aprile 3307: Come previsto, prendiamo il controllo di <b>Ndozins</b></li>
           <li>1 Aprile 3307: Entriamo in un piccolo sistema, Ndozins. La scalata per il controllo sarà una passeggiata</li>
-          <li>22 Marzo 3307: Il nostro ingresso a LHS 1681 si trasforma in quella che verrà ricordata come una guerra interplanetaria di dimensioni galattiche. Un piccolo manipolo di CMDRs della Flotta ha tentato di tener testa ad una forze di oltre 1000 avversari, non riuscendovi ma comunque ricoprendosi di infifita gloria! E, andatene certi, il nodo al fazzoletot è stato fatto</li>
+          <li>22 Marzo 3307: Il nostro ingresso a LHS 1681 si trasforma in quella che verrà ricordata come una guerra interplanetaria di dimensioni galattiche. Un piccolo manipolo di CMDRs della Flotta ha tentato di tener testa ad una forze di oltre 1000 avversari, non riuscendovi ma comunque ricoprendosi di infifita gloria!</li>
           <li>12 Marzo 3307: Vinciamo un estenuante conflitto che, dopo una fortissima ostruzione esterna, ci porta alla conquista di <b>Flech</b>, sistema fra i più popolosi sotto il governo della Flotta.</li>
           <li>06 Marzo 3307: Flotta Stellare conquista <b>Ragapajo</b> e porta a 25 il conteggio dei sistemi controllati.</li>
           <li>25 Febbraio 3307: Entriamo, senza desideri di conquista, ad <b>Amait</b>, sistema già controllato da una fazione con cui esiste un trattato di non belligeranza.</li>
