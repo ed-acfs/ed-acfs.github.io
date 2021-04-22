@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-04-06
+last_modified_at: 2021-04-21
 ---
 <style>
 .wrap-collapsible {
@@ -77,7 +77,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **34 sistemi**, di cui ne controlliamo **27**.<br>
+Al momento siamo presenti in **35 sistemi**, di cui ne controlliamo **27**.<br>
 Governiamo su oltre **5,5 miliardi** di abitanti e:
 - **46 stazioni**
 - **27 settlements**
@@ -85,39 +85,40 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
-|     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
-|     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
-|     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
-|     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
-|     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
+|     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
+|     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
+|     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
+|     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
+|     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
+|     | GD 69       | Corporativo   | 2,644         | Federale      | Non Controllato |
 |     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controllato     |
-|     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
-|     | M Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
-|     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
-|     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
+|     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
+|     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
+|     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
+|     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
+|     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
+|     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
+|     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
+|     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
-|     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
-|     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
-|     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
-|     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
-|     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
-|     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
-|     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
-|     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
+|     | M Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
+|     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
-|     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
-|     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
+|     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
-|     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
-|     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
-|     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
-|     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
+|     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
+|     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
+|     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
+|     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
+|     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
+|     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
+|     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
@@ -125,6 +126,7 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>20 Aprile 3307: Vinciamo la war di invasione e ci stabiliamo in un piccolo sistema, <b>GD 69</b>, che diventa quindi il trentacinqesimo in cui la Flotta è presente</li>
           <li>12 Aprile 3307: Come previsto, prendiamo il controllo di <b>Ndozins</b></li>
           <li>1 Aprile 3307: Entriamo in un piccolo sistema, Ndozins. La scalata per il controllo sarà una passeggiata</li>
           <li>22 Marzo 3307: Il nostro ingresso a LHS 1681 si trasforma in quella che verrà ricordata come una guerra interplanetaria di dimensioni galattiche. Un piccolo manipolo di CMDRs della Flotta ha tentato di tener testa ad una forze di oltre 1000 avversari, non riuscendovi ma comunque ricoprendosi di infifita gloria! E, andatene certi, il nodo al fazzoletot è stato fatto</li>
