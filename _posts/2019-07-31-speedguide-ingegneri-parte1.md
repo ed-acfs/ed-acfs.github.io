@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guida passo per passo: come sbloccare gli ingegneri - Parte 1"
+title:  "Giuda passo per passo - Come sbloccare gli ingegneri: Parte 1"
 date:   2019-07-31
 excerpt: "Sbloccare gli Ingegneri di Elite Dangerous può essere un lavoro molto lungo e noioso. Vediamo come raggiungere il massimo risultato con il minimo sforzo"
 image: "/images/posts/speedguide-ingegneri/Elite-Dangerous-The-Engineers.jpg"
