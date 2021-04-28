@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guida passo per passo: come sbloccare gli ingegneri - Parte 2"
+title:  "Giuda passo per passo - Come sbloccare gli ingegneri: Parte 2"
 date:   2019-08-01
 excerpt: "Seconda parte della guida agli Ingegneri di Elite Dangerous. Vediamo come sbloccare Didi Vatermann, Liz Ryder, Hera Tani, Broo Tarquin e molti altri"
 image: "/images/posts/speedguide-ingegneri/Elite-Dangerous-The-Engineers2.jpg"
