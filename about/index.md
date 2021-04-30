@@ -77,10 +77,10 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **35 sistemi**, di cui ne controlliamo **27**.<br>
+Al momento siamo presenti in **35 sistemi**, di cui ne controlliamo **28**.<br>
 Governiamo su oltre **5,5 miliardi** di abitanti e:
-- **46 stazioni**
-- **27 settlements**
+- **48 stazioni**
+- **28 settlements**
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -92,7 +92,7 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
 |     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
-|     | GD 69       | Corporativo   | 2,644         | Federale      | Non Controllato |
+|     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
@@ -126,6 +126,7 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>29 Aprile 3307: Conquistiamo <b>GD 69</b></li>
           <li>20 Aprile 3307: Vinciamo la war di invasione e ci stabiliamo in un piccolo sistema, <b>GD 69</b>, che diventa quindi il trentacinqesimo in cui la Flotta è presente</li>
           <li>12 Aprile 3307: Come previsto, prendiamo il controllo di <b>Ndozins</b></li>
           <li>1 Aprile 3307: Entriamo in un piccolo sistema, Ndozins. La scalata per il controllo sarà una passeggiata</li>
