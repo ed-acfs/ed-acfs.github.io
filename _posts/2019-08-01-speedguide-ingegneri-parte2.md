@@ -6,7 +6,7 @@ excerpt: "Seconda parte della guida agli Ingegneri di Elite Dangerous. Vediamo c
 image: "/images/posts/speedguide-ingegneri/Elite-Dangerous-The-Engineers2.jpg"
 tags: guide ingegneri primi-passi tutorial
 author: wiitifulsky
-last_modified_at: 2019-08-21
+last_modified_at: 2021-04-27
 sticky: no
 ---
 Ciao a tutti, sono il CMDR WiitifulSky. Quella che segue è la seconda e conclusiva parte della nostra guida agli **Ingegneri di Elite Dangerous**. Se siete arrivati fino a qui probabilmente avete già letto la [prima parte](/blog/speedguide-ingegneri-parte1/), quindi direi di saltare ogni altro cappello introduttivo e passare immediatamente al sodo.
