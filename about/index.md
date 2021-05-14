@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-05-07
+last_modified_at: 2021-05-14
 ---
 <style>
 .wrap-collapsible {
@@ -77,9 +77,9 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **36 sistemi**, di cui ne controlliamo **28**.<br>
+Al momento siamo presenti in **36 sistemi**, di cui ne controlliamo **29**.<br>
 Governiamo su oltre **5,5 miliardi** di abitanti e:
-- **49 stazioni**
+- **50 stazioni**
 - **28 settlements**
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -107,7 +107,7 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
 |     | M Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
-|     | Naiti       | Feudale       | 33,647        | Indipendente  | Non Controllato |
+|     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
@@ -127,6 +127,7 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>14 Maggio 3307: Acquisiamo in controllo di Naiti</li>
           <li>06 Maggio 3307: La Flotta approda a <b>Naiti</b>, trentaseiesimo sistema in cui conferma la propria presenza</li>
           <li>29 Aprile 3307: Conquistiamo <b>GD 69</b></li>
           <li>20 Aprile 3307: Vinciamo la war di invasione e ci stabiliamo in un piccolo sistema, <b>GD 69</b>, che diventa quindi il trentacinqesimo in cui la Flotta è presente</li>
