@@ -2,7 +2,7 @@
 layout: post
 title:  "Alla ricerca di Raxxla: Il diario di Alex Ryder"
 date:   2021-05-19
-excerpt: "Dal semplice ritrovamento di un libro possono scaturire le idee migliori. Viviamo l'inizio della sua avventura alla ricerca di Raxxla, nel primo racconto nel nostro Zio Joe"
+excerpt: "Dal semplice ritrovamento di un libro possono scaturire le idee migliori. Viviamo l'inizio della sua avventura alla ricerca di Raxxla, nel primo racconto del nostro Zio Joe"
 image: "/images/posts/alla-ricerca-raxxla-diario-alex-ryder/raxxla-back.jpg"
 tags: flotta-stellare racconti raxxla
 author: ziojoe
