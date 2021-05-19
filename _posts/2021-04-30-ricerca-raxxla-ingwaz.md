@@ -4,7 +4,7 @@ title:  "Alla ricerca di Raxxla: Messaggio Misterioso dal Profondo"
 date:   2021-04-30
 excerpt: "Una intuizione, un breve viaggio ed un incontro misterioso. Un nuovo racconto avventuroso, da parte del nostro Xenobiologo Giux!"
 image: "/images/posts/ricerca-raxxla-ingwaz/PS_App_20210430_060527.jpg"
-tags: flotta-stellare racconti esplorazione xenobiologia
+tags: flotta-stellare racconti esplorazione xenobiologia raxxla
 author: thegiux
 sticky: no
 ---
