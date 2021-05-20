@@ -77,13 +77,13 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.5.0)
+    mini_portile2 (2.5.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.11.2)
+    nokogiri (1.11.4)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
-    nokogiri (1.11.2-x64-mingw32)
+    nokogiri (1.11.4-x64-mingw32)
       racc (~> 1.4)
     octokit (4.20.0)
       faraday (>= 0.9)
@@ -112,7 +112,6 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -129,7 +128,6 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   rack (>= 2.1.4)
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.1.4
