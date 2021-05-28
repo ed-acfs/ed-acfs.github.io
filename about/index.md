@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4 e PC, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-05-14
+last_modified_at: 2021-05-28
 ---
 <style>
 .wrap-collapsible {
@@ -77,10 +77,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Al momento siamo presenti in **36 sistemi**, di cui ne controlliamo **29**.<br>
-Governiamo su oltre **5,5 miliardi** di abitanti e:
-- **50 stazioni**
-- **28 settlements**
+Siamo presenti in: **37 sistemi**, di cui ne controlliamo **29**.<br>
+Controlliamo inoltre:
+  - **56** stazioni
+  - **21** settlements
+  - **33** installazioni
+
+Governiamo su **4,278,977,422** abitanti
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -89,6 +92,7 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
+|     | Cosi        | Corporativo   | 4.41 Miliardi | Federale      | Non Controllato |
 |     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
@@ -127,6 +131,7 @@ Governiamo su oltre **5,5 miliardi** di abitanti e:
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>26 Maggio 3307: Vinciamo la guerra di invasione a <b>Cosi</b>. Comincia il dialogo con la fazione controllante, che verrà aiutata ad espandersi altrove per lasciare quindi il sistema alla Flotta</li>
           <li>14 Maggio 3307: Acquisiamo in controllo di Naiti</li>
           <li>06 Maggio 3307: La Flotta approda a <b>Naiti</b>, trentaseiesimo sistema in cui conferma la propria presenza</li>
           <li>29 Aprile 3307: Conquistiamo <b>GD 69</b></li>
