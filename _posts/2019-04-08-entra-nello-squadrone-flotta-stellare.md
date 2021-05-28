@@ -43,7 +43,6 @@ Quando entrerai a far parte della Flotta Stellare farai anche parte di:
 - Giocare principalmente in Open Play
 - Se te la senti, di dedicare un po' del tuo tempo di gioco al [BGS](/bgs/)
 - Di divertirti
-- Che tu abbia una PS4 o un PC
 
 ## Allora, cosa aspetti?
 
