@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-16
 ---
 <style>
 .wrap-collapsible {
@@ -77,13 +77,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **37 sistemi**, di cui ne controlliamo **29**.<br>
+Siamo presenti in: **39 sistemi**, di cui ne controlliamo **29**.<br>
 Controlliamo inoltre:
-  - **56** stazioni
-  - **21** settlements
-  - **33** installazioni
+  - **64** stazioni
+  - **66** settlements
+  - **30** installazioni
 
-Governiamo su **4,278,977,422** abitanti
+Governiamo su **5,179,876,056** abitanti
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -101,10 +101,12 @@ Governiamo su **4,278,977,422** abitanti
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
+|     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
+|     | LP 302-22   | Democratico   | 2.61 Miliardi | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
@@ -131,6 +133,8 @@ Governiamo su **4,278,977,422** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>15 Giugno 3307: In seguito ad una nuova espnasione arriviamo su <b>LP 302-22</b> e mettiamo in moto la nostra macchina diplomatica per raggiungere un accordo di buon vicinato con la fazione già presente.</li>
+          <li>03 Giugno 3307: La Flotta entra a <b>LHS 1743</b></li>
           <li>26 Maggio 3307: Vinciamo la guerra di invasione a <b>Cosi</b>. Comincia il dialogo con la fazione controllante, che verrà aiutata ad espandersi altrove per lasciare quindi il sistema alla Flotta</li>
           <li>14 Maggio 3307: Acquisiamo in controllo di Naiti</li>
           <li>06 Maggio 3307: La Flotta approda a <b>Naiti</b>, trentaseiesimo sistema in cui conferma la propria presenza</li>
