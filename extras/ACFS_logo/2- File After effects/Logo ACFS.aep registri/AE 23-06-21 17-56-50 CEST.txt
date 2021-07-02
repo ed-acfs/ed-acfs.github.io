@@ -1,0 +1,1 @@
+  23/06/21 17:56:50 CEST: avvio composizione "Composizione 1".  Output in: /Users/antoniocalo/Desktop/Composizione 1/Composizione 1.mov    23/06/21 17:56:53 CEST: termine composizione "Composizione 1".  Tempo totale trascorso: 2 secondiRegistro chiuso in 23/06/21 a 17:56:53 CEST
