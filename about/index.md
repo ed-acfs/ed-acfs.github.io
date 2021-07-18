@@ -92,7 +92,7 @@ Governiamo su **5,284,267,917** abitanti
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
-|     | Bota Bota Ili| Democratico  | 86,834        | Indipendente  | Controllato     |
+|     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cosi        | Corporativo   | 4.41 Miliardi | Federale      | Non Controllato |
 |     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
