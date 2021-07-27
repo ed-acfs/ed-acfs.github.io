@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-07-18
+last_modified_at: 2021-07-27
 ---
 <style>
 .wrap-collapsible {
@@ -77,13 +77,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **41 sistemi**, di cui **30** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **42 sistemi**, di cui **30** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **70** stazioni
-  - **85** settlements
-  - **35** installazioni
+  - **69** stazioni
+  - **90** settlements
+  - **36** installazioni
 
-Governiamo su **5,284,267,917** abitanti
+Governiamo su **5,585,003,224** abitanti
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -92,6 +92,7 @@ Governiamo su **5,284,267,917** abitanti
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
+|     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cosi        | Corporativo   | 4.41 Miliardi | Federale      | Non Controllato |
 |     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
@@ -135,7 +136,8 @@ Governiamo su **5,284,267,917** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>16 Luglio 3307: prendiamo in controllo di <b>Bota Ili</b></li>
+          <li>26 Luglio 3306: La nuova espansione ci porta su BD+14 831, sistema già controllato da una PMF, che non stimola il nostro interesse</lI>
+          <li>16 Luglio 3307: prendiamo il controllo di <b>Bota Ili</b></li>
           <li>30 Giugno 3307: La Flotta si espande su <b>Bota Ili</b>, quarantesimo sistema in cui siamo presenti</li>
           <li>15 Giugno 3307: In seguito ad una nuova espnasione arriviamo su <b>LP 302-22</b> e mettiamo in moto la nostra macchina diplomatica per raggiungere un accordo di buon vicinato con la fazione già presente.</li>
           <li>03 Giugno 3307: La Flotta entra a <b>LHS 1743</b></li>
