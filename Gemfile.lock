@@ -7,7 +7,7 @@ GEM
       minitest (>= 5.1)
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
-    addressable (2.7.0)
+    addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
@@ -128,6 +128,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  addressable (>= 2.8.0)
   jekyll-feed
   jekyll-gist
   jekyll-mentions
