@@ -19,6 +19,10 @@
             <a href="{{ author.twitter }}" target="_blank" title="Leggi i tweet di {{ author.display_name }}"><span class="iconify" data-icon="brandico:twitter-bird" data-inline="false" style="color:#2e6db4;"></span></a>
         {% endif %}
 
+        {% if author.telegram %}
+        <a href="{{ author.telegram }}" target="_blank" title="Contatta {{ author.display_name }} su Telegram"><span class="iconify" data-icon="icon-park-outline:telegram" data-inline="false" style="color:#2e6db4;"></span></a>
+        {% endif %}
+
         {% if author.web %}
             <a href="{{ author.web }}" target="_blank" title="Il sito web di {{ author.display_name }}"><span class="iconify" data-icon="ls:web" data-inline="false" style="color:#2e6db4;"></span></a>
         {% endif %}
