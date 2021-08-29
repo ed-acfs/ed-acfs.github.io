@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-08-20
+last_modified_at: 2021-08-29
 ---
 <style>
 .wrap-collapsible {
@@ -77,13 +77,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **43 sistemi**, di cui **30** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **44 sistemi**, di cui **31** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **70** stazioni
-  - **107** settlements
+  - **72** stazioni
+  - **110** settlements
   - **43** installazioni
 
-Governiamo su **5,585,003,224** abitanti
+Governiamo su **6,053,500,172** abitanti
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -94,7 +94,7 @@ Governiamo su **5,585,003,224** abitanti
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
-|     | Cosi        | Corporativo   | 4.41 Miliardi | Federale      | Non Controllato |
+|     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
@@ -123,6 +123,7 @@ Governiamo su **5,585,003,224** abitanti
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
+|     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Federale      | Non Controllato |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
@@ -137,6 +138,8 @@ Governiamo su **5,585,003,224** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>29 Agosto 3307: La Flotta invade <b>SPOC 253</b>, che entro pochi giorni sarà ufficialmente il quarantaduesimo sistema in cui è presente</li>
+          <li>26 Agosto 3307: Dopo mesi passati, seduti in una stanza, aspettando per un si (semicit.), decidiamo di prendere il toro per le corna e conquistiamo <b>Cosi</b>, che diventa così il <b>trentunesimo</b> sistema sotto al notro controllo diretto. E ci dispiace per gli altri (cit.)</li>
           <li>15 Agosto 3307: LHS 1933 è il quarantatreesimo sistema in cui la Flotta è presente</li>
           <li>26 Luglio 3306: La nuova espansione ci porta su BD+14 831, sistema già controllato da una PMF, che non stimola il nostro interesse</lI>
           <li>16 Luglio 3307: prendiamo il controllo di <b>Bota Ili</b></li>
