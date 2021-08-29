@@ -138,7 +138,7 @@ Governiamo su **6,053,500,172** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>29 Agosto 3307: La Flotta invade <b>SPOC 253</b>, che entro pochi giorni sarà ufficialmente il quarantaduesimo sistema in cui è presente</li>
+          <li>29 Agosto 3307: La Flotta invade <b>SPOCS 253</b>, che entro pochi giorni sarà ufficialmente il quarantaduesimo sistema in cui è presente</li>
           <li>26 Agosto 3307: Dopo mesi passati, seduti in una stanza, aspettando per un si (semicit.), decidiamo di prendere il toro per le corna e conquistiamo <b>Cosi</b>, che diventa così il <b>trentunesimo</b> sistema sotto al nostro diretto controllo. E ci dispiace per gli altri (cit.)</li>
           <li>15 Agosto 3307: LHS 1933 è il quarantatreesimo sistema in cui la Flotta è presente</li>
           <li>26 Luglio 3306: La nuova espansione ci porta su BD+14 831, sistema già controllato da una PMF, che non stimola il nostro interesse</lI>
