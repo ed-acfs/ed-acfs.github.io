@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 image: /images/logo_843x885.png
-last_modified_at: 2021-09-06
+last_modified_at: 2021-09-13
 ---
 <style>
 .wrap-collapsible {
@@ -77,13 +77,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **44 sistemi**, di cui **32** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **45 sistemi**, di cui **32** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **74** stazioni
+  - **76** stazioni
   - **110** settlements
-  - **44** installazioni
+  - **45** installazioni
 
-Governiamo su **6,264,104,266** abitanti
+Governiamo su **6,647,644,928** abitanti
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -104,6 +104,7 @@ Governiamo su **6,264,104,266** abitanti
 |     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
+|     | LHS 1706    | Corporativo   | 2.37 Milioni  | Federale      | Non Controlato  |
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
@@ -138,6 +139,7 @@ Governiamo su **6,264,104,266** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>11 Settembre 3307: LHS 1706 ci vede arrivare con intenzioni bellicose, ma in realtà è solo sete di Sangria.</li>
           <li>04 Settembre 3307: La guerra per il controllo di <b>LHS 1933</b> volge velocemente a nostro favore. LHS 1933 diventa il trentaduesimo sistema sotto al nostro controllo diretto</li>
           <li>29 Agosto 3307: La Flotta invade <b>SPOCS 253</b>, che entro pochi giorni sarà ufficialmente il quarantaduesimo sistema in cui è presente</li>
           <li>26 Agosto 3307: Dopo mesi passati, seduti in una stanza, aspettando per un si (semicit.), decidiamo di prendere il toro per le corna e conquistiamo <b>Cosi</b>, che diventa così il <b>trentunesimo</b> sistema sotto al nostro diretto controllo. E ci dispiace per gli altri (cit.)</li>
