@@ -2,8 +2,9 @@
 layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
+datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2021-09-13
+last_modified_at: 2021-09-22
 ---
 <style>
 .wrap-collapsible {
@@ -37,8 +38,22 @@ input[type="checkbox"]:checked+label:before {
   color: #212931;
   top: .075rem;
 }
+table.dataTable.stripe tbody tr.odd, table.dataTable.display tbody tr.odd, table.dataTable.display tbody tr.even {
+  background-color: #1e252c;
+}
+table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
+    background-color: #b16111;
+}
+table.dataTable.display tbody tr.odd > .sorting_1, table.dataTable.order-column.stripe tbody tr.odd > .sorting_1 {
+    background-color: #1e252c;
+}
+table.dataTable.display tbody tr.even > .sorting_1, table.dataTable.order-column.stripe tbody tr.even > .sorting_1 {
+    background-color: #1e252c;
+}
+table.dataTable.display tbody tr:hover > .sorting_1, table.dataTable.order-column.hover tbody tr:hover > .sorting_1 {
+    background-color: #b16111;
+}
 </style>
-
 ## Alto Comando Flotta Stellare
 
 L'Alto Comando Flotta Stellare (**ACFS**)  è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia garantendo loro una casa lontano da casa; per questa ragione l'ingresso è libero e garantito a tutti, basta fare richiesta, in modo da rendere meno solitaria la vastità della galassia di Elite Dangerous.
@@ -79,11 +94,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 Siamo presenti in: **45 sistemi**, di cui **32** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **76** stazioni
-  - **110** settlements
+  - **78** stazioni
+  - **111** settlements
   - **45** installazioni
 
-Governiamo su **6,647,644,928** abitanti
+Governiamo su **6,478,465,238** abitanti
+
+<div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
@@ -132,6 +149,8 @@ Governiamo su **6,647,644,928** abitanti
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
+
+<div class="datatable-end"></div>
 
 <div class="wrap-collapsible">
   <input id="collapsible" class="toggle" type="checkbox">
