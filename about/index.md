@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2021-09-22
+last_modified_at: 2021-09-27
 ---
 <style>
 .wrap-collapsible {
@@ -92,10 +92,10 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **45 sistemi**, di cui **32** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **45 sistemi**, di cui **33** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **78** stazioni
-  - **111** settlements
+  - **115** settlements
   - **45** installazioni
 
 Governiamo su **6,478,465,238** abitanti
@@ -107,7 +107,7 @@ Governiamo su **6,478,465,238** abitanti
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
-|     | Ao Kang     | Democratico   | 2,21 Miliardi | Indipendente  | Controllato     |
+|     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
@@ -117,8 +117,8 @@ Governiamo su **6,478,465,238** abitanti
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
-|     | Jita Ten    | Democratico   | 16,42 Milioni | Indipendente  | Controllato     |
-|     | Julanggarri | Democratico   | 10,60 Milioni | Indipendente  | Controllato     |
+|     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
+|     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
 |     | LHS 1706    | Corporativo   | 2.37 Milioni  | Federale      | Non Controlato  |
@@ -134,14 +134,14 @@ Governiamo su **6,478,465,238** abitanti
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
-|     | M Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
+|     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
-|     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Federale      | Non Controllato |
+|     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
@@ -158,6 +158,8 @@ Governiamo su **6,478,465,238** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>27 Settembre 3307: Prendiamo il controllo di <b>SPOCS 253</b>, che diventa il <b>trentatreesimo sistema</b> sotto al nostro governo</li>
+          <li>27 Settembre 3307: Vinciamo la guerra di invasione per la permanenza in <b>HIP 28774</b>, sistema in cui notoriamente è vietata la vendita di Sangria. Qualcuno dovrà trovarsi un altro luogo in cui passare l'Erasmus.</li>
           <li>11 Settembre 3307: LHS 1706 ci vede arrivare con intenzioni bellicose, ma in realtà è solo sete di Sangria.</li>
           <li>04 Settembre 3307: La guerra per il controllo di <b>LHS 1933</b> volge velocemente a nostro favore. LHS 1933 diventa il trentaduesimo sistema sotto al nostro controllo diretto</li>
           <li>29 Agosto 3307: La Flotta invade <b>SPOCS 253</b>, che entro pochi giorni sarà ufficialmente il quarantaduesimo sistema in cui è presente</li>
