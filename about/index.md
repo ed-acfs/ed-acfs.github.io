@@ -92,11 +92,11 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **45 sistemi**, di cui **33** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **46 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **78** stazioni
-  - **115** settlements
-  - **45** installazioni
+  - **79** stazioni
+  - **125** settlements
+  - **47** installazioni
 
 Governiamo su **6,478,465,238** abitanti
 
@@ -115,13 +115,14 @@ Governiamo su **6,478,465,238** abitanti
 |     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
+|     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
-|     | LHS 1706    | Corporativo   | 2.37 Milioni  | Federale      | Non Controlato  |
+|     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controlato      |
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
@@ -158,6 +159,8 @@ Governiamo su **6,478,465,238** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>02 Ottobre 3307: Grazie allo sforzo di tutto il gruppo, la Flotta porta a casa una vittoria sul filo di lana e conquista <b>LHS 1706</b>, che diventa il trentaquattresimo sistema sotto al nostro controllo</li>
+          <li>01 Ottobre 3307: Vinciamo la gueera di invasione e approdiamo su <b>G 98-44</b></li>
           <li>27 Settembre 3307: Prendiamo il controllo di <b>SPOCS 253</b>, che diventa il <b>trentatreesimo sistema</b> sotto al nostro governo</li>
           <li>27 Settembre 3307: Vinciamo la guerra di invasione per la permanenza in <b>HIP 28774</b>, sistema in cui notoriamente è vietata la vendita di Sangria. Qualcuno dovrà trovarsi un altro luogo in cui passare l'Erasmus.</li>
           <li>11 Settembre 3307: LHS 1706 ci vede arrivare con intenzioni bellicose, ma in realtà è solo sete di Sangria.</li>
