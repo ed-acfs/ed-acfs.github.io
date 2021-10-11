@@ -46,7 +46,7 @@ Quando entrerai a far parte della Flotta Stellare farai anche parte di:
 
 ## Allora, cosa aspetti?
 
-Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, entrare nel nostro [canale discord](https://discord.gg/mXpfjgd){:target="_blank"} o sulla nostra [pagina Facebook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}.
+Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, entrare nel nostro [canale discord](https://discord.gg/TQcbuT7z8D){:target="_blank"} o sulla nostra [pagina Facebook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}.
 
 <div class="box alt">
     <div class="row 50% uniform">
