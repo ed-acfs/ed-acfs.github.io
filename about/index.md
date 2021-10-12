@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2021-10-02
+last_modified_at: 2021-10-12
 ---
 <style>
 .wrap-collapsible {
@@ -94,11 +94,11 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 Siamo presenti in: **46 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **79** stazioni
-  - **125** settlements
-  - **47** installazioni
+  - **81** stazioni
+  - **126** settlements
+  - **48** installazioni
 
-Governiamo su **6,478,465,238** abitanti
+Governiamo su **6,668,122,866** abitanti
 
 <div class="datatable-begin"></div>
 
