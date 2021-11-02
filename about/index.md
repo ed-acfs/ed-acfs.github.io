@@ -92,13 +92,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **46 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **47 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **81** stazioni
-  - **126** settlements
+  - **83** stazioni
+  - **139** settlements
   - **48** installazioni
 
-Governiamo su **6,668,122,866** abitanti
+Governiamo su **6,685,387,2** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -141,6 +141,7 @@ Governiamo su **6,668,122,866** abitanti
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
+|     | Sete        | Corporativo   | 3.17 Milioni  | Federale      | Non Controlato  |   
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
@@ -159,6 +160,7 @@ Governiamo su **6,668,122,866** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>28 Ottobre 3307: La Flotta entra a <b>Sete</b>, direttamente in guerra per il controllo del primo asset. Siamo intenzionati a conquistare il sistema e non ci fermeremo!</li>
           <li>02 Ottobre 3307: Grazie allo sforzo di tutto il gruppo, la Flotta porta a casa una vittoria sul filo di lana e conquista <b>LHS 1706</b>, che diventa il trentaquattresimo sistema sotto al nostro controllo</li>
           <li>01 Ottobre 3307: Vinciamo la gueera di invasione e approdiamo su <b>G 98-44</b></li>
           <li>27 Settembre 3307: Prendiamo il controllo di <b>SPOCS 253</b>, che diventa il <b>trentatreesimo sistema</b> sotto al nostro governo</li>
