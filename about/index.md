@@ -95,18 +95,10 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 Siamo presenti in: **47 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **83** stazioni
-<<<<<<< HEAD
   - **139** settlements
   - **48** installazioni
-
+  - 
 Governiamo su **6,685,387,2** abitanti
-=======
-  - **133** settlements
-  - **48** installazioni
-
-Governiamo su **6,553,784,885** abitanti
->>>>>>> a2c09017c62040553de42099066b078d6cc088f8
-
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
