@@ -2,9 +2,11 @@
 title: robots
 ---
 User-agent: *
+DIsallow: /discord/
 Disallow: /elements/
 Disallow: /thank-you/
 Disallow: /search/tag/
 Disallow: /external_sites/
+Disallow: /corocoropollon/
 
 Sitemap: {{site.url}}/sitemap.xml
