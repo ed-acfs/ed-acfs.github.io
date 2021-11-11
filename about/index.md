@@ -94,9 +94,9 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 Siamo presenti in: **47 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **83** stazioni
-  - **139** settlements
-  - **48** installazioni
+  - **84** stazioni
+  - **140** settlements
+  - **50** installazioni
   - 
 Governiamo su **6,685,387,2** abitanti
 <div class="datatable-begin"></div>
