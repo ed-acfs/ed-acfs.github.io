@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2021-11-27
+last_modified_at: 2021-12-06
 ---
 <style>
 .wrap-collapsible {
@@ -92,13 +92,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **47 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **48 sistemi**, di cui **35** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **84** stazioni
-  - **142** settlements
-  - **50** installazioni
+  - **88** stazioni
+  - **143** settlements
+  - **51** installazioni
   - 
-Governiamo su **6,223,733,031** abitanti
+Governiamo su **6,462,881,706** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -140,7 +140,7 @@ Governiamo su **6,223,733,031** abitanti
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
-|     | Sete        | Corporativo   | 3.17 Milioni  | Federale      | Non Controlato  |   
+|     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controlato      |   
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
@@ -149,6 +149,7 @@ Governiamo su **6,223,733,031** abitanti
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
+|     | Yggdrajang  | Corporativo   | 88,567        | Indipendente  | Non Controllato |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 
 <div class="datatable-end"></div>
@@ -159,6 +160,8 @@ Governiamo su **6,223,733,031** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>05 Dicembre 3307: <b>Sete</b> diventa il <b>trentacinquesimo sistema</b> sotto il controllo diretto della Flotta</li>
+          <li>02 Dicembre 3307: Invdiamo <b>Yggdrajang</b></li>
           <li>28 Ottobre 3307: La Flotta entra a <b>Sete</b>, direttamente in guerra per il controllo del primo asset. Siamo intenzionati a conquistare il sistema e non ci fermeremo!</li>
           <li>02 Ottobre 3307: Grazie allo sforzo di tutto il gruppo, la Flotta porta a casa una vittoria sul filo di lana e conquista <b>LHS 1706</b>, che diventa il trentaquattresimo sistema sotto al nostro controllo</li>
           <li>01 Ottobre 3307: Vinciamo la gueera di invasione e approdiamo su <b>G 98-44</b></li>
