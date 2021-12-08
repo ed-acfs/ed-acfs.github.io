@@ -1,0 +1,415 @@
+{"categories":{
+    "Sistemi della Flotta":{
+        "0":{"name":"Capitale","color":"6BF93D"},
+        "1":{"name":"Controllati","color":"f07b05"},
+        "2":{"name":"Non Controllati","color":"8a7bff"}},
+
+    "Material Traders": {
+        "3":{"name":"Raw","color":"ff6900"},
+        "4":{"name":"Manufactured","color":"0038e0"},
+        "5":{"name":"Encoded","color":"9400ff"}},
+
+    "Punti di Interesse":{ 
+        "6":{"name":"Interstellar Factor","color":"6BF93D"},
+        "7":{"name":"Human Technology Broker","color":"ffd400"},
+        "8":{"name":"Guardian Technology Broker","color":"00a8ff"}}},
+
+    "systems": [
+    {
+        "name": "Wong Sher",
+        "coords": {
+            "x": 16.46875,
+            "y": 4.0625,
+            "z": -60.5},
+        "cat": [0,1,6],
+        "infos": "<h2>La casa della Flotta<\/h2><div>Wong Sher è la casa delo nostro Squadrone, la nostra Capitale.<br>Il nostro BGS è cominciato qui e da qui è partita la nostra prima espansione</div>"
+    },
+    {
+        "name": "14 Geminorum",
+        "coords": {
+            "x": 12.28125,
+            "y": 5.0625,
+            "z": -57.25},
+        "cat": [1]
+    },
+    {
+        "name": "Amait",
+        "coords": {
+            "x": 27.15625,
+            "y": -13.6875,
+            "z": -67.5},
+        "cat": [2]
+    },
+    {
+        "name": "Ao Kang",
+        "coords": {
+            "x": 32.375,
+            "y": 18.28125,
+            "z": -68.78125},
+        "cat": [2]
+    },
+    {
+        "name": "BD+08 1303",
+        "coords": {
+            "x": 25.53125,
+            "y": -1.875 ,
+            "z": -62.84375},
+        "cat": [1]
+    },
+    {
+        "name": "BD+14 831",
+        "coords": {
+            "x": 9.90625,
+            "y": -19.8125,
+            "z": -74},
+        "cat": [2]
+    },
+    {
+        "name": "Bota Ili",
+        "coords": {
+            "x": 3.71875 ,
+            "y": -6.78125 ,
+            "z": -81.0625},
+        "cat": [1]
+    },
+    {
+        "name": "Cosi",
+        "coords": {
+            "x": 24.75,
+            "y": -14.6875,
+            "z": -70.75},
+        "cat": [1]
+    },
+    {
+        "name": "Dewikum",
+        "coords": {
+            "x": 19.375,
+            "y": -0.28125,
+            "z": -68.9375},
+        "cat": [1,6],
+        "infos": "Dewikum è la casa dell'Imperatore"
+    },
+    {
+        "name": "Flech",
+        "coords": {
+            "x": 20.125,
+            "y": -10.34375,
+            "z": -63.125},
+        "cat": [1]
+    },
+    {
+        "name": "G 108-26",
+        "coords": {
+            "x": 30.0625,
+            "y": 0.25,
+            "z": -51.625},
+        "cat":[1]
+    },
+    {
+        "name": "G 98-44",
+        "coords": {
+            "x": -2.34375,
+            "y": 8.71875,
+            "z": -79.0625},
+        "cat": [2]
+    },
+    {
+        "name": "GD 69",
+        "coords": {
+            "x": -12.4375,
+            "y": 5.375,
+            "z": -60.0625},
+        "cat": [1,6],
+        "infos": ""
+    },
+    {
+        "name": "HIP 28774",
+        "coords": {
+          "x": 1.84375,
+          "y": 6.96875,
+          "z": -82.9375},
+        "cat":[2],
+        "infos": ""
+    },
+    {
+        "name": "Jita Ten",
+        "coords": {
+          "x": 26.28125,
+          "y": 11.6875,
+          "z": -74.5},
+        "cat":[1,7],
+        "infos": ""
+    },
+    {
+        "name": "Julanggarri",
+        "coords": {
+            "x": 19.21875,
+            "y": 6.40625,
+            "z": -64.65625},
+        "cat":[1,4],
+        "infos": "La casa di WiitifulSky"
+    },
+    {
+        "name": "Kungurutii",
+        "coords": {
+            "x": 17.84375,
+            "y": -17.5625,
+            "z": -71.5625},
+        "cat":[1,6],
+        "infos": ""
+    },
+    {
+        "name": "LHS 1681",
+        "coords": {
+            "x": -2.46875,
+            "y": -15.78125,
+            "z": -48.40625},
+        "cat":[2],
+        "infos": "Il sistema che infuoca Grecale80"
+    },
+    {
+        "name": "LHS 1706",
+        "coords": {
+            "x": -1.125,
+            "y": -11.09375,
+            "z": -44.3125},
+        "cat":[1],
+        "infos": ""
+    },
+    {
+        "name": "LHS 1743",
+        "coords": {
+            "x": 5.59375,
+            "y": -16.125,
+            "z": -73.9375},
+        "cat":[2],
+        "infos": ""
+    },
+    {
+        "name": "LHS 1794",
+        "coords": {
+            "x": 5.3125,
+            "y": -1.03125,
+            "z": -62.25},
+        "cat":[1],
+        "infos": ""
+    },
+    {
+        "name": "LHS 1857",
+        "coords": {
+            "x": 21.03125,
+            "y": 1.96875,
+            "z": -55.3125},
+        "cat":[1],
+        "infos": ""
+    },
+    {
+        "name": "LHS 1914",
+        "coords": {
+            "x": 9.84375 ,
+            "y": 26.15625,
+            "z": -72.46875},
+        "cat":[2]
+    },
+    {
+        "name": "LHS 1933",
+        "coords": {
+            "x": 15,
+            "y": 30.71875,
+            "z": -74.71875},
+        "cat": [1,6]
+    },
+    {
+        "name": "LHS 6103",
+        "coords": {
+            "x": 8.84375,
+            "y": 6.03125,
+            "z": -72},
+        "cat": [1,6]
+    },
+    {
+        "name": "LP 302-22",
+        "coords": {
+            "x": -18.875,
+            "y": -17.0625,
+            "z": -79.6875},
+        "cat": [2]
+    },
+    {
+        "name": "LP 308-10",
+        "coords": {
+            "x": 4.78125,
+            "y": 16.5625,
+            "z": -58.375},
+        "cat": [2]
+    },
+    {
+        "name": "LP 421-7",
+        "coords": {
+            "x": 17.4375,
+            "y": 9.03125 ,
+            "z": -58.34375},
+        "cat": [2]
+    },
+    {
+        "name": "LP 542-33",
+        "coords": {
+            "x": 29.15625,
+            "y": 15.65625,
+            "z": -44.75},
+        "cat": [1,6]
+    },
+    {
+        "name": "LTT 12033",
+        "coords": {
+            "x": 27.03125,
+            "y": 18.53125,
+            "z": -59.4375},
+        "cat": [1]
+    },
+    {
+        "name": "LTT 17868",
+        "coords": {
+            "x": 22.78125,
+            "y": -12.90625,
+            "z": -67.59375},
+        "cat": [1,6]
+    },
+    {
+        "name": "m Tauri",
+        "coords": {
+            "x": 3.5625,
+            "y": -10.78125,
+            "z": -49.0625},
+        "cat": [1,3]
+    },
+    {
+        "name": "Naiti",
+        "coords": {
+            "x": 24.5,
+            "y": -13.65625,
+            "z": -76.625},
+        "cat": [1]
+    },
+    {
+        "name": "Nandjabinja",
+        "coords": {
+            "x": 6.375,
+            "y": -4.46875,
+            "z": -63.96875},
+        "cat": [1]
+    },
+    {
+        "name": "Ndozins",
+        "coords": {
+            "x": -14.3125,
+            "y": -10.6875,
+            "z": -60.5625},
+        "cat": [1,6]
+    },
+    {
+        "name": "NLTT 18561",
+        "coords": {
+            "x": 43.96875,
+            "y": 23.09375,
+            "z": -64.6875},
+        "cat": [1]
+    },
+    {
+        "name": "Pularungu",
+        "coords": {
+            "x": 7.53125,
+            "y": 5.875,
+            "z": -83.03125},
+        "cat": [2,6]
+    },
+    {
+        "name": "Ragapajo",
+        "coords": {
+            "x": 45.90625,
+            "y": 32.03125,
+            "z": -64.03125},
+        "cat": [1]
+    },
+    {
+        "name": "Sete",
+        "coords": {
+            "x": 33.8125,
+            "y": 43.34375,
+            "z": -76.84375},
+        "cat": [1]
+    },
+    {
+        "name": "SPOCS 253",
+        "coords": {
+            "x": -15.375,
+            "y": -0.625,
+            "z": -83.8125},
+        "cat": [1]
+    },
+    {
+        "name": "Susanoo",
+        "coords": {
+            "x": 12.1875,
+            "y": -1.65625,
+            "z": -62.78125},
+        "cat": [1,6]
+    },
+    {
+        "name": "Suyarang",
+        "coords": {
+            "x": 21.15625,
+            "y": -12.0625,
+            "z": -75.84375},
+        "cat": [1]
+    },
+    {
+        "name": "Tao Ti",
+        "coords": {
+            "x": -1.75,
+            "y": -8.15625,
+            "z": -65.125},
+        "cat": [1]
+    },
+    {
+        "name": "Timocani",
+        "coords": {
+            "x": 24.625,
+            "y": 10.75,
+            "z": -72.40625},
+        "cat": [1,6]
+    },
+    {
+        "name": "Toog",
+        "coords": {
+            "x": 21.1875,
+            "y": 3.6875,
+            "z": -50.5},
+        "cat": [1]
+    },
+    {
+        "name": "Wolf 289",
+        "coords": {
+            "x": 24.75,
+            "y": 7.0625,
+            "z": -77.375},
+        "cat": [1,6]
+    },
+    {
+        "name": "Yggdrajang",
+        "coords": {
+            "x": 28.3125,
+            "y": 0.84375,
+            "z": -67.875},
+        "cat": [2]
+    },
+    {
+        "name": "Zandu",
+        "coords": {
+            "x": 37.25,
+            "y": 6.6875,
+            "z": -72.15625},
+        "cat": [1,5,8]
+    }
+]
+}
