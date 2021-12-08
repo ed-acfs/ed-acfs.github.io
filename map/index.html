@@ -1,7 +1,7 @@
 ---
 layout: null
 title: Alto Comando Flotta Stellare &#124; Mappa 3D
-description: Alto Comando Flotta Stellare - Mappa 3D interattiva dei Terrori della Flotta
+description: Mappa 3D interattiva dei Terrori della Flotta
 permalink: /map/
 image: /images/ed3dmap.png
 last_modified_at: 2021-12-08
@@ -9,9 +9,10 @@ last_modified_at: 2021-12-08
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+
 <meta name="keywords" content="{{ site.keywords }}">
   {% if page.robots %}
 <meta name="robots" content="{{page.robots}},follow" />
@@ -96,12 +97,14 @@ last_modified_at: 2021-12-08
         container   : 'edmap',
         jsonPath    : "./json_files/sistemi.json",
         withHudPanel : true,
+        withOptionsPanel : true,
         hudMultipleSelect : true,
         effectScaleSystem : [50,1000],
         startAnim: true,
         showGalaxyInfos: true,
         systemColor: '#FF9D00',
         starSprite: "textures/lensflare/star_grey.png",
+        playerPos: [16.46875,4.0625,-60.5], 
         showNameNear: true //-- EXPERIMENTAL (Show name from systems near camera)
     });
   </script>
