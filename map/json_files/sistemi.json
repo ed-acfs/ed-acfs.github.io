@@ -12,7 +12,11 @@
     "Punti di Interesse":{ 
         "6":{"name":"Interstellar Factor","color":"6BF93D"},
         "7":{"name":"Human Technology Broker","color":"ffd400"},
-        "8":{"name":"Guardian Technology Broker","color":"00a8ff"}}},
+        "8":{"name":"Guardian Technology Broker","color":"00a8ff"}},
+    
+    "Spedizioni":{ 
+        "SVN":{"name":"Spedizione Verso il Niente","color":"ffd400"},
+        "SDE":{"name":"Star Divinity Expedition","color":"00a8ff"}}},
 
     "systems": [
     {
@@ -22,7 +26,7 @@
             "y": 4.0625,
             "z": -60.5},
         "cat": [0,1,6],
-        "infos": "<h2>La casa della Flotta<\/h2><div>Wong Sher è la casa delo nostro Squadrone, la nostra Capitale.<br>Il nostro BGS è cominciato qui e da qui è partita la nostra prima espansione</div>"
+        "infos": "<h2>La casa della Flotta<\/h2><div>Wong Sher è la casa del nostro Squadrone, la nostra Capitale.<br>Il nostro BGS è cominciato qui e da qui è partita la nostra prima espansione</div>"
     },
     {
         "name": "14 Geminorum",
@@ -410,6 +414,202 @@
             "y": 6.6875,
             "z": -72.15625},
         "cat": [1,5,8]
+    },
+    {
+        "name": "Synuefe JB-G b58-6",
+        "coords": {
+            "x": 168.125,
+            "y": -98.125,
+            "z": 177.3125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Blu Thua WI-B d15",
+        "coords": {
+          "x": 756.875,
+          "y": 557.9375 ,
+          "z": 1504.1875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Praea Euq KS-J d9-14",
+        "coords": {
+          "x": 791.53125,
+          "y": 555.25,
+          "z": 1076.625},
+        "cat":["SVN"]
+    },
+    {
+        "name": "HIP 47126",
+        "coords": {
+          "x": 955.875,
+          "y": -13.71875,
+          "z": 108.59375},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Synuefe TO-O b52-3",
+        "coords": {
+          "x": 399.71875,
+          "y": -320.09375,
+          "z": 65.71875},
+        "cat":["SVN"]
+      },
+      {
+        "name": "Wregoe QD-K d8-144",
+        "coords": {
+          "x": 441.84375,
+          "y": 13.625,
+          "z": -305.6875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Running Man Sector FW-W d1-8",
+        "coords": {
+          "x": 543.625,
+          "y": -400.8125,
+          "z": -1000.75},
+        "cat":["SVN"]
+    },
+    {
+        "name": "HD 53041",
+        "coords": {
+          "x": 1110.71875,
+          "y": -225.15625,
+          "z": -646.3125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "VY Canis Majoris",
+        "coords": {
+          "x": 1576.0625,
+          "y": -150.21875,
+          "z": -922.53125},
+        "cat":["SVN"]
+    },     
+    {
+        "name": "HD 49368",
+        "coords": {
+            "x": 757.46875,
+            "y": 67.84375,
+            "z": -1424.375},
+        "cat":["SVN"]
+    },
+    {
+        "name": "HD 43193",
+        "coords": {
+          "x": 905.3125,
+          "y": -271.6875,
+          "z": -1465.875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Gludgaa PD-A d14-9",
+        "coords": {
+          "x": -241.1875,
+          "y": 264.21875,
+          "z": -3640.90625},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Rosette Sector JH-V c2-11",
+        "coords": {
+            "x": 2355.375,
+            "y": -170.5,
+            "z": -4740.84375},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Monkey Head Sector MT-G a11-0",
+        "coords": {
+          "x": 1133.3125,
+          "y": 37.53125,
+          "z":  -6283.375},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Cyoidai XF-C c14-0",
+        "coords": {
+          "x": 652.34375,
+          "y": -735.71875,
+          "z":  -6852.75},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Crab Sector DL-Y d9",
+        "coords": {
+          "x": 559.625,
+          "y": -708.0625,
+          "z":  -6947.5625},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Dryaa Phoe WV-C d0",
+        "coords": {
+          "x": -4.15625,
+          "y": -62.84375,
+          "z":  -9993.875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Spliech UE-Y c14-0",
+        "coords": {
+          "x": 417.09375,
+          "y": 93.4375,
+          "z":  -13189.28125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Aidohs JI-A d14-0",
+        "coords": {
+          "x": 1993.15625,
+          "y": 341.625,
+          "z":  -13871.375},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Wimly LN-B d0",
+        "coords": {
+          "x": 15380.0625,
+          "y": 615.96875,
+          "z":  -12581.8125},
+        "cat":["SVN"]
     }
-]
+
+],
+    "routes": [
+        {
+        "title":"Spedizione Veso il Niente",
+        "points": [
+            {"s":"Wong Sher","label":"La casa della Flotta"},
+            {"s":"Synuefe JB-G b58-6","label":"Camp C-NO4 (abandoned exploration camp) Un misterioso insediamento abbandonato"},
+            {"s":"Blu Thua WI-B d15","label":"Nimbostratus Waterworld orbitante vicinissimo a un satellite landabile"},
+            {"s":"Praea Euq KS-J d9-14","label":"Leda 2 earthlike che orbitano uno con l'altro"},
+            {"s":"HIP 47126","label":"Twin eaters 2 neutron che orbitano velocissime attorno a stelle di tipo O e A"},
+            {"s":"Synuefe TO-O b52-3","label":"Eye of Ice Un bellissimo pianeta con anelli separati"},
+            {"s":"Wregoe QD-K d8-144","label":"Red Cyclotron Un bellissimo pianeta orbitante a una L dwarf"},
+            {"s":"Running Man Sector FW-W d1-8","label":"Runner's Gorge Canyon fumarole polonio in paesaggio con nebula"},
+            {"s":"HD 53041","label":"HD 53041 2 black hole in densa atmosfera rossa"},
+            {"s":"VY Canis Majoris","label":"VY Canis Majoris La Stella pi˘ grande nella Galassia di ED"},
+            {"s":"HD 49368","label":"Hades Edge Pianeta orbitante vicino a una stella S morente. Danger"},
+            {"s":"HD 43193","label":"Oochorrs Lighthouse Una binaria neutron ed un black hole!"},
+            {"s":"Gludgaa PD-A d14-9","label":"Close Shave Pianeta a 250km dagli anelli del gassoso"},
+            {"s":"Rosette Sector JH-V c2-11","label":"Aquapark Geysers Il pianeta ha un parco giochi acquatico"},
+            {"s":"Monkey Head Sector MT-G a11-0","label":"Monkey Head Nebula Nebulosa rossa e blu da vedere"},
+            {"s":"Cyoidai XF-C c14-0","label":"The Blue Diamond Un incredibile pianeta orbitante a soli 24mila km da waterworld"},
+            {"s":"Crab Sector DL-Y d9","label":"Station X Base dentro asteroide"},
+            {"s":"Dryaa Phoe WV-C d0","label":"Serebrov Beacon Sistema raggiungibile con fsd dove c'Ë un beacon abbandonato"},
+            {"s":"Aidohs JI-A d14-0","label":"The Aidohs Platforms Pianeta bellissimo da vedere, canyon montagne altissime"},
+            {"s":"Wimly LN-B d0","label":"Ice on fire Ammonia con anelli molto bello"}
+        ]
+        },
+        {
+        "title":"Star Divinty Expedition",
+        "points": [
+            {"s":"Checkpoint 4"},
+            {"s":"Checkpoint 5"},
+            {"s":"Checkpoint 6"}
+        ]
+        }
+    ]
 }

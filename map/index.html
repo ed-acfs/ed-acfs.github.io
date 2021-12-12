@@ -98,7 +98,7 @@ last_modified_at: 2021-12-08
         jsonPath    : "./json_files/sistemi.json",
         withHudPanel : true,
         withOptionsPanel : true,
-        hudMultipleSelect : true,
+        hudMultipleSelect : false,
         effectScaleSystem : [50,1000],
         startAnim: true,
         showGalaxyInfos: true,
@@ -108,6 +108,18 @@ last_modified_at: 2021-12-08
         showNameNear: true //-- EXPERIMENTAL (Show name from systems near camera)
     });
   </script>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+   	{% include tracking.html %}
+	
+   <!-- Lazy Load -->
+   {% include lazyload.html %}
 
 </body>
 </html>
