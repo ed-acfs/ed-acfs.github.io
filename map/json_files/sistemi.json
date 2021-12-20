@@ -574,8 +574,55 @@
           "y": 615.96875,
           "z":  -12581.8125},
         "cat":["SVN"]
+    },
+    {
+        "name": "Eol Hypa GE-E d13-2",
+        "coords": {
+          "x": 18396.0625,
+          "y": -58.4375,
+          "z":  -12698.6875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Jongoae OX-L d7-0",
+        "coords": {
+          "x": 24939.59375,
+          "y": 14.09375,
+          "z": -9350.375},
+        "cat":["SVN"]
+    },    
+    {
+        "name": "Hypau Aec IO-Z d13-0",
+        "coords": {
+          "x": 26874.21875,
+          "y": -18.6875,
+          "z": -7473.59375},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Angosk OM-W d1-0",
+        "coords": {
+          "x": 22183.28125,
+          "y": -24.65625,
+          "z":  -13696.59375},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Eowyg Aewsy AL-P e5-0",
+        "coords": {
+          "x": 15725.78125,
+          "y": -17.3125,
+          "z":  -12811.3125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Lyed KX-A c27-0",
+        "coords": {
+          "x": 15725.78125,
+          "y": -17.3125,
+          "z":  -12811.3125},
+        "cat":["SVN"]
     }
-
 ],
     "routes": [
         {
@@ -601,7 +648,13 @@
             {"s":"Dryaa Phoe WV-C d0","label":"Serebrov Beacon Sistema raggiungibile con fsd dove c'Ë un beacon abbandonato"},
             {"s":"Spliech UE-Y c14-0","label":"Celeri Transitu Pianeta con orbita incredibile"},
             {"s":"Aidohs JI-A d14-0","label":"The Aidohs Platforms Pianeta bellissimo da vedere, canyon montagne altissime"},
-            {"s":"Wimly LN-B d0","label":"Ice on fire Ammonia con anelli molto bello"}
+            {"s":"Wimly LN-B d0","label":"Ice on fire Ammonia con anelli molto bello"},
+            {"s":"Eol Hypa GE-E d13-2","label":"Australis Ferris Wheel Il pianeta orbita ad anelli vicinissimi e velocissimi"},
+            {"s":"Hypau Aec IO-Z d13-0","label":"Arms End Uno dei sistemi più difficili da raggiungere della Galassia"},
+            {"s":"Jongoae OX-L d7-0","label":"Lone Runner Pianeta che orbita velocissimo. Bello da vedere passare"},
+            {"s":"Angosk OM-W d1-0","label":"Sepositus Beacon Posto più lontano a sud di Sagittarius A"},
+            {"s":"Eowyg Aewsy AL-P e5-0","label":"Red versus Blue Stella blu e arancio vicinissime. Contrasto di luci da favola"},
+            {"s":"Lyed KX-A c27-0","label":"Shackleton's Star Uno dei punti più a sud della galassia"}
         ]
         },
         {
