@@ -618,9 +618,57 @@
     {
         "name": "Lyed KX-A c27-0",
         "coords": {
-          "x": 15725.78125,
-          "y": -17.3125,
-          "z":  -12811.3125},
+          "x": 11170.34375,
+          "y": 6.03125,
+          "z": -16520.875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Lyed YJ-I d9-0",
+        "coords": {
+          "x": 11007.46875,
+          "y": 44.84375,
+          "z":  -16899.75},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Hyueths HS-H d11-5",
+        "coords": {
+          "x": -93.9375,
+          "y": -55.84375,
+          "z":  -12836.96875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Gongae QW-L c24-0",
+        "coords": {
+          "x": -383.0625,
+          "y": -101.53125,
+          "z":  -8980},
+        "cat":["SVN"]
+    },
+    {
+        "name": "NGC 1931 Sector PD-S b4-0",
+        "coords": {
+          "x": -743.84375,
+          "y": 37.4375,
+          "z":  -6959.15625},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Schee Hypa KN-S e4-0",
+        "coords": {
+          "x":  -7097.59375,
+          "y": -61.96875,
+          "z":  -7850.90625},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Hypoae Aescs AA-A h0",
+        "coords": {
+          "x":  -7071.8125,
+          "y": 1078.09375,
+          "z":  -7847.84375},
         "cat":["SVN"]
     }
 ],
@@ -654,7 +702,13 @@
             {"s":"Jongoae OX-L d7-0","label":"Lone Runner Pianeta che orbita velocissimo. Bello da vedere passare"},
             {"s":"Angosk OM-W d1-0","label":"Sepositus Beacon Posto più lontano a sud di Sagittarius A"},
             {"s":"Eowyg Aewsy AL-P e5-0","label":"Red versus Blue Stella blu e arancio vicinissime. Contrasto di luci da favola"},
-            {"s":"Lyed KX-A c27-0","label":"Shackleton's Star Uno dei punti più a sud della galassia"}
+            {"s":"Lyed KX-A c27-0","label":"Shackleton's Star Uno dei punti più a sud della galassia"},
+            {"s":"Lyed YJ-I d9-0","label":"Amundsen's Star Il punto pi˘ a sud della Galassia"},
+            {"s":"Hyueths HS-H d11-5","label":"The Twins' Garden Sistema bello con earthlike"},
+            {"s":"Gongae QW-L c24-0","label":"Dreamer Blush Un magnifico gigante gassoso blu viola"},
+            {"s":"NGC 1931 Sector PD-S b4-0","label":"NGC 1931 Nebula Nebulosa vari colori"},
+            {"s":"Schee Hypa KN-S e4-0","label":"Maia's Jewell Bellissima protostar da vedere perchÈ velocissima"},
+            {"s":"Hypoae Aescs AA-A h0","label":"Lumina Caelum 2 wolf-rayet da ammirare"}
         ]
         },
         {
