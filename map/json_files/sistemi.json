@@ -670,6 +670,38 @@
           "y": 1078.09375,
           "z":  -7847.84375},
         "cat":["SVN"]
+    },
+    {
+        "name": "Phrio Hypue AA-A h0",
+        "coords": {
+          "x":  -6130.46875,
+          "y":  -95.875,
+          "z":  -7185.78125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Eafots LZ-H b10-0",
+        "coords": {
+          "x":  -5800.84375,
+          "y":  115.59375,
+          "z":  -5961.1875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Heart Sector IR-V b2-0",
+        "coords": {
+          "x":  -5303.78125,
+          "y":  130.34375,
+          "z":  -5305.40625},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Bubble Sector LX-T b3-1",
+        "coords": {
+          "x":  -6568.375,
+          "y":  24.6875,
+          "z":  -2687.28125},
+        "cat":["SVN"]
     }
 ],
     "routes": [
@@ -708,7 +740,11 @@
             {"s":"Gongae QW-L c24-0","label":"Dreamer Blush Un magnifico gigante gassoso blu viola"},
             {"s":"NGC 1931 Sector PD-S b4-0","label":"NGC 1931 Nebula Nebulosa vari colori"},
             {"s":"Schee Hypa KN-S e4-0","label":"Maia's Jewell Bellissima protostar da vedere perchÈ velocissima"},
-            {"s":"Hypoae Aescs AA-A h0","label":"Lumina Caelum 2 wolf-rayet da ammirare"}
+            {"s":"Hypoae Aescs AA-A h0","label":"Lumina Caelum 2 wolf-rayet da ammirare"},
+            {"s":"Phrio Hypue AA-A h0","label":"Three Angels of Death 3 black hole di cui 2 con orbite di 0.1d"},
+            {"s":"Eafots LZ-H b10-0","label":"Formidine Rift Abandoned Settlements, Settlement abbandonati in vari sistemi limitrofi"},
+            {"s":"Heart Sector IR-V b2-0","label":"Farsight Expedition Base Base dentro asteroide"},
+            {"s":"Bubble Sector LX-T b3-1","label":"The Dark Fortress & Fumarole in a Bubble Una fortezza naturale e una fumarola bellisssima"}
         ]
         },
         {
