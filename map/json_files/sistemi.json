@@ -702,6 +702,102 @@
           "y":  24.6875,
           "z":  -2687.28125},
         "cat":["SVN"]
+    },
+    {
+        "name": "Phi Cassiopeiae",
+        "coords": {
+          "x":  -5317.84375,
+          "y":  -513.90625,
+          "z":  -3964.71875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "2MASS J02351897+6131236",
+        "coords": {
+          "x":  -4192.71875,
+          "y":  114.5,
+          "z":  -4190.625},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Phroea Phoe RD-S e4-12",
+        "coords": {
+          "x":  -3947.21875,
+          "y":  -473.6875,
+          "z":  -3968.21875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "GCRV 2334",
+        "coords": {
+          "x":  -2071.59375,
+          "y":  413.75,
+          "z":  -2915.03125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "NGC 40 star",
+        "coords": {
+          "x":  -2985.96875,
+          "y":  601.75,
+          "z":  -1723.96875},
+        "cat":["SVN"]
+    },
+    {
+        "name": "NGC 7822 Sector BQ-Y d12",
+        "coords": {
+          "x":  -2454.1875,
+          "y":  299.0625,
+          "z":  -1326.0625},
+        "cat":["SVN"]
+    },
+    {
+        "name": "GCRV 950",
+        "coords": {
+          "x":  -1560.71875,
+          "y":  -382.71875,
+          "z":  -1351.9375},
+        "cat":["SVN"]
+    },
+    {
+        "name": "California Sector LX-T b3-0",
+        "coords": {
+          "x":  -337.90625,
+          "y":  -211.9375,
+          "z":  -927.03125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "T Tauri",
+        "coords": {
+          "x":  -32.96875,
+          "y":  -206.40625,
+          "z":  -557.3125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "Hez Ur",
+        "coords": {
+          "x":  149.96875,
+          "y":  23.65625,
+          "z":  -85.03125},
+        "cat":["SVN"]
+    },
+    {
+        "name": "HR 5906",
+        "coords": {
+          "x":  81.65625,
+          "y":  154.53125,
+          "z":  382.21875},
+          "cat":["SVN"]
+    },
+    {
+        "name": "HIP 69445",
+        "coords": {
+          "x": 502.59375,
+          "y": -50.03125,
+          "z": 446.09375},
+          "cat":["SVN"]
     }
 ],
     "routes": [
@@ -744,7 +840,19 @@
             {"s":"Phrio Hypue AA-A h0","label":"Three Angels of Death 3 black hole di cui 2 con orbite di 0.1d"},
             {"s":"Eafots LZ-H b10-0","label":"Formidine Rift Abandoned Settlements, Settlement abbandonati in vari sistemi limitrofi"},
             {"s":"Heart Sector IR-V b2-0","label":"Farsight Expedition Base Base dentro asteroide"},
-            {"s":"Bubble Sector LX-T b3-1","label":"The Dark Fortress & Fumarole in a Bubble Una fortezza naturale e una fumarola bellisssima"}
+            {"s":"Bubble Sector LX-T b3-1","label":"The Dark Fortress & Fumarole in a Bubble Una fortezza naturale e una fumarola bellisssima"},
+            {"s":"Phi Cassiopeiae","label":"Phi Cassiopeiae Supergigante gialla da ammirare da pianeta landabile"},
+            {"s":"2MASS J02351897+6131236","label":"Fireflies Sistema particolare"},
+            {"s":"Phroea Phoe RD-S e4-12","label":"Moore-Nauenberg Sistema pericoloso con stelle binarie e ternarie"},
+            {"s":"GCRV 2334","label":"NGC 1501 Nebula conosciuta come Oyster Nebula"},
+            {"s":"NGC 40 star","label":"Bow-Tie Nebula Nebulosa nata da stella morente. Bella atmosfera"},
+            {"s":"NGC 7822 Sector BQ-Y d12","label":"Gorgon Research Facility Base dentro asteroide"},
+            {"s":"GCRV 950","label":"Little Dumbbell Nebula Nebulosa planetaria tinte blu viola"},
+            {"s":"California Sector LX-T b3-0","label":"Barnacle Sites - California Nebula Strutture aliena da esplorare"},
+            {"s":"T Tauri","label":"Hind Mine Base dentro asteroide"},
+            {"s":"Hez Ur","label":"Pleione (generation ship) Megaship da studiare"},
+            {"s":"HR 5906","label":"Stranded Snake (anaconda settlement) Anaconda abbandonata diventata un settlement"},
+            {"s":"HIP 69445","label":"The Blue Death Wolf rayet fantastica da vedere. Luce intensissima"}
         ]
         },
         {
