@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2021-12-06
+last_modified_at: 2021-12-29
 ---
 <style>
 .wrap-collapsible {
@@ -92,13 +92,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **48 sistemi**, di cui **35** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **49 sistemi**, di cui **35** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **89** stazioni
-  - **146** settlements
-  - **53** installazioni
+  - **153** settlements
+  - **54** installazioni
   - 
-Governiamo su **7,066,201,613** abitanti
+Governiamo su **7,643,810,954** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -134,6 +134,7 @@ Governiamo su **7,066,201,613** abitanti
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
+|     | Lumbla      | Corporativo   | 6.73 Milioni  | Indipendente  | Non Controllato |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
@@ -160,6 +161,7 @@ Governiamo su **7,066,201,613** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>28 Dicembre 3307: Entriamo in punta di piedi a <b>Lumbla</b>, in comoda coabitazione con i nostri amici ed alleeati <b>OMEC</b>.</li>
           <li>05 Dicembre 3307: <b>Sete</b> diventa il <b>trentacinquesimo sistema</b> sotto il controllo diretto della Flotta</li>
           <li>02 Dicembre 3307: Invdiamo <b>Yggdrajang</b></li>
           <li>28 Ottobre 3307: La Flotta entra a <b>Sete</b>, direttamente in guerra per il controllo del primo asset. Siamo intenzionati a conquistare il sistema e non ci fermeremo!</li>
