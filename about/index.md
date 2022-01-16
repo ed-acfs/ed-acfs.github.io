@@ -162,7 +162,7 @@ Governiamo su **7,713,921,925** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>16 Gennaio 3308: La Flotta vince la guerra di invasione ed entra ad <b>Opila</b>, segnando un importnate e storico traguardo: Opila, infatti, è il <b>cinquantesimo sistema</b> in cui la Flotta è riuscita a portare la propria presenza. Cinquanta sistemi in poco meno di <b>due anni e mezzo</b> dall'inizio del proprio BGS!</li>
+          <li>16 Gennaio 3308: La Flotta vince la guerra di invasione ed entra ad <b>Opila</b>, segnando un importante e storico traguardo: Opila, infatti, è il <b>cinquantesimo sistema</b> in cui la Flotta è riuscita a portare la propria presenza. Cinquanta sistemi in poco meno di <b>due anni e mezzo</b> dall'inizio del proprio BGS!</li>
           <li>28 Dicembre 3307: Entriamo in punta di piedi a <b>Lumbla</b>, in comoda coabitazione con i nostri amici ed alleeati <b>OMEC</b>.</li>
           <li>05 Dicembre 3307: <b>Sete</b> diventa il <b>trentacinquesimo sistema</b> sotto il controllo diretto della Flotta</li>
           <li>02 Dicembre 3307: Invdiamo <b>Yggdrajang</b></li>
