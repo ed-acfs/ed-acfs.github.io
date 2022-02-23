@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-01-29
+last_modified_at: 2022-02-24
 ---
 <style>
 .wrap-collapsible {
@@ -92,13 +92,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **50 sistemi**, di cui **35** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **52 sistemi**, di cui **35** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **88** stazioni
-  - **184** settlements
-  - **55** installazioni
+  - **207** settlements
+  - **58** installazioni
   - 
-Governiamo su **7,953,587,350** abitanti
+Governiamo su **7,927,686,698** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -136,6 +136,8 @@ Governiamo su **7,953,587,350** abitanti
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
 |     | Lumbla      | Corporativo   | 6.73 Milioni  | Indipendente  | Non Controllato |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
+|     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
+|     | MCC 467     | Corporativo   | 24.14 Milioni | Federale      | Non Controlato  |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
@@ -162,7 +164,9 @@ Governiamo su **7,953,587,350** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>Invadiamo <b>MCC 467</b>. Anche se il sistema non è fra i più comodi, siamo decisi a conquistarlo completamente!</li>
+          <li>22 Febbraio 3308: Entriamo a <b>Mbukarla</b>, cinquantaduesimo sistema in cui siamo presenti</li>
+          <li>30 Gennaio 3308: Vinciamo la guerra a MCC 467 e ci stabilitamo nel sistema.</li>
+          <li>23 Gennaio 3308: Invadiamo <b>MCC 467</b>. Anche se il sistema non è fra i più comodi, siamo decisi a conquistarlo completamente!</li>
           <li>16 Gennaio 3308: La Flotta vince la guerra di invasione ed entra ad <b>Opila</b>, segnando un importante e storico traguardo: Opila, infatti, è il <b>cinquantesimo sistema</b> in cui la Flotta è riuscita a portare la propria presenza. Cinquanta sistemi in poco meno di <b>due anni e mezzo</b> dall'inizio del proprio BGS!</li>
           <li>28 Dicembre 3307: Entriamo in punta di piedi a <b>Lumbla</b>, in comoda coabitazione con i nostri amici ed alleeati <b>OMEC</b>.</li>
           <li>05 Dicembre 3307: <b>Sete</b> diventa il <b>trentacinquesimo sistema</b> sotto il controllo diretto della Flotta</li>
