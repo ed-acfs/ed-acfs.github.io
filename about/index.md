@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-02-24
+last_modified_at: 2022-03-18
 ---
 <style>
 .wrap-collapsible {
@@ -92,26 +92,27 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **52 sistemi**, di cui **35** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **53 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **88** stazioni
-  - **207** settlements
-  - **58** installazioni
+  - **215** settlements
+  - **59** installazioni
   - 
-Governiamo su **7,927,686,698** abitanti
+Governiamo su **7,992,197,940** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
+|     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Non Controlato  |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
-|     | Dewikum     | Democratico   | 38,738        | Indipendente  | Controlato      |
+|     | Dewikum     | Confederato   | 38,738        | Indipendente  | Non Controlato  |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controllato |
@@ -164,6 +165,7 @@ Governiamo su **7,927,686,698** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>18 Marzo 3308: <b>Aldebaran</b>!</li>
           <li>22 Febbraio 3308: Entriamo a <b>Mbukarla</b>, cinquantaduesimo sistema in cui siamo presenti</li>
           <li>30 Gennaio 3308: Vinciamo la guerra a MCC 467 e ci stabilitamo nel sistema.</li>
           <li>23 Gennaio 3308: Invadiamo <b>MCC 467</b>. Anche se il sistema non è fra i più comodi, siamo decisi a conquistarlo completamente!</li>
