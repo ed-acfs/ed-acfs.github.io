@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-03-18
+last_modified_at: 2022-04-14
 ---
 <style>
 .wrap-collapsible {
@@ -92,13 +92,13 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 
 ## Il nostro BGS
 
-Siamo presenti in: **53 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **55 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **88** stazioni
-  - **215** settlements
-  - **59** installazioni
+  - **90** stazioni
+  - **227** settlements
+  - **61** installazioni
   - 
-Governiamo su **7,992,197,940** abitanti
+Governiamo su **8,562,196,061** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -117,6 +117,7 @@ Governiamo su **7,992,197,940** abitanti
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
+|     | Geawenki    | Democratico   | 93,175        | Indipendente  | Non Controlato  |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
