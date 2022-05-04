@@ -11,7 +11,7 @@ last_modified_at: 2021-05-31
 **Odyssey** è la seconda espansione a pagamento per Elite Dangerous. È stata descritta come la più grande espansione del gioco. 
 È stata ufficialmente annunciata nel Giugno del 2020. In origine era prevista per il dicembre del 2020 ma è stata posticipata, per colpa della pandemia causata dal Covid-19, per l'inizio del 2021. 
 
-È stato a rilasciato per PC il 19 Maggio 2021 mentre per console è previsto per l'autunno dello stesso anno. 
+È stato a rilasciato per PC il 19 Maggio 2021.
 
 ## Caratteristiche
 

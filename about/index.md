@@ -88,6 +88,10 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 - Diventare Allied della nostra PMF "**Flotta Stellare**"
 - Giocare pulito: ACFS è stata, è, e sempre sarà contro pratiche scorrette di gioco come ganking e griefing. Chiediamo quindi a tutti i nostri Cmdrs di giocare onestamente ed offriamo supporto per il contrasto di suddette pratiche
 
+## Termini e condizioni di utilizzo
+
+Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con una curva di apprendimento "importante" e che richiede un iniziale investimento di tempo e pazienza per raggiungere un certo livello di gaming standard (su tutti gli ingegneri); in secondo luogo, chi entra in ACFS prende visione e accetta che **NON è vietato fare attività con altri squadron o con loro singoli membri (a meno che tali attività non siano in palese contrasto con il nostro BGS o siano di nocumento allo squadron)**, MA si richiede onestà e trasparenza nel **comunicare anticipatamente la propria decisione ai membri dello squadrone** circa la propria intenzione di fare attività ingame con squadroni terzi o loro membri, **come altresì di comunicare allo squadrone ospitante che si è membri effettivi dell'ACFS** in semplice ricerca di un ulteriore svago; questo in particolare per evitare involontari fraintendimenti, rogne o incidenti diplomatici.
+
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 ## Il nostro BGS
