@@ -174,7 +174,7 @@ Governiamo su **8,562,196,061** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>29 Marzo 3308: Ci spendiamo su <b>Sete</b></li>
+          <li>29 Marzo 3308: Ci espandiamo su <b>Sete</b></li>
           <li>18 Marzo 3308: <b>Aldebaran</b>!</li>
           <li>22 Febbraio 3308: Entriamo a <b>Mbukarla</b>, cinquantaduesimo sistema in cui siamo presenti</li>
           <li>30 Gennaio 3308: Vinciamo la guerra a MCC 467 e ci stabilitamo nel sistema.</li>
