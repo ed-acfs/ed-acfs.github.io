@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **55 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **57 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **90** stazioni
-  - **227** settlements
-  - **61** installazioni
+  - **91** stazioni
+  - **235** settlements
+  - **60** installazioni
   - 
 Governiamo su **8,562,196,061** abitanti
 <div class="datatable-begin"></div>
@@ -114,6 +114,7 @@ Governiamo su **8,562,196,061** abitanti
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
+|     | Bellapa     | Confederato   | 1,129         | Federale      | Non Controlato  |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Non Controlato  |
@@ -123,6 +124,7 @@ Governiamo su **8,562,196,061** abitanti
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Geawenki    | Democratico   | 93,175        | Indipendente  | Non Controlato  |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
+|     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
@@ -152,6 +154,8 @@ Governiamo su **8,562,196,061** abitanti
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controlato      |   
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
+|     | Ross 878    | Dittatoriale  | 11.01 Milioni | Indipendente  | Non Controllato |
+|     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controlato      |
 |     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
@@ -170,6 +174,7 @@ Governiamo su **8,562,196,061** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>29 Marzo 3308: Ci spendiamo su <b>Sete</b></li>
           <li>18 Marzo 3308: <b>Aldebaran</b>!</li>
           <li>22 Febbraio 3308: Entriamo a <b>Mbukarla</b>, cinquantaduesimo sistema in cui siamo presenti</li>
           <li>30 Gennaio 3308: Vinciamo la guerra a MCC 467 e ci stabilitamo nel sistema.</li>
