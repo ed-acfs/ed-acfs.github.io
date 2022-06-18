@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **57 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **59 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **91** stazioni
-  - **235** settlements
-  - **60** installazioni
+  - **237** settlements
+  - **61** installazioni
   - 
 Governiamo su **8,562,196,061** abitanti
 <div class="datatable-begin"></div>
@@ -111,6 +111,7 @@ Governiamo su **8,562,196,061** abitanti
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
 |     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Non Controlato  |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
+|     | Anglii      | Dittatoriale  | 61,539        | Indipendente  | Non Controllato |
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
@@ -119,6 +120,7 @@ Governiamo su **8,562,196,061** abitanti
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Non Controlato  |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
+|     | Fuliar      | Democratico   | 5.01 millioni | Indipendente  | Non Controlato  |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
@@ -173,6 +175,8 @@ Governiamo su **8,562,196,061** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>14 Giugno 3308: L'espansione numero 58 ci porta a <b>Fular</b>, sistema già controllato da una PFM Alleata</li>
+          <li>24 Aprile 3308: La Flotta entra ad <b>Anglii</b></li>
           <li>18 Marzo 3308: <b>Aldebaran</b>!</li>
           <li>22 Febbraio 3308: Entriamo a <b>Mbukarla</b>, cinquantaduesimo sistema in cui siamo presenti</li>
           <li>30 Gennaio 3308: Vinciamo la guerra a MCC 467 e ci stabilitamo nel sistema.</li>
