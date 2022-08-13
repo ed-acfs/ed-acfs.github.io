@@ -96,10 +96,10 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **59 sistemi**, di cui **34** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **59 sistemi**, di cui **35** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **91** stazioni
-  - **237** settlements
+  - **93** stazioni
+  - **249** settlements
   - **61** installazioni
   - 
 Governiamo su **8,562,196,061** abitanti
@@ -147,7 +147,7 @@ Governiamo su **8,562,196,061** abitanti
 |     | Lumbla      | Corporativo   | 6.73 Milioni  | Indipendente  | Non Controllato |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
-|     | MCC 467     | Corporativo   | 24.14 Milioni | Federale      | Non Controlato  |
+|     | MCC 467     | Democratico   | 24.14 Milioni | Indipendente  | Controlato      |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
@@ -175,7 +175,9 @@ Governiamo su **8,562,196,061** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>13 Agosto 3308: La Flotta assume il controllo di <b>MCC 467</b></li>
           <li>14 Giugno 3308: L'espansione numero 58 ci porta a <b>Fular</b>, sistema già controllato da una PFM Alleata</li>
+          <li>14 Maggio 3308: La Flotta arriva su <b>Bellapa</b>.</li>
           <li>24 Aprile 3308: La Flotta entra ad <b>Anglii</b></li>
           <li>18 Marzo 3308: <b>Aldebaran</b>!</li>
           <li>22 Febbraio 3308: Entriamo a <b>Mbukarla</b>, cinquantaduesimo sistema in cui siamo presenti</li>
