@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-04-14
+last_modified_at: 2022-09-05
 ---
 <style>
 .wrap-collapsible {
@@ -120,11 +120,11 @@ Governiamo su **8,562,196,061** abitanti
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Non Controlato  |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
-|     | Fuliar      | Democratico   | 5.01 millioni | Indipendente  | Non Controlato  |
+|     | Fular       | Democratico   | 5.01 millioni | Indipendente  | Non Controlato  |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
-|     | Geawenki    | Democratico   | 93,175        | Indipendente  | Non Controlato  |
+|     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controlato  |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
@@ -138,6 +138,7 @@ Governiamo su **8,562,196,061** abitanti
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
+|     | LP 254-26   | Dittatoriale  | 18.54 Milioni | Indipendente  | Non Controlato  |
 |     | LP 302-22   | Democratico   | 2.61 Miliardi | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
@@ -175,6 +176,7 @@ Governiamo su **8,562,196,061** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>04 Settembre 3308: Arriviamo su Hahgwe, sistema già controllato dai Civitas Dei</li>
           <li>14 Giugno 3308: L'espansione numero 58 ci porta a <b>Fular</b>, sistema già controllato da una PFM Alleata</li>
           <li>24 Aprile 3308: La Flotta entra ad <b>Anglii</b></li>
           <li>18 Marzo 3308: <b>Aldebaran</b>!</li>
