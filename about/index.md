@@ -177,6 +177,7 @@ Governiamo su **8,562,196,061** abitanti
     <div class="content-inner">
       <ul>
           <li>04 Settembre 3308: Arriviamo su Hahgwe, sistema già controllato dai Civitas Dei</li>
+          <li>13 Agosto 3308: La Flotta assume il controllo di MCC 467</li>
           <li>14 Giugno 3308: L'espansione numero 58 ci porta a <b>Fular</b>, sistema già controllato da una PFM Alleata</li>
           <li>14 Maggio 3308: La Flotta arriva su <b>Bellapa</b>.</li>
           <li>24 Aprile 3308: La Flotta entra ad <b>Anglii</b></li>
