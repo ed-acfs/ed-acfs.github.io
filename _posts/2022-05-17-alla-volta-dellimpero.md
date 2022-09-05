@@ -22,13 +22,13 @@ Sono passati circa due mesi da quando ho lasciato lo Spazio della Flotta col mio
 
 È stato un periodo particolare quello, ero di nuovo solo e ho avuto modo di conoscere un paio di affaristi di diverse fazioni, una linea di "confine" tra Federazione e Impero, quasi non sentivo la presenza dell'Imperatrice se escludiamo un paio di manifesti in qualche corridoio delle stazioni. Ma già il 5 ero tornato nello Spazio della Flotta per tornare a lavorare per conto dell'Alto Comando, sono riuscito persino a raggiungere la promozione a Tenente Pilota in quanto ora Membro ufficiale della Flotta.
 
-Un mese e mezzo di preparazione, mi sono procurato risorse, denaro e una nuova nave, l'Asp Explorer "La Fuliarba", e un nuovo FSD decente per fare lunghi viaggi.
+Un mese e mezzo di preparazione, mi sono procurato risorse, denaro e una nuova nave, l'Asp Explorer "La **Fuliarba**", e un nuovo FSD decente per fare lunghi viaggi.
 Era da quando ho iniziato che aspiravo a riavvicinarmi a casa e riprendere il compito di famiglia nell'Impero, sapendo sin da subito che sarebbe stato un altro viaggio in solitaria.
 
 Delle ultime settimane ho controllato il database di Galnet, di Inara e all'interno dell'ACFS; alla fine ho contattato l'ufficiale filo-imperiale Zhastukovan, il quale mi ha dato un paio di dritte, una serie di contatti e sistemi per poter servire i Duval e in particolare la **principessa Aisling**.
 
 Partendo da Wong Sher ieri, giorno 16, alle ore 11:20 GMT ho intrapreso di nuovo il viaggio verso il sistema di **Deciat** per raggiungere la [Farseer Inc.](/blog/speedguide-ingegneri-parte1/) e poter usufruire dei servigi della cara signora per migliorare il mio FSD.<br>
-Ho rivisto un paio di sistemi, il tutto è andato bene, fino a Deciat 6 A quando, un attimo prima di poter eseguire la proceduta di atterraggio, sono stato attaccato da un pilota appostato. La mia Fuliarba si è "per fortuna" schiantata a pochi metri da una una piattaforma, per cui il relitto è stato recuperato con più facilità dal personale della Farseer... 
+Ho rivisto un paio di sistemi, il tutto è andato bene, fino a Deciat 6 A quando, un attimo prima di poter eseguire la proceduta di atterraggio, sono stato attaccato da un pilota appostato. La mia **Fuliarba** si è "per fortuna" schiantata a pochi metri da una una piattaforma, per cui il relitto è stato recuperato con più facilità dal personale della Farseer... 
 
 > i dati cartografici però sono andati perduti. 
 
