@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-09-05
+last_modified_at: 2022-10-03
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **60 sistemi**, di cui **35** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **60 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **95** stazioni
-  - **252** settlements
-  - **62** installazioni
+  - **262** settlements
+  - **60** installazioni
   - 
-Governiamo su **6,768,825,585** abitanti
+Governiamo su **7,711,572,118** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -118,11 +118,10 @@ Governiamo su **6,768,825,585** abitanti
 |     | Bellapa     | Confederato   | 1,129         | Federale      | Non Controlato  |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
-|     | Dewikum     | Confederato   | 38,738        | Indipendente  | Non Controlato  |
+|     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | Fular       | Democratico   | 5.01 millioni | Indipendente  | Non Controlato  |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
-|     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controlato  |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
@@ -134,6 +133,7 @@ Governiamo su **6,768,825,585** abitanti
 |     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controlato      |
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
+|     | LHS 1803    | Democratico   | 142,434       | Indipendente  | Non Controllato |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
@@ -176,6 +176,9 @@ Governiamo su **6,768,825,585** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>03 Ottobre 3308: Riconquistiamo <b>Dewikum</b>!!! </li>
+          <li>02 Ottobre 3308: La Flotta si <b>espande su LHS 1803</b>, sistema già controllato dagli amici Azgharie</li>
+          <li>29 Settembre 3008: Mostriamo il fianco ad una vile azione di disturbo e purtroppo perdiamo il diritto di residenza su G 98-44. Ma la Flotta conosce il fatto suo e non demorde, decisa a non perdere altri sistemi</li>
           <li>04 Settembre 3308: Arriviamo su Hahgwe, sistema già controllato dai Civitas Dei</li>
           <li>13 Agosto 3308: La Flotta assume il controllo di MCC 467</li>
           <li>14 Giugno 3308: L'espansione numero 58 ci porta a <b>Fular</b>, sistema già controllato da una PFM Alleata</li>
