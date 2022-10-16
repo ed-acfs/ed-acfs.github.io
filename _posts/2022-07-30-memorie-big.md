@@ -4,7 +4,7 @@ title:  "L'unione fa la forza"
 date:   2022-07-30
 excerpt: "Anche i comandanti navigati possono compiere degli errori da principianti. A voi il racconto di quella volta in cui un nostro CMDR se la vide brutta"
 image: "/images/posts/memorie-big/20220720_012927.jpg"
-tags: lotta-stellare racconti
+tags: flotta-stellare racconti
 author: bigbadshow
 last_modified_at: 2022-07-30
 sticky: no
