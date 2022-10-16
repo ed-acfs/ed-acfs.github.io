@@ -10,7 +10,7 @@ last_modified_at: 2022-10-11
 sticky: no
 ---
 <div class="box alt">
-<p>20 Luglio 3308<br>
+<p>10 Ottobre 3308<br>
 Diario del Contrammiraglio BigBadShow80</p>
 
 <p>Data Stellare 11 Ottobre 3308<br>
