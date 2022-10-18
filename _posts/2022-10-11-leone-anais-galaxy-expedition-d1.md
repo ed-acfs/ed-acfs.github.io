@@ -10,10 +10,10 @@ last_modified_at: 2022-10-11
 sticky: no
 ---
 <div class="box alt">
-<p>11 Ottobre 3308<br>
+<p>Data Stellare 11 Ottobre 3308<br>
 Diario del Contrammiraglio BigBadShow80</p>
 
-<p>Data Stellare 11 Ottobre 3308<br>
+<p>U.S.S Enterprise NX-01D<br>
 Alto Comando Flotta Stellare</p>
 </div>
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
