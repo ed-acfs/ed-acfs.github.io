@@ -100,9 +100,9 @@ Siamo presenti in: **61 sistemi**, di cui **36** sono sotto il nostro controllo 
 Controlliamo inoltre:
   - **94** stazioni
   - **266** settlements
-  - **62** installazioni
+  - **63** installazioni
   - 
-Governiamo su **7,339,324,675** abitanti
+Governiamo su **7,637,730,377** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -177,6 +177,7 @@ Governiamo su **7,339,324,675** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>30 Ottobre 3308: Questa giornata passerà alla storia come il momento in cui - finalmente - le carte si scoprirono. Era ora!</li>
           <li>18 Ottobre 3308: Approdiamo su <b>Galibi</b></li>
           <li>03 Ottobre 3308: Riconquistiamo <b>Dewikum</b>!!! </li>
           <li>02 Ottobre 3308: La Flotta si <b>espande su LHS 1803</b>, sistema già controllato dagli amici Azgharie</li>
