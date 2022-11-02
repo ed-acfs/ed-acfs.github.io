@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-10-19
+last_modified_at: 2022-11-02
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **61 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **62 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **94** stazioni
-  - **266** settlements
+  - **95** stazioni
+  - **272** settlements
   - **63** installazioni
   - 
-Governiamo su **7,637,730,377** abitanti
+Governiamo su **7,720,063,044** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -119,6 +119,7 @@ Governiamo su **7,637,730,377** abitanti
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
+|     | Euripus     | Dittatoriale  | 38,572        | Indipendente  | Non Controllato |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | Fular       | Democratico   | 5.01 millioni | Indipendente  | Non Controlato  |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
@@ -177,6 +178,7 @@ Governiamo su **7,637,730,377** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>31 Ottobre 3308: <b>Euripus</b> è il sistema n.62 in cui la Flotta è presente</b>
           <li>30 Ottobre 3308: Questa giornata passerà alla storia come il momento in cui - finalmente - le carte si scoprirono. Era ora!</li>
           <li>18 Ottobre 3308: Approdiamo su <b>Galibi</b></li>
           <li>03 Ottobre 3308: Riconquistiamo <b>Dewikum</b>!!! </li>
