@@ -178,7 +178,7 @@ Governiamo su **7,720,063,044** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>31 Ottobre 3308: <b>Euripus</b> è il sistema n.62 in cui la Flotta è presente</b>
+          <li>31 Ottobre 3308: <b>Euripus</b> è il sistema n.62 in cui la Flotta è presente</li>
           <li>30 Ottobre 3308: Questa giornata passerà alla storia come il momento in cui - finalmente - le carte si scoprirono. Era ora!</li>
           <li>18 Ottobre 3308: Approdiamo su <b>Galibi</b></li>
           <li>03 Ottobre 3308: Riconquistiamo <b>Dewikum</b>!!! </li>
