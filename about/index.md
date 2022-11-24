@@ -96,7 +96,7 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **62 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **63 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **98** stazioni
   - **273** settlements
