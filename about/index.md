@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-11-02
+last_modified_at: 2022-11-24
 ---
 <style>
 .wrap-collapsible {
@@ -98,16 +98,17 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 Siamo presenti in: **62 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **95** stazioni
-  - **272** settlements
+  - **98** stazioni
+  - **273** settlements
   - **63** installazioni
   - 
-Governiamo su **7,720,063,044** abitanti
+Governiamo su **8,280,196,373** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
+|     | 111 Tauri   | Corporativo   | 151,113       | Federale      | Non Controlato  |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
 |     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Non Controlato  |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
@@ -178,6 +179,7 @@ Governiamo su **7,720,063,044** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>24 Novembre 3308: <b>111 Tauri</b> è il sistema n.63 in cui la Flotta è presente</li>
           <li>31 Ottobre 3308: <b>Euripus</b> è il sistema n.62 in cui la Flotta è presente</li>
           <li>30 Ottobre 3308: Questa giornata passerà alla storia come il momento in cui - finalmente - le carte si scoprirono. Era ora!</li>
           <li>18 Ottobre 3308: Approdiamo su <b>Galibi</b></li>
