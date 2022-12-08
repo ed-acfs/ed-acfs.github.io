@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **63 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **64 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **98** stazioni
-  - **273** settlements
+  - **274** settlements
   - **63** installazioni
   - 
-Governiamo su **8,280,196,373** abitanti
+Governiamo su **8,080,756,178** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -123,6 +123,7 @@ Governiamo su **8,280,196,373** abitanti
 |     | Euripus     | Dittatoriale  | 38,572        | Indipendente  | Non Controllato |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | Fular       | Democratico   | 5.01 millioni | Indipendente  | Non Controlato  |
+|     | G 107-65    | Dittatoriale  | 7,105         | Indipendente  | Non Controlato  |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | Galibi      | Corporativo   | 2,011         | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
@@ -179,6 +180,7 @@ Governiamo su **8,280,196,373** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>07 Dicembre 3308: Approdiamo su <b>G 107-65</b>, sistema di poco interesse e già controllato dagli amici Civitas Dei</li>
           <li>24 Novembre 3308: <b>111 Tauri</b> è il sistema n.63 in cui la Flotta è presente</li>
           <li>31 Ottobre 3308: <b>Euripus</b> è il sistema n.62 in cui la Flotta è presente</li>
           <li>30 Ottobre 3308: Questa giornata passerà alla storia come il momento in cui - finalmente - le carte si scoprirono. Era ora!</li>
