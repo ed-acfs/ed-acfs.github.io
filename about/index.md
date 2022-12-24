@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-12-08
+last_modified_at: 2022-12-24
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **64 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **65 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **98** stazioni
-  - **274** settlements
-  - **63** installazioni
+  - **282** settlements
+  - **68** installazioni
   - 
-Governiamo su **8,080,756,178** abitanti
+Governiamo su **8,437,999,567** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -122,9 +122,10 @@ Governiamo su **8,080,756,178** abitanti
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
 |     | Euripus     | Dittatoriale  | 38,572        | Indipendente  | Non Controllato |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
-|     | Fular       | Democratico   | 5.01 millioni | Indipendente  | Non Controlato  |
+|     | Fular       | Democratico   | 5.01 Millioni | Indipendente  | Non Controlato  |
 |     | G 107-65    | Dittatoriale  | 7,105         | Indipendente  | Non Controlato  |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
+|     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controlato  |
 |     | Galibi      | Corporativo   | 2,011         | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controlato  |
@@ -180,6 +181,7 @@ Governiamo su **8,080,756,178** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>22 Dicembre 3008: Meno di tre mesi dopo il retreat, dopo aver superato con successo ogni conflitto, visto che ogni promessa è debito, le navi ACFS sono rientrate a <b>G 98-44</b> e si preparano alle Elezioni per riprendere il controllo della loro casa nel sistema, Wankel Terminal.</li>
           <li>07 Dicembre 3308: Approdiamo su <b>G 107-65</b>, sistema di poco interesse e già controllato dagli amici Civitas Dei</li>
           <li>24 Novembre 3308: <b>111 Tauri</b> è il sistema n.63 in cui la Flotta è presente</li>
           <li>31 Ottobre 3308: <b>Euripus</b> è il sistema n.62 in cui la Flotta è presente</li>
