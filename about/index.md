@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **65 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **66 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **99** stazioni
-  - **284** settlements
-  - **67** installazioni
+  - **286** settlements
+  - **69** installazioni
   - 
-Governiamo su **8,545,910,279** abitanti
+Governiamo su **8,487,101,950** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -133,6 +133,7 @@ Governiamo su **8,545,910,279** abitanti
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
+|     | Kamchata    | Corporativo   | 1.88 Milioni  | Indipendente  | Non Controlato  |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
 |     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controlato      |
@@ -181,6 +182,7 @@ Governiamo su **8,545,910,279** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>02 Gennaio 3309: Entriamo a <b>Kamchata</b></li>
           <li>22 Dicembre 3008: Meno di tre mesi dopo il retreat, dopo aver superato con successo ogni conflitto, visto che ogni promessa è debito, le navi ACFS sono rientrate a <b>G 98-44</b> e si preparano alle Elezioni per riprendere il controllo della loro casa nel sistema, Wankel Terminal.</li>
           <li>07 Dicembre 3308: Approdiamo su <b>G 107-65</b>, sistema di poco interesse e già controllato dagli amici Civitas Dei</li>
           <li>24 Novembre 3308: <b>111 Tauri</b> è il sistema n.63 in cui la Flotta è presente</li>
