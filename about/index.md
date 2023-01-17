@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2022-12-30
+last_modified_at: 2023-01-14
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **66 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **67 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **99** stazioni
-  - **286** settlements
-  - **69** installazioni
+  - **102** stazioni
+  - **285** settlements
+  - **71** installazioni
   - 
-Governiamo su **8,487,101,950** abitanti
+Governiamo su **8,836,563,561** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -158,6 +158,7 @@ Governiamo su **8,487,101,950** abitanti
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
+|     | Ninmah      | Democratico   | 5,326,478,276 | Indipendente  | Non Controllato |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Opila       | Corporativo   | 3.30 Miliardi | Federale      | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato | 
@@ -182,6 +183,7 @@ Governiamo su **8,487,101,950** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>14 Gennaio 3309: La nuova espnasione porta la Flotta su <b>Ninmah</b></li>
           <li>02 Gennaio 3309: Entriamo a <b>Kamchata</b></li>
           <li>22 Dicembre 3008: Meno di tre mesi dopo il retreat, dopo aver superato con successo ogni conflitto, visto che ogni promessa è debito, le navi ACFS sono rientrate a <b>G 98-44</b> e si preparano alle Elezioni per riprendere il controllo della loro casa nel sistema, Wankel Terminal.</li>
           <li>07 Dicembre 3308: Approdiamo su <b>G 107-65</b>, sistema di poco interesse e già controllato dagli amici Civitas Dei</li>
