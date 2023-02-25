@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-01-14
+last_modified_at: 2023-02-25
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **67 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **68 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **102** stazioni
-  - **285** settlements
-  - **71** installazioni
+  - **297** settlements
+  - **76** installazioni
   - 
-Governiamo su **8,836,563,561** abitanti
+Governiamo su **11,077,429,630** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -154,6 +154,7 @@ Governiamo su **8,836,563,561** abitanti
 |     | Lumbla      | Corporativo   | 6.73 Milioni  | Indipendente  | Non Controllato |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
+|     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controlato  |
 |     | MCC 467     | Democratico   | 24.14 Milioni | Indipendente  | Controlato      |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
@@ -183,6 +184,7 @@ Governiamo su **8,836,563,561** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>22 Febbraio 3309: Entriamo a <b>Misir</b></li>
           <li>14 Gennaio 3309: La nuova espnasione porta la Flotta su <b>Ninmah</b></li>
           <li>02 Gennaio 3309: Entriamo a <b>Kamchata</b></li>
           <li>22 Dicembre 3008: Meno di tre mesi dopo il retreat, dopo aver superato con successo ogni conflitto, visto che ogni promessa è debito, le navi ACFS sono rientrate a <b>G 98-44</b> e si preparano alle Elezioni per riprendere il controllo della loro casa nel sistema, Wankel Terminal.</li>
