@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-03-07
+last_modified_at: 2023-03-16
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **69 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **68 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **101** stazioni
-  - **297** settlements
-  - **77** installazioni
+  - **102** stazioni
+  - **298** settlements
+  - **78** installazioni
   - 
 Governiamo su **11,077,429,630** abitanti
 <div class="datatable-begin"></div>
@@ -132,7 +132,6 @@ Governiamo su **11,077,429,630** abitanti
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
-|     | Juiquan     | Corporativo   | 158,026       | Federale      | Non Controllato |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
 |     | Kamchata    | Corporativo   | 1.88 Milioni  | Indipendente  | Non Controlato  |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
@@ -185,7 +184,6 @@ Governiamo su **11,077,429,630** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>06 Marzo 3309: In seguito ad una espansione invadiamo <b>Juiquan</b></li>
           <li>22 Febbraio 3309: Entriamo a <b>Misir</b></li>
           <li>14 Gennaio 3309: La nuova espnasione porta la Flotta su <b>Ninmah</b></li>
           <li>02 Gennaio 3309: Entriamo a <b>Kamchata</b></li>
