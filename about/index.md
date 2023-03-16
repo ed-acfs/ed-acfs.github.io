@@ -286,7 +286,7 @@ Governiamo su **11,077,429,630** abitanti
 ## Come unirsi alla Flotta Stellare
 
 Come già scritto sopra non esistono requisiti particolari per [entrare nel nostro Squadrone](https://flottastellare.it/blog/entra-nello-squadrone-flotta-stellare/), attivo su **PS4**, **PS5**, **PC** e **XBox**.<br>
-Per qualsiasi domanda potete chiedere al nostro ammiraglio Scorpion01924, entrare nel nostro [canale discord](https://discord.gg/TQcbuT7z8D){:target="_blank"} o visitare la nostra [pagina Facebook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}. Siamo presenti anche su [Telegram](https://t.me/flottastellare).
+Per qualsiasi domanda potete chiedere al nostro ammiraglio WiitifulSky, entrare nel nostro [canale discord](https://discord.gg/TQcbuT7z8D){:target="_blank"} o visitare la nostra [pagina Facebook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}. Siamo presenti anche su [Telegram](https://t.me/flottastellare).
 
 Oppure puoi seguire uno dei collegamenti social qui di seguito:
 
