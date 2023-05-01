@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-03-16
+last_modified_at: 2023-05-01
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **68 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **70 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **102** stazioni
-  - **298** settlements
-  - **78** installazioni
+  - **311** settlements
+  - **81** installazioni
   - 
 Governiamo su **11,077,429,630** abitanti
 <div class="datatable-begin"></div>
@@ -135,6 +135,7 @@ Governiamo su **11,077,429,630** abitanti
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
 |     | Kamchata    | Corporativo   | 1.88 Milioni  | Indipendente  | Non Controlato  |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
+|     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controlato  |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
 |     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controlato      |
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
@@ -156,6 +157,7 @@ Governiamo su **11,077,429,630** abitanti
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
 |     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controlato  |
 |     | MCC 467     | Democratico   | 24.14 Milioni | Indipendente  | Controlato      |
+|     | Misir       | Corporativo   | 6.25 Milioni  | Federale      | Non Controlato  |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
@@ -184,6 +186,7 @@ Governiamo su **11,077,429,630** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>01 Maggio 3309: La Flotta entra a <b>Lalande 15547</b>. Lalande 15547 diventa il <b>settantesimo sistema</b> in cui siamo presenti</li>
           <li>22 Febbraio 3309: Entriamo a <b>Misir</b></li>
           <li>14 Gennaio 3309: La nuova espnasione porta la Flotta su <b>Ninmah</b></li>
           <li>02 Gennaio 3309: Entriamo a <b>Kamchata</b></li>
