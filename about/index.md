@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-05-27
+last_modified_at: 2023-06-26
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **72 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **73 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **102** stazioni
-  - **319** settlements
-  - **84** installazioni
+  - **331** settlements
+  - **86** installazioni
   - 
 Governiamo su **11,077,429,630** abitanti
 <div class="datatable-begin"></div>
@@ -170,6 +170,7 @@ Governiamo su **11,077,429,630** abitanti
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | Ross 878    | Dittatoriale  | 11.01 Milioni | Indipendente  | Non Controllato |
 |     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controlato      |
+|     | Skang       | Teocratico    | 119,753       | Indipendente  | Non Controllato |
 |     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
@@ -187,7 +188,8 @@ Governiamo su **11,077,429,630** abitanti
   <label for="collapsible" class="12u$ lbl-toggle">Cronologia delle Conquiste</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <ul>
+      <ul>  
+          <li>19 Giugno 3309: <b>Skang</b> è il sistema numero 73 in cui la Flotta è presente</b>
           <li>27 Maggio 3309: Ci stabiliamo a <b>Lalande 15394</b>, sistema n.72</li>
           <li>14 Maggio 3309: Approdiamo a <b>Klikudiya</b>, sistema n.71 in cui la Flotta è presente</li>
           <li>01 Maggio 3309: La Flotta entra a <b>Lalande 15547</b>. Lalande 15547 diventa il <b>settantesimo sistema</b> in cui siamo presenti</li>
