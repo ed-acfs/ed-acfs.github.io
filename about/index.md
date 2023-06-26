@@ -189,7 +189,7 @@ Governiamo su **11,077,429,630** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>  
-          <li>19 Giugno 3309: <b>Skang</b> è il sistema numero 73 in cui la Flotta è presente</b>
+          <li>19 Giugno 3309: <b>Skang</b> è il sistema numero 73 in cui la Flotta è presente</li>
           <li>27 Maggio 3309: Ci stabiliamo a <b>Lalande 15394</b>, sistema n.72</li>
           <li>14 Maggio 3309: Approdiamo a <b>Klikudiya</b>, sistema n.71 in cui la Flotta è presente</li>
           <li>01 Maggio 3309: La Flotta entra a <b>Lalande 15547</b>. Lalande 15547 diventa il <b>settantesimo sistema</b> in cui siamo presenti</li>
