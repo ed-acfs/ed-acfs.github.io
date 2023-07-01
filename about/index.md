@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-06-26
+last_modified_at: 2023-07-01
 ---
 <style>
 .wrap-collapsible {
@@ -96,9 +96,9 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **73 sistemi**, di cui **36** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **73 sistemi**, di cui **37** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **102** stazioni
+  - **104** stazioni
   - **331** settlements
   - **86** installazioni
   - 
@@ -116,7 +116,7 @@ Governiamo su **11,077,429,630** abitanti
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
-|     | Bellapa     | Confederato   | 1,129         | Federale      | Non Controlato  |
+|     | Bellapa     | Confederato   | 1,129         | Indipendente  | Controlato      |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
@@ -189,6 +189,7 @@ Governiamo su **11,077,429,630** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>  
+          <li>01 Luglio 3309: In seguito ad un accordo interplanetario conquistiamo <b>Bellapa</b>, che diventa quindi il sistema n.37 sotto il controllo diretto della Flotta</li>
           <li>19 Giugno 3309: <b>Skang</b> è il sistema numero 73 in cui la Flotta è presente</li>
           <li>27 Maggio 3309: Ci stabiliamo a <b>Lalande 15394</b>, sistema n.72</li>
           <li>14 Maggio 3309: Approdiamo a <b>Klikudiya</b>, sistema n.71 in cui la Flotta è presente</li>
@@ -245,7 +246,7 @@ Governiamo su **11,077,429,630** abitanti
           <li>06 Marzo 3307: Flotta Stellare conquista <b>Ragapajo</b> e porta a 25 il conteggio dei sistemi controllati.</li>
           <li>25 Febbraio 3307: Entriamo, senza desideri di conquista, ad <b>Amait</b>, sistema già controllato da una fazione con cui esiste un trattato di non belligeranza.</li>
           <li>17 Febbraio 3307: Conquistiamo <b>BD+08 1303</b> e con esso la sua particolarità che lo rende unico in tutta la Galassia: un sistema nascosto accessibile solo passando da qui.</li>
-          <li>24 Gennaio 3307: L'ingresso a <b>BD+08 1303</b> ci porta a fare la conoscenza di un simpatico gruppo di alchimisti spaziali, epserti nell'arte del tramutare patate in un portentoso liquido capace di donare felicità e disinibizione</li>
+          <li>24 Gennaio 3307: L'ingresso a <b>BD+08 1303</b> ci porta a fare la conoscenza di un simpatico gruppo di alchimisti spaziali, esperti nell'arte del tramutare patate in un portentoso liquido capace di donare felicità e disinibizione</li>
           <li>17 Gennaio 3307: Nello stesso giorno <b>conquistiamo Kungurutii</b>, che diviene il ventireesimo sistema sotto la nostra guida e cominciamo la guerra per il controllo di <b>Ragapajo</b></li>
           <li>10 Gennaio 3307: la Flotta concretizza la prima fase di una importante e fondamentale operazione strategica entrando a <b>Ragapajo</b></li>
           <li>01 Gennaio 3307: Conquistiamo <b>G 108-26</b>, che diventa il <b>ventiduesimo sistema</b> sotto al nostro controllo</li>
