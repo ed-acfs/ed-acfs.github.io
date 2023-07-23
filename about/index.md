@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-07-18
+last_modified_at: 2023-07-24
 ---
 <style>
 .wrap-collapsible {
@@ -98,8 +98,8 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 Siamo presenti in: **74 sistemi**, di cui **37** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **104** stazioni
-  - **338** settlements
+  - **105** stazioni
+  - **342** settlements
   - **87** installazioni
   - 
 Governiamo su **11,077,453,821** abitanti
@@ -190,6 +190,7 @@ Governiamo su **11,077,453,821** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>22 Luglio 3309: Vinciamo l'invasione e ci stabiliamo a <b>Ryujingit</b>, sistema n.74 in cui la Flotta è presente. Iniziano oggi le operazioni che ci porteranno alla conquista definitiva.</b>
           <li>18 Luglio 3309: In seguito ad un'operazione calcolata nei minimi dettagli ci espandiamo su <b>Ryujingit</b>, invadendolo. Inizia oggi la prima delle guerre che ci porteranno entro poche settimane al controllo del sistema</li>  
           <li>01 Luglio 3309: In seguito ad un accordo interplanetario conquistiamo <b>Bellapa</b>, che diventa quindi il sistema n.37 sotto il controllo diretto della Flotta</li>
           <li>19 Giugno 3309: <b>Skang</b> è il sistema numero 73 in cui la Flotta è presente</li>
