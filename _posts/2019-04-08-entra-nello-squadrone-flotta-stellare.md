@@ -5,7 +5,7 @@ date:   2019-04-06
 excerpt: "Vuoi entrare nello Squadrone Alto Comando Flotta Stellare e divertirti insieme a noi? E' molto più semplice di quanto pensi."
 image: "/images/Beyond_Squadrons_1080.jpg"
 tags: flotta-stellare squadrone
-last_modified_at: 2019-07-19
+last_modified_at: 2023-07-30
 sticky: true
 ---
 
@@ -46,7 +46,7 @@ Quando entrerai a far parte della Flotta Stellare farai anche parte di:
 
 ## Allora, cosa aspetti?
 
-Per qualsiasi domanda potete chiedere al nostro ammiraglio [Scorpion01924](https://my.playstation.com/profile/Scorpion01924){:target="_blank"}, entrare nel nostro [canale discord](https://discord.gg/TQcbuT7z8D){:target="_blank"} o sulla nostra [pagina Facebook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}.
+Per qualsiasi domanda potete chiedere al nostro ammiraglio [WiitifulSky](https://inara.cz/elite/cmdr/132146/){:target="_blank"}, entrare nel nostro [canale discord](https://discord.gg/TQcbuT7z8D){:target="_blank"} o sulla nostra [pagina Facebook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}.
 
 <div class="box alt">
     <div class="row 50% uniform">
