@@ -192,7 +192,7 @@ Governiamo su **11,077,453,821** abitanti
     <div class="content-inner">
       <ul>
           <li>30 Luglio 3309: L'espansione numero 74 ci porta su <b>Shibboleth</b>, sistema già controllato dagli amici Civitas Dei</li>
-          <li>22 Luglio 3309: Vinciamo l'invasione e ci stabiliamo a <b>Ryujingit</b>, sistema n.74 in cui la Flotta è presente. Iniziano oggi le operazioni che ci porteranno alla conquista definitiva.</b>
+          <li>22 Luglio 3309: Vinciamo l'invasione e ci stabiliamo a <b>Ryujingit</b>, sistema n.74 in cui la Flotta è presente. Iniziano oggi le operazioni che ci porteranno alla conquista definitiva.</li>
           <li>18 Luglio 3309: In seguito ad un'operazione calcolata nei minimi dettagli ci espandiamo su <b>Ryujingit</b>, invadendolo. Inizia oggi la prima delle guerre che ci porteranno entro poche settimane al controllo del sistema</li>  
           <li>01 Luglio 3309: In seguito ad un accordo interplanetario conquistiamo <b>Bellapa</b>, che diventa quindi il sistema n.37 sotto il controllo diretto della Flotta</li>
           <li>19 Giugno 3309: <b>Skang</b> è il sistema numero 73 in cui la Flotta è presente</li>
