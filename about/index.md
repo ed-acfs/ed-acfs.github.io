@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **75 sistemi**, di cui **37** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **75 sistemi**, di cui **38** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **107** stazioni
-  - **345** settlements
-  - **87** installazioni
+  - **108** stazioni
+  - **347** settlements
+  - **88** installazioni
   - 
-Governiamo su **11,077,453,821** abitanti
+Governiamo su **11,077,488,076** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -168,7 +168,7 @@ Governiamo su **11,077,453,821** abitanti
 |     | Opila       | Corporativo   | 3.30 Miliardi | Federale      | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato | 
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
-|     | Ryujingit   | Confederato   | 34,255        | Federale      | Non Controllato |
+|     | Ryujingit   | Democratico   | 34,255        | Indipendente  | controllato     |
 |     | Ross 878    | Dittatoriale  | 11.01 Milioni | Indipendente  | Non Controllato |
 |     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controlato      |
 |     | Shibboleth  | Dittatoriale  | 216,262       | Indipendente  | Non Controllato |
@@ -191,6 +191,7 @@ Governiamo su **11,077,453,821** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>05 Agosto 3309: <b>Ryujingit</b> diventa oggi il sistema n.38 sotto al diretto controllo della Flotta</li>
           <li>30 Luglio 3309: L'espansione numero 74 ci porta su <b>Shibboleth</b>, sistema già controllato dagli amici Civitas Dei</li>
           <li>22 Luglio 3309: Vinciamo l'invasione e ci stabiliamo a <b>Ryujingit</b>, sistema n.74 in cui la Flotta è presente. Iniziano oggi le operazioni che ci porteranno alla conquista definitiva.</li>
           <li>18 Luglio 3309: In seguito ad un'operazione calcolata nei minimi dettagli ci espandiamo su <b>Ryujingit</b>, invadendolo. Inizia oggi la prima delle guerre che ci porteranno entro poche settimane al controllo del sistema</li>  
