@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-08-15
+last_modified_at: 2023-08-22
 ---
 <style>
 .wrap-collapsible {
@@ -99,9 +99,9 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 Siamo presenti in: **76 sistemi**, di cui **38** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **107** stazioni
-  - **352** settlements
-  - **89** installazioni
-  - 
+  - **353** settlements
+  - **91** installazioni
+
 Governiamo su **11,077,488,076** abitanti
 <div class="datatable-begin"></div>
 
@@ -116,7 +116,7 @@ Governiamo su **11,077,488,076** abitanti
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
-|     | Bellapa     | Confederato   | 1,129         | Indipendente  | Controlato      |
+|     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
