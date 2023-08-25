@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-08-22
+last_modified_at: 2023-08-25
 ---
 <style>
 .wrap-collapsible {
@@ -96,10 +96,10 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **76 sistemi**, di cui **38** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **77 sistemi**, di cui **38** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **107** stazioni
-  - **353** settlements
+  - **108** stazioni
+  - **354** settlements
   - **91** installazioni
 
 Governiamo su **11,077,488,076** abitanti
@@ -181,6 +181,7 @@ Governiamo su **11,077,488,076** abitanti
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
+|     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Non Controllato |   
 |     | Yggdrajang  | Corporativo   | 88,567        | Indipendente  | Non Controllato |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 
@@ -192,6 +193,7 @@ Governiamo su **11,077,488,076** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>25 Agosto 3309: Malgrado le vacanze spaziali si facciano sentire, ci espandiamo senza difficoltà su <b>V848 Monocerotis</b>, sistema n.77</li>
           <li>12 Agosto 3309: La Flotta si espande su <b>Dulerce</b>, sistema n.76 in cui è presente</li>
           <li>05 Agosto 3309: <b>Ryujingit</b> diventa oggi il sistema n.38 sotto al diretto controllo della Flotta</li>
           <li>30 Luglio 3309: L'espansione numero 74 ci porta su <b>Shibboleth</b>, sistema già controllato dagli amici Civitas Dei</li>
