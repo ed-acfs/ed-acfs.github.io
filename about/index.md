@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-08-25
+last_modified_at: 2023-09-08
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **77 sistemi**, di cui **38** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **78 sistemi**, di cui **38** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **108** stazioni
-  - **354** settlements
-  - **91** installazioni
+  - **110** stazioni
+  - **380** settlements
+  - **93** installazioni
 
 Governiamo su **11,077,488,076** abitanti
 <div class="datatable-begin"></div>
@@ -118,6 +118,7 @@ Governiamo su **11,077,488,076** abitanti
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
+|     | Cintices    | Corporativo   | 37,088        | Indipendente  | Non Controllato |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
 |     | Dulerce     | Democratico   | 287,191,965   | Indipendente  | Non Controlato  |
@@ -193,6 +194,7 @@ Governiamo su **11,077,488,076** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>08 Settembre 3309: Il sistema n.78 è <b>Cincites</b></li>
           <li>25 Agosto 3309: Malgrado le vacanze spaziali si facciano sentire, ci espandiamo senza difficoltà su <b>V848 Monocerotis</b>, sistema n.77</li>
           <li>12 Agosto 3309: La Flotta si espande su <b>Dulerce</b>, sistema n.76 in cui è presente</li>
           <li>05 Agosto 3309: <b>Ryujingit</b> diventa oggi il sistema n.38 sotto al diretto controllo della Flotta</li>
