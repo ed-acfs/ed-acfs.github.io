@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-09-08
+last_modified_at: 2023-09-15
 ---
 <style>
 .wrap-collapsible {
@@ -96,7 +96,7 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **78 sistemi**, di cui **38** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **78 sistemi**, di cui **39** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **110** stazioni
   - **380** settlements
@@ -182,7 +182,7 @@ Governiamo su **11,077,488,076** abitanti
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
-|     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Non Controllato |   
+|     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |   
 |     | Yggdrajang  | Corporativo   | 88,567        | Indipendente  | Non Controllato |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 
@@ -194,6 +194,7 @@ Governiamo su **11,077,488,076** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>15 Settembre 3309: <b>V848 Monocerotis</b> passa sotto il controllo diretto della Flotta</li>
           <li>08 Settembre 3309: Il sistema n.78 è <b>Cincites</b></li>
           <li>25 Agosto 3309: Malgrado le vacanze spaziali si facciano sentire, ci espandiamo senza difficoltà su <b>V848 Monocerotis</b>, sistema n.77</li>
           <li>12 Agosto 3309: La Flotta si espande su <b>Dulerce</b>, sistema n.76 in cui è presente</li>
