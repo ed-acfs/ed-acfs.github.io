@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-09-20
+last_modified_at: 2023-09-27
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **78 sistemi**, di cui **39** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **79 sistemi**, di cui **39** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **110** stazioni
-  - **398** settlements
-  - **94** installazioni
+  - **401** settlements
+  - **95** installazioni
 
 Governiamo su **11,077,561,370** abitanti
 <div class="datatable-begin"></div>
@@ -117,6 +117,7 @@ Governiamo su **11,077,561,370** abitanti
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
+|     | Betel       | Corporativo   | 396,317       | Indipendente  | Non Controllato |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Corporativo   | 37,088        | Indipendente  | Non Controllato |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
@@ -194,6 +195,7 @@ Governiamo su **11,077,561,370** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>27 Settembre 3309: <b>Betel</b> è il sistema n.79 in cui la Flotta è presente</li>
           <li>15 Settembre 3309: <b>V848 Monocerotis</b> passa sotto il controllo diretto della Flotta</li>
           <li>08 Settembre 3309: Il sistema n.78 è <b>Cincites</b></li>
           <li>25 Agosto 3309: Malgrado le vacanze spaziali si facciano sentire, ci espandiamo senza difficoltà su <b>V848 Monocerotis</b>, sistema n.77</li>
