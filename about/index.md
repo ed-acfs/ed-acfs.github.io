@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-10-22
+last_modified_at: 2023-10-30
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **80 sistemi**, di cui **40** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **80 sistemi**, di cui **41** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **112** stazioni
-  - **453** settlements
+  - **113** stazioni
+  - **493** settlements
   - **99** installazioni
 
-Governiamo su **11,077,598,458** abitanti
+Governiamo su **11,077,687,025** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -185,7 +185,7 @@ Governiamo su **11,077,598,458** abitanti
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |   
-|     | Yggdrajang  | Corporativo   | 88,567        | Indipendente  | Non Controllato |
+|     | Yggdrajang  | Democratico   | 88,567        | Indipendente  | Controllato     |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 
 <div class="datatable-end"></div>
@@ -196,6 +196,7 @@ Governiamo su **11,077,598,458** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>30 Ottobre 3309: <b>Yggdrajang</b> passa sotto al nostro controllo diretto</li>
           <li>14 Ottobre 3309: Ci espandiamo su <b>Skuta</b>, sistema n.80</li>
           <li>01 Ottobre 3309: La Flotta conquista <b>Cintices</b>, quarantesimo sistema sotto il nostro pieno controllo</li>
           <li>27 Settembre 3309: <b>Betel</b> è il sistema n.79 in cui la Flotta è presente</li>
