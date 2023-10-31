@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-10-30
+last_modified_at: 2023-10-31
 ---
 <style>
 .wrap-collapsible {
@@ -98,11 +98,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 Siamo presenti in: **80 sistemi**, di cui **41** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **113** stazioni
+  - **115** stazioni
   - **493** settlements
-  - **99** installazioni
+  - **98** installazioni
 
-Governiamo su **11,077,687,025** abitanti
+Governiamo su **11,079,571,135** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -136,7 +136,7 @@ Governiamo su **11,077,687,025** abitanti
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
-|     | Kamchata    | Corporativo   | 1.88 Milioni  | Indipendente  | Non Controlato  |
+|     | Kamchata    | Democratico   | 1.88 Milioni  | Indipendente  | Controlato      |
 |     | Klikudiya   | Dittatoriale  | 13.717 Milioni| Indipendente  | Non Controlato  |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
@@ -196,6 +196,7 @@ Governiamo su **11,077,687,025** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>31 Ottobre 3309: Conquistiamo <b>Kamchata</b>, che diventa così il sistema n.42 sotto la guida ACFS</li>
           <li>30 Ottobre 3309: <b>Yggdrajang</b> passa sotto al nostro controllo diretto</li>
           <li>14 Ottobre 3309: Ci espandiamo su <b>Skuta</b>, sistema n.80</li>
           <li>01 Ottobre 3309: La Flotta conquista <b>Cintices</b>, quarantesimo sistema sotto il nostro pieno controllo</li>
