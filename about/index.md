@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-10-31
+last_modified_at: 2023-11-02
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **80 sistemi**, di cui **41** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **81 sistemi**, di cui **42** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **115** stazioni
-  - **493** settlements
-  - **98** installazioni
+  - **496** settlements
+  - **97** installazioni
 
 Governiamo su **11,079,571,135** abitanti
 <div class="datatable-begin"></div>
@@ -128,6 +128,7 @@ Governiamo su **11,079,571,135** abitanti
 |     | Fular       | Democratico   | 5.01 Millioni | Indipendente  | Non Controlato  |
 |     | G 107-65    | Dittatoriale  | 7,105         | Indipendente  | Non Controlato  |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
+|     | G 87-16     | Dittatoriale  | 4,794,262,989 | Indipendente  | Non Controllato |
 |     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controlato  |
 |     | Galibi      | Corporativo   | 2,011         | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
@@ -169,7 +170,7 @@ Governiamo su **11,079,571,135** abitanti
 |     | Ninmah      | Democratico   | 5,326,478,276 | Indipendente  | Non Controllato |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Opila       | Corporativo   | 3.30 Miliardi | Federale      | Non Controllato |
-|     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato | 
+|     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | Ryujingit   | Democratico   | 34,255        | Indipendente  | controllato     |
 |     | Ross 878    | Dittatoriale  | 11.01 Milioni | Indipendente  | Non Controllato |
@@ -184,7 +185,7 @@ Governiamo su **11,079,571,135** abitanti
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
-|     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |   
+|     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |
 |     | Yggdrajang  | Democratico   | 88,567        | Indipendente  | Controllato     |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 
@@ -196,6 +197,7 @@ Governiamo su **11,079,571,135** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>02 Novembre 3309: Approdiamo su <b>G 87-16</b>, trovando cordiali ed amichevoli vicini di casa</li>
           <li>31 Ottobre 3309: Conquistiamo <b>Kamchata</b>, che diventa così il sistema n.42 sotto la guida ACFS</li>
           <li>30 Ottobre 3309: <b>Yggdrajang</b> passa sotto al nostro controllo diretto</li>
           <li>14 Ottobre 3309: Ci espandiamo su <b>Skuta</b>, sistema n.80</li>
