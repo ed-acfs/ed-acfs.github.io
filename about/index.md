@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-11-02
+last_modified_at: 2023-11-15
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **81 sistemi**, di cui **42** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **82 sistemi**, di cui **42** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **115** stazioni
-  - **496** settlements
-  - **97** installazioni
+  - **116** stazioni
+  - **505** settlements
+  - **98** installazioni
 
 Governiamo su **11,079,571,135** abitanti
 <div class="datatable-begin"></div>
@@ -114,6 +114,7 @@ Governiamo su **11,079,571,135** abitanti
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Anglii      | Dittatoriale  | 61,539        | Indipendente  | Non Controllato |
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
+|     | Aravaci     | Corporativo   | 72,561        | Indipendente  | Non Controllato |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
@@ -197,6 +198,7 @@ Governiamo su **11,079,571,135** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>15 Novembre 3309: Il sistema n.82 è <b>Aravaci</b></li>
           <li>02 Novembre 3309: Approdiamo su <b>G 87-16</b>, trovando cordiali ed amichevoli vicini di casa</li>
           <li>31 Ottobre 3309: Conquistiamo <b>Kamchata</b>, che diventa così il sistema n.42 sotto la guida ACFS</li>
           <li>30 Ottobre 3309: <b>Yggdrajang</b> passa sotto al nostro controllo diretto</li>
