@@ -99,7 +99,7 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 Siamo presenti in: **82 sistemi**, di cui **43** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **118** stazioni
-  - **508** settlements
+  - **508** insediamenti
   - **99** installazioni
 
 Governiamo su **11,079,593,463** abitanti
