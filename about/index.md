@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-11-29
+last_modified_at: 2023-11-30
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **82 sistemi**, di cui **43** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **82 sistemi**, di cui **44** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **118** stazioni
+  - **119** stazioni
   - **508** insediamenti
   - **99** installazioni
 
-Governiamo su **11,079,593,463** abitanti
+Governiamo su **11,079,666,214** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -114,7 +114,7 @@ Governiamo su **11,079,593,463** abitanti
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Anglii      | Dittatoriale  | 61,539        | Indipendente  | Non Controllato |
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
-|     | Aravaci     | Corporativo   | 72,561        | Indipendente  | Non Controllato |
+|     | Aravaci     | Democratico   | 72,561        | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
@@ -199,6 +199,7 @@ Governiamo su **11,079,593,463** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>30 Novembre 🎂 3309: <b>Aravaci</b> è il sistema n.44 sotto il diretto controllo Flotta</li>
           <li>28 Novembre 3309: Prendiamo il controllo di <b>Tomas</b>.</li>
           <li>15 Novembre 3309: Il sistema n.82 è <b>Aravaci</b></li>
           <li>02 Novembre 3309: Approdiamo su <b>G 87-16</b>, trovando cordiali ed amichevoli vicini di casa</li>
