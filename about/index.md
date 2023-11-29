@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-11-15
+last_modified_at: 2023-11-29
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **82 sistemi**, di cui **42** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **82 sistemi**, di cui **43** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **116** stazioni
-  - **505** settlements
-  - **98** installazioni
+  - **118** stazioni
+  - **508** settlements
+  - **99** installazioni
 
-Governiamo su **11,079,571,135** abitanti
+Governiamo su **11,079,593,463** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -184,6 +184,7 @@ Governiamo su **11,079,571,135** abitanti
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
+|     | Tomas       | Democratico   | 22,328        | Indipendente  | Controllato     |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |
@@ -198,6 +199,7 @@ Governiamo su **11,079,571,135** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>28 Novembre 3309: Prendiamo il controllo di <b>Tomas</b>.</li>
           <li>15 Novembre 3309: Il sistema n.82 è <b>Aravaci</b></li>
           <li>02 Novembre 3309: Approdiamo su <b>G 87-16</b>, trovando cordiali ed amichevoli vicini di casa</li>
           <li>31 Ottobre 3309: Conquistiamo <b>Kamchata</b>, che diventa così il sistema n.42 sotto la guida ACFS</li>
