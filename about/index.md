@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-11-30
+last_modified_at: 2023-12-01
 ---
 <style>
 .wrap-collapsible {
@@ -96,10 +96,10 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **82 sistemi**, di cui **44** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **83 sistemi**, di cui **44** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **119** stazioni
-  - **508** insediamenti
+  - **509** insediamenti
   - **99** installazioni
 
 Governiamo su **11,079,666,214** abitanti
@@ -120,7 +120,7 @@ Governiamo su **11,079,666,214** abitanti
 |     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
 |     | Betel       | Corporativo   | 396,317       | Indipendente  | Non Controllato |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
-|     | Cintices    | Democratico   | 37,088        | Indipendente  |  Controllato    |
+|     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
 |     | Dulerce     | Democratico   | 287,191,965   | Indipendente  | Non Controlato  |
@@ -139,6 +139,7 @@ Governiamo su **11,079,666,214** abitanti
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
 |     | Kamchata    | Democratico   | 1.88 Milioni  | Indipendente  | Controlato      |
+|     | Katocudatta | Corporativo   | 3.811 Milioni | Indipendente  | Non Controllato |
 |     | Klikudiya   | Dittatoriale  | 13.717 Milioni| Indipendente  | Non Controlato  |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
@@ -199,7 +200,8 @@ Governiamo su **11,079,666,214** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>30 Novembre 🎂 3309: <b>Aravaci</b> è il sistema n.44 sotto il diretto controllo Flotta</li>
+          <li>01 Dicembre 3309: <b>Aravaci</b> è il sistema n.44 sotto il diretto controllo Flotta</li>
+          <li>30 Novembre 🎂 3309: Approdiamo su <b>Katocudatta</b></li>
           <li>28 Novembre 3309: Prendiamo il controllo di <b>Tomas</b>.</li>
           <li>15 Novembre 3309: Il sistema n.82 è <b>Aravaci</b></li>
           <li>02 Novembre 3309: Approdiamo su <b>G 87-16</b>, trovando cordiali ed amichevoli vicini di casa</li>
