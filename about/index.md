@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2023-12-08
+last_modified_at: 2023-12-17
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **83 sistemi**, di cui **44** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **84 sistemi**, di cui **44** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **120** stazioni
-  - **519** insediamenti
-  - **99** installazioni
+  - **535** insediamenti
+  - **98** installazioni
 
-Governiamo su **11,079,666,214** abitanti
+Governiamo su **11,079,651,515** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -187,8 +187,9 @@ Governiamo su **11,079,666,214** abitanti
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | Tomas       | Democratico   | 22,328        | Indipendente  | Controllato     |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
-|     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |
+|     | Vandar      | Corporativo   | 41,917        | Federale      | Non Controllato |
+|     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | Yggdrajang  | Democratico   | 88,567        | Indipendente  | Controllato     |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 
@@ -200,6 +201,7 @@ Governiamo su **11,079,666,214** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>17 Dicembre 3309: La Flotta si espande su <b>Vandar</b>.</li>
           <li>01 Dicembre 3309: <b>Aravaci</b> è il sistema n.44 sotto il diretto controllo Flotta</li>
           <li>30 Novembre 🎂 3309: Approdiamo su <b>Katocudatta</b></li>
           <li>28 Novembre 3309: Prendiamo il controllo di <b>Tomas</b>.</li>
