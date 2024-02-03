@@ -204,7 +204,7 @@ Governiamo su **11,079,929,666** abitanti
       <ul>
           <li>02 Febbraio 3310: Prendiamo il controllo di <b>Kiga</b> e ci prepariamo a proseguire il processo di derattizzazione e pulizia dei dintorni</li>
           <li>15 Gennaio 3310: inauguriamo il nuovo anno con una nuova espansione, arrivata dopo una buona attività di derattizzazione. <b>Kiga</b> è il sistema n.85 in cui la Flotta è presente</li>
-          <li>30 Dicembre 3309: chiudiamo l'anno regalandoci il sistema n.45 sotto al nostro controllo. <v>Vandar</b> è una importante testa di ponte per le future strategie della Flotta</li>
+          <li>30 Dicembre 3309: chiudiamo l'anno regalandoci il sistema n.45 sotto al nostro controllo. <b>Vandar</b> è una importante testa di ponte per le future strategie della Flotta</li>
           <li>17 Dicembre 3309: La Flotta si espande su <b>Vandar</b>.</li>
           <li>01 Dicembre 3309: <b>Aravaci</b> è il sistema n.44 sotto il diretto controllo Flotta</li>
           <li>30 Novembre 🎂 3309: Approdiamo su <b>Katocudatta</b></li>
