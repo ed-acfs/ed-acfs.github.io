@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-01-16
+last_modified_at: 2024-02-02
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **85 sistemi**, di cui **45** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **85 sistemi**, di cui **46** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **121** stazioni
-  - **540** insediamenti
-  - **99** installazioni
+  - **122** stazioni
+  - **544** insediamenti
+  - **100** installazioni
 
-Governiamo su **11,079,707,941** abitanti
+Governiamo su **11,079,929,666** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -140,7 +140,7 @@ Governiamo su **11,079,707,941** abitanti
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
 |     | Kamchata    | Democratico   | 1.88 Milioni  | Indipendente  | Controlato      |
 |     | Katocudatta | Corporativo   | 3.811 Milioni | Indipendente  | Non Controllato |
-|     | Kiga        | Confederato   | 221,725       | Federale      | Non Controllato |
+|     | Kiga        | Democratico   | 221,725       | Indipendente  | Controllato     |
 |     | Klikudiya   | Dittatoriale  | 13.717 Milioni| Indipendente  | Non Controlato  |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
@@ -202,7 +202,8 @@ Governiamo su **11,079,707,941** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>15 Gennaio 33010: inauguriamo il nuovo anno con una nuova espansione, arrivata dopo una buona attività di derattizzazione. <b>Kiga</b> è il sistema n.85 in cui la Flotta è presente</li>
+          <li>02 Febbraio 3310: Prendiamo il controllo di <b>Kiga</b> e ci prepariamo a proseguire il processo di derattizzazione e pulizia dei dintorni</li>
+          <li>15 Gennaio 3310: inauguriamo il nuovo anno con una nuova espansione, arrivata dopo una buona attività di derattizzazione. <b>Kiga</b> è il sistema n.85 in cui la Flotta è presente</li>
           <li>30 Dicembre 3309: chiudiamo l'anno regalandoci il sistema n.45 sotto al nostro controllo. <v>Vandar</b> è una importante testa di ponte per le future strategie della Flotta</li>
           <li>17 Dicembre 3309: La Flotta si espande su <b>Vandar</b>.</li>
           <li>01 Dicembre 3309: <b>Aravaci</b> è il sistema n.44 sotto il diretto controllo Flotta</li>
