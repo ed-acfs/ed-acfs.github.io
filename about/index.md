@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-02-02
+last_modified_at: 2024-03-10
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **85 sistemi**, di cui **46** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **86 sistemi**, di cui **46** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **122** stazioni
-  - **544** insediamenti
-  - **100** installazioni
+  - **125** stazioni
+  - **549** insediamenti
+  - **101** installazioni
 
 Governiamo su **11,079,929,666** abitanti
 <div class="datatable-begin"></div>
@@ -124,6 +124,7 @@ Governiamo su **11,079,929,666** abitanti
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
 |     | Dulerce     | Democratico   | 287,191,965   | Indipendente  | Non Controlato  |
+|     | Ethli       | Democratico   | 159,949       | Indipendente  | Non Controllato |
 |     | Euripus     | Dittatoriale  | 38,572        | Indipendente  | Non Controllato |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
 |     | Fular       | Democratico   | 5.01 Millioni | Indipendente  | Non Controlato  |
@@ -202,6 +203,7 @@ Governiamo su **11,079,929,666** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>10 Marzo 3310: Una espansione fortuita ci porta ad invadere <b>Ethli</b>, sistema n.86 in cui la Flotta è presente.</li>
           <li>02 Febbraio 3310: Prendiamo il controllo di <b>Kiga</b> e ci prepariamo a proseguire il processo di derattizzazione e pulizia dei dintorni</li>
           <li>15 Gennaio 3310: inauguriamo il nuovo anno con una nuova espansione, arrivata dopo una buona attività di derattizzazione. <b>Kiga</b> è il sistema n.85 in cui la Flotta è presente</li>
           <li>30 Dicembre 3309: chiudiamo l'anno regalandoci il sistema n.45 sotto al nostro controllo. <b>Vandar</b> è una importante testa di ponte per le future strategie della Flotta</li>
