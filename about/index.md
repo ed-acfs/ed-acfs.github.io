@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-03-10
+last_modified_at: 2024-03-23
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **86 sistemi**, di cui **46** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **87 sistemi**, di cui **46** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **125** stazioni
-  - **549** insediamenti
+  - **552** insediamenti
   - **101** installazioni
 
-Governiamo su **11,079,929,666** abitanti
+Governiamo su **11,079,905,515** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -144,6 +144,7 @@ Governiamo su **11,079,929,666** abitanti
 |     | Kiga        | Democratico   | 221,725       | Indipendente  | Controllato     |
 |     | Klikudiya   | Dittatoriale  | 13.717 Milioni| Indipendente  | Non Controlato  |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
+|     | Kweretet    | Democratico   | 22,148        | Indipendente  | Non Controllato |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
 |     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controlato  |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
@@ -203,6 +204,7 @@ Governiamo su **11,079,929,666** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>23 Marzo 3310: Anche gli Ammiragli sbagliano: un errore di calcolo ci porta su <b>Kweretet.</b></li>
           <li>10 Marzo 3310: Una espansione fortuita ci porta ad invadere <b>Ethli</b>, sistema n.86 in cui la Flotta è presente.</li>
           <li>02 Febbraio 3310: Prendiamo il controllo di <b>Kiga</b> e ci prepariamo a proseguire il processo di derattizzazione e pulizia dei dintorni</li>
           <li>15 Gennaio 3310: inauguriamo il nuovo anno con una nuova espansione, arrivata dopo una buona attività di derattizzazione. <b>Kiga</b> è il sistema n.85 in cui la Flotta è presente</li>
