@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-04-21
+last_modified_at: 2024-04-23
 ---
 <style>
 .wrap-collapsible {
@@ -96,7 +96,7 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **88 sistemi**, di cui **46** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **89 sistemi**, di cui **46** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **127** stazioni
   - **562** insediamenti
@@ -169,6 +169,7 @@ Governiamo su **11,079,929,666** abitanti
 |     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controlato  |
 |     | MCC 467     | Democratico   | 24.14 Milioni | Indipendente  | Controlato      |
 |     | Misir       | Corporativo   | 6.25 Milioni  | Federale      | Non Controlato  |
+|     | Morinbath   | Corporativo   | 94,434        | Federale      | Non Controllato |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
@@ -205,6 +206,8 @@ Governiamo su **11,079,929,666** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>23 Aprile 3310: L'operazione di derattizzazione prosegue: la Flotta approda su <b>Morinbath</b>, convinta a farne un sistema sotto il proprio controllo</li>
+          <li>22 Aprile 3310: Inizia la battaglia per il controllo di <b>Senoni</b></li>
           <li>06 Aprile 3310: Il piano espansionistico ci porta su <b>Senoni</b>.</li>
           <li>23 Marzo 3310: Anche gli Ammiragli sbagliano: un errore di calcolo ci porta su <b>Kweretet</b>.</li>
           <li>10 Marzo 3310: Una espansione fortuita ci porta ad invadere <b>Ethli</b>, sistema n.86 in cui la Flotta è presente.</li>
