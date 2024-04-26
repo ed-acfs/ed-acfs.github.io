@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-04-23
+last_modified_at: 2024-04-26
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **89 sistemi**, di cui **46** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **89 sistemi**, di cui **47** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **127** stazioni
-  - **562** insediamenti
+  - **128** stazioni
+  - **563** insediamenti
   - **102** installazioni
 
-Governiamo su **11,079,929,666** abitanti
+Governiamo su **11,843,083,943** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -180,7 +180,7 @@ Governiamo su **11,079,929,666** abitanti
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | Ryujingit   | Democratico   | 34,255        | Indipendente  | controllato     |
 |     | Ross 878    | Dittatoriale  | 11.01 Milioni | Indipendente  | Non Controllato |
-|     | Senoni      | Democratico   | 763.15 millioni | Federale    | Non Controllato |
+|     | Senoni      | Democratico   | 763.15 millioni | Federale    | Controllato     |
 |     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controlato      |
 |     | Shibboleth  | Dittatoriale  | 216,262       | Indipendente  | Non Controllato |
 |     | Skang       | Teocratico    | 119,753       | Indipendente  | Non Controllato |
@@ -206,6 +206,7 @@ Governiamo su **11,079,929,666** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>26 Aprile 3310: La Flotta prende il controllo di <b>Senoni</b></li>
           <li>23 Aprile 3310: L'operazione di derattizzazione prosegue: la Flotta approda su <b>Morinbath</b>, convinta a farne un sistema sotto il proprio controllo</li>
           <li>22 Aprile 3310: Inizia la battaglia per il controllo di <b>Senoni</b></li>
           <li>06 Aprile 3310: Il piano espansionistico ci porta su <b>Senoni</b>.</li>
