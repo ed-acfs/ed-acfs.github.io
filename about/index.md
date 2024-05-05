@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-05-04
+last_modified_at: 2024-05-05
 ---
 <style>
 .wrap-collapsible {
@@ -206,9 +206,9 @@ Governiamo su **11,843,178,377** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>05 Maggio 3310: Prendiamo il controllo di <b>Morinbath</b>, sistema n.48 sotto al nostro diretto controllo</li>
+          <li>05 Maggio 3310: Prendiamo il controllo di <b>Morinbath</b>, sistema n.48 sotto il nostro governo</li>
           <li>26 Aprile 3310: La Flotta prende il controllo di <b>Senoni</b></li>
-          <li>23 Aprile 3310: L'operazione di derattizzazione prosegue: la Flotta approda su <b>Morinbath</b>, convinta a farne un sistema sotto il proprio controllo</li>
+          <li>23 Aprile 3310: L'operazione di derattizzazione prosegue: la Flotta approda su <b>Morinbath</b>, convinta a farne un sistema proprio.</li>
           <li>22 Aprile 3310: Inizia la battaglia per il controllo di <b>Senoni</b></li>
           <li>06 Aprile 3310: Il piano espansionistico ci porta su <b>Senoni</b>.</li>
           <li>23 Marzo 3310: Anche gli Ammiragli sbagliano: un errore di calcolo ci porta su <b>Kweretet</b>.</li>
