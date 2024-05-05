@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **89 sistemi**, di cui **47** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **89 sistemi**, di cui **48** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **129** stazioni
+  - **130** stazioni
   - **567** insediamenti
   - **102** installazioni
 
-Governiamo su **11,843,027,979** abitanti
+Governiamo su **11,843,178,377** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -169,7 +169,7 @@ Governiamo su **11,843,027,979** abitanti
 |     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controlato  |
 |     | MCC 467     | Democratico   | 24.14 Milioni | Indipendente  | Controlato      |
 |     | Misir       | Corporativo   | 6.25 Milioni  | Federale      | Non Controlato  |
-|     | Morinbath   | Corporativo   | 94,434        | Federale      | Non Controllato |
+|     | Morinbath   | Democratico   | 94,434        | Indipendente  | Controllato     |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
@@ -206,6 +206,7 @@ Governiamo su **11,843,027,979** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>05 Maggio 3310: Prendiamo il controllo di <b>Morinbath</b>, sistema n.48 sotto al nostro diretto controllo</li>
           <li>26 Aprile 3310: La Flotta prende il controllo di <b>Senoni</b></li>
           <li>23 Aprile 3310: L'operazione di derattizzazione prosegue: la Flotta approda su <b>Morinbath</b>, convinta a farne un sistema sotto il proprio controllo</li>
           <li>22 Aprile 3310: Inizia la battaglia per il controllo di <b>Senoni</b></li>
