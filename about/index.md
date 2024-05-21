@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-05-05
+last_modified_at: 2024-05-21
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **89 sistemi**, di cui **48** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **90 sistemi**, di cui **48** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **130** stazioni
-  - **567** insediamenti
-  - **102** installazioni
+  - **134** stazioni
+  - **570** insediamenti
+  - **104** installazioni
 
-Governiamo su **11,843,178,377** abitanti
+Governiamo su **11,843,124,469** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -176,6 +176,7 @@ Governiamo su **11,843,178,377** abitanti
 |     | Ninmah      | Democratico   | 5,326,478,276 | Indipendente  | Non Controllato |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Opila       | Corporativo   | 3.30 Miliardi | Federale      | Non Controllato |
+|     | Pechua      | Democratico   | 6,369         | Indipendente  | Non Controllato |
 |     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | Ryujingit   | Democratico   | 34,255        | Indipendente  | controllato     |
@@ -206,6 +207,7 @@ Governiamo su **11,843,178,377** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>16 Maggio 3310: Arrviamo su <b>Pechua</b></li>
           <li>05 Maggio 3310: Prendiamo il controllo di <b>Morinbath</b>, sistema n.48 sotto il nostro governo</li>
           <li>26 Aprile 3310: La Flotta prende il controllo di <b>Senoni</b></li>
           <li>23 Aprile 3310: L'operazione di derattizzazione prosegue: la Flotta approda su <b>Morinbath</b>, convinta a farne un sistema proprio.</li>
