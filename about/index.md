@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-06-25
+last_modified_at: 2024-07-08
 ---
 <style>
 .wrap-collapsible {
@@ -172,7 +172,7 @@ Governiamo su **11,843,178,377** abitanti
 |     | Morinbath   | Democratico   | 94,434        | Indipendente  | Controllato     |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
-|     | Nareni      | Confederato   | 3.50 Milioni  | Federale      | Non Controllato |
+|     | Nareni      | Confederato   | 3.50 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
 |     | Ninmah      | Democratico   | 5,326,478,276 | Indipendente  | Non Controllato |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
@@ -208,6 +208,7 @@ Governiamo su **11,843,178,377** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>08 Luglio 3310: Con la conquista di <b>Nareni</b> inizia finalmente la fase finale di un progetto espansionistico e di derattizzazione che dura da oltre quattro anni.</li>
           <li>25 Giugno 3310: Dopo una lunga operazione di preparazione ed indebolimento, la Flotta sbarca su <b>Nareni</b> e si prepara alle prossime operazioni.</li>
           <li>16 Maggio 3310: Arriviamo su <b>Pechua</b></li>
           <li>05 Maggio 3310: Prendiamo il controllo di <b>Morinbath</b>, sistema n.48 sotto il nostro governo</li>
