@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-07-11
+last_modified_at: 2024-07-28
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **91 sistemi**, di cui **49** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **92 sistemi**, di cui **49** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **137** stazioni
-  - **587** insediamenti
-  - **103** installazioni
+  - **138** stazioni
+  - **599** insediamenti
+  - **104** installazioni
 
 Governiamo su **11,846,674,324** abitanti
 <div class="datatable-begin"></div>
@@ -147,6 +147,7 @@ Governiamo su **11,846,674,324** abitanti
 |     | Kweretet    | Democratico   | 22,148        | Indipendente  | Non Controllato |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
 |     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controlato  |
+|     | LFT 392     | Democratico   | 47,107        | Indipendente  | Non Controllato |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
 |     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controlato      |
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
@@ -208,6 +209,7 @@ Governiamo su **11,846,674,324** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>37 Luglio 3310: Vinciamo la guerra di invasione e ci stabiliamo a <b>LFT 392</b></li>
           <li>08 Luglio 3310: Con la conquista di <b>Nareni</b> inizia finalmente la fase finale di un progetto espansionistico e di derattizzazione che dura da oltre quattro anni.</li>
           <li>25 Giugno 3310: Dopo una lunga operazione di preparazione ed indebolimento, la Flotta sbarca su <b>Nareni</b> e si prepara alle prossime operazioni.</li>
           <li>16 Maggio 3310: Arriviamo su <b>Pechua</b></li>
