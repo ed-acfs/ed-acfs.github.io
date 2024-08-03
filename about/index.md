@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-07-28
+last_modified_at: 2024-08-03
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **92 sistemi**, di cui **49** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **93 sistemi**, di cui **49** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **138** stazioni
-  - **599** insediamenti
-  - **104** installazioni
+  - **601** insediamenti
+  - **106** installazioni
 
 Governiamo su **11,846,674,324** abitanti
 <div class="datatable-begin"></div>
@@ -119,6 +119,7 @@ Governiamo su **11,846,674,324** abitanti
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
 |     | Betel       | Corporativo   | 396,317       | Indipendente  | Non Controllato |
+|     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Non Controllato |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
@@ -209,7 +210,8 @@ Governiamo su **11,846,674,324** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>37 Luglio 3310: Vinciamo la guerra di invasione e ci stabiliamo a <b>LFT 392</b></li>
+          <li>02 Agosto 3310: Il giorno è arrivato! Dopo oltre quattro anni di attività e di ricerca della strada giusta la Flotta giunge finalmente a <b>Bifrost</b>, sistema poco interessante ai fini strategici ma fondamentale come <b>Trofeo di Guerra</b>. Da qui la Flotta partirà alla conquista di nuovi sistemi fino ad oggi lontani dalle nostre regioni abituali, proseguendo nella convinta opera di derattizzazione della Bolla.</li>
+          <li>27 Luglio 3310: Vinciamo la guerra di invasione e ci stabiliamo a <b>LFT 392</b></li>
           <li>08 Luglio 3310: Con la conquista di <b>Nareni</b> inizia finalmente la fase finale di un progetto espansionistico e di derattizzazione che dura da oltre quattro anni.</li>
           <li>25 Giugno 3310: Dopo una lunga operazione di preparazione ed indebolimento, la Flotta sbarca su <b>Nareni</b> e si prepara alle prossime operazioni.</li>
           <li>16 Maggio 3310: Arriviamo su <b>Pechua</b></li>
