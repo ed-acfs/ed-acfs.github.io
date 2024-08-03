@@ -210,7 +210,7 @@ Governiamo su **11,846,674,324** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>02 Agosto 3310: Il giorno è arrivato! Dopo oltre quattro anni di attività e di ricerca della strada giusta la Flotta giunge finalmente a <b>Bifrost</b>, sistema poco interessante ai fini strategici ma fondamentale come <b>Trofeo di Guerra</b>. Da qui la Flotta partirà alla conquista di nuovi sistemi fino ad oggi lontani dalle nostre regioni abituali, proseguendo nella convinta opera di derattizzazione della Bolla.</li>
+          <li>02 Agosto 3310: Il giorno è arrivato! Dopo oltre quattro anni di attività e di ricerca della strada giusta la Flotta giunge finalmente a <b>Bifrost</b>, sistema poco interessante ai fini strategici ma fondamentale come <b>Trofeo di Guerra</b>. Da qui la Flotta partirà alla conquista di nuovi sistemi fino ad oggi lontani dalle nostre regioni abituali, proseguendo nella propria convinta opera di derattizzazione della Bolla.</li>
           <li>27 Luglio 3310: Vinciamo la guerra di invasione e ci stabiliamo a <b>LFT 392</b></li>
           <li>08 Luglio 3310: Con la conquista di <b>Nareni</b> inizia finalmente la fase finale di un progetto espansionistico e di derattizzazione che dura da oltre quattro anni.</li>
           <li>25 Giugno 3310: Dopo una lunga operazione di preparazione ed indebolimento, la Flotta sbarca su <b>Nareni</b> e si prepara alle prossime operazioni.</li>
