@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **93 sistemi**, di cui **49** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **93 sistemi**, di cui **50** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **138** stazioni
-  - **601** insediamenti
-  - **106** installazioni
+  - **141** stazioni
+  - **605** insediamenti
+  - **107** installazioni
 
-Governiamo su **11,846,674,324** abitanti
+Governiamo su **11,846,774,327** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -119,7 +119,7 @@ Governiamo su **11,846,674,324** abitanti
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
 |     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
 |     | Betel       | Corporativo   | 396,317       | Indipendente  | Non Controllato |
-|     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Non Controllato |
+|     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Controllato |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
@@ -210,6 +210,7 @@ Governiamo su **11,846,674,324** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>29 Agosto 3310: Prendiamo il controllo di <b>BIfrost</b></li>
           <li>02 Agosto 3310: Il giorno è arrivato! Dopo oltre quattro anni di attività e di ricerca della strada giusta la Flotta giunge finalmente a <b>Bifrost</b>, sistema poco interessante ai fini strategici ma fondamentale come <b>Trofeo di Guerra</b>. Da qui la Flotta partirà alla conquista di nuovi sistemi fino ad oggi lontani dalle nostre regioni abituali, proseguendo nella propria convinta opera di derattizzazione della Bolla.</li>
           <li>27 Luglio 3310: Vinciamo la guerra di invasione e ci stabiliamo a <b>LFT 392</b></li>
           <li>08 Luglio 3310: Con la conquista di <b>Nareni</b> inizia finalmente la fase finale di un progetto espansionistico e di derattizzazione che dura da oltre quattro anni.</li>
