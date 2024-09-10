@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-08-03
+last_modified_at: 2024-09-10
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **93 sistemi**, di cui **50** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **93 sistemi**, di cui **51** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **141** stazioni
-  - **605** insediamenti
-  - **107** installazioni
+  - **610** insediamenti
+  - **109** installazioni
 
-Governiamo su **11,846,774,327** abitanti
+Governiamo su **11,846,894,080** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -187,7 +187,7 @@ Governiamo su **11,846,774,327** abitanti
 |     | Senoni      | Democratico   | 763.15 millioni | Federale    | Controllato     |
 |     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controlato      |
 |     | Shibboleth  | Dittatoriale  | 216,262       | Indipendente  | Non Controllato |
-|     | Skang       | Teocratico    | 119,753       | Indipendente  | Non Controllato |
+|     | Skang       | Democratico   | 119,753       | Indipendente  | Controllato     |
 |     | Skuta       | Corporativo   | 84,970        | Indipendente  | Non Controllato |
 |     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
@@ -210,6 +210,7 @@ Governiamo su **11,846,774,327** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>10 Settembre 3310: La Flotta acquisisce il controllo di <b>Skang</b></li>
           <li>29 Agosto 3310: Prendiamo il controllo di <b>BIfrost</b></li>
           <li>02 Agosto 3310: Il giorno è arrivato! Dopo oltre quattro anni di attività e di ricerca della strada giusta la Flotta giunge finalmente a <b>Bifrost</b>, sistema poco interessante ai fini strategici ma fondamentale come <b>Trofeo di Guerra</b>. Da qui la Flotta partirà alla conquista di nuovi sistemi fino ad oggi lontani dalle nostre regioni abituali, proseguendo nella propria convinta opera di derattizzazione della Bolla.</li>
           <li>27 Luglio 3310: Vinciamo la guerra di invasione e ci stabiliamo a <b>LFT 392</b></li>
