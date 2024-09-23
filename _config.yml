@@ -131,7 +131,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
-paginate: 6
+paginate: 8
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
