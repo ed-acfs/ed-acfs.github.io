@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-09-29
+last_modified_at: 2024-10-01
 ---
 <style>
 .wrap-collapsible {
@@ -96,13 +96,13 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **94 sistemi**, di cui **51** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **94 sistemi**, di cui **52** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **143** stazioni
-  - **612** insediamenti
+  - **145** stazioni
+  - **614** insediamenti
   - **110** installazioni
 
-Governiamo su **11,846,838,116** abitanti
+Governiamo su **11,846,999,683** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -116,7 +116,7 @@ Governiamo su **11,846,838,116** abitanti
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
 |     | Aravaci     | Democratico   | 72,561        | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
-|     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Non Controllato |
+|     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Controllato     |
 |     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
 |     | Betel       | Corporativo   | 396,317       | Indipendente  | Non Controllato |
 |     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Controllato |
