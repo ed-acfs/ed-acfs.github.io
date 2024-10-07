@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-10-06
+last_modified_at: 2024-10-07
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,12 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **94 sistemi**, di cui **53** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **94 sistemi**, di cui **54** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **146** stazioni
   - **614** insediamenti
   - **110** installazioni
+  - **1** megaship
 
 Governiamo su **11,846,983,560** abitanti
 <div class="datatable-begin"></div>
@@ -110,7 +111,7 @@ Governiamo su **11,846,983,560** abitanti
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | 111 Tauri   | Corporativo   | 151,113       | Federale      | Non Controlato  |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
-|     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Non Controlato  |
+|     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Controlato      |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Anglii      | Dittatoriale  | 61,539        | Indipendente  | Non Controllato |
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
@@ -211,6 +212,7 @@ Governiamo su **11,846,983,560** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>07 Ottobre 3310: Acquisiamo il controllo di <b>Aldebaran</b> e con esso quello della nostra prima <b>Megaship</b>!</li>
           <li>06 Ottobre 3310: Acquisiamo il controllo di <b>Tastis</b></li>
           <li>01 Ottobre 3310: Acquisiamo il controllo di <b>BD+14 831</b></li>
           <li>29 Settembre 3310: Entriamo a <b>Tastis</b></li>
