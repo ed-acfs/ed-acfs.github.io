@@ -99,11 +99,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 Siamo presenti in: **95 sistemi**, di cui **54** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **146** stazioni
-  - **614** insediamenti
-  - **110** installazioni
+  - **619** insediamenti
+  - **108** installazioni
   - **1** megaship
 
-Governiamo su **11,846,983,560** abitanti
+Governiamo su **11,847,059,339** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -118,7 +118,7 @@ Governiamo su **11,846,983,560** abitanti
 |     | Aravaci     | Democratico   | 72,561        | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Controllato     |
-|     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controllato     |
+|     | Bellapa     | Democratico   | 24,191        | Indipendente  | Controllato     |
 |     | Betel       | Corporativo   | 396,317       | Indipendente  | Non Controllato |
 |     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Controllato     |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
