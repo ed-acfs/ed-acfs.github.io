@@ -109,49 +109,49 @@ Governiamo su **11,846,983,560** abitanti
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
 |:-:  |-----------  |-------------- |-------------  |-------------- |-----------------|
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
-|     | 111 Tauri   | Corporativo   | 151,113       | Federale      | Non Controlato  |
-|     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controlato      |
-|     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Controlato      |
+|     | 111 Tauri   | Corporativo   | 151,113       | Federale      | Non Controllato |
+|     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controllato     |
+|     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Controllato     |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Anglii      | Dittatoriale  | 61,539        | Indipendente  | Non Controllato |
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
 |     | Aravaci     | Democratico   | 72,561        | Indipendente  | Controllato     |
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Controllato     |
-|     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controlato      |
+|     | Bellapa     | Democratico   | 1,129         | Indipendente  | Controllato     |
 |     | Betel       | Corporativo   | 396,317       | Indipendente  | Non Controllato |
-|     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Controllato |
+|     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Controllato     |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
-|     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controlato      |
-|     | Dulerce     | Democratico   | 287,191,965   | Indipendente  | Non Controlato  |
+|     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controllato     |
+|     | Dulerce     | Democratico   | 287,191,965   | Indipendente  | Non Controllato |
 |     | Ethli       | Democratico   | 159,949       | Indipendente  | Non Controllato |
 |     | Euripus     | Dittatoriale  | 38,572        | Indipendente  | Non Controllato |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
-|     | Fular       | Democratico   | 5.01 Millioni | Indipendente  | Non Controlato  |
-|     | G 107-65    | Dittatoriale  | 7,105         | Indipendente  | Non Controlato  |
+|     | Fular       | Democratico   | 5.01 Millioni | Indipendente  | Non Controllato |
+|     | G 107-65    | Dittatoriale  | 7,105         | Indipendente  | Non Controllato |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | G 87-16     | Dittatoriale  | 4,794,262,989 | Indipendente  | Non Controllato |
-|     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controlato  |
+|     | G 98-44     | Democratico   | 4.33 Milioni  | Indipendente  | Non Controllato |
 |     | Galibi      | Corporativo   | 2,011         | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
-|     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controlato  |
+|     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controllato |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
-|     | Kamchata    | Democratico   | 1.88 Milioni  | Indipendente  | Controlato      |
+|     | Kamchata    | Democratico   | 1.88 Milioni  | Indipendente  | Controllato     |
 |     | Katocudatta | Corporativo   | 3.811 Milioni | Indipendente  | Non Controllato |
 |     | Kiga        | Democratico   | 221,725       | Indipendente  | Controllato     |
-|     | Klikudiya   | Dittatoriale  | 13.717 Milioni| Indipendente  | Non Controlato  |
+|     | Klikudiya   | Dittatoriale  | 13.717 Milioni| Indipendente  | Non Controllato |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
 |     | Kweretet    | Democratico   | 22,148        | Indipendente  | Non Controllato |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
-|     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controlato  |
+|     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controllato |
 |     | LFT 392     | Democratico   | 47,107        | Indipendente  | Non Controllato |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
-|     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controlato      |
+|     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controllato     |
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | LHS 1803    | Democratico   | 142,434       | Indipendente  | Non Controllato |
@@ -159,7 +159,7 @@ Governiamo su **11,846,983,560** abitanti
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
-|     | LP 254-26   | Dittatoriale  | 18.54 Milioni | Indipendente  | Non Controlato  |
+|     | LP 254-26   | Dittatoriale  | 18.54 Milioni | Indipendente  | Non Controllato |
 |     | LP 302-22   | Democratico   | 2.61 Miliardi | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
@@ -169,9 +169,9 @@ Governiamo su **11,846,983,560** abitanti
 |     | Lumbla      | Corporativo   | 6.73 Milioni  | Indipendente  | Non Controllato |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
-|     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controlato  |
-|     | MCC 467     | Democratico   | 24.14 Milioni | Indipendente  | Controlato      |
-|     | Misir       | Corporativo   | 6.25 Milioni  | Federale      | Non Controlato  |
+|     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controllato |
+|     | MCC 467     | Democratico   | 24.14 Milioni | Indipendente  | Controllato     |
+|     | Misir       | Corporativo   | 6.25 Milioni  | Federale      | Non Controllato |
 |     | Morinbath   | Democratico   | 94,434        | Indipendente  | Controllato     |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
@@ -185,9 +185,9 @@ Governiamo su **11,846,983,560** abitanti
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | Ryujingit   | Democratico   | 34,255        | Indipendente  | Controllato     |
 |     | Ross 878    | Dittatoriale  | 11.01 Milioni | Indipendente  | Non Controllato |
-|     | Sairre      | Teocratico    | 2.72 Milioni  | Indipendente  | Non Controllato
+|     | Sairre      | Teocratico    | 2.72 Milioni  | Indipendente  | Non Controllato |
 |     | Senoni      | Democratico   | 763.15 millioni | Federale    | Controllato     |
-|     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controlato      |
+|     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controllato     |
 |     | Shibboleth  | Dittatoriale  | 216,262       | Indipendente  | Non Controllato |
 |     | Skang       | Democratico   | 119,753       | Indipendente  | Controllato     |
 |     | Skuta       | Corporativo   | 84,970        | Indipendente  | Non Controllato |
