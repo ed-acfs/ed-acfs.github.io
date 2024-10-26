@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-10-19
+last_modified_at: 2024-10-25
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **95 sistemi**, di cui **54** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **95 sistemi**, di cui **56** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **146** stazioni
-  - **619** insediamenti
+  - **148** stazioni
+  - **620** insediamenti
   - **108** installazioni
   - **1** megaship
 
-Governiamo su **11,847,059,339** abitanti
+Governiamo su **11,858,309,270** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -129,7 +129,7 @@ Governiamo su **11,847,059,339** abitanti
 |     | Ethli       | Democratico   | 159,949       | Indipendente  | Non Controllato |
 |     | Euripus     | Dittatoriale  | 38,572        | Indipendente  | Non Controllato |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
-|     | Fular       | Democratico   | 5.01 Millioni | Indipendente  | Non Controllato |
+|     | Fular       | Democratico   | 5.01 Millioni | Indipendente  | Controllato     |
 |     | G 107-65    | Dittatoriale  | 7,105         | Indipendente  | Non Controllato |
 |     | G 108-26    | Democratico   | 87,705        | Indipendente  | Controllato     |
 |     | G 87-16     | Dittatoriale  | 4,794,262,989 | Indipendente  | Non Controllato |
@@ -166,7 +166,7 @@ Governiamo su **11,847,059,339** abitanti
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
-|     | Lumbla      | Corporativo   | 6.73 Milioni  | Indipendente  | Non Controllato |
+|     | Lumbla      | Democratico   | 6.73 Milioni  | Indipendente  | controllato     |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
 |     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controllato |
@@ -213,6 +213,7 @@ Governiamo su **11,847,059,339** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>25 Ottobre 3310: In un solo giorno prendiamo il controllo sia di <b>Fular</b> che di <b>Lumbla</b>.</li>
           <li>19 Ottobre 3310: Dopo l'espansione più lungha che la Flotta ricordi (9 giorni!) entriamo finalmente a <b>Sairre</b></li>
           <li>07 Ottobre 3310: Acquisiamo il controllo di <b>Aldebaran</b> e con esso quello della nostra prima <b>Megaship</b>!</li>
           <li>06 Ottobre 3310: Acquisiamo il controllo di <b>Tastis</b></li>
