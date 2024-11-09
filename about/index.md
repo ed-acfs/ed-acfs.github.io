@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-10-25
+last_modified_at: 2024-11-09
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **95 sistemi**, di cui **56** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **95 sistemi**, di cui **57** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **148** stazioni
-  - **620** insediamenti
+  - **149** stazioni
+  - **623** insediamenti
   - **108** installazioni
   - **1** megaship
 
-Governiamo su **11,858,309,270** abitanti
+Governiamo su **111,863,226,242** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -181,7 +181,7 @@ Governiamo su **11,858,309,270** abitanti
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Opila       | Corporativo   | 3.30 Miliardi | Federale      | Non Controllato |
 |     | Pechua      | Democratico   | 6,369         | Indipendente  | Non Controllato |
-|     | Pularungu   | Corporativo   | 4.37 Milioni  | Indipendente  | Non Controllato |
+|     | Pularungu   | Democratico   | 4.37 Milioni  | Indipendente  | Controllato     |
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | Ryujingit   | Democratico   | 34,255        | Indipendente  | Controllato     |
 |     | Ross 878    | Dittatoriale  | 11.01 Milioni | Indipendente  | Non Controllato |
@@ -213,6 +213,7 @@ Governiamo su **11,858,309,270** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>09 Novembre 3310: Finalmente, dopo più di tre anni, Edmund Mahon accetta di lasciarci il controllo di <b>Pularungu</b>, sistema che fino ad oggi è stato al centro di importanti accordi diplomatici</li>
           <li>25 Ottobre 3310: In un solo giorno prendiamo il controllo sia di <b>Fular</b> che di <b>Lumbla</b>.</li>
           <li>19 Ottobre 3310: Dopo l'espansione più lungha che la Flotta ricordi (9 giorni!) entriamo finalmente a <b>Sairre</b></li>
           <li>07 Ottobre 3310: Acquisiamo il controllo di <b>Aldebaran</b> e con esso quello della nostra prima <b>Megaship</b>!</li>
