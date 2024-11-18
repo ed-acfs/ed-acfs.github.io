@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-11-09
+last_modified_at: 2024-11-18
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **95 sistemi**, di cui **57** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **96 sistemi**, di cui **57** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **149** stazioni
-  - **623** insediamenti
-  - **108** installazioni
+  - **148** stazioni
+  - **631** insediamenti
+  - **110** installazioni
   - **1** megaship
 
 Governiamo su **111,863,226,242** abitanti
@@ -171,6 +171,7 @@ Governiamo su **111,863,226,242** abitanti
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
 |     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controllato |
 |     | MCC 467     | Democratico   | 24.14 Milioni | Indipendente  | Controllato     |
+|     | Mirdi       | Corporativo   | 132,024       | Indipendente  | Non Controllato |
 |     | Misir       | Corporativo   | 6.25 Milioni  | Federale      | Non Controllato |
 |     | Morinbath   | Democratico   | 94,434        | Indipendente  | Controllato     |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
@@ -213,6 +214,7 @@ Governiamo su **111,863,226,242** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>18 Novembre 3310: Ci espandiamo su <b>Mirdi</b></li>
           <li>09 Novembre 3310: Finalmente, dopo più di tre anni, Edmund Mahon accetta di lasciarci il controllo di <b>Pularungu</b>, sistema che fino ad oggi è stato al centro di importanti accordi diplomatici</li>
           <li>25 Ottobre 3310: In un solo giorno prendiamo il controllo sia di <b>Fular</b> che di <b>Lumbla</b>.</li>
           <li>19 Ottobre 3310: Dopo l'espansione più lungha che la Flotta ricordi (9 giorni!) entriamo finalmente a <b>Sairre</b></li>
