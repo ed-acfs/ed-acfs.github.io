@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-12-13
+last_modified_at: 2024-12-21
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **96 sistemi**, di cui **58** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **96 sistemi**, di cui **59** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **149** stazioni
-  - **634** insediamenti
+  - **151** stazioni
+  - **635** insediamenti
   - **109** installazioni
   - **1** megaship
 
-Governiamo su **11,863,358,266** abitanti
+Governiamo su **11,863,754,583** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -119,7 +119,7 @@ Governiamo su **11,863,358,266** abitanti
 |     | BD+08 1303  | Democratico   | 20.85 Milioni | Indipendente  | Controllato     |
 |     | BD+14 831   | Democratico   | 105,603       | Indipendente  | Controllato     |
 |     | Bellapa     | Democratico   | 24,191        | Indipendente  | Controllato     |
-|     | Betel       | Corporativo   | 396,317       | Indipendente  | Non Controllato |
+|     | Betel       | Democratico   | 396,317       | Indipendente  | Controllato     |
 |     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Controllato     |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
@@ -214,6 +214,7 @@ Governiamo su **11,863,358,266** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>21 Dicembre 3310: Prendiamo il controllo di <b>Betel</b></li>
           <li>09 Dicembre 3310: Prendiamo il controllo di <b>Mirdi</b></li>
           <li>18 Novembre 3310: Ci espandiamo su <b>Mirdi</b></li>
           <li>09 Novembre 3310: Finalmente, dopo più di tre anni, Edmund Mahon accetta di lasciarci il controllo di <b>Pularungu</b>, sistema che fino ad oggi è stato al centro di importanti accordi diplomatici</li>
