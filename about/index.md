@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2024-12-21
+last_modified_at: 2025-01-04
 ---
 <style>
 .wrap-collapsible {
@@ -96,10 +96,10 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **96 sistemi**, di cui **59** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **96 sistemi**, di cui **60** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **151** stazioni
-  - **635** insediamenti
+  - **152** stazioni
+  - **638** insediamenti
   - **109** installazioni
   - **1** megaship
 
@@ -142,7 +142,7 @@ Governiamo su **11,863,754,583** abitanti
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
 |     | Kamchata    | Democratico   | 1.88 Milioni  | Indipendente  | Controllato     |
-|     | Katocudatta | Corporativo   | 3.811 Milioni | Indipendente  | Non Controllato |
+|     | Katocudatta | Democratico   | 3.811 Milioni | Indipendente  | Controllato     |
 |     | Kiga        | Democratico   | 221,725       | Indipendente  | Controllato     |
 |     | Klikudiya   | Dittatoriale  | 13.717 Milioni| Indipendente  | Non Controllato |
 |     | Kungurutii  | Democratico   | 95,223        | Indipendente  | Controllato     |
@@ -214,6 +214,7 @@ Governiamo su **11,863,754,583** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>04 Gennaio 3311: Prendiamo il controllo di <b>Katocudatta</b></li>
           <li>21 Dicembre 3310: Prendiamo il controllo di <b>Betel</b></li>
           <li>09 Dicembre 3310: Prendiamo il controllo di <b>Mirdi</b></li>
           <li>18 Novembre 3310: Ci espandiamo su <b>Mirdi</b></li>
