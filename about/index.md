@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-01-04
+last_modified_at: 2025-01-06
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **96 sistemi**, di cui **60** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **97 sistemi**, di cui **60** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **152** stazioni
-  - **638** insediamenti
+  - **639** insediamenti
   - **109** installazioni
   - **1** megaship
 
-Governiamo su **11,863,754,583** abitanti
+Governiamo su **11,867,566,434** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -175,6 +175,7 @@ Governiamo su **11,863,754,583** abitanti
 |     | Misir       | Corporativo   | 6.25 Milioni  | Federale      | Non Controllato |
 |     | Morinbath   | Democratico   | 94,434        | Indipendente  | Controllato     |
 |     | Naiti       | Democratico   | 33,647        | Indipendente  | Controllato     |
+|     | Nandh       | Corporativo   | 10.96 Milioni | Federale      | Non Controllato |
 |     | Nandjabinja | Democratico   | 3.46 Milioni  | Indipendente  | Controllato     |
 |     | Nareni      | Confederato   | 3.50 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
@@ -214,6 +215,7 @@ Governiamo su **11,863,754,583** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>06 Gennaio 3311: Dopo una interminabile espansione durata <b>33 giorni</b> approdiamo su <b>Nandh</b></li>
           <li>04 Gennaio 3311: Prendiamo il controllo di <b>Katocudatta</b></li>
           <li>21 Dicembre 3310: Prendiamo il controllo di <b>Betel</b></li>
           <li>09 Dicembre 3310: Prendiamo il controllo di <b>Mirdi</b></li>
