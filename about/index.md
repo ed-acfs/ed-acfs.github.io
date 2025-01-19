@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Giochiamo su PS4, PC e XBox, abbiamo una minor faction in gioco e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-01-06
+last_modified_at: 2025-01-19
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **97 sistemi**, di cui **60** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **98 sistemi**, di cui **60** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **152** stazioni
-  - **639** insediamenti
-  - **109** installazioni
+  - **155** stazioni
+  - **646** insediamenti
+  - **110** installazioni
   - **1** megaship
 
 Governiamo su **11,867,566,434** abitanti
@@ -203,6 +203,7 @@ Governiamo su **11,867,566,434** abitanti
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |
 |     | Vandar      | Democratico   | 41,917        | Indipendente  | Controllato     |
+|     | Waruts      | Democratico     50,874,418    | Indipendente  | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | Yggdrajang  | Democratico   | 88,567        | Indipendente  | Controllato     |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
@@ -215,6 +216,7 @@ Governiamo su **11,867,566,434** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>19 Gennaio 3311: Ci espandiamo a <b>Waruts</b>.</li>
           <li>06 Gennaio 3311: Dopo una interminabile espansione durata <b>33 giorni</b> approdiamo su <b>Nandh</b></li>
           <li>04 Gennaio 3311: Prendiamo il controllo di <b>Katocudatta</b></li>
           <li>21 Dicembre 3310: Prendiamo il controllo di <b>Betel</b></li>
