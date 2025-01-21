@@ -6,7 +6,7 @@ excerpt: "Gli Ingegneri di Elite Dangerous, questi sconosciuti. Grazie alla nost
 image: "/images/posts/engineers-workshop/xT9DHXV.png"
 tags: guide ingegneri tutorial
 author: bigbadshow
-last_modified_at: 2019-09-05
+last_modified_at: 2025-01-21
 sticky: no
 ---
 >Comandanti O7,<br>
@@ -36,13 +36,13 @@ Diamo innanzi tutto un piccolo glossario di alcuni termini che andremo ad utiliz
 
 <span class="image right"><img src="/images/posts/engineers-workshop/genericrolls.jpg" alt=""></span>
 
-* **Roll**: il numero di *"giri"* necessari per aumentare il **livello G**. Ogni roll ha un costo in materiale singolo o multiplo e più si sale con il G maggiori saranno i materiali ed il numero di roll saranno richiesti. Normalmente i roll richiesti per ingegnerizzare un modulo sono i seguenti:
+* **Roll**: il numero di *"giri"* necessari per aumentare il **livello G**. Ogni roll ha un costo in materiale singolo o multiplo e più si sale con il G maggiori saranno i materiali ed il numero di roll saranno richiesti. Una volta portato l'Ingegnere di riferimento a 5, i roll richiesti per ingegnerizzare un modulo saranno i seguenti:
 
-    | G1 	| 1-2 roll   	|
-    | G2 	| 3-4 roll   	|
-    | G3 	| 6-8 roll   	|
-    | G4 	| 8-10 roll  	|
-    | G5 	| 10-12 roll 	|
+    | G1 	| 1 roll   	|
+    | G2 	| 2 roll   	|
+    | G3 	| 3 roll   	|
+    | G4 	| 4 roll  	|
+    | G5 	| 5 roll 	|
 
 Fortunatamente, non sarà necessario effettuare un full di un grado inferiore per passare al successivo ma è possibile passare di grado non appena esso diventa disponibile, intorno al **75% del grado immediatamente inferiore**, risparmiando i nostri preziosi materiali. L'unico che vi consiglio di fare completo è quello che reputate *"definitivo"*.
 
