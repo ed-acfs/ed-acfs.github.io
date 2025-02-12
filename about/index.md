@@ -218,7 +218,7 @@ Governiamo su **11,867,651,404** abitanti
     <div class="content-inner">
       <ul>
           <li>06 Febbraio 3311: Prendiamo il controllo di <b>Skuta</b></li>
-          <li>02 Febbraio 3311: Ci espandiamo su <b>NLTT 16391</b> e ci prepariamo alla sua conquista</b></li>
+          <li>02 Febbraio 3311: Ci espandiamo su <b>NLTT 16391</b> e ci prepariamo alla sua conquista</li>
           <li>19 Gennaio 3311: Ci espandiamo a <b>Waruts</b>.</li>
           <li>06 Gennaio 3311: Dopo una interminabile espansione durata <b>33 giorni</b> approdiamo su <b>Nandh</b></li>
           <li>04 Gennaio 3311: Prendiamo il controllo di <b>Katocudatta</b></li>
@@ -374,7 +374,7 @@ Governiamo su **11,867,651,404** abitanti
 
 ## Come unirsi alla Flotta Stellare
 
-Come già scritto sopra non esistono requisiti particolari per [entrare nel nostro Squadrone](https://flottastellare.it/blog/entra-nello-squadrone-flotta-stellare/), attivo su **PS4**, **PS5**, **PC** e **XBox**.<br>
+Come già scritto sopra non esistono requisiti particolari per [entrare nel nostro Squadrone](https://flottastellare.it/blog/entra-nello-squadrone-flotta-stellare/), attivo oggi esclusivamente su **PC**.<br>
 Per qualsiasi domanda potete chiedere al nostro ammiraglio WiitifulSky, entrare nel nostro [canale discord](https://discord.gg/TQcbuT7z8D){:target="_blank"} o visitare la nostra [pagina Facebook](https://www.facebook.com/Altocomandoflottastellare/){:target="_blank"}. Siamo presenti anche su [Telegram](https://t.me/flottastellare).
 
 Oppure puoi seguire uno dei collegamenti social qui di seguito:
