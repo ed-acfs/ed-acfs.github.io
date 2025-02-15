@@ -45,6 +45,14 @@
         "cat": [1]
     },
     {
+        "name": "37 Geminorum",
+        "coords": {
+            "x": 10.25,
+            "y": 12.3125,
+            "z": -53.90625},
+        "cat": [2]
+    },
+    {
         "name": "Aldebaran",
         "coords": {
             "x": 1.4375,

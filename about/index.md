@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-02-12
+last_modified_at: 2025-02-15
 ---
 <style>
 .wrap-collapsible {
@@ -96,9 +96,9 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **99 sistemi**, di cui **61** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **100 sistemi**, di cui **62** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **159** stazioni
+  - **160** stazioni
   - **654** insediamenti
   - **112** installazioni
   - **1** megaship
@@ -111,6 +111,7 @@ Governiamo su **11,867,651,404** abitanti
 | 👑  | Wong Sher   | Democratico   | 90,049        | Indipendente  | Controllato     |
 |     | 111 Tauri   | Corporativo   | 151,113       | Federale      | Non Controllato |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controllato     |
+|     | 37 Geminorum | Dittatoriale | 9,207,049,116 | Indipendente  | Non Controllato |
 |     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Controllato     |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Anglii      | Dittatoriale  | 61,539        | Indipendente  | Non Controllato |
@@ -180,7 +181,7 @@ Governiamo su **11,867,651,404** abitanti
 |     | Nareni      | Confederato   | 3.50 Milioni  | Indipendente  | Controllato     |
 |     | Ndozins     | Democratico   | 2,821         | Indipendente  | Controllato     |
 |     | Ninmah      | Democratico   | 5,326,478,276 | Indipendente  | Non Controllato |
-|     | NLTT 16391  | Corporativo   | 2,916,824     | Indipendente  | Non Controllato |
+|     | NLTT 16391  | Democratico   | 2,916,824     | Indipendente  | Controllato     |
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Opila       | Corporativo   | 3.30 Miliardi | Federale      | Non Controllato |
 |     | Pechua      | Democratico   | 6,369         | Indipendente  | Non Controllato |
@@ -217,6 +218,8 @@ Governiamo su **11,867,651,404** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>15 Febbraio 3311: L'ultima espansione ci porta a <b>37 Geminorum</b>, <b>sistema n. 100</b> in cui la Flotta è presente</li>
+          <li>14 Febbraio 3311: Prendiamo il controllo di <b>NLTT 16391</b>, che diventa il sistema n.62 sotto il nostro governo</li>
           <li>06 Febbraio 3311: Prendiamo il controllo di <b>Skuta</b></li>
           <li>02 Febbraio 3311: Ci espandiamo su <b>NLTT 16391</b> e ci prepariamo alla sua conquista</li>
           <li>19 Gennaio 3311: Ci espandiamo a <b>Waruts</b>.</li>
