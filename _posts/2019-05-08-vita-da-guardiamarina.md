@@ -5,7 +5,7 @@ date:   2019-05-08
 excerpt: "Perché giocare ad Elite Dangerous nella Flotta Stellare è così divertente? La risposta è semplice: We share our cookies!"
 image: "/images/wehavecookies_vette.jpg"
 tags: flotta-stellare esperienze
-last_modified_at: 2019-10-28
+last_modified_at: 2025-02-16
 sticky: no
 ---
 > O7 CMDRs! Sono [Cok7sette](https://my.playstation.com/profile/cok7sette){:target="_blank"}, Contrammiraglio della Flotta e vorrei condividere con voi alcuni aspetti della vita nello squadrone migliore della galassia!
@@ -54,6 +54,9 @@ E ci facciamo un sacco di risate
 ## Qualche testimonianza
 
 Ecco qualche testimonianza diretta...
+
+<span class="image fit"><img src="/images/posts/vita-da-guardiamarina/fb_1.png" alt="Marco: Penso che siate la community più sana di tutto il mondo videoludico" title="Bravi ragazzi, mi mancate un sacco. Ho volato per un po’ con voi, ma poi non ho più avuto tempo da dedicare a questo fantastico gioco…
+Penso che siate la community più sana di tutto il mondo videoludico."></span>
 
 <span class="image fit"><img src="/images/posts/vita-da-guardiamarina/anaval.jpg" alt="Anaval: In wing mi sono fatto anche più di 50 milioni in una serata" title="E' molto difficile all'inizio trovare un gruppo di Elite Dangerous su PS4, ma poi l'ho trovato e mi è andata benissimo. In wing mi sono fatto anche più di 50 milioni in una serata. Aiutano moltissimo!"></span>
 
