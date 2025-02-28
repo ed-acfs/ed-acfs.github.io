@@ -274,6 +274,15 @@
         "infos": ""
     },
     {
+        "name": "Iansan",
+        "coords": {
+          "x": 25.53125,
+          "y": -1.875,
+          "z": -62.84375},
+        "cat":[1,6],
+        "infos": "Il primo sistema interamente scelto, colonizzato e gestito dalla Flotta"
+    },
+    {
         "name": "Ishtar",
         "coords": {
           "x": 6.75,
@@ -817,6 +826,14 @@
             "x": 28.3125,
             "y": 0.84375,
             "z": -67.875},
+        "cat": [1]
+    },
+    {
+        "name": "Yin Sector CV-Y b4",
+        "coords": {
+            "x": 37.03125,
+            "y": 16.5625,
+            "z": -72.46875},
         "cat": [1]
     },
     {
