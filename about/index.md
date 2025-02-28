@@ -96,10 +96,10 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **100 sistemi**, di cui **62** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **119 sistemi**, di cui **80** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **162** stazioni
-  - **690** insediamenti
+  - **163** stazioni
+  - **691** insediamenti
   - **114** installazioni
   - **1** megaship
 
@@ -139,6 +139,7 @@ Governiamo su **11,870,568,228** abitanti
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controllato |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
+|     | Iansan      | Democratico   | 0             | Indipendente  | Controllato     |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
@@ -218,6 +219,7 @@ Governiamo su **11,870,568,228** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>28 Febbraio 3311: Oggi si fa la storia: <b>Iansan</b> è il primo sistema colonizzato dalla Flotta ed il suo Outpost è stato il primo interamente costruito di nostri Membri, in appena 36 ore di lavoro</li>
           <li>15 Febbraio 3311: L'ultima espansione ci porta a <b>37 Geminorum</b>, <b>sistema n. 100</b> in cui la Flotta è presente</li>
           <li>14 Febbraio 3311: Prendiamo il controllo di <b>NLTT 16391</b>, che diventa il sistema n.62 sotto il nostro governo</li>
           <li>06 Febbraio 3311: Prendiamo il controllo di <b>Skuta</b></li>
