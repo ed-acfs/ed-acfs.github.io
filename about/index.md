@@ -125,6 +125,7 @@ Governiamo su **11,870,582,228** abitanti
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
+|     | Dazbog      | Democratico   | 10,000        | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controllato     |
 |     | Dulerce     | Democratico   | 287,191,965   | Indipendente  | Non Controllato |
 |     | Ethli       | Democratico   | 159,949       | Indipendente  | Non Controllato |
@@ -207,7 +208,7 @@ Governiamo su **11,870,582,228** abitanti
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |
 |     | Vandar      | Democratico   | 41,917        | Indipendente  | Controllato     |
-|     | Waruts      | Democratico     50,874,418    | Indipendente  | Non Controllato |
+|     | Waruts      | Democratico   | 50,874,418    | Indipendente  | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | Yggdrajang  | Democratico   | 88,567        | Indipendente  | Controllato     |
 |     | Yin Sector CV-Y b4 |  Democratico|  0       | Indipendente  | Controllato     |
