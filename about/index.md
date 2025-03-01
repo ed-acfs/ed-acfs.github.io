@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-02-28
+last_modified_at: 2025-03-01
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **127 sistemi**, di cui **86** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **132 sistemi**, di cui **88** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **164** stazioni
-  - **691** insediamenti
+  - **165** stazioni
+  - **692** insediamenti
   - **114** installazioni
   - **1** megaship
 
-Governiamo su **11,870,568,228** abitanti
+Governiamo su **11,870,582,228** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -139,7 +139,7 @@ Governiamo su **11,870,568,228** abitanti
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controllato |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
-|     | Iansan      | Democratico   | 0             | Indipendente  | Controllato     |
+|     | Iansan      | Democratico   | 4,000         | Indipendente  | Controllato     |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
@@ -161,6 +161,7 @@ Governiamo su **11,870,568,228** abitanti
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
+|     | Lowne 1     | Patronale     | 62,137        | Indipendente  | Non Controllato |
 |     | LP 254-26   | Dittatoriale  | 18.54 Milioni | Indipendente  | Non Controllato |
 |     | LP 302-22   | Democratico   | 2.61 Miliardi | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
@@ -220,6 +221,7 @@ Governiamo su **11,870,568,228** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li> 01 Marzo 3311: Entriamo a <b>Lowne 1</b></li>
           <li>28 Febbraio 3311: Oggi si fa la storia: <b>Iansan</b> è il primo sistema colonizzato dalla Flotta ed il suo Outpost è stato il primo interamente costruito di nostri Membri, in appena 36 ore di lavoro</li>
           <li>15 Febbraio 3311: L'ultima espansione ci porta a <b>37 Geminorum</b>, <b>sistema n. 100</b> in cui la Flotta è presente</li>
           <li>14 Febbraio 3311: Prendiamo il controllo di <b>NLTT 16391</b>, che diventa il sistema n.62 sotto il nostro governo</li>
