@@ -96,9 +96,9 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **132 sistemi**, di cui **88** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **135 sistemi**, di cui **89** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **165** stazioni
+  - **170** stazioni
   - **692** insediamenti
   - **114** installazioni
   - **1** megaship
@@ -112,6 +112,7 @@ Governiamo su **11,870,582,228** abitanti
 |     | 111 Tauri   | Corporativo   | 151,113       | Federale      | Non Controllato |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controllato     |
 |     | 37 Geminorum | Dittatoriale | 9,207,049,116 | Indipendente  | Non Controllato |
+|     | 74 K Orionis | Democratico  | 0             | Indipendente  | Controllato
 |     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Controllato     |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Anglii      | Dittatoriale  | 61,539        | Indipendente  | Non Controllato |
@@ -139,7 +140,9 @@ Governiamo su **11,870,582,228** abitanti
 |     | Galibi      | Corporativo   | 2,011         | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controllato |
+|     | HIP 42084   | Anarchico     | 0             | Indipendente  | Non Controllato |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
+|     | Hyades Sector IH-V d2-98 | Democratico  | 0 | Indipendente  | Controllato     |
 |     | Iansan      | Democratico   | 4,000         | Indipendente  | Controllato     |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
@@ -222,6 +225,7 @@ Governiamo su **11,870,582,228** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>02 Marzo 3311: Mentre avviamo la costruzione del notro primo <b>Bar orbitale</b> a Iansan, completiamo la costruzione di <b>HIP 42084</b> e <b>Hyades Sector IH-V d2-98</b></li>
           <li> 01 Marzo 3311: Entriamo a <b>Lowne 1</b></li>
           <li>28 Febbraio 3311: Oggi si fa la storia: <b>Iansan</b> è il primo sistema colonizzato dalla Flotta ed il suo Outpost è stato il primo interamente costruito di nostri Membri, in appena 36 ore di lavoro</li>
           <li>15 Febbraio 3311: L'ultima espansione ci porta a <b>37 Geminorum</b>, <b>sistema n. 100</b> in cui la Flotta è presente</li>
