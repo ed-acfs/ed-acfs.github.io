@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-01
+last_modified_at: 2025-03-03
 ---
 <style>
 .wrap-collapsible {
@@ -96,9 +96,9 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **135 sistemi**, di cui **89** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **138 sistemi**, di cui **90** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **170** stazioni
+  - **171** stazioni
   - **692** insediamenti
   - **114** installazioni
   - **1** megaship
@@ -126,7 +126,7 @@ Governiamo su **11,870,582,228** abitanti
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
-|     | Dazbog      | Democratico   | 10,000        | Indipendente  | Controllato     |
+|     | Dazbog      | Democratico   | 11,000        | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controllato     |
 |     | Dulerce     | Democratico   | 287,191,965   | Indipendente  | Non Controllato |
 |     | Ethli       | Democratico   | 159,949       | Indipendente  | Non Controllato |
@@ -140,9 +140,9 @@ Governiamo su **11,870,582,228** abitanti
 |     | Galibi      | Corporativo   | 2,011         | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controllato |
-|     | HIP 42084   | Anarchico     | 0             | Indipendente  | Non Controllato |
+|     | HIP 42084   | Anarchico     | 19,000        | Indipendente  | Non Controllato |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
-|     | Hyades Sector IH-V d2-98 | Democratico  | 0 | Indipendente  | Controllato     |
+|     | Hyades Sector IH-V d2-98 | Democratico  | 8,000 | Indipendente  | Controllato     |
 |     | Iansan      | Democratico   | 4,000         | Indipendente  | Controllato     |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
@@ -214,7 +214,7 @@ Governiamo su **11,870,582,228** abitanti
 |     | Waruts      | Democratico   | 50,874,418    | Indipendente  | Non Controllato |
 |     | Wolf 289    | Democratico   | 27,645        | Indipendente  | Controllato     |
 |     | Yggdrajang  | Democratico   | 88,567        | Indipendente  | Controllato     |
-|     | Yin Sector CV-Y b4 |  Democratico|  0       | Indipendente  | Controllato     |
+|     | Yin Sector CV-Y b4 |  Democratico|  4,000   | Indipendente  | Controllato     |
 |     | Zandu       | Democratico   | 11.09 Milioni | Indipendente  | Controllato     |
 
 <div class="datatable-end"></div>
