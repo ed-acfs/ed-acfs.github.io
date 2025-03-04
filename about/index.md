@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-03
+last_modified_at: 2025-03-04
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **138 sistemi**, di cui **90** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **146 sistemi**, di cui **93** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **171** stazioni
-  - **692** insediamenti
+  - **174** stazioni
+  - **691** insediamenti
   - **114** installazioni
   - **1** megaship
 
-Governiamo su **11,870,582,228** abitanti
+Governiamo su **11,870,638,028** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -143,6 +143,7 @@ Governiamo su **11,870,582,228** abitanti
 |     | HIP 42084   | Anarchico     | 19,000        | Indipendente  | Non Controllato |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Hyades Sector IH-V d2-98 | Democratico  | 8,000 | Indipendente  | Controllato     |
+|     | Hydrae Sector OD-S b4-4 | Corporativo  | 4,000 | Indipendente  | Non Controllato     |
 |     | Iansan      | Democratico   | 4,000         | Indipendente  | Controllato     |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
@@ -169,6 +170,7 @@ Governiamo su **11,870,582,228** abitanti
 |     | LP 254-26   | Dittatoriale  | 18.54 Milioni | Indipendente  | Non Controllato |
 |     | LP 302-22   | Democratico   | 2.61 Miliardi | Indipendente  | Non Controllato |
 |     | LP 308-10   | Dittatoriale  | 85,846        | Indipendente  | Non Controllato |
+|     | LP 366-45   | Dittatoriale  | 9,000         | Indipendente  | Non Controllato |
 |     | LP 421-7    | Dittatoriale  | 26,010        | Indipendente  | Non Controllato |
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
@@ -205,8 +207,14 @@ Governiamo su **11,870,582,228** abitanti
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
+|     | Tascheter Sector FB-X b1-6  | Democratico | 4,500 | Indipendente  | Controllato |
+|     | Tascheter Sector FG-X b1-6  | Democratico | 4,500 | Indipendente  | Controllato |
+|     | Tascheter Sector OS-T a3-5  | Democratico | 4,500 | Indipendente  | Controllato |
+|     | Tascheter Sector VE-Q a5-1  | Corporativo | 9,000  | Federale  | Non Controllato |
+|     | Tascheter Sector VE-Q a5-2  | Corporativo | 15,000  | Federale  | Non Controllato |
 |     | Tastis      | Democratico   | 44,656        | Indipendente  | Controllato     |
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
+|     | Tirnitz     | Democratico   | 5,000         | Indipendente  | Controllato     |
 |     | Tomas       | Democratico   | 22,328        | Indipendente  | Controllato     |
 |     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
 |     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |
