@@ -91,11 +91,11 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.6.1)
     mercenary (0.4.0)
-    mini_portile2 (2.8.7)
+    mini_portile2 (2.8.8)
     minitest (5.25.1)
     net-http (0.4.1)
       uri
-    nokogiri (1.16.7)
+    nokogiri (1.18.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -126,7 +126,6 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.6.0)
     uri (0.13.1)
-    wdm (0.2.0)
     webrick (1.8.2)
 
 PLATFORMS
@@ -145,7 +144,6 @@ DEPENDENCIES
   jemoji
   nokogiri (>= 1.13.2)
   rack (>= 2.1.4)
-  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
