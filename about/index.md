@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-04
+last_modified_at: 2025-03-07
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **146 sistemi**, di cui **93** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **150 sistemi**, di cui **95** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **174** stazioni
-  - **691** insediamenti
-  - **114** installazioni
+  - **177** stazioni
+  - **696** insediamenti
+  - **116** installazioni
   - **1** megaship
 
 Governiamo su **11,870,638,028** abitanti
@@ -129,6 +129,7 @@ Governiamo su **11,870,638,028** abitanti
 |     | Dazbog      | Democratico   | 11,000        | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controllato     |
 |     | Dulerce     | Democratico   | 287,191,965   | Indipendente  | Non Controllato |
+|     | Elohim      | Corporativo   | 15,000        | Federale      | Non Controllato |
 |     | Ethli       | Democratico   | 159,949       | Indipendente  | Non Controllato |
 |     | Euripus     | Dittatoriale  | 38,572        | Indipendente  | Non Controllato |
 |     | Flech       | Democratico   | 1.45 Miliardi | Indipendente  | Controllato     |
@@ -175,7 +176,8 @@ Governiamo su **11,870,638,028** abitanti
 |     | LP 542-33   | Democratico   | 619,763       | Indipendente  | Controllato     |
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
-|     | Lumbla      | Democratico   | 6.73 Milioni  | Indipendente  | controllato     |
+|     | Lumbla      | Democratico   | 6.73 Milioni  | Indipendente  | Controllato     |
+|     | Lyncis Sector CL-Y d68  | Cooperativo | 15,300  | Indipendente  | Non Controllato |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
 |     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controllato |
@@ -207,11 +209,15 @@ Governiamo su **11,870,638,028** abitanti
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
+|     | Tascheter Sector EG-X b1-1  | Democratico | 13,000 | Indipendente  | Controllato |
+|     | Tascheter Sector EG-X b1-5  | Democratico | 13,000 | Indipendente  | Controllato |
 |     | Tascheter Sector FB-X b1-6  | Democratico | 4,500 | Indipendente  | Controllato |
-|     | Tascheter Sector FG-X b1-6  | Democratico | 4,500 | Indipendente  | Controllato |
-|     | Tascheter Sector OS-T a3-5  | Democratico | 4,500 | Indipendente  | Controllato |
-|     | Tascheter Sector VE-Q a5-1  | Corporativo | 9,000  | Federale  | Non Controllato |
-|     | Tascheter Sector VE-Q a5-2  | Corporativo | 15,000  | Federale  | Non Controllato |
+|     | Tascheter Sector FG-X b1-6  | Democratico | 5,800 | Indipendente  | Controllato |
+|     | Tascheter Sector GB-X b1-5  | Democratico | 8,000 | Indipendente  | Controllato |
+|     | Tascheter Sector LH-V b2-8  | Democratico | 8,000 | Indipendente  | Controllato |
+|     | Tascheter Sector OS-T a3-5  | Democratico | 6,400 | Indipendente  | Controllato |
+|     | Tascheter Sector VE-Q a5-1  | Corporativo | 10,300  | Federale  | Non Controllato |
+|     | Tascheter Sector VE-Q a5-2  | Corporativo | 15,500  | Federale  | Non Controllato |
 |     | Tastis      | Democratico   | 44,656        | Indipendente  | Controllato     |
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | Tirnitz     | Democratico   | 5,000         | Indipendente  | Controllato     |
