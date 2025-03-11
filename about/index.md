@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-07
+last_modified_at: 2025-03-11
 ---
 <style>
 .wrap-collapsible {
@@ -99,11 +99,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 Siamo presenti in: **150 sistemi**, di cui **95** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **177** stazioni
-  - **696** insediamenti
-  - **116** installazioni
+  - **697** insediamenti
+  - **121** installazioni
   - **1** megaship
 
-Governiamo su **11,870,638,028** abitanti
+Governiamo su **11,870,763,978** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -141,7 +141,7 @@ Governiamo su **11,870,638,028** abitanti
 |     | Galibi      | Corporativo   | 2,011         | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controllato |
-|     | HIP 42084   | Anarchico     | 19,000        | Indipendente  | Non Controllato |
+|     | HIP 42084   | Democratico   | 19,900        | Indipendente  | Controllato     |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Hyades Sector IH-V d2-98 | Democratico  | 8,000 | Indipendente  | Controllato     |
 |     | Hydrae Sector OD-S b4-4 | Corporativo  | 4,000 | Indipendente  | Non Controllato     |
@@ -239,6 +239,7 @@ Governiamo su **11,870,638,028** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>11 Marzo 3311: Prendiamo il controllo di <b>HIP 42084</b>, sistema fortemente voluto e con la Coriolis con dedica</li>
           <li>02 Marzo 3311: Mentre avviamo la costruzione del notro primo <b>Bar orbitale</b> a Iansan, completiamo la costruzione di <b>HIP 42084</b> e <b>Hyades Sector IH-V d2-98</b></li>
           <li> 01 Marzo 3311: Entriamo a <b>Lowne 1</b></li>
           <li>28 Febbraio 3311: Oggi si fa la storia: <b>Iansan</b> è il primo sistema colonizzato dalla Flotta ed il suo Outpost è stato il primo interamente costruito di nostri Membri, in appena 36 ore di lavoro</li>
