@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-11
+last_modified_at: 2025-03-19
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **150 sistemi**, di cui **95** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **168 sistemi**, di cui **103** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **177** stazioni
+  - **191** stazioni
   - **697** insediamenti
   - **121** installazioni
   - **1** megaship
 
-Governiamo su **11,870,763,978** abitanti
+Governiamo su **1,870,747,686** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -145,7 +145,7 @@ Governiamo su **11,870,763,978** abitanti
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Hyades Sector IH-V d2-98 | Democratico  | 8,000 | Indipendente  | Controllato     |
 |     | Hydrae Sector OD-S b4-4 | Corporativo  | 4,000 | Indipendente  | Non Controllato     |
-|     | Iansan      | Democratico   | 4,000         | Indipendente  | Controllato     |
+|     | Iansan      | Democratico   | 26,500        | Indipendente  | Controllato     |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
 |     | Julanggarri | Democratico   | 10.60 Milioni | Indipendente  | Controllato     |
@@ -157,7 +157,7 @@ Governiamo su **11,870,763,978** abitanti
 |     | Kweretet    | Democratico   | 22,148        | Indipendente  | Non Controllato |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
 |     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controllato |
-|     | LFT 392     | Democratico   | 47,107        | Indipendente  | Non Controllato |
+|     | LFT 392     | Democratico   | 47,107        | Indipendente  | Controllato     |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
 |     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controllato     |
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
@@ -166,6 +166,7 @@ Governiamo su **11,870,763,978** abitanti
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
+|     | LHS 2027    | Dittatoriale  | 13,500        | Indipendente  | Non Controllato |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
 |     | Lowne 1     | Patronale     | 62,137        | Indipendente  | Non Controllato |
 |     | LP 254-26   | Dittatoriale  | 18.54 Milioni | Indipendente  | Non Controllato |
@@ -177,7 +178,7 @@ Governiamo su **11,870,763,978** abitanti
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
 |     | Lumbla      | Democratico   | 6.73 Milioni  | Indipendente  | Controllato     |
-|     | Lyncis Sector CL-Y d68  | Cooperativo | 15,300  | Indipendente  | Non Controllato |
+|     | Lyncis Sector CL-Y d68  | Cooperativo | 31,300  | Indipendente  | Non Controllato |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
 |     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controllato |
@@ -215,6 +216,7 @@ Governiamo su **11,870,763,978** abitanti
 |     | Tascheter Sector FG-X b1-6  | Democratico | 5,800 | Indipendente  | Controllato |
 |     | Tascheter Sector GB-X b1-5  | Democratico | 8,000 | Indipendente  | Controllato |
 |     | Tascheter Sector LH-V b2-8  | Democratico | 8,000 | Indipendente  | Controllato |
+|     | Tascheter Sector OS-T a3-3  | Democratico | 13,000 | Indipendente | Controllato |
 |     | Tascheter Sector OS-T a3-5  | Democratico | 6,400 | Indipendente  | Controllato |
 |     | Tascheter Sector VE-Q a5-1  | Corporativo | 10,300  | Federale  | Non Controllato |
 |     | Tascheter Sector VE-Q a5-2  | Corporativo | 15,500  | Federale  | Non Controllato |
@@ -239,6 +241,8 @@ Governiamo su **11,870,763,978** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>17 Marzo 3311: Prendiamo il controllo di <b>LFT 392</b></li>
+          <li>13 Marzo 3311: Ci espandiamo su <b>LHS 2027</b></li>
           <li>11 Marzo 3311: Prendiamo il controllo di <b>HIP 42084</b>, sistema fortemente voluto e con la Coriolis con dedica</li>
           <li>02 Marzo 3311: Mentre avviamo la costruzione del notro primo <b>Bar orbitale</b> a Iansan, completiamo la costruzione di <b>HIP 42084</b> e <b>Hyades Sector IH-V d2-98</b></li>
           <li> 01 Marzo 3311: Entriamo a <b>Lowne 1</b></li>
