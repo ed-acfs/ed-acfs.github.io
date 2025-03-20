@@ -103,7 +103,7 @@ Controlliamo inoltre:
   - **121** installazioni
   - **1** megaship
 
-Governiamo su **1,870,747,686** abitanti
+Governiamo su **11,870,747,686** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
