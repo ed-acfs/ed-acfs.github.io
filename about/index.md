@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-19
+last_modified_at: 2025-03-20
 ---
 <style>
 .wrap-collapsible {
@@ -143,8 +143,11 @@ Governiamo su **1,870,747,686** abitanti
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controllato |
 |     | HIP 42084   | Democratico   | 19,900        | Indipendente  | Controllato     |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
+|     | Hyades Sector CM-K b9-5 | Democratico   | 5,300 | Indipendente  | Controllato     |
 |     | Hyades Sector IH-V d2-98 | Democratico  | 8,000 | Indipendente  | Controllato     |
-|     | Hydrae Sector OD-S b4-4 | Corporativo  | 4,000 | Indipendente  | Non Controllato     |
+|     | Hyades Sector TK-M b8-4 | Democratico  | 15,000 | Indipendente  | Non Controllato     |
+|     | Hyades Sector VF-M b8-4 | Democratico  | 9,000  | Indipendente  | Controllato     |
+|     | Hydrae Sector OD-S b4-4 | Corporativo   | 4,000 | Indipendente  | Non Controllato     |
 |     | Iansan      | Democratico   | 26,500        | Indipendente  | Controllato     |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
@@ -197,6 +200,7 @@ Governiamo su **1,870,747,686** abitanti
 |     | Opila       | Corporativo   | 3.30 Miliardi | Federale      | Non Controllato |
 |     | Pechua      | Democratico   | 6,369         | Indipendente  | Non Controllato |
 |     | Pularungu   | Democratico   | 4.37 Milioni  | Indipendente  | Controllato     |
+|     | Puppis Sector WO-A b3   | Democratico   | 9,000  | Indipendente  | Non Controllato     |
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
 |     | Ryujingit   | Democratico   | 34,255        | Indipendente  | Controllato     |
 |     | Ross 878    | Dittatoriale  | 11.01 Milioni | Indipendente  | Non Controllato |
@@ -209,12 +213,15 @@ Governiamo su **1,870,747,686** abitanti
 |     | SPOCS 253   | Democrativo   | 1.16 Miliardi | Indipendente  | Controllato     |
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
+|     | Synuefai VW-U c19-3    | Corporativo   | 6,000 | Indipendente  | Non Controllato     |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
-|     | Tascheter Sector EG-X b1-1  | Democratico | 13,000 | Indipendente  | Controllato |
+|     | Tascheter Sector DV-Y a0    | Democratico | 9,000  | Indipendente  | Controllato |
+|     | Tascheter Sector EG-X b1-1  | Democratico | 23,700 | Indipendente  | Controllato |
 |     | Tascheter Sector EG-X b1-5  | Democratico | 13,000 | Indipendente  | Controllato |
 |     | Tascheter Sector FB-X b1-6  | Democratico | 4,500 | Indipendente  | Controllato |
 |     | Tascheter Sector FG-X b1-6  | Democratico | 5,800 | Indipendente  | Controllato |
 |     | Tascheter Sector GB-X b1-5  | Democratico | 8,000 | Indipendente  | Controllato |
+|     | Tascheter Sector IM-V b2-3  | Corporativo | 4,500 | Federale      | Non Controllato |
 |     | Tascheter Sector LH-V b2-8  | Democratico | 8,000 | Indipendente  | Controllato |
 |     | Tascheter Sector OS-T a3-3  | Democratico | 13,000 | Indipendente | Controllato |
 |     | Tascheter Sector OS-T a3-5  | Democratico | 6,400 | Indipendente  | Controllato |
@@ -224,7 +231,10 @@ Governiamo su **1,870,747,686** abitanti
 |     | Timocani    | Democratico   | 74,797        | Federazione   | Controllato     |
 |     | Tirnitz     | Democratico   | 5,000         | Indipendente  | Controllato     |
 |     | Tomas       | Democratico   | 22,328        | Indipendente  | Controllato     |
-|     | Toog        | Corporativo   | 19,253        | Federazione   | Non Controllato |
+|     | Trianguli Sector FC-U a3-2  | Democratico   | 5,000   | Indipendente    | Controllato |
+|     | Trianguli Sector FH-U a3-3  | Democratico   | 15,400  | Indipendente    | Controllato |
+|     | Trianguli Sector FM-V b2-6  | Democratico   | 10,500  | Indipendente    | Controllato |
+|     | Trianguli Sector II-S a4-4  | Democratico   | 13,900  | Indipendente    | Controllato |
 |     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |
 |     | Vandar      | Democratico   | 41,917        | Indipendente  | Controllato     |
 |     | Waruts      | Democratico   | 50,874,418    | Indipendente  | Non Controllato |
