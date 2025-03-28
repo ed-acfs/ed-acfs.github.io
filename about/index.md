@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-20
+last_modified_at: 2025-03-28
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **168 sistemi**, di cui **103** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **173 sistemi**, di cui **101** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **191** stazioni
+  - **210** stazioni
   - **697** insediamenti
   - **121** installazioni
   - **1** megaship
 
-Governiamo su **11,870,747,686** abitanti
+Governiamo su **11,871,016,685** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -169,7 +169,7 @@ Governiamo su **11,870,747,686** abitanti
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
-|     | LHS 2027    | Dittatoriale  | 13,500        | Indipendente  | Non Controllato |
+|     | LHS 2027    | Democratico   | 13,500        | Indipendente  | Controllato     |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
 |     | Lowne 1     | Patronale     | 62,137        | Indipendente  | Non Controllato |
 |     | LP 254-26   | Dittatoriale  | 18.54 Milioni | Indipendente  | Non Controllato |
@@ -181,7 +181,7 @@ Governiamo su **11,870,747,686** abitanti
 |     | LTT 12033   | Democratico   | 118,987       | Indipendente  | Controllato     |
 |     | LTT 17868   | Democratico   | 98,232        | Indipendente  | Controllato     |
 |     | Lumbla      | Democratico   | 6.73 Milioni  | Indipendente  | Controllato     |
-|     | Lyncis Sector CL-Y d68  | Cooperativo | 31,300  | Indipendente  | Non Controllato |
+|     | Lyncis Sector CL-Y d68  | Democratico | 31,300  | Indipendente  | Controllato |
 |     | m Tauri     | Democratico   | 8.78 Milioni  | Indipendente  | Controllato     |
 |     | Mbukarla    | Corporativo   | 8.80 Milioni  | Indipendente  | Non Controllato |
 |     | Misir       | Democratico   | 6,245,022     | Federale      | Non Controllato |
@@ -251,6 +251,7 @@ Governiamo su **11,870,747,686** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>28 Marzo 3311:In un solo giorno prendiamo il controllo di due sistemi: <b>LHS 2027</b> e <b>Lyncis Sector CL-Y d68</b></li>
           <li>17 Marzo 3311: Prendiamo il controllo di <b>LFT 392</b></li>
           <li>13 Marzo 3311: Ci espandiamo su <b>LHS 2027</b></li>
           <li>11 Marzo 3311: Prendiamo il controllo di <b>HIP 42084</b>, sistema fortemente voluto e con la Coriolis con dedica</li>
