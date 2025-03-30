@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-28
+last_modified_at: 2025-03-30
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **173 sistemi**, di cui **101** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **171 sistemi**, di cui **99** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **210** stazioni
   - **697** insediamenti
-  - **121** installazioni
+  - **122** installazioni
   - **1** megaship
 
 Governiamo su **11,871,016,685** abitanti
@@ -166,6 +166,7 @@ Governiamo su **11,871,016,685** abitanti
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | LHS 1803    | Democratico   | 142,434       | Indipendente  | Non Controllato |
+|     | LHS 1838    | Dittatoriale  | 10,000        | Indipendente  | Non Controllato |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
@@ -251,7 +252,8 @@ Governiamo su **11,871,016,685** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>28 Marzo 3311:In un solo giorno prendiamo il controllo di due sistemi: <b>LHS 2027</b> e <b>Lyncis Sector CL-Y d68</b></li>
+          <li>30 Marzo 3311: Ci espandiamo, un po' a sopresa, su <b>LHS 1838</b>, sistema già controllato dai nostri amici <b>Civitas Dei</b>.</li>
+          <li>28 Marzo 3311: In un solo giorno prendiamo il controllo di due sistemi: <b>LHS 2027</b> e <b>Lyncis Sector CL-Y d68</b></li>
           <li>17 Marzo 3311: Prendiamo il controllo di <b>LFT 392</b></li>
           <li>13 Marzo 3311: Ci espandiamo su <b>LHS 2027</b></li>
           <li>11 Marzo 3311: Prendiamo il controllo di <b>HIP 42084</b>, sistema fortemente voluto e con la Coriolis con dedica</li>
