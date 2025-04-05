@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-03-30
+last_modified_at: 2025-04-05
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **171 sistemi**, di cui **99** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **177 sistemi**, di cui **102** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **210** stazioni
-  - **697** insediamenti
-  - **122** installazioni
+  - **218** stazioni
+  - **700** insediamenti
+  - **125** installazioni
   - **1** megaship
 
-Governiamo su **11,871,016,685** abitanti
+Governiamo su **11,871,261,135** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -160,13 +160,15 @@ Governiamo su **11,871,016,685** abitanti
 |     | Kweretet    | Democratico   | 22,148        | Indipendente  | Non Controllato |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
 |     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controllato |
+|     | LBN 623 Sector KI-I a10-0 | Democratico | 11,250  | Indipendente  | Controllato |
 |     | LFT 392     | Democratico   | 47,107        | Indipendente  | Controllato     |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
 |     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controllato     |
 |     | LHS 1743    | Corporativo   | 22,187        | Federale      | Non Controllato |
 |     | LHS 1794    | Democratico   | 22,187        | Indipendente  | Controllato     |
 |     | LHS 1803    | Democratico   | 142,434       | Indipendente  | Non Controllato |
-|     | LHS 1838    | Dittatoriale  | 10,000        | Indipendente  | Non Controllato |
+|     | LHS 1814    | Democratico   | 6,800         | Indipendente  | Non Controllato |
+|     | LHS 1828    | Democratico   | 10,000        | Indipendente  | Non Controllato |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
@@ -252,7 +254,7 @@ Governiamo su **11,871,016,685** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>30 Marzo 3311: Ci espandiamo, un po' a sopresa, su <b>LHS 1838</b>, sistema già controllato dai nostri amici <b>Civitas Dei</b>.</li>
+          <li>03 Aprile 3311: Prendiamo il controllo di <b>LBN 623 Sector KI-I a10-0</b></li>
           <li>28 Marzo 3311: In un solo giorno prendiamo il controllo di due sistemi: <b>LHS 2027</b> e <b>Lyncis Sector CL-Y d68</b></li>
           <li>17 Marzo 3311: Prendiamo il controllo di <b>LFT 392</b></li>
           <li>13 Marzo 3311: Ci espandiamo su <b>LHS 2027</b></li>
