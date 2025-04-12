@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-04-05
+last_modified_at: 2025-04-12
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **177 sistemi**, di cui **102** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **184 sistemi**, di cui **103** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **218** stazioni
-  - **700** insediamenti
-  - **125** installazioni
+  - **234** stazioni
+  - **702** insediamenti
+  - **130** installazioni
   - **1** megaship
 
-Governiamo su **11,871,261,135** abitanti
+Governiamo su **11,871,393,935** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -112,8 +112,10 @@ Governiamo su **11,871,261,135** abitanti
 |     | 111 Tauri   | Corporativo   | 151,113       | Federale      | Non Controllato |
 |     | 14 Geminorum | Democratico  | 36.42 Milioni | Indipendente  | Controllato     |
 |     | 37 Geminorum | Dittatoriale | 9,207,049,116 | Indipendente  | Non Controllato |
-|     | 74 K Orionis | Democratico  | 0             | Indipendente  | Controllato
+|     | 71 Orionis  | Democratico   | 11,000        | Indipendente  | Controllato     |
+|     | 74 K Orionis | Democratico  | 11,000        | Indipendente  | Controllato     |
 |     | Aldebaran   | Democratico   | 15,000        | Indipendente  | Controllato     |
+|     | Alzirr      | Democratico   | 15,000        | Indipendente  | Controllato     |
 |     | Amait       | Corporativo   | 42,498        | Federale      | Non Controllato |
 |     | Anglii      | Dittatoriale  | 61,539        | Indipendente  | Non Controllato |
 |     | Ao Kang     | Democratico   | 2.21 Miliardi | Indipendente  | Controllato     |
@@ -125,6 +127,11 @@ Governiamo su **11,871,261,135** abitanti
 |     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Controllato     |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
+|     | Col 285 Sector CD-F b13-1 | Democratico | 90,000  | Indipendente  | Controllato |
+|     | Col 285 Sector JJ-G c11-29 | Cooperativo | 4,500  | Indipendente  | Non Controllato |
+|     | Col 285 Sector LJ-G c11-7 | Dittatoriale | 18,100  | Indipendente  | Non Controllato |
+|     | Col 285 Sector NQ-H a12-1 | Democratico | 5,000  | Indipendente  |  Controllato |
+|     | Col 285 Sector RD-R c5-6  | Confederato | 4,500  | Indipendente  | Non Controllato |
 |     | Cosi        | Democratico   | 4.41 Miliardi | Indipendente  | Controllato     |
 |     | Dazbog      | Democratico   | 11,000        | Indipendente  | Controllato     |
 |     | Dewikum     | Confederato   | 38,738        | Indipendente  | Controllato     |
@@ -145,9 +152,10 @@ Governiamo su **11,871,261,135** abitanti
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | Hyades Sector CM-K b9-5 | Democratico   | 5,300 | Indipendente  | Controllato     |
 |     | Hyades Sector IH-V d2-98 | Democratico  | 8,000 | Indipendente  | Controllato     |
-|     | Hyades Sector TK-M b8-4 | Democratico  | 15,000 | Indipendente  | Non Controllato     |
-|     | Hyades Sector VF-M b8-4 | Democratico  | 9,000  | Indipendente  | Controllato     |
-|     | Hydrae Sector OD-S b4-4 | Corporativo   | 4,000 | Indipendente  | Non Controllato     |
+|     | Hyades Sector TK-M b8-3 | Democratico   | 14,000 | Indipendente | Controllato     |
+|     | Hyades Sector VF-M b8-4 | Democratico   | 9,000  | Indipendente | Controllato     |
+|     | Hydrae Sector OD-S b4-4 | Corporativo   | 4,000 | Indipendente  | Non Controllato |
+|     | Hydrae Sector QY-R b4-4 | Corporativo   | 4,500 | Indipendente  | Non Controllato |
 |     | Iansan      | Democratico   | 26,500        | Indipendente  | Controllato     |
 |     | Ishtar      | Dittatoriale  | 8,539         | Indipendente  | Non Controllato |
 |     | Jita Ten    | Democratico   | 16.42 Milioni | Indipendente  | Controllato     |
@@ -160,7 +168,11 @@ Governiamo su **11,871,261,135** abitanti
 |     | Kweretet    | Democratico   | 22,148        | Indipendente  | Non Controllato |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
 |     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controllato |
-|     | LBN 623 Sector KI-I a10-0 | Democratico | 11,250  | Indipendente  | Controllato |
+|     | LBN 623 Sector KC-V c2-8  | Corporativo | 5,000   | Indipendente  | Non Controllato |
+|     | LBN 623 Sector KI-I a10-0 | Democratico | 12,650  | Indipendente  | Controllato |
+|     | LBN 623 Sector LD-I a10-2 | Corporativo | 4,000   | Indipendente  | Non Controllato |
+|     | LBN 623 Sector MD-I a10-0 | Democratico | 4,500   | Indipendente  | Controllato |
+|     | LBN 623 Sector PJ-G a11-1 | Corporativo | 11,000  | Indipendente  | Non Controllato |
 |     | LFT 392     | Democratico   | 47,107        | Indipendente  | Controllato     |
 |     | LHS 1681    | Confederato   | 4.31 Milioni  | Federale      | Non Controllato |
 |     | LHS 1706    | Democratico   | 2.37 Milioni  | Indipendente  | Controllato     |
@@ -170,10 +182,12 @@ Governiamo su **11,871,261,135** abitanti
 |     | LHS 1814    | Democratico   | 6,800         | Indipendente  | Non Controllato |
 |     | LHS 1828    | Democratico   | 10,000        | Indipendente  | Non Controllato |
 |     | LHS 1857    | Democratico   | 48,197        | Indipendente  | Controllato     |
+|     | LHS 1912    | Dittatoriale  | 9,000         | Indipendente  | Non Controllato |
 |     | LHS 1914    | Dittatoriale  | 3,99 Miliardi | Indipendente  | Non Controllato |
 |     | LHS 1933    | Democratico   | 52,263        | Indipendente  | Controllato     |
 |     | LHS 2027    | Democratico   | 13,500        | Indipendente  | Controllato     |
 |     | LHS 6103    | Democratico   | 28,482        | Indipendente  | Controllato     |
+|     | LHS 6119    | Dittatoriale  | 15,000        | Indipendente  | Non Controllato |
 |     | Lowne 1     | Patronale     | 62,137        | Indipendente  | Non Controllato |
 |     | LP 254-26   | Dittatoriale  | 18.54 Milioni | Indipendente  | Non Controllato |
 |     | LP 302-22   | Democratico   | 2.61 Miliardi | Indipendente  | Non Controllato |
@@ -210,6 +224,7 @@ Governiamo su **11,871,261,135** abitanti
 |     | Sairre      | Teocratico    | 2.72 Milioni  | Indipendente  | Non Controllato |
 |     | Senoni      | Democratico   | 763.15 millioni | Federale    | Controllato     |
 |     | Sete        | Democratico   | 3.17 Milioni  | Indipendente  | Controllato     |
+|     | Sharru Sector AK-A b4 | Democratico | 4,500 | Indipendente  | Controllato     |
 |     | Shibboleth  | Dittatoriale  | 216,262       | Indipendente  | Non Controllato |
 |     | Skang       | Democratico   | 119,753       | Indipendente  | Controllato     |
 |     | Skuta       | Democratico   | 84,970        | Indipendente  | Controllato     |
@@ -217,6 +232,7 @@ Governiamo su **11,871,261,135** abitanti
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | Synuefai VW-U c19-3    | Corporativo   | 6,000 | Indipendente  | Non Controllato     |
+|     | Tamalhikas  | Indipendente  | 3.76 Milioni  | Corporativo   | Non Controllato |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
 |     | Tascheter Sector DV-Y a0    | Democratico | 9,000  | Indipendente  | Controllato |
 |     | Tascheter Sector EG-X b1-1  | Democratico | 23,700 | Indipendente  | Controllato |
@@ -254,6 +270,7 @@ Governiamo su **11,871,261,135** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>12 Aprile 3311: Approdiamo su <b>Tamalhikas</b>, sistema n. 178 in cui la Flotta è presente</li>
           <li>03 Aprile 3311: Prendiamo il controllo di <b>LBN 623 Sector KI-I a10-0</b></li>
           <li>28 Marzo 3311: In un solo giorno prendiamo il controllo di due sistemi: <b>LHS 2027</b> e <b>Lyncis Sector CL-Y d68</b></li>
           <li>17 Marzo 3311: Prendiamo il controllo di <b>LFT 392</b></li>
