@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-04-18
+last_modified_at: 2025-04-24
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **191 sistemi**, di cui **108** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **202 sistemi**, di cui **110** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **231** stazioni
-  - **705** insediamenti
-  - **130** installazioni
+  - **238** stazioni
+  - **708** insediamenti
+  - **131** installazioni
   - **1** megaship
 
-Governiamo su **11,871,393,935** abitanti
+Governiamo su **11,875,303,651** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -148,8 +148,11 @@ Governiamo su **11,871,393,935** abitanti
 |     | Galibi      | Corporativo   | 2,011         | Indipendente  | Non Controllato |
 |     | GD 69       | Corporativo   | 2,644         | Indipendente  | Controllato     |
 |     | Haghwe      | Dittatoriale  | 140,943       | Indipendente  | Non Controllato |
-|     | HIP 42084   | Democratico   | 19,900        | Indipendente  | Controllato     |
+|     | HIP 2074    | Corporativo   | 7,600         | Indipendente  | Non Controllato     |
+|     | HIP 2442    | Democratico   | 13,000        | Indipendente  | Controllato     |
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
+|     | HIP 30129   | Cooperativo   | 15,000        | Indipendente  | Non Controllato |
+|     | HIP 42084   | Democratico   | 19,900        | Indipendente  | Controllato     |
 |     | Hyades Sector CM-K b9-5 | Democratico   | 5,300 | Indipendente  | Controllato     |
 |     | Hyades Sector IH-V d2-98 | Democratico  | 8,000 | Indipendente  | Controllato     |
 |     | Hyades Sector TK-M b8-3 | Democratico   | 14,000 | Indipendente | Controllato     |
@@ -232,7 +235,7 @@ Governiamo su **11,871,393,935** abitanti
 |     | Susanoo     | Democratico   | 2,644         | Indipendente  | Controllato     |
 |     | Suyarang    | Democratico   | 31,15 Milioni | Indipendente  | Controllato     |
 |     | Synuefai VW-U c19-3    | Corporativo   | 6,000 | Indipendente  | Non Controllato     |
-|     | Tamalhikas  | Indipendente  | 3.76 Milioni  | Corporativo   | Non Controllato |
+|     | Tamalhikas  | Democratico   | 3.76 Milioni  | Indipendente  | Controllato     |
 |     | Tao Ti      | Democratico   | 3.41 Milioni  | Indipendente  | Controllato     |
 |     | Tascheter Sector DV-Y a0    | Democratico | 9,000  | Indipendente  | Controllato |
 |     | Tascheter Sector EG-X b1-1  | Democratico | 23,700 | Indipendente  | Controllato |
@@ -253,6 +256,7 @@ Governiamo su **11,871,393,935** abitanti
 |     | Trianguli Sector FC-U a3-2  | Democratico   | 5,000   | Indipendente    | Controllato |
 |     | Trianguli Sector FH-U a3-3  | Democratico   | 15,400  | Indipendente    | Controllato |
 |     | Trianguli Sector FM-V b2-6  | Democratico   | 10,500  | Indipendente    | Controllato |
+|     | Trianguli Sector HM-V b2-3  | Democratico   | 4,500   | Indipendente    | Non Controllato |
 |     | Trianguli Sector II-S a4-4  | Democratico   | 13,900  | Indipendente    | Controllato |
 |     | V848 Monocerotis  | Corporativo | 73,294    | Indipendente  | Controllato     |
 |     | Vandar      | Democratico   | 41,917        | Indipendente  | Controllato     |
@@ -270,6 +274,8 @@ Governiamo su **11,871,393,935** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>24 Aprile 3311: Prendiamo il controllo di <b>Tamalhikas</b> e contemporaneamente ci espandiamo a <b>Trianguli Sector HM-V b2-3</b></li>
+          <li>23 Aprile 3311: Iniziamo la guerra per il controllo di <b>HIP 2442</b>, sistema esterno alla Bolla e situato ad oltre 600 LY dai nostri sistmei Core. Da qui iniziamo la colonizzazione di quella porzione di Galassia</li>
           <li>18 Aprile 3311: Prendiamo il controllo di <b>Col 285 Sector CD-F b13-1</b> ed iniziamo la nostra espansione organica fuori Bolla. Nello stesso giorno iniziamo la war per la conquista di <b>Tamalhikas</b>.</li>
           <li>13 Aprile 3311: Acquisiamo il controllo di <b>Col 285 Sector NQ-H a12-1</b></li>
           <li>12 Aprile 3311: Approdiamo su <b>Tamalhikas</b>, sistema n. 178 in cui la Flotta è presente</li>
