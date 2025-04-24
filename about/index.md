@@ -275,7 +275,7 @@ Governiamo su **11,875,303,651** abitanti
     <div class="content-inner">
       <ul>
           <li>24 Aprile 3311: Prendiamo il controllo di <b>Tamalhikas</b> e contemporaneamente ci espandiamo a <b>Trianguli Sector HM-V b2-3</b></li>
-          <li>23 Aprile 3311: Iniziamo la guerra per il controllo di <b>HIP 2442</b>, sistema esterno alla Bolla e situato ad oltre 600 LY dai nostri sistmei Core. Da qui iniziamo la colonizzazione di quella porzione di Galassia</li>
+          <li>23 Aprile 3311: Iniziamo la guerra per il controllo di <b>HIP 2442</b>, sistema esterno alla Bolla e situato ad oltre 600 LY dai nostri sistemi Core. Da qui iniziamo la colonizzazione di quella porzione di Galassia</li>
           <li>18 Aprile 3311: Prendiamo il controllo di <b>Col 285 Sector CD-F b13-1</b> ed iniziamo la nostra espansione organica fuori Bolla. Nello stesso giorno iniziamo la war per la conquista di <b>Tamalhikas</b>.</li>
           <li>13 Aprile 3311: Acquisiamo il controllo di <b>Col 285 Sector NQ-H a12-1</b></li>
           <li>12 Aprile 3311: Approdiamo su <b>Tamalhikas</b>, sistema n. 178 in cui la Flotta è presente</li>
