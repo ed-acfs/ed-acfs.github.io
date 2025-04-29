@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-04-24
+last_modified_at: 2025-04-29
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **202 sistemi**, di cui **110** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **203 sistemi**, di cui **111** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **238** stazioni
+  - **240** stazioni
   - **708** insediamenti
-  - **131** installazioni
+  - **133** installazioni
   - **1** megaship
 
-Governiamo su **11,875,303,651** abitanti
+Governiamo su **11,875,351,851** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -128,6 +128,7 @@ Governiamo su **11,875,303,651** abitanti
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
 |     | Col 285 Sector CD-F b13-1 | Democratico | 90,000  | Indipendente  | Controllato |
+|     | Col 285 Sector CD-F b13-3 | Democratico | 13,000  | Indipendente  | Controllato |
 |     | Col 285 Sector JJ-G c11-29 | Cooperativo | 4,500  | Indipendente  | Non Controllato |
 |     | Col 285 Sector LJ-G c11-7 | Dittatoriale | 18,100  | Indipendente  | Non Controllato |
 |     | Col 285 Sector NQ-H a12-1 | Democratico | 5,000  | Indipendente  |  Controllato |
@@ -274,6 +275,8 @@ Governiamo su **11,875,303,651** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>29 Aprile 3311: Prendiamo il controllo di <b>Col 285 Sector CD-F b13-3</b></li>
+          <li>28 Aprile 3311: Conquistiamo <h>HIP 2442</b></li>
           <li>24 Aprile 3311: Prendiamo il controllo di <b>Tamalhikas</b> e contemporaneamente ci espandiamo a <b>Trianguli Sector HM-V b2-3</b></li>
           <li>23 Aprile 3311: Iniziamo la guerra per il controllo di <b>HIP 2442</b>, sistema esterno alla Bolla e situato ad oltre 600 LY dai nostri sistemi Core. Da qui iniziamo la colonizzazione di quella porzione di Galassia</li>
           <li>18 Aprile 3311: Prendiamo il controllo di <b>Col 285 Sector CD-F b13-1</b> ed iniziamo la nostra espansione organica fuori Bolla. Nello stesso giorno iniziamo la war per la conquista di <b>Tamalhikas</b>.</li>
