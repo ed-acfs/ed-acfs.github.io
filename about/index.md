@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-04-29
+last_modified_at: 2025-05-01
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **203 sistemi**, di cui **111** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **205 sistemi**, di cui **113** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **240** stazioni
+  - **243** stazioni
   - **708** insediamenti
   - **133** installazioni
   - **1** megaship
 
-Governiamo su **11,875,351,851** abitanti
+Governiamo su **11,925,452,497** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -247,7 +247,7 @@ Governiamo su **11,875,351,851** abitanti
 |     | Tascheter Sector IM-V b2-3  | Corporativo | 4,500 | Federale      | Non Controllato |
 |     | Tascheter Sector LH-V b2-8  | Democratico | 8,000 | Indipendente  | Controllato |
 |     | Tascheter Sector OS-T a3-3  | Democratico | 13,000 | Indipendente | Controllato |
-|     | Tascheter Sector OS-T a3-5  | Democratico | 6,400 | Indipendente  | Controllato |
+|     | Tascheter Sector OS-T a3-5  | Democratico | 16,904,577 | Indipendente  | Controllato |
 |     | Tascheter Sector VE-Q a5-1  | Corporativo | 10,300  | Federale  | Non Controllato |
 |     | Tascheter Sector VE-Q a5-2  | Corporativo | 15,500  | Federale  | Non Controllato |
 |     | Tastis      | Democratico   | 44,656        | Indipendente  | Controllato     |
@@ -275,6 +275,7 @@ Governiamo su **11,875,351,851** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>01 Maggio 3311: Senza fare assolutamente nulla in una Elezione non cercata, ci viene regalato il controllo di <b>G 98-44</b></li>
           <li>29 Aprile 3311: Prendiamo il controllo di <b>Col 285 Sector CD-F b13-3</b></li>
           <li>28 Aprile 3311: Conquistiamo <h>HIP 2442</b></li>
           <li>24 Aprile 3311: Prendiamo il controllo di <b>Tamalhikas</b> e contemporaneamente ci espandiamo a <b>Trianguli Sector HM-V b2-3</b></li>
