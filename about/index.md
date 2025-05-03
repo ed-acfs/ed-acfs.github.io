@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-05-01
+last_modified_at: 2025-05-03
 ---
 <style>
 .wrap-collapsible {
@@ -83,7 +83,7 @@ Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso d
 ## Alcune semplici regole da rispettare
 
 - Giocare in **Open Play**, unica modalità di gioco che ci interessa e che raccomandiamo
-- Presenza attiva sul nostro [**server Discord**](https://discord.gg/TQcbuT7z8D)
+- Presenza attiva sul nostro [**server Discord**](https://flottastellare.it/discord/)
 - Iscrizione ed __aggiornamento costante__ su [Inara](https://inara.cz/squadron/4750)
 - Diventare Allied della nostra PMF "**Flotta Stellare**"
 - Giocare pulito: ACFS è stata, è, e sempre sarà contro pratiche scorrette di gioco come ganking e griefing. Chiediamo quindi a tutti i nostri Cmdrs di giocare onestamente ed offriamo supporto per il contrasto di suddette pratiche
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **205 sistemi**, di cui **113** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **206 sistemi**, di cui **113** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **243** stazioni
+  - **246** stazioni
   - **708** insediamenti
   - **133** installazioni
   - **1** megaship
 
-Governiamo su **11,925,452,497** abitanti
+Governiamo su **11,959,314,932** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -154,6 +154,7 @@ Governiamo su **11,925,452,497** abitanti
 |     | HIP 28774   | Corporativo   | 70.11 Milioni | Federale      | Non Controllato |
 |     | HIP 30129   | Cooperativo   | 15,000        | Indipendente  | Non Controllato |
 |     | HIP 42084   | Democratico   | 19,900        | Indipendente  | Controllato     |
+|     | HIP 70618   | Democratico   | 0             | Indipendente  | Controllato     |
 |     | Hyades Sector CM-K b9-5 | Democratico   | 5,300 | Indipendente  | Controllato     |
 |     | Hyades Sector IH-V d2-98 | Democratico  | 8,000 | Indipendente  | Controllato     |
 |     | Hyades Sector TK-M b8-3 | Democratico   | 14,000 | Indipendente | Controllato     |
