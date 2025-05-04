@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-05-03
+last_modified_at: 2025-05-04
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **206 sistemi**, di cui **113** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **206 sistemi**, di cui **114** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **246** stazioni
-  - **708** insediamenti
-  - **133** installazioni
+  - **247** stazioni
+  - **709** insediamenti
+  - **131** installazioni
   - **1** megaship
 
-Governiamo su **11,959,314,932** abitanti
+Governiamo su **12,011,683,350** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema     | Governo       | Popolazione   | Alleanza      | Stato           |
@@ -127,9 +127,10 @@ Governiamo su **11,959,314,932** abitanti
 |     | Bifrost     | Corporativo   | 100,003       | Indipendente  | Controllato     |
 |     | Bota Ili    | Democratico   | 86,834        | Indipendente  | Controllato     |
 |     | Cintices    | Democratico   | 37,088        | Indipendente  | Controllato     |
-|     | Col 285 Sector CD-F b13-1 | Democratico | 90,000  | Indipendente  | Controllato |
-|     | Col 285 Sector CD-F b13-3 | Democratico | 13,000  | Indipendente  | Controllato |
-|     | Col 285 Sector JJ-G c11-29 | Cooperativo | 4,500  | Indipendente  | Non Controllato |
+|     | Col 285 Sector CD-F b13-1 | Democratico | 13,280,431  | Indipendente  | Controllato |
+|     | Col 285 Sector CD-F b13-2 | Democratico | 5,062   | Indipendente  | Controllato |
+|     | Col 285 Sector CD-F b13-3 | Democratico | 340,759 | Indipendente  | Controllato |
+|     | Col 285 Sector JJ-G c11-29 | Cooperativo | 94,531 | Indipendente  | Controllato |
 |     | Col 285 Sector LJ-G c11-7 | Dittatoriale | 18,100  | Indipendente  | Non Controllato |
 |     | Col 285 Sector NQ-H a12-1 | Democratico | 5,000  | Indipendente  |  Controllato |
 |     | Col 285 Sector RD-R c5-6  | Confederato | 4,500  | Indipendente  | Non Controllato |
@@ -173,7 +174,7 @@ Governiamo su **11,959,314,932** abitanti
 |     | Kweretet    | Democratico   | 22,148        | Indipendente  | Non Controllato |
 |     | Lalande 15394| Dittatoriale | 9.658 Milioni | Indipendente  | Non Controllato |
 |     | Lalande 15547| Dittatoriale | 2,500         | Indipendente  | Non Controllato |
-|     | LBN 623 Sector KC-V c2-8  | Corporativo | 5,000   | Indipendente  | Non Controllato |
+|     | LBN 623 Sector KC-V c2-8  | Corporativo | 355,964 | Indipendente  | Controllato |
 |     | LBN 623 Sector KI-I a10-0 | Democratico | 12,650  | Indipendente  | Controllato |
 |     | LBN 623 Sector LD-I a10-2 | Corporativo | 4,000   | Indipendente  | Non Controllato |
 |     | LBN 623 Sector MD-I a10-0 | Democratico | 4,500   | Indipendente  | Controllato |
@@ -221,6 +222,7 @@ Governiamo su **11,959,314,932** abitanti
 |     | NLTT 18561  | Democratico   | 30.62 Milioni | Indipendente  | Controllato     |
 |     | Opila       | Corporativo   | 3.30 Miliardi | Federale      | Non Controllato |
 |     | Pechua      | Democratico   | 6,369         | Indipendente  | Non Controllato |
+|     | Pinyin      | Corporativo   | 51,651        | Federale      | Non Controllato |
 |     | Pularungu   | Democratico   | 4.37 Milioni  | Indipendente  | Controllato     |
 |     | Puppis Sector WO-A b3   | Democratico   | 9,000  | Indipendente  | Non Controllato     |
 |     | Ragapajo    | Democratico   | 1.63 Miliardi | Indipendente  | Controllato     |
@@ -276,6 +278,7 @@ Governiamo su **11,959,314,932** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>04 Maggio 3311: In un solo giorno conquistiamo sia <b>Col 285 Sector JJ-G c11-29</b> che <b>LBN 623 Sector KC-V c2-8</b></li>
           <li>01 Maggio 3311: Senza fare assolutamente nulla in una Elezione non cercata, ci viene regalato il controllo di <b>G 98-44</b></li>
           <li>29 Aprile 3311: Prendiamo il controllo di <b>Col 285 Sector CD-F b13-3</b></li>
           <li>28 Aprile 3311: Conquistiamo <h>HIP 2442</b></li>
