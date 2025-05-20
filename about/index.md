@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-05-14
+last_modified_at: 2025-05-20
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **209 sistemi**, di cui **119** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **219 sistemi**, di cui **129** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **257** stazioni
-  - **711** insediamenti
-  - **137** installazioni
+  - **267** stazioni
+  - **712** insediamenti
+  - **136** installazioni
   - **1** megaship
 
-Governiamo su **12,075,828,509** abitanti
+Governiamo su **12,034,300,330** abitanti
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema                     | Governo       | Popolazione   | Alleanza            | Stato           |
@@ -130,7 +130,8 @@ Governiamo su **12,075,828,509** abitanti
 |     | Col 285 Sector CD-F b13-1   | Democratico   | 13,280,431    | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-2   | Democratico   | 22,832        | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-3   | Democratico   | 340,759       | Indipendente        | Controllato     |
-|     | Col 285 Sector JJ-G c11-29  | Cooperativo   | 94,531        | Indipendente        | Controllato     |
+|     | Col 285 Sector JJ-G c11-2   | Democratico   | 44,795        | Indipendente        | Controllato     |
+|     | Col 285 Sector JJ-G c11-29  | Democratico   | 94,531        | Indipendente        | Controllato     |
 |     | Col 285 Sector LJ-G c11-7   | Dittatoriale  | 18,100        | Indipendente        | Non Controllato |
 |     | Col 285 Sector NQ-H a12-1   | Democratico   | 5,000         | Indipendente        | Controllato     |
 |     | Col 285 Sector RD-R c5-6    | Confederato   | 4,500         | Indipendente        | Non Controllato |
@@ -152,6 +153,7 @@ Governiamo su **12,075,828,509** abitanti
 |     | Haghwe                      | Dittatoriale  | 140,943       | Indipendente        | Non Controllato |
 |     | HIP 2074                    | Corporativo   | 7,600         | Indipendente        | Non Controllato |
 |     | HIP 2442                    | Democratico   | 13,000        | Indipendente        | Controllato     |
+|     | HIP 4888                    | Democratico   | 0             | Indipendente        | Controllato     |
 |     | HIP 28774                   | Corporativo   | 70.11 Milioni | Federale            | Non Controllato |
 |     | HIP 30129                   | Democratico   | 15,000        | Indipendente        | Controllato     |
 |     | HIP 42084                   | Democratico   | 19,900        | Indipendente        | Controllato     |
@@ -173,14 +175,17 @@ Governiamo su **12,075,828,509** abitanti
 |     | Kungurutii                  | Democratico   | 95,223        | Indipendente        | Controllato     |
 |     | Kweretet                    | Democratico   | 22,148        | Indipendente        | Non Controllato |
 |     | Lalande 15394               | Dittatoriale  | 9.658 Milioni | Indipendente        | Non Controllato |
-|     | Lalande 15547               | Dittatoriale   | 2,500        | Indipendente        | Non Controllato |
+|     | Lalande 15547               | Dittatoriale  | 2,500         | Indipendente        | Non Controllato |
+|     | LBN 623 Sector JM-W d1-52   | Democratico   | 0             | Indipendente        | Controllato     |
 |     | LBN 623 Sector KC-V c2-8    | Corporativo   | 355,964       | Indipendente        | Controllato     |
 |     | LBN 623 Sector KI-I a10-0   | Democratico   | 12,650        | Indipendente        | Controllato     |
 |     | LBN 623 Sector LD-I a10-2   | Corporativo   | 4,000         | Indipendente        | Non Controllato |
 |     | LBN 623 Sector MD-I a10-0   | Democratico   | 4,500         | Indipendente        | Controllato     |
+|     | LBN 623 Sector MX-U c2-6    | Democratico   | 50,269        | Indipendente        | Controllato     |
 |     | LBN 623 Sector OI-T C3-4    | Democratico   |	43,376        | Indipendente        | Controllato     |
 |     | LBN 623 Sector PJ-G a11-1   | Corporativo   | 11,000        | Indipendente        | Non Controllato |
 |     | LBN 623 Sector QO-G a11-1   | Democratico   | 38,277        | Indipendente        | Controllato     |
+|     | LBN 623 Sector RD-T c3-7    | Democratico   | 0             | Indipendente        | Controllato     |
 |     | LFT 392                     | Democratico   | 47,107        | Indipendente        | Controllato     |
 |     | LHS 1681                    | Confederato   | 4.31 Milioni  | Federale            | Non Controllato |
 |     | LHS 1706                    | Democratico   | 2.37 Milioni  | Indipendente        | Controllato     |
@@ -240,7 +245,13 @@ Governiamo su **12,075,828,509** abitanti
 |     | SPOCS 253                   | Democrativo   | 1.16 Miliardi | Indipendente        | Controllato     |
 |     | Susanoo                     | Democratico   | 2,644         | Indipendente        | Controllato     |
 |     | Suyarang                    | Democratico   | 31,15 Milioni | Indipendente        | Controllato     |
+|     | Synuefai OA-Y c17-13        | Democratico   | 6,000         | Indipendente        | Controllato     |
+|     | Synuefai BG-W b35-0         | Democratico   | 6,000         | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-36         | Democratico   | 6,000         | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-38         | Democratico   | 6,000         | Indipendente        | Controllato     |
 |     | Synuefai VW-U c19-3         | Corporativo   | 6,000         | Indipendente        | Non Controllato |
+|     | Synuefai ZF-W b35-0         | Democratico   | 6,000         | Indipendente        | Controllato     |
+|     | Synuefai ZF-W b35-2         | Democratico   | 6,000         | Indipendente        | Controllato     |
 |     | Tamalhikas                  | Democratico   | 3.76 Milioni  | Indipendente        | Controllato     |
 |     | Tao Ti                      | Democratico   | 3.41 Milioni  | Indipendente        | Controllato     |
 |     | Tascheter Sector DV-Y a0    | Democratico   | 9,000         | Indipendente        | Controllato     |
@@ -270,7 +281,7 @@ Governiamo su **12,075,828,509** abitanti
 |     | Waruts                      | Democratico   | 50,874,418    | Indipendente        | Non Controllato |
 |     | Wolf 289                    | Democratico   | 27,645        | Indipendente        | Controllato     |
 |     | Yggdrajang                  | Democratico   | 88,567        | Indipendente        | Controllato     |
-|     | Yin Sector CV-Y b4          | Democratico   |  4,000        | Indipendente        | Controllato     |
+|     | Yin Sector CV-Y b4          | Democratico   | 4,000         | Indipendente        | Controllato     |
 |     | Zandu                       | Democratico   | 11.09 Milioni | Indipendente        | Controllato     |
 |     | Zeta Cassiopeiae            | Democratico   | 412,191       | Indipendente        | Controllato     |
 
@@ -282,6 +293,8 @@ Governiamo su **12,075,828,509** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>20 Maggio 3311: Oggi si concretizza una strategia-lampo che, nell'arco di soli tre giorni ci ha portato a colonizzare ben otto sistemi fino ad arrivare al nostro obiettivo: <b>HIP 4888</b> ed il suo buco nero</li>
+          <li>18 Maggio 3311: Conquistiamo <b>Col 285 Sector JJ-G c11-2</b></li>
           <li>14 Maggio 3311: Prendiamo il controllo di <b>LBN 623 Sector OI-T c3-4</b></li>
           <li>12 Maggio 3311: La Flotta prende il controllo di <b>Zeta Cassiopeiae</b> e di <b>HIP 30129</b></li>
           <li>08 Maggio 3311: Approdiamo su <b>Trianguli Sector CG-X b1-7</b></li>
