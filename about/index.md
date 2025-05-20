@@ -4,11 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-<<<<<<< HEAD
 last_modified_at: 2025-05-20
-=======
-last_modified_at: 2025-05-16
->>>>>>> 810078b21c29c6885a89b98f41cc605ed679d1db
 ---
 <style>
 .wrap-collapsible {
@@ -100,7 +96,6 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-<<<<<<< HEAD
 Siamo presenti in: **219 sistemi**, di cui **129** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **267** stazioni
@@ -109,16 +104,7 @@ Controlliamo inoltre:
   - **1** megaship
 
 Governiamo su **12,034,300,330** abitanti
-=======
-Siamo presenti in: **210 sistemi**, di cui **121** sono sotto il nostro controllo diretto.<br>
-Controlliamo inoltre:
-  - **258** stazioni
-  - **711** insediamenti
-  - **138** installazioni
-  - **1** megaship
 
-Governiamo su **12,078,576,826** abitanti
->>>>>>> 810078b21c29c6885a89b98f41cc605ed679d1db
 <div class="datatable-begin"></div>
 
 | 👑  | Sistema                     | Governo       | Popolazione   | Alleanza            | Stato           |
