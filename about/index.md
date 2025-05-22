@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-05-20
+last_modified_at: 2025-05-22
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **219 sistemi**, di cui **129** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **222 sistemi**, di cui **133** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **267** stazioni
-  - **712** insediamenti
-  - **136** installazioni
+  - **750** insediamenti
+  - **139** installazioni
   - **1** megaship
 
 Governiamo su **12,034,300,330** abitanti
@@ -183,6 +183,7 @@ Governiamo su **12,034,300,330** abitanti
 |     | LBN 623 Sector LD-I a10-2   | Corporativo   | 4,000         | Indipendente        | Non Controllato |
 |     | LBN 623 Sector MD-I a10-0   | Democratico   | 4,500         | Indipendente        | Controllato     |
 |     | LBN 623 Sector MX-U c2-6    | Democratico   | 50,269        | Indipendente        | Controllato     |
+|     | LBN 623 Sector NX-U c2-6    | Democratico   | 51,216        | Indipendente        | Controllato     |
 |     | LBN 623 Sector OI-T C3-4    | Democratico   |	43,376        | Indipendente        | Controllato     |
 |     | LBN 623 Sector PJ-G a11-1   | Corporativo   | 11,000        | Indipendente        | Non Controllato |
 |     | LBN 623 Sector QO-G a11-1   | Democratico   | 38,277        | Indipendente        | Controllato     |
@@ -294,6 +295,7 @@ Governiamo su **12,034,300,330** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>22 Maggio 3311: Prendiamo il controllo di <b>LBN 623 Sector NX-U c2-6</b>, sistema n. 133 sotto il diretto controllo della Flotta</li>
           <li>20 Maggio 3311: Oggi si concretizza una strategia-lampo che, nell'arco di soli tre giorni ci ha portato a colonizzare ben otto sistemi fino ad arrivare al nostro obiettivo: <b>HIP 4888</b> ed il suo buco nero</li>
           <li>18 Maggio 3311: Conquistiamo <b>Col 285 Sector JJ-G c11-2</b></li>
           <li>14 Maggio 3311: Prendiamo il controllo di <b>LBN 623 Sector OI-T c3-4</b></li>
