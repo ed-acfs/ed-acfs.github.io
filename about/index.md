@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-05-22
+last_modified_at: 2025-05-23
 ---
 <style>
 .wrap-collapsible {
@@ -103,7 +103,7 @@ Controlliamo inoltre:
   - **139** installazioni
   - **1** megaship
 
-Governiamo su **12,034,300,330** abitanti
+Governiamo su **12,040,067,842** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -134,6 +134,7 @@ Governiamo su **12,034,300,330** abitanti
 |     | Col 285 Sector JJ-G c11-2   | Democratico   | 44,795        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-29  | Democratico   | 94,531        | Indipendente        | Controllato     |
 |     | Col 285 Sector LJ-G c11-7   | Dittatoriale  | 18,100        | Indipendente        | Non Controllato |
+|     | Col 285 Sector NO-P c6-15   | Democratico   | 42,615        | Indipendente        | Controllato     |
 |     | Col 285 Sector NQ-H a12-1   | Democratico   | 5,000         | Indipendente        | Controllato     |
 |     | Col 285 Sector RD-R c5-6    | Confederato   | 4,500         | Indipendente        | Non Controllato |
 |     | Cosi                        | Democratico   | 4.41 Miliardi | Indipendente        | Controllato     |
