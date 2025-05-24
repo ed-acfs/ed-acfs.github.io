@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-05-23
+last_modified_at: 2025-05-24
 ---
 <style>
 .wrap-collapsible {
@@ -98,12 +98,12 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 Siamo presenti in: **222 sistemi**, di cui **133** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **267** stazioni
+  - **268** stazioni
   - **750** insediamenti
-  - **139** installazioni
+  - **138** installazioni
   - **1** megaship
 
-Governiamo su **12,040,067,842** abitanti
+Governiamo su **12,040,844,655** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -142,7 +142,7 @@ Governiamo su **12,040,067,842** abitanti
 |     | Dewikum                     | Confederato   | 38,738        | Indipendente        | Controllato     |
 |     | Dulerce                     | Democratico   | 287,191,965   | Indipendente        | Non Controllato |
 |     | Elohim                      | Corporativo   | 15,000        | Federale            | Non Controllato |
-|     | Ethli                       | Democratico   | 159,949       | Indipendente        | Non Controllato |
+|     | Ethli                       | Democratico   | 159,949       | Indipendente        | Controllato     |
 |     | Euripus                     | Dittatoriale  | 38,572        | Indipendente        | Non Controllato |
 |     | Flech                       | Democratico   | 1.45 Miliardi | Indipendente        | Controllato     |
 |     | Fular                       | Democratico   | 5.01 Millioni | Indipendente        | Controllato     |
@@ -296,6 +296,8 @@ Governiamo su **12,040,067,842** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>24 Maggio 3311: Prendiamo il controllo di <b>Ethli</b></li>
+          <li>23 Maggio 3311: Prendiamo il controllo di <b>Col 285 Sector NO-P c6-15</b></li>
           <li>22 Maggio 3311: Prendiamo il controllo di <b>LBN 623 Sector NX-U c2-6</b>, sistema n. 133 sotto il diretto controllo della Flotta</li>
           <li>20 Maggio 3311: Oggi si concretizza una strategia-lampo che, nell'arco di soli tre giorni ci ha portato a colonizzare ben otto sistemi fino ad arrivare al nostro obiettivo: <b>HIP 4888</b> ed il suo buco nero</li>
           <li>18 Maggio 3311: Conquistiamo <b>Col 285 Sector JJ-G c11-2</b></li>
