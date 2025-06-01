@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-05-30
+last_modified_at: 2025-06-01
 ---
 <style>
 .wrap-collapsible {
@@ -211,6 +211,7 @@ Governiamo su **12,048,408,345** abitanti
 |     | LP 308-10                   | Dittatoriale  | 85,846        | Indipendente        | Non Controllato |
 |     | LP 366-45                   | Dittatoriale  | 9,000         | Indipendente        | Non Controllato |
 |     | LP 421-7                    | Dittatoriale  | 26,010        | Indipendente        | Non Controllato |
+|     | LP 5-110                    | Democratico   | 474,235       | Indipendente        | Controllato     |
 |     | LP 542-33                   | Democratico   | 619,763       | Indipendente        | Controllato     |
 |     | LTT 12033                   | Democratico   | 118,987       | Indipendente        | Controllato     |
 |     | LTT 17868                   | Democratico   | 98,232        | Indipendente        | Controllato     |
@@ -297,6 +298,7 @@ Governiamo su **12,048,408,345** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>01 Giugno 3311: Prendiamo il controllo di <b>LP 5-110</b></li>
           <li>30 Maggio 3311: Conquistiamo <b>Col 285 Sector CD-F b13-0</b></li>
           <li>22 Maggio 3311: Prendiamo il controllo di <b>LBN 623 Sector NX-U c2-6</b>, sistema n. 133 sotto il diretto controllo della Flotta</li>
           <li>20 Maggio 3311: Oggi si concretizza una strategia-lampo che, nell'arco di soli tre giorni ci ha portato a colonizzare ben otto sistemi fino ad arrivare al nostro obiettivo: <b>HIP 4888</b> ed il suo buco nero</li>
