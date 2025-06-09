@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-06-01
+last_modified_at: 2025-06-07
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **224 sistemi**, di cui **135** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **226 sistemi**, di cui **138** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **271** stazioni
-  - **754** insediamenti
-  - **141** installazioni
+  - **273** stazioni
+  - **756** insediamenti
+  - **140** installazioni
   - **1** megaship
 
-Governiamo su **12,051,465,783** abitanti
+Governiamo su **12,051,397,768** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -132,6 +132,7 @@ Governiamo su **12,051,465,783** abitanti
 |     | Col 285 Sector CD-F b13-1   | Democratico   | 17.19 milioni | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-2   | Democratico   | 22,832        | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-3   | Democratico   | 340,759       | Indipendente        | Controllato     |
+|     | Col 285 Sector DY-E b13-3   | Democratico   | 48,318        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-2   | Democratico   | 44,795        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-29  | Democratico   | 94,531        | Indipendente        | Controllato     |
 |     | Col 285 Sector LJ-G c11-7   | Dittatoriale  | 18,100        | Indipendente        | Non Controllato |
@@ -159,7 +160,7 @@ Governiamo su **12,051,465,783** abitanti
 |     | HIP 4888                    | Democratico   | 0             | Indipendente        | Controllato     |
 |     | HIP 28774                   | Corporativo   | 70.11 Milioni | Federale            | Non Controllato |
 |     | HIP 30129                   | Democratico   | 15,000        | Indipendente        | Controllato     |
-|     | HIP 42084                   | Democratico   | 19,900        | Indipendente        | Controllato     |
+|     | HIP 42084                   | Democratico   | 34.56 milioni | Indipendente        | Controllato     |
 |     | HIP 70618                   | Democratico   | 53,870        | Indipendente        | Controllato     |
 |     | Hyades Sector CM-K b9-5     | Democratico   | 5,300         | Indipendente        | Controllato     |
 |     | Hyades Sector IH-V d2-98    | Democratico   | 8,000         | Indipendente        | Controllato     |
