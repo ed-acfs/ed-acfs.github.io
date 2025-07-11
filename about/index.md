@@ -128,17 +128,16 @@ Governiamo su **12,105,985,058** abitanti
 |     | Bifrost                     | Corporativo   | 100,003       | Indipendente        | Controllato     |
 |     | Bota Ili                    | Democratico   | 86,834        | Indipendente        | Controllato     |
 |     | Cintices                    | Democratico   | 37,088        | Indipendente        | Controllato     |
-|     | Col 285 Sector CD-F b13-0   | Democratico   | 263,493       | Indipendente        | Controllato     |
-|     | Col 285 Sector CD-F b13-1   | Democratico   | 17.19 milioni | Indipendente        | Controllato     |
-|     | Col 285 Sector CD-F b13-2   | Democratico   | 22,832        | Indipendente        | Controllato     |
-|     | Col 285 Sector CD-F b13-3   | Democratico   | 340,759       | Indipendente        | Controllato     |
-|     | Col 285 Sector DY-E b13-3   | Democratico   | 48,318        | Indipendente        | Controllato     |
+|     | Col 285 Sector CD-F b13-0   | Democratico   | 298,123       | Indipendente        | Controllato     |
+|     | Col 285 Sector CD-F b13-1   | Democratico   | 19,903,276    | Indipendente        | Controllato     |
+|     | Col 285 Sector CD-F b13-2   | Democratico   | 103,426       | Indipendente        | Controllato     |
+|     | Col 285 Sector CD-F b13-3   | Democratico   | 677,461       | Indipendente        | Controllato     |
+|     | Col 285 Sector DY-E b13-3   | Democratico   | 51,409        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-2   | Democratico   | 44,795        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-29  | Democratico   | 94,531        | Indipendente        | Controllato     |
-|     | Col 285 Sector LJ-G c11-7   | Dittatoriale  | 18,100        | Indipendente        | Non Controllato |
-|     | Col 285 Sector NO-P c6-15   | Democratico   | 42,615        | Indipendente        | Controllato     |
-|     | Col 285 Sector NQ-H a12-1   | Democratico   | 5,000         | Indipendente        | Controllato     |
-|     | Col 285 Sector RD-R c5-6    | Confederato   | 4,500         | Indipendente        | Non Controllato |
+|     | Col 285 Sector NO-P c6-15   | Democratico   | 51,444        | Indipendente        | Controllato     |
+|     | Col 285 Sector NQ-H a12-1   | Democratico   | 299,527       | Indipendente        | Controllato     |
+|     | Col 285 Sector RD-R c5-6    | Confederato   | 141,093       | Indipendente        | Non Controllato |
 |     | Cosi                        | Democratico   | 4.41 Miliardi | Indipendente        | Controllato     |
 |     | Dazbog                      | Democratico   | 11,000        | Indipendente        | Controllato     |
 |     | Dewikum                     | Confederato   | 38,738        | Indipendente        | Controllato     |
@@ -180,19 +179,23 @@ Governiamo su **12,105,985,058** abitanti
 |     | Kweretet                    | Democratico   | 22,148        | Indipendente        | Non Controllato |
 |     | Lalande 15394               | Dittatoriale  | 9.658 Milioni | Indipendente        | Non Controllato |
 |     | Lalande 15547               | Dittatoriale  | 2,500         | Indipendente        | Non Controllato |
-|     | LBN 623 Sector JM-W d1-52   | Democratico   | 0             | Indipendente        | Controllato     |
+|     | LBN 623 Sector AG-O b6-5    | Democratico   | 93,876        | Indipendente        | Controllato     |
+|     | LBN 623 Sector JM-W d1-52   | Democratico   | 44,792        | Indipendente        | Controllato     |
 |     | LBN 623 Sector KC-V c2-8    | Corporativo   | 355,964       | Indipendente        | Controllato     |
 |     | LBN 623 Sector KI-I a10-0   | Democratico   | 12,650        | Indipendente        | Controllato     |
 |     | LBN 623 Sector LD-I a10-2   | Corporativo   | 4,000         | Indipendente        | Non Controllato |
-|     | LBN 623 Sector MD-I a10-0   | Democratico   | 4,500         | Indipendente        | Controllato     |
+|     | LBN 623 Sector ND-I a10-1   | Democratico   | 89,647        | Indipendente        | Controllato     |
 |     | LBN 623 Sector MX-U c2-6    | Democratico   | 50,269        | Indipendente        | Controllato     |
+|     | LBN 623 Sector MD-I a10-0   | Democratico   | 4,500         | Indipendente        | Controllato     |
 |     | LBN 623 Sector NX-U c2-6    | Democratico   | 51,216        | Indipendente        | Controllato     |
 |     | LBN 623 Sector OI-T C3-4    | Democratico   |	43,376        | Indipendente        | Controllato     |
 |     | LBN 623 Sector PJ-G a11-1   | Corporativo   | 11,000        | Indipendente        | Non Controllato |
-|     | LBN 623 Sector QO-G a11-1   | Democratico   | 651,768       | Indipendente        | Controllato     |
-|     | LBN 623 Sector RD-T c3-10   | Democratico   | 107,529       | Indipendente        | Controllato     |
-|     | LBN 623 Sector RD-T c3-11   | Democratico   | 1,224,300     | Indipendente        | Controllato     |
-|     | LBN 623 Sector RD-T c3-7    | Democratico   | 55,528        | Indipendente        | Controllato     |
+|     | LBN 623 Sector QO-G a11-1   | Democratico   | 38,277        | Indipendente        | Controllato     |
+|     | LBN 623 Sector RD-T c3-10   | Democratico   | 84,957        | Indipendente        | Controllato     |
+|     | LBN 623 Sector RD-T c3-11   | Democratico   | 935,557       | Indipendente        | Controllato     |
+|     | LBN 623 Sector RD-T c3-7    | Democratico   | 45,757        | Indipendente        | Controllato     |
+|     | LBN 623 Sector RJ-G a11-1   | Democratico   | 56,718	      | Indipendente        | Controllato     |
+|     | LBN 623 Sector YU-P b5-0    | Democratico   | 40,069	      | Indipendente        | Controllato     |
 |     | LFT 392                     | Democratico   | 47,107        | Indipendente        | Controllato     |
 |     | LHS 1681                    | Confederato   | 4.31 Milioni  | Federale            | Non Controllato |
 |     | LHS 1706                    | Democratico   | 2.37 Milioni  | Indipendente        | Controllato     |
