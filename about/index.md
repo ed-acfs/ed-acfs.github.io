@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-07-11
+last_modified_at: 2025-07-26
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **236 sistemi**, di cui **146** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **238 sistemi**, di cui **147** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **284** stazioni
-  - **765** insediamenti
-  - **142** installazioni
+  - **767** insediamenti
+  - **141** installazioni
   - **1** megaship
 
-Governiamo su **12,105,985,058** abitanti
+Governiamo su **12,137,463,164** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -189,7 +189,7 @@ Governiamo su **12,105,985,058** abitanti
 |     | LBN 623 Sector MD-I a10-0   | Democratico   | 4,500         | Indipendente        | Controllato     |
 |     | LBN 623 Sector NX-U c2-6    | Democratico   | 51,216        | Indipendente        | Controllato     |
 |     | LBN 623 Sector OI-T C3-4    | Democratico   |	43,376        | Indipendente        | Controllato     |
-|     | LBN 623 Sector PJ-G a11-1   | Corporativo   | 11,000        | Indipendente        | Non Controllato |
+|     | LBN 623 Sector PJ-G a11-1   | Democratico   | 2.72 Milioni  | Indipendente        | Controllato     |
 |     | LBN 623 Sector QO-G a11-1   | Democratico   | 38,277        | Indipendente        | Controllato     |
 |     | LBN 623 Sector RD-T c3-10   | Democratico   | 84,957        | Indipendente        | Controllato     |
 |     | LBN 623 Sector RD-T c3-11   | Democratico   | 935,557       | Indipendente        | Controllato     |
@@ -304,6 +304,7 @@ Governiamo su **12,105,985,058** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>19 Luglio 3311: Prendiamo il controllo di <b>LBN 623 Sector PJ-G a11-1</b></li>
           <li>11 Luglio 3311: Conquistiamo <b>LBN 623 Sector RD-T c3-11</b></li>
           <li>01 Giugno 3311: Prendiamo il controllo di <b>LP 5-110</b></li>
           <li>30 Maggio 3311: Conquistiamo <b>Col 285 Sector CD-F b13-0</b></li>
