@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **238 sistemi**, di cui **147** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **238 sistemi**, di cui **148** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **284** stazioni
-  - **767** insediamenti
-  - **141** installazioni
+  - **768** insediamenti
+  - **139** installazioni
   - **1** megaship
 
-Governiamo su **12,137,463,164** abitanti
+Governiamo su **12,140,128,345** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -199,7 +199,7 @@ Governiamo su **12,137,463,164** abitanti
 |     | LFT 392                     | Democratico   | 47,107        | Indipendente        | Controllato     |
 |     | LHS 1681                    | Confederato   | 4.31 Milioni  | Federale            | Non Controllato |
 |     | LHS 1706                    | Democratico   | 2.37 Milioni  | Indipendente        | Controllato     |
-|     | LHS 1743                    | Corporativo   | 22,187        | Federale            | Non Controllato |
+|     | LHS 1743                    | Democratico   | 22,187        | Indipendente        | Controllato     |
 |     | LHS 1794                    | Democratico   | 22,187        | Indipendente        | Controllato     |
 |     | LHS 1803                    | Democratico   | 142,434       | Indipendente        | Non Controllato |
 |     | LHS 1814                    | Democratico   | 6,800         | Indipendente        | Non Controllato |
@@ -304,6 +304,7 @@ Governiamo su **12,137,463,164** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>27 Luglio 3311: La Flotta conquista <b>LHS 1743</b></li>
           <li>19 Luglio 3311: Prendiamo il controllo di <b>LBN 623 Sector PJ-G a11-1</b></li>
           <li>11 Luglio 3311: Conquistiamo <b>LBN 623 Sector RD-T c3-11</b></li>
           <li>01 Giugno 3311: Prendiamo il controllo di <b>LP 5-110</b></li>
