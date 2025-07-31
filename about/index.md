@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-07-26
+last_modified_at: 2025-07-31
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **238 sistemi**, di cui **148** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **240 sistemi**, di cui **150** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **284** stazioni
+  - **286** stazioni
   - **768** insediamenti
-  - **139** installazioni
+  - **140** installazioni
   - **1** megaship
 
-Governiamo su **12,140,128,345** abitanti
+Governiamo su **12,157,941,993** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -273,6 +273,7 @@ Governiamo su **12,140,128,345** abitanti
 |     | Tascheter Sector GB-X b1-5  | Democratico   | 8,000         | Indipendente        | Controllato     |
 |     | Tascheter Sector IM-V b2-3  | Corporativo   | 4,500         | Federale            | Non Controllato |
 |     | Tascheter Sector LH-V b2-8  | Democratico   | 8,000         | Indipendente        | Controllato     |
+|     | Tascheter Sector OS-T a3-0  | Democratico   | 34.43 milioni | Indipendente        | Controllato     |
 |     | Tascheter Sector OS-T a3-3  | Democratico   | 13,000        | Indipendente        | Controllato     |
 |     | Tascheter Sector OS-T a3-5  | Democratico   | 16,904,577    | Indipendente        | Controllato     |
 |     | Tascheter Sector VE-Q a5-1  | Corporativo   | 10,300        | Federale            | Non Controllato |
@@ -304,6 +305,7 @@ Governiamo su **12,140,128,345** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>01 Agosto 3311: Prendiamo il controllo di <b>Tascheter Sector OS-T a3-0</b></li>
           <li>27 Luglio 3311: La Flotta conquista <b>LHS 1743</b></li>
           <li>19 Luglio 3311: Prendiamo il controllo di <b>LBN 623 Sector PJ-G a11-1</b></li>
           <li>11 Luglio 3311: Conquistiamo <b>LBN 623 Sector RD-T c3-11</b></li>
