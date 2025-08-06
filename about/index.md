@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-07-31
+last_modified_at: 2025-08-06
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **240 sistemi**, di cui **150** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **243 sistemi**, di cui **153** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **286** stazioni
+  - **290** stazioni
   - **768** insediamenti
-  - **140** installazioni
+  - **141** installazioni
   - **1** megaship
 
-Governiamo su **12,157,941,993** abitanti
+Governiamo su **12,211,470,335** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -183,7 +183,7 @@ Governiamo su **12,157,941,993** abitanti
 |     | LBN 623 Sector JM-W d1-52   | Democratico   | 44,792        | Indipendente        | Controllato     |
 |     | LBN 623 Sector KC-V c2-8    | Corporativo   | 355,964       | Indipendente        | Controllato     |
 |     | LBN 623 Sector KI-I a10-0   | Democratico   | 12,650        | Indipendente        | Controllato     |
-|     | LBN 623 Sector LD-I a10-2   | Corporativo   | 4,000         | Indipendente        | Non Controllato |
+|     | LBN 623 Sector LD-I a10-2   | Democratico   | 183,236       | Indipendente        | Controllato     |
 |     | LBN 623 Sector ND-I a10-1   | Democratico   | 89,647        | Indipendente        | Controllato     |
 |     | LBN 623 Sector MX-U c2-6    | Democratico   | 50,269        | Indipendente        | Controllato     |
 |     | LBN 623 Sector MD-I a10-0   | Democratico   | 4,500         | Indipendente        | Controllato     |
@@ -305,6 +305,7 @@ Governiamo su **12,157,941,993** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>06 Agosto 3311: La Flotta conquista <b>LBN 623 Sector LD-I a10-2</b></li>
           <li>01 Agosto 3311: Prendiamo il controllo di <b>Tascheter Sector OS-T a3-0</b></li>
           <li>27 Luglio 3311: La Flotta conquista <b>LHS 1743</b></li>
           <li>19 Luglio 3311: Prendiamo il controllo di <b>LBN 623 Sector PJ-G a11-1</b></li>
