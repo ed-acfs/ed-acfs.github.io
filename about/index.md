@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-08-06
+last_modified_at: 2025-08-22
 ---
 <style>
 .wrap-collapsible {
@@ -180,6 +180,10 @@ Governiamo su **12,211,470,335** abitanti
 |     | Lalande 15394               | Dittatoriale  | 9.658 Milioni | Indipendente        | Non Controllato |
 |     | Lalande 15547               | Dittatoriale  | 2,500         | Indipendente        | Non Controllato |
 |     | LBN 623 Sector AG-O b6-5    | Democratico   | 93,876        | Indipendente        | Controllato     |
+|     | LBN 623 Sector FM-M b7-0    | Corporativo   | 56,263        | Indipendente        | Non Controllato |
+|     | LBN 623 Sector HR-W d1-39   | Democratico   | 52,731        | Indipendente        | Controllato     |
+|     | LBN 623 Sector HR-W d1-54   | Democratico   | 207,745       | Indipendente        | Controllato     |
+|     | LBN 623 Sector HR-W d1-74   | Democratico   | 100,494       | Indipendente        | Controllato     |
 |     | LBN 623 Sector JM-W d1-52   | Democratico   | 44,792        | Indipendente        | Controllato     |
 |     | LBN 623 Sector KC-V c2-8    | Corporativo   | 355,964       | Indipendente        | Controllato     |
 |     | LBN 623 Sector KI-I a10-0   | Democratico   | 12,650        | Indipendente        | Controllato     |
@@ -305,6 +309,7 @@ Governiamo su **12,211,470,335** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>11 Agosto 3311: Prendiamo il controllo di <b>LBN 623 Sector HR-W d1-74</b></li>
           <li>06 Agosto 3311: La Flotta conquista <b>LBN 623 Sector LD-I a10-2</b></li>
           <li>01 Agosto 3311: Prendiamo il controllo di <b>Tascheter Sector OS-T a3-0</b></li>
           <li>27 Luglio 3311: La Flotta conquista <b>LHS 1743</b></li>
