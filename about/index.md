@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-08-25
+last_modified_at: 2025-09-10
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **250 sistemi**, di cui **159** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **254 sistemi**, di cui **163** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **305** stazioni
-  - **771** insediamenti
-  - **142** installazioni
+  - **302** stazioni
+  - **792** insediamenti
+  - **137** installazioni
   - **1** megaship
 
-Governiamo su **12,359,727,651** abitanti
+Governiamo su **12,453,213,725** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -273,6 +273,7 @@ Governiamo su **12,359,727,651** abitanti
 |     | Tascheter Sector EG-X b1-1  | Democratico   | 23,700        | Indipendente        | Controllato     |
 |     | Tascheter Sector EG-X b1-5  | Democratico   | 13,000        | Indipendente        | Controllato     |
 |     | Tascheter Sector FB-X b1-6  | Democratico   | 4,500         | Indipendente        | Controllato     |
+|     | Tascheter Sector FB-X b1-4  | Democratico   | 9.84 Milioni  | Indipendente        | Controllato     |
 |     | Tascheter Sector FG-X b1-6  | Democratico   | 5,800         | Indipendente        | Controllato     |
 |     | Tascheter Sector GB-X b1-5  | Democratico   | 8,000         | Indipendente        | Controllato     |
 |     | Tascheter Sector IM-V b2-3  | Corporativo   | 4,500         | Federale            | Non Controllato |
@@ -309,6 +310,7 @@ Governiamo su **12,359,727,651** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>10 Settembre 3311: Conquistiamo <b>Tascheter Sector FB-X b1-4</b></li>
           <li>25 Agosto 3311: Acquisiamo il controllo su <b>LBN 623 Sector FM-M b7-0</b></li>
           <li>11 Agosto 3311: Prendiamo il controllo di <b>LBN 623 Sector HR-W d1-74</b></li>
           <li>06 Agosto 3311: La Flotta conquista <b>LBN 623 Sector LD-I a10-2</b></li>
