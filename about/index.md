@@ -332,7 +332,7 @@ Governiamo su **12,453,213,725** abitanti
           <li>04 Maggio 3311: In un solo giorno conquistiamo sia <b>Col 285 Sector JJ-G c11-29</b> che <b>LBN 623 Sector KC-V c2-8</b></li>
           <li>01 Maggio 3311: Senza fare assolutamente nulla in una Elezione non cercata, ci viene regalato il controllo di <b>G 98-44</b></li>
           <li>29 Aprile 3311: Prendiamo il controllo di <b>Col 285 Sector CD-F b13-3</b></li>
-          <li>28 Aprile 3311: Conquistiamo <h>HIP 2442</b></li>
+          <li>28 Aprile 3311: Conquistiamo <b>HIP 2442</b></li>
           <li>24 Aprile 3311: Prendiamo il controllo di <b>Tamalhikas</b> e contemporaneamente ci espandiamo a <b>Trianguli Sector HM-V b2-3</b></li>
           <li>23 Aprile 3311: Iniziamo la guerra per il controllo di <b>HIP 2442</b>, sistema esterno alla Bolla e situato ad oltre 600 LY dai nostri sistemi Core. Da qui iniziamo la colonizzazione di quella porzione di Galassia</li>
           <li>18 Aprile 3311: Prendiamo il controllo di <b>Col 285 Sector CD-F b13-1</b> ed iniziamo la nostra espansione organica fuori Bolla. Nello stesso giorno iniziamo la war per la conquista di <b>Tamalhikas</b>.</li>
@@ -439,7 +439,7 @@ Governiamo su **12,453,213,725** abitanti
           <li>29 Agosto 3307: La Flotta invade <b>SPOCS 253</b>, che entro pochi giorni sarà ufficialmente il quarantaduesimo sistema in cui è presente</li>
           <li>26 Agosto 3307: Dopo mesi passati, seduti in una stanza, aspettando per un si (semicit.), decidiamo di prendere il toro per le corna e conquistiamo <b>Cosi</b>, che diventa così il <b>trentunesimo</b> sistema sotto al nostro diretto controllo. E ci dispiace per gli altri (cit.)</li>
           <li>15 Agosto 3307: LHS 1933 è il quarantatreesimo sistema in cui la Flotta è presente</li>
-          <li>26 Luglio 3306: La nuova espansione ci porta su BD+14 831, sistema già controllato da una PMF, che non stimola il nostro interesse</lI>
+          <li>26 Luglio 3306: La nuova espansione ci porta su BD+14 831, sistema già controllato da una PMF, che non stimola il nostro interesse</li>
           <li>16 Luglio 3307: prendiamo il controllo di <b>Bota Ili</b></li>
           <li>30 Giugno 3307: La Flotta si espande su <b>Bota Ili</b>, quarantesimo sistema in cui siamo presenti</li>
           <li>15 Giugno 3307: In seguito ad una nuova espnasione arriviamo su <b>LP 302-22</b> e mettiamo in moto la nostra macchina diplomatica per raggiungere un accordo di buon vicinato con la fazione già presente.</li>
@@ -482,9 +482,9 @@ Governiamo su **12,453,213,725** abitanti
           <li>10 Marzo 3306: Ci espandiamo verso <b>Susanoo</b>, un piccolo sistema di grande importanza strategica</li>
           <li>4 Marzo 3306: La Flotta esce vincitrice dalla guerra per Julanggarri e ne acquisisce quindi il controllo. Julanggarri diventa <b>l'ottavo sistema sotto il nostro controllo diretto</b></li>
           <li>22 Febbraio 3306: In seguito ad una complessa operazione di intelligence, la Flotta approda a <b>Julanggarri</b>, decisa a conquistare il sistema</li>
-          <li>10 Dicembre 3305: La Flotta riesce ad entrare a <b>NLTT 18561</b>. Obiettivo: prendere il pieno controllo del sistema!</lI>
+          <li>10 Dicembre 3305: La Flotta riesce ad entrare a <b>NLTT 18561</b>. Obiettivo: prendere il pieno controllo del sistema!</li>
           <li>24 Novembre 3305: grazie al lavoro di tutti i reparti della Flotta Stellare, oggi si celebra un doppio colpo! Nello stesso giorno, completiamo la nostra <b>nona espansione</b>, approdando su <b>Wolf 289</b> e diventiamo la Fazione dominante su <b>LTT 12033</b>, prendendone quindi il pieno controllo!</li>
-          <li>9 Novembre 3305: Le nostre mire espansionistiche non si fermano. Oggi siamo approdati su <b>LTT 12033</b>. Il nostro obiettivo per questo sistema è semplice: consolidare la nostra presenza fino al suo controllo totale!</lI>
+          <li>9 Novembre 3305: Le nostre mire espansionistiche non si fermano. Oggi siamo approdati su <b>LTT 12033</b>. Il nostro obiettivo per questo sistema è semplice: consolidare la nostra presenza fino al suo controllo totale!</li>
           <li>1 Ottobre 3305: Flotta Stellare completa la sua sesta espansione ed approda su LHS 6103, sistema già controllato da un’altra fazione e con cui dovremo coabitare. Vista la particolare nazionalità dei nuovi vicini di casa, Flotta Stellare ha affidato ai propri ambasciatori uno speciale compito: offrire loro un comodo bidet in segno di pace</li>
           <li>1 Settembre 3305: Flotta Stellare, dopo un periodo elettorale complicato e combattuto, riesce ad ottenere il controllo totale di <b>14 Geminorum</b>, estendendo la propria idea di governo ad oltre 36 milioni di abitanti</li>
           <li>28 Agosto 3305: Nel nome dell'Imperatore del Sistema, Flotta Stellare acquisisce il controllo di Dewikum, riscendo ad imporre la propria idea di Democrazia ed offrendo biscotti a tutti gli abitanti per festeggiare l'evento</li>
