@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-09-25
+last_modified_at: 2025-10-25
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **259 sistemi**, di cui **165** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **262 sistemi**, di cui **165** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **309** stazioni
-  - **794** insediamenti
-  - **138** installazioni
+  - **314** stazioni
+  - **797** insediamenti
+  - **139** installazioni
   - **1** megaship
 
 Governiamo su **12,453,213,725** abitanti
@@ -158,7 +158,8 @@ Governiamo su **12,453,213,725** abitanti
 |     | Haghwe                      | Dittatoriale  | 140,943       | Indipendente        | Non Controllato |
 |     | HIP 2074                    | Corporativo   | 7,600         | Indipendente        | Non Controllato |
 |     | HIP 2442                    | Democratico   | 13,000        | Indipendente        | Controllato     |
-|     | HIP 4888                    | Democratico   | 0             | Indipendente        | Controllato     |
+|     | HIP 4888                    | Democratico   | 16.31 Milioni | Indipendente        | Controllato     |
+|     | HIP 5035                    | Democratico   | 260.41 Milioni| Indipendente        | Controllato     |
 |     | HIP 28774                   | Corporativo   | 70.11 Milioni | Federale            | Non Controllato |
 |     | HIP 30129                   | Democratico   | 15,000        | Indipendente        | Controllato     |
 |     | HIP 42084                   | Democratico   | 34.56 milioni | Indipendente        | Controllato     |
