@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-10-25
+last_modified_at: 2025-10-08
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **262 sistemi**, di cui **165** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **262 sistemi**, di cui **166** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **314** stazioni
+  - **315** stazioni
   - **797** insediamenti
   - **139** installazioni
   - **1** megaship
 
-Governiamo su **12,453,213,725** abitanti
+Governiamo su **12,868,630,080** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -137,6 +137,7 @@ Governiamo su **12,453,213,725** abitanti
 |     | Col 285 Sector DY-E b13-3   | Democratico   | 51,409        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-2   | Democratico   | 44,795        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-29  | Democratico   | 94,531        | Indipendente        | Controllato     |
+|     | Col 285 Sector MY-Q c5-21   | Democratico   | 718,933       | Indipendente        | Controllato     |
 |     | Col 285 Sector NO-P c6-15   | Democratico   | 51,444        | Indipendente        | Controllato     |
 |     | Col 285 Sector NQ-H a12-1   | Democratico   | 299,527       | Indipendente        | Controllato     |
 |     | Col 285 Sector RD-R c5-6    | Confederato   | 141,093       | Indipendente        | Non Controllato |
@@ -313,6 +314,7 @@ Governiamo su **12,453,213,725** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>08 Ottobre 3311: Dopo un conflitto durato due mesi per via di fastidiosi insetti problematici, riusciamo finalmente a prendere il controllo di <b>Col 285 Sector MY-Q c5-21</b>.</li>
           <li>24 Settembre 3311: Ha il via l'operazione <b>Hotel California</b>, che inizia benissimo: nel giro di appena sei ore colonizziamo <b>California Sector LC-V c2-0</b>, prima testa di ponte verso la nostra futura enclave all'interno della California Nebula.</li>
           <li>10 Settembre 3311: Conquistiamo <b>Tascheter Sector FB-X b1-4</b></li>
           <li>25 Agosto 3311: Acquisiamo il controllo su <b>LBN 623 Sector FM-M b7-0</b></li>
