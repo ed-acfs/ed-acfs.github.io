@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-10-08
+last_modified_at: 2025-10-13
 ---
 <style>
 .wrap-collapsible {
@@ -127,8 +127,8 @@ Governiamo su **12,868,630,080** abitanti
 |     | Betel                       | Democratico   | 396,317       | Indipendente        | Controllato     |
 |     | Bifrost                     | Corporativo   | 100,003       | Indipendente        | Controllato     |
 |     | Bota Ili                    | Democratico   | 86,834        | Indipendente        | Controllato     |
-|     | California Sector JM-V c2-1 | Democratico   | 5,016         | Federale            | Non Controllato |
-|     | California Sector LC-V c2-0 | Democratico   | 0             | Federale            | Non Controllato |
+|     | California Sector JM-V c2-1 | Democratico   | 46,311        | Indipendente        | Controllato     |
+|     | California Sector LC-V c2-0 | Democratico   | 450,697       | Indipendente        | Controllato     |
 |     | Cintices                    | Democratico   | 37,088        | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-0   | Democratico   | 298,123       | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-1   | Democratico   | 19,903,276    | Indipendente        | Controllato     |
@@ -157,6 +157,7 @@ Governiamo su **12,868,630,080** abitanti
 |     | Galibi                      | Corporativo   | 2,011         | Indipendente        | Non Controllato |
 |     | GD 69                       | Corporativo   | 2,644         | Indipendente        | Controllato     |
 |     | Haghwe                      | Dittatoriale  | 140,943       | Indipendente        | Non Controllato |
+|     | HIP 1773                    | Democratico   | 134,549       | Indipendente        | Controllato     |
 |     | HIP 2074                    | Corporativo   | 7,600         | Indipendente        | Non Controllato |
 |     | HIP 2442                    | Democratico   | 13,000        | Indipendente        | Controllato     |
 |     | HIP 4888                    | Democratico   | 16.31 Milioni | Indipendente        | Controllato     |
@@ -314,6 +315,7 @@ Governiamo su **12,868,630,080** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>13 Ottobre 3311: In un solo giorno abbiamo conquistato due sistemi: <b>HIP 1773</b> e, soprattutto, il <b>California Sector LC-V c2-0</b>, situato nel cuore della <b>California Nebula</b>. Qui abbiamo stabilito la nostra nuova casa costruendo la nostra base asteroidale, la <b>[ACFS] Hotel California</b>, che sarà il fulcro delle nostre prossime espansioni e della colonizzazione del settore.</li>
           <li>08 Ottobre 3311: Dopo un conflitto durato due mesi per via di fastidiosi insetti problematici, riusciamo finalmente a prendere il controllo di <b>Col 285 Sector MY-Q c5-21</b>.</li>
           <li>24 Settembre 3311: Ha il via l'operazione <b>Hotel California</b>, che inizia benissimo: nel giro di appena sei ore colonizziamo <b>California Sector LC-V c2-0</b>, prima testa di ponte verso la nostra futura enclave all'interno della California Nebula.</li>
           <li>10 Settembre 3311: Conquistiamo <b>Tascheter Sector FB-X b1-4</b></li>
