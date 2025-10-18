@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **268 sistemi**, di cui **170** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **269 sistemi**, di cui **171** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **321** stazioni
-  - **800** insediamenti
-  - **140** installazioni
+  - **322** stazioni
+  - **801** insediamenti
+  - **141** installazioni
   - **1** megaship
 
-Governiamo su **12,999,582,147** abitanti
+Governiamo su **13,008,351,597** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -129,6 +129,7 @@ Governiamo su **12,999,582,147** abitanti
 |     | Bota Ili                    | Democratico   | 86,834        | Indipendente        | Controllato     |
 |     | California Sector JM-V c2-1 | Democratico   | 46,311        | Indipendente        | Controllato     |
 |     | California Sector LC-V c2-0 | Democratico   | 450,697       | Indipendente        | Controllato     |
+|     | Ceto                        | Democratico   | 47.22 Milioni | Indipendente        | Non Controllato |
 |     | Cintices                    | Democratico   | 37,088        | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-0   | Democratico   | 298,123       | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-1   | Democratico   | 19,903,276    | Indipendente        | Controllato     |
@@ -166,7 +167,7 @@ Governiamo su **12,999,582,147** abitanti
 |     | HIP 30129                   | Democratico   | 15,000        | Indipendente        | Controllato     |
 |     | HIP 42084                   | Democratico   | 34.56 milioni | Indipendente        | Controllato     |
 |     | HIP 70618                   | Democratico   | 53,870        | Indipendente        | Controllato     |
-|     | HIP 81768                   | Anarchico     | 91,451        | Indipendente        | Non Controllato |
+|     | HIP 81768                   | Democratico   | 91,451        | Indipendente        | Controllato     |
 |     | Hyades Sector CM-K b9-5     | Democratico   | 5,300         | Indipendente        | Controllato     |
 |     | Hyades Sector IH-V d2-98    | Democratico   | 8,000         | Indipendente        | Controllato     |
 |     | Hyades Sector TK-M b8-3     | Democratico   | 14,000        | Indipendente        | Controllato     |
@@ -316,6 +317,8 @@ Governiamo su **12,999,582,147** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>18 Ottobre 3311: Dopo una espansione durata tre mesi, approdiamo finalmente su <b>Ceto</b></li>
+          <li>17 Ottobre 3311: Conquistiamo <b>HIP 81768</b>
           <li>13 Ottobre 3311: In un solo giorno abbiamo conquistato due sistemi: <b>HIP 1773</b> e, soprattutto, il <b>California Sector LC-V c2-0</b>, situato nel cuore della <b>California Nebula</b>. Qui abbiamo stabilito la nostra nuova casa costruendo la nostra base asteroidale, la <b>[ACFS] Hotel California</b>, che sarà il fulcro delle nostre prossime espansioni e della colonizzazione del settore.</li>
           <li>08 Ottobre 3311: Dopo un conflitto durato due mesi per via di fastidiosi insetti problematici, riusciamo finalmente a prendere il controllo di <b>Col 285 Sector MY-Q c5-21</b>.</li>
           <li>24 Settembre 3311: Ha il via l'operazione <b>Hotel California</b>, che inizia benissimo: nel giro di appena sei ore colonizziamo <b>California Sector LC-V c2-0</b>, prima testa di ponte verso la nostra futura enclave all'interno della California Nebula.</li>
