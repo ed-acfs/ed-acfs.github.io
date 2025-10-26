@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-10-14
+last_modified_at: 2025-10-26
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **269 sistemi**, di cui **171** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **272 sistemi**, di cui **173** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **322** stazioni
-  - **801** insediamenti
-  - **141** installazioni
+  - **324** stazioni
+  - **805** insediamenti
+  - **138** installazioni
   - **1** megaship
 
-Governiamo su **13,008,351,597** abitanti
+Governiamo su **13,052,051,754** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -127,6 +127,7 @@ Governiamo su **13,008,351,597** abitanti
 |     | Betel                       | Democratico   | 396,317       | Indipendente        | Controllato     |
 |     | Bifrost                     | Corporativo   | 100,003       | Indipendente        | Controllato     |
 |     | Bota Ili                    | Democratico   | 86,834        | Indipendente        | Controllato     |
+|     | California Sector GW-W d1-5 | Democratico   | 33,899        | Indipendente        | Controllato     |
 |     | California Sector JM-V c2-1 | Democratico   | 46,311        | Indipendente        | Controllato     |
 |     | California Sector LC-V c2-0 | Democratico   | 450,697       | Indipendente        | Controllato     |
 |     | Ceto                        | Democratico   | 47.22 Milioni | Indipendente        | Non Controllato |
@@ -267,6 +268,7 @@ Governiamo su **13,008,351,597** abitanti
 |     | SPOCS 253                   | Democrativo   | 1.16 Miliardi | Indipendente        | Controllato     |
 |     | Susanoo                     | Democratico   | 2,644         | Indipendente        | Controllato     |
 |     | Suyarang                    | Democratico   | 31,15 Milioni | Indipendente        | Controllato     |
+|     | Synuefai ZT-W b7-0          | Democratico   | 6,000         | Indipendente        | Controllato     |
 |     | Synuefai OA-Y c17-13        | Democratico   | 6,000         | Indipendente        | Controllato     |
 |     | Synuefai BG-W b35-0         | Democratico   | 6,000         | Indipendente        | Controllato     |
 |     | Synuefai TU-M d8-36         | Democratico   | 6,000         | Indipendente        | Controllato     |
@@ -317,6 +319,7 @@ Governiamo su **13,008,351,597** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>26 Ottobre 3311: L'Operazione California prosegue, col completamento di <b>California Sector GW-W d1-5</b> e di <b>Synuefai ZT-W b7-0</b>.</li>
           <li>18 Ottobre 3311: Dopo una espansione durata tre mesi, approdiamo finalmente su <b>Ceto</b></li>
           <li>17 Ottobre 3311: Conquistiamo <b>HIP 81768</b>
           <li>13 Ottobre 3311: In un solo giorno abbiamo conquistato due sistemi: <b>HIP 1773</b> e, soprattutto, il <b>California Sector LC-V c2-0</b>, situato nel cuore della <b>California Nebula</b>. Qui abbiamo stabilito la nostra nuova casa costruendo la nostra base asteroidale, la <b>[ACFS] Hotel California</b>, che sarà il fulcro delle nostre prossime espansioni e della colonizzazione del settore.</li>
