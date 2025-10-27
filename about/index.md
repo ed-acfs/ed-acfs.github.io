@@ -321,7 +321,7 @@ Governiamo su **13,052,051,754** abitanti
       <ul>
           <li>26 Ottobre 3311: L'Operazione California prosegue, col completamento di <b>California Sector GW-W d1-5</b> e di <b>Synuefai ZT-W b7-0</b>.</li>
           <li>18 Ottobre 3311: Dopo una espansione durata tre mesi, approdiamo finalmente su <b>Ceto</b></li>
-          <li>17 Ottobre 3311: Conquistiamo <b>HIP 81768</b>
+          <li>17 Ottobre 3311: Conquistiamo <b>HIP 81768</b></li>
           <li>13 Ottobre 3311: In un solo giorno abbiamo conquistato due sistemi: <b>HIP 1773</b> e, soprattutto, il <b>California Sector LC-V c2-0</b>, situato nel cuore della <b>California Nebula</b>. Qui abbiamo stabilito la nostra nuova casa costruendo la nostra base asteroidale, la <b>[ACFS] Hotel California</b>, che sarà il fulcro delle nostre prossime espansioni e della colonizzazione del settore.</li>
           <li>08 Ottobre 3311: Dopo un conflitto durato due mesi per via di fastidiosi insetti problematici, riusciamo finalmente a prendere il controllo di <b>Col 285 Sector MY-Q c5-21</b>.</li>
           <li>24 Settembre 3311: Ha il via l'operazione <b>Hotel California</b>, che inizia benissimo: nel giro di appena sei ore colonizziamo <b>California Sector LC-V c2-0</b>, prima testa di ponte verso la nostra futura enclave all'interno della California Nebula.</li>
