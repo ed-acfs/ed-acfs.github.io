@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-10-26
+last_modified_at: 2025-11-02
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **272 sistemi**, di cui **173** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **277 sistemi**, di cui **177** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **324** stazioni
-  - **805** insediamenti
-  - **138** installazioni
+  - **329** stazioni
+  - **808** insediamenti
+  - **139** installazioni
   - **1** megaship
 
-Governiamo su **13,052,051,754** abitanti
+Governiamo su **13,238,265,880** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -268,14 +268,27 @@ Governiamo su **13,052,051,754** abitanti
 |     | SPOCS 253                   | Democrativo   | 1.16 Miliardi | Indipendente        | Controllato     |
 |     | Susanoo                     | Democratico   | 2,644         | Indipendente        | Controllato     |
 |     | Suyarang                    | Democratico   | 31,15 Milioni | Indipendente        | Controllato     |
-|     | Synuefai ZT-W b7-0          | Democratico   | 6,000         | Indipendente        | Controllato     |
-|     | Synuefai OA-Y c17-13        | Democratico   | 6,000         | Indipendente        | Controllato     |
-|     | Synuefai BG-W b35-0         | Democratico   | 6,000         | Indipendente        | Controllato     |
-|     | Synuefai TU-M d8-36         | Democratico   | 6,000         | Indipendente        | Controllato     |
-|     | Synuefai TU-M d8-38         | Democratico   | 6,000         | Indipendente        | Controllato     |
+|     | Synuefai BG-W b35-0         | Democratico   | 90,658        | Indipendente        | Controllato     |
+|     | Synuefai BG-W b35-2         | Democratico   | 225,134       | Indipendente        | Controllato     |
+|     | Synuefai BQ-X b34-3         | Democratico   | 97,026        | Indipendente        | Controllato     |
+|     | Synuefai EB-W b35-1         | Democratico   | 12,759,450    | Indipendente        | Controllato     |
+|     | Synuefai JB-A c3-3          | Democratico   | 20,187        | Indipendente        | Controllato     |
+|     | Synuefai JC-U b36-0         | Democratico   | 0             | Indipendente        | Controllato     |
+|     | Synuefai OA-Y c17-13        | Democratico   | 116,079       | Indipendente        | Controllato     |
+|     | Synuefai QV-X c17-5         | Democratico   | 103,797       | Indipendente        | Controllato     |
+|     | Synuefai QV-X c17-7         | Democratico   | 27,382,987	  | Indipendente        | Controllato     |
+|     | Synuefai SU-M d8-12         | Democratico   | 135,452       | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-14         | Democratico   | 104,288       | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-25         | Democratico   | 45,097,534    | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-36         | Democratico   | 127,576       | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-38         | Democratico   | 115,988       | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-41         | Democratico   | 1,256,325	    | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-50         | Democratico   | 37,513,634    | Indipendente        | Controllato     |
 |     | Synuefai VW-U c19-3         | Corporativo   | 6,000         | Indipendente        | Non Controllato |
-|     | Synuefai ZF-W b35-0         | Democratico   | 6,000         | Indipendente        | Controllato     |
-|     | Synuefai ZF-W b35-2         | Democratico   | 6,000         | Indipendente        | Controllato     |
+|     | Synuefai WN-Y b6-0          | Democratico   | 0             | Indipendente        | Controllato     | 
+|     | Synuefai ZF-W b35-0         | Democratico   | 128,188       | Indipendente        | Controllato     |
+|     | Synuefai ZF-W b35-2         | Democratico   | 114,619       | Indipendente        | Controllato     |
+|     | Synuefai ZT-W b7-0          | Democratico   | 17,972        | Indipendente        | Controllato     |
 |     | Tamalhikas                  | Democratico   | 3.76 Milioni  | Indipendente        | Controllato     |
 |     | Tao Ti                      | Democratico   | 3.41 Milioni  | Indipendente        | Controllato     |
 |     | Tascheter Sector DV-Y a0    | Democratico   | 9,000         | Indipendente        | Controllato     |
