@@ -334,7 +334,7 @@ Governiamo su **13,327,651,951** abitanti
     <div class="content-inner">
       <ul>
           <li>11 Novembre 3311: La nostra espansione nella California Nebula ci regala tre nuovi sistemi: <b>Synuefai IG-A c3-7</b>, <b>Synuefai US-Y b6-1</b> e <b>Synuefai OR-A b6-0</b></li>
-          <li>09 Novembre 3311: <i>...to boldly go where no mans has gone before...</i>: <b>Lagoon Sector YZ-Y c6</b>, a 5.000 LY dalla Bolla, diventa un sistema Flotta Stellare</li>
+          <li>09 Novembre 3311: <i>"...to boldly go where no mans has gone before..."</i> <b>Lagoon Sector YZ-Y c6</b>, a 5.000 LY dalla Bolla, diventa un sistema Flotta Stellare</li>
           <li>03 Novembre 3311: I sistemi <b>Synuefai JB-A c3-3</b>, <b>Synuefai WN-Y b6-0</b> e <b>Synuefai KB-A c3-0</b> vengono colonizzati e passano sotto al controllo della Flotta</li>
           <li>26 Ottobre 3311: L'Operazione California prosegue, col completamento di <b>California Sector GW-W d1-5</b> e di <b>Synuefai ZT-W b7-0</b>.</li>
           <li>18 Ottobre 3311: Dopo una espansione durata tre mesi, approdiamo finalmente su <b>Ceto</b></li>
