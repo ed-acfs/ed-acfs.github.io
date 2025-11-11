@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-11-02
+last_modified_at: 2025-11-11
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **277 sistemi**, di cui **177** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **284 sistemi**, di cui **184** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **329** stazioni
-  - **808** insediamenti
-  - **139** installazioni
+  - **341** stazioni
+  - **810** insediamenti
+  - **138** installazioni
   - **1** megaship
 
-Governiamo su **13,238,265,880** abitanti
+Governiamo su **13,327,651,951** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -275,6 +275,7 @@ Governiamo su **13,238,265,880** abitanti
 |     | Synuefai JB-A c3-3          | Democratico   | 20,187        | Indipendente        | Controllato     |
 |     | Synuefai JC-U b36-0         | Democratico   | 0             | Indipendente        | Controllato     |
 |     | Synuefai OA-Y c17-13        | Democratico   | 116,079       | Indipendente        | Controllato     |
+|     | Synuefai OR-A b6-0          | Democratico   | 10,023        | Indipendente        | Controllato     |
 |     | Synuefai QV-X c17-5         | Democratico   | 103,797       | Indipendente        | Controllato     |
 |     | Synuefai QV-X c17-7         | Democratico   | 27,382,987	  | Indipendente        | Controllato     |
 |     | Synuefai SU-M d8-12         | Democratico   | 135,452       | Indipendente        | Controllato     |
@@ -332,6 +333,9 @@ Governiamo su **13,238,265,880** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>11 Novembre 3311: La nostra espansione nella California Nebula ci regala tre nuovi sistemi: <b>Synuefai IG-A c3-7</b>, <b>Synuefai US-Y b6-1</b> e <b>Synuefai OR-A b6-0</b></li>
+          <li>09 Novembre 3311: <i>...to boldly go where no mans has gone before...</i>: <b>Lagoon Sector YZ-Y c6</b>, a 5.000 LY dalla Bolla, diventa un sistema Flotta Stellare</li>
+          <li>03 Novembre 3311: I sistemi <b>Synuefai JB-A c3-3</b>, <b>Synuefai WN-Y b6-0</b> e <b>Synuefai KB-A c3-0</b> vengono colonizzati e passano sotto al controllo della Flotta<li>
           <li>26 Ottobre 3311: L'Operazione California prosegue, col completamento di <b>California Sector GW-W d1-5</b> e di <b>Synuefai ZT-W b7-0</b>.</li>
           <li>18 Ottobre 3311: Dopo una espansione durata tre mesi, approdiamo finalmente su <b>Ceto</b></li>
           <li>17 Ottobre 3311: Conquistiamo <b>HIP 81768</b></li>
