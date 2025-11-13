@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-11-11
+last_modified_at: 2025-11-13
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **284 sistemi**, di cui **184** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **285 sistemi**, di cui **185** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **341** stazioni
+  - **345** stazioni
   - **810** insediamenti
-  - **138** installazioni
+  - **139** installazioni
   - **1** megaship
 
-Governiamo su **13,327,651,951** abitanti
+Governiamo su **13,353,854,511** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -143,6 +143,7 @@ Governiamo su **13,327,651,951** abitanti
 |     | Col 285 Sector NO-P c6-15   | Democratico   | 51,444        | Indipendente        | Controllato     |
 |     | Col 285 Sector NQ-H a12-1   | Democratico   | 299,527       | Indipendente        | Controllato     |
 |     | Col 285 Sector RD-R c5-6    | Confederato   | 141,093       | Indipendente        | Non Controllato |
+|     | Col 285 Sector ZV-M d7-91   | Anarchico     | 63,308        | Indipendente        | Non Controllato |
 |     | Cosi                        | Democratico   | 4.41 Miliardi | Indipendente        | Controllato     |
 |     | Dazbog                      | Democratico   | 11,000        | Indipendente        | Controllato     |
 |     | Dewikum                     | Confederato   | 38,738        | Indipendente        | Controllato     |
@@ -333,6 +334,7 @@ Governiamo su **13,327,651,951** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>14 Novembre 3311: Ci espandiamo su <b>Col 285 Sector ZV-M d7-91</b></li>
           <li>11 Novembre 3311: La nostra espansione nella California Nebula ci regala tre nuovi sistemi: <b>Synuefai IG-A c3-7</b>, <b>Synuefai US-Y b6-1</b> e <b>Synuefai OR-A b6-0</b></li>
           <li>09 Novembre 3311: <i>"...to boldly go where no mans has gone before..."</i> <b>Lagoon Sector YZ-Y c6</b>, a 5.000 LY dalla Bolla, diventa un sistema Flotta Stellare</li>
           <li>03 Novembre 3311: I sistemi <b>Synuefai JB-A c3-3</b>, <b>Synuefai WN-Y b6-0</b> e <b>Synuefai KB-A c3-0</b> vengono colonizzati e passano sotto al controllo della Flotta</li>
