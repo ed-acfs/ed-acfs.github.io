@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-11-13
+last_modified_at: 2025-11-28
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **285 sistemi**, di cui **185** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **293 sistemi**, di cui **190** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **345** stazioni
-  - **810** insediamenti
-  - **139** installazioni
+  - **357** stazioni
+  - **816** insediamenti
+  - **138** installazioni
   - **1** megaship
 
-Governiamo su **13,353,854,511** abitanti
+Governiamo su **13,488,265,633** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -112,7 +112,7 @@ Governiamo su **13,353,854,511** abitanti
 | 👑  | Wong Sher                   | Democratico   | 90,049        | Indipendente        | Controllato     |
 |     | 111 Tauri                   | Corporativo   | 151,113       | Federale            | Non Controllato |
 |     | 14 Geminorum                | Democratico   | 36.42 Milioni | Indipendente        | Controllato     |
-|     | 37 Geminorum                | Dittatoriale  | 9,207,049,116 | Indipendente        | Non Controllat  |
+|     | 37 Geminorum                | Dittatoriale  | 9,207,049,116 | Indipendente        | Non Controllato |
 |     | 71 Orionis                  | Democratico   | 11,000        | Indipendente        | Controllato     |
 |     | 74 K Orionis                | Democratico   | 11,000        | Indipendente        | Controllato     |
 |     | Aldebaran                   | Democratico   | 15,000        | Indipendente        | Controllato     |
@@ -273,12 +273,18 @@ Governiamo su **13,353,854,511** abitanti
 |     | Synuefai BG-W b35-2         | Democratico   | 225,134       | Indipendente        | Controllato     |
 |     | Synuefai BQ-X b34-3         | Democratico   | 97,026        | Indipendente        | Controllato     |
 |     | Synuefai EB-W b35-1         | Democratico   | 12,759,450    | Indipendente        | Controllato     |
+|     | Synuefai IG-A c3-7          | Democratico   | 32,177        | Indipendente        | Controllato     |
 |     | Synuefai JB-A c3-3          | Democratico   | 20,187        | Indipendente        | Controllato     |
-|     | Synuefai JC-U b36-0         | Democratico   | 0             | Indipendente        | Controllato     |
+|     | Synuefai JC-U b36-0         | Democratico   | 38,252        | Indipendente        | Controllato     |
+|     | Synuefai KB-A c3-0          | Democratico   |	41,837        | Indipendente        | Controllato     |
 |     | Synuefai OA-Y c17-13        | Democratico   | 116,079       | Indipendente        | Controllato     |
+|     | Synuefai OC-B d1-13         | Democratico   | 10,007        | Indipendente        | Controllato     |
 |     | Synuefai OR-A b6-0          | Democratico   | 10,023        | Indipendente        | Controllato     |
+|     | Synuefai OR-A b6-1          | Democratico   | 10,023        | Indipendente        | Controllato     |
+|     | Synuefai QC-Z b6-1          | Democratico   | 13,191        | Indipendente        | Controllato     |
 |     | Synuefai QV-X c17-5         | Democratico   | 103,797       | Indipendente        | Controllato     |
 |     | Synuefai QV-X c17-7         | Democratico   | 27,382,987	  | Indipendente        | Controllato     |
+|     | Synuefai US-Y b6-1          | Democratico   | 25,221        | Indipendente        | Controllato     |
 |     | Synuefai SU-M d8-12         | Democratico   | 135,452       | Indipendente        | Controllato     |
 |     | Synuefai TU-M d8-14         | Democratico   | 104,288       | Indipendente        | Controllato     |
 |     | Synuefai TU-M d8-25         | Democratico   | 45,097,534    | Indipendente        | Controllato     |
@@ -287,7 +293,7 @@ Governiamo su **13,353,854,511** abitanti
 |     | Synuefai TU-M d8-41         | Democratico   | 1,256,325	    | Indipendente        | Controllato     |
 |     | Synuefai TU-M d8-50         | Democratico   | 37,513,634    | Indipendente        | Controllato     |
 |     | Synuefai VW-U c19-3         | Corporativo   | 6,000         | Indipendente        | Non Controllato |
-|     | Synuefai WN-Y b6-0          | Democratico   | 0             | Indipendente        | Controllato     | 
+|     | Synuefai WN-Y b6-0          | Democratico   | 44,503        | Indipendente        | Controllato     | 
 |     | Synuefai ZF-W b35-0         | Democratico   | 128,188       | Indipendente        | Controllato     |
 |     | Synuefai ZF-W b35-2         | Democratico   | 114,619       | Indipendente        | Controllato     |
 |     | Synuefai ZT-W b7-0          | Democratico   | 17,972        | Indipendente        | Controllato     |
@@ -334,9 +340,11 @@ Governiamo su **13,353,854,511** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>28 Novembre 3311: L'operazione California prosegue, con altri cinque sistemi annessi sotto il nostro controllo. <b>Synuefai OC-B d1-13</b> diventa il sistema n. 293 sotto il controllo della Flotta</li>
+          <li>25 Novembre 3311: La terza espansione organica dalla ripartenza delle meccaniche politiche ci porta su <b>Trianguli Sector GM-V b2-4</b></li>
           <li>14 Novembre 3311: Ci espandiamo su <b>Col 285 Sector ZV-M d7-91</b></li>
           <li>11 Novembre 3311: La nostra espansione nella California Nebula ci regala tre nuovi sistemi: <b>Synuefai IG-A c3-7</b>, <b>Synuefai US-Y b6-1</b> e <b>Synuefai OR-A b6-0</b></li>
-          <li>09 Novembre 3311: <i>"...to boldly go where no mans has gone before..."</i> <b>Lagoon Sector YZ-Y c6</b>, a 5.000 LY dalla Bolla, diventa un sistema Flotta Stellare</li>
+          <li>09 Novembre 3311: <i>"...to boldly go where no man has gone before..."</i> <b>Lagoon Sector YZ-Y c6</b>, a 5.000 LY dalla Bolla, diventa un sistema Flotta Stellare</li>
           <li>03 Novembre 3311: I sistemi <b>Synuefai JB-A c3-3</b>, <b>Synuefai WN-Y b6-0</b> e <b>Synuefai KB-A c3-0</b> vengono colonizzati e passano sotto al controllo della Flotta</li>
           <li>26 Ottobre 3311: L'Operazione California prosegue, col completamento di <b>California Sector GW-W d1-5</b> e di <b>Synuefai ZT-W b7-0</b>.</li>
           <li>18 Ottobre 3311: Dopo una espansione durata tre mesi, approdiamo finalmente su <b>Ceto</b></li>
