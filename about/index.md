@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-11-28
+last_modified_at: 2025-11-29
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **293 sistemi**, di cui **190** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **294 sistemi**, di cui **191** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **357** stazioni
   - **816** insediamenti
   - **138** installazioni
   - **1** megaship
 
-Governiamo su **13,488,265,633** abitanti
+Governiamo su **13,495,043,541** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -277,6 +277,7 @@ Governiamo su **13,488,265,633** abitanti
 |     | Synuefai JB-A c3-3          | Democratico   | 20,187        | Indipendente        | Controllato     |
 |     | Synuefai JC-U b36-0         | Democratico   | 38,252        | Indipendente        | Controllato     |
 |     | Synuefai KB-A c3-0          | Democratico   |	41,837        | Indipendente        | Controllato     |
+|     | Synuefai MW-A b6-0          | Democratico   |	0             | Indipendente        | Controllato     |
 |     | Synuefai OA-Y c17-13        | Democratico   | 116,079       | Indipendente        | Controllato     |
 |     | Synuefai OC-B d1-13         | Democratico   | 10,007        | Indipendente        | Controllato     |
 |     | Synuefai OR-A b6-0          | Democratico   | 10,023        | Indipendente        | Controllato     |
