@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-11-29
+last_modified_at: 2025-12-06
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **294 sistemi**, di cui **191** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **300 sistemi**, di cui **196** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **357** stazioni
-  - **816** insediamenti
-  - **138** installazioni
+  - **365** stazioni
+  - **822** insediamenti
+  - **145** installazioni
   - **1** megaship
 
-Governiamo su **13,495,043,541** abitanti
+Governiamo su **13,536,665,522** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -162,6 +162,8 @@ Governiamo su **13,495,043,541** abitanti
 |     | Haghwe                      | Dittatoriale  | 140,943       | Indipendente        | Non Controllato |
 |     | HIP 1773                    | Democratico   | 134,549       | Indipendente        | Controllato     |
 |     | HIP 2074                    | Corporativo   | 7,600         | Indipendente        | Non Controllato |
+|     | HIP 2101                    | Corporativo   | 296,624       | Indipendente        | Non Controllato |
+|     | HIP 22403                   | Democratico   | 9,160,935     | Indipendente        | Controllato     |
 |     | HIP 2442                    | Democratico   | 13,000        | Indipendente        | Controllato     |
 |     | HIP 4888                    | Democratico   | 16.31 Milioni | Indipendente        | Controllato     |
 |     | HIP 5035                    | Democratico   | 260.41 Milioni| Indipendente        | Controllato     |
@@ -234,6 +236,7 @@ Governiamo su **13,495,043,541** abitanti
 |     | LP 542-33                   | Democratico   | 619,763       | Indipendente        | Controllato     |
 |     | LTT 12033                   | Democratico   | 118,987       | Indipendente        | Controllato     |
 |     | LTT 17868                   | Democratico   | 98,232        | Indipendente        | Controllato     |
+|     | LTT 2454                    | Cooperativo   | 39,122        | Indipendente        | Non Controllato |
 |     | Lumbla                      | Democratico   | 6.73 Milioni  | Indipendente        | Controllato     |
 |     | Lyncis Sector CL-Y d68      | Democratico   | 31,300        | Indipendente        | Controllato     |
 |     | m Tauri                     | Democratico   | 8.78 Milioni  | Indipendente        | Controllato     |
@@ -277,8 +280,11 @@ Governiamo su **13,495,043,541** abitanti
 |     | Synuefai JB-A c3-3          | Democratico   | 20,187        | Indipendente        | Controllato     |
 |     | Synuefai JC-U b36-0         | Democratico   | 38,252        | Indipendente        | Controllato     |
 |     | Synuefai KB-A c3-0          | Democratico   |	41,837        | Indipendente        | Controllato     |
+|     | Synuefai LL-C b5-0          | Democratico   | 23,045        | Indipendente        | Controllato     |
 |     | Synuefai MW-A b6-0          | Democratico   |	0             | Indipendente        | Controllato     |
+|     | Synuefai NW-A b6-0          | Democratico   |	0             | Indipendente        | Controllato     |
 |     | Synuefai OA-Y c17-13        | Democratico   | 116,079       | Indipendente        | Controllato     |
+|     | Synuefai OC-B d1-1          | Democratico   | 10,007        | Indipendente        | Controllato     |
 |     | Synuefai OC-B d1-13         | Democratico   | 10,007        | Indipendente        | Controllato     |
 |     | Synuefai OR-A b6-0          | Democratico   | 10,023        | Indipendente        | Controllato     |
 |     | Synuefai OR-A b6-1          | Democratico   | 10,023        | Indipendente        | Controllato     |
@@ -341,6 +347,9 @@ Governiamo su **13,495,043,541** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>08 Dicembre 3311: Una espansione regolare ci porta su <b>LTT 2545</b>.</li>
+          <li>06 Dicembre 3311: Giungiamo al nostro obiettivo <b>HIP 22403</b>, in cui stabiliamo una sfavillante <b>Stazione Dodec</b></li>
+          <li>05 Dicembre 3311: Completiamo il ponte, colonizzando <b>Synuefai MW-A b6-0</b>, <b>Synuefai NW-A b6-0</b>, <b>Synuefai LL-C b5-0</b> e <b>Synuefai OC-B d1-1</b>.</li>
           <li>28 Novembre 3311: L'operazione California prosegue, con altri cinque sistemi annessi sotto il nostro controllo. <b>Synuefai OC-B d1-13</b> diventa il sistema n. 293 sotto il controllo della Flotta</li>
           <li>25 Novembre 3311: La terza espansione organica dalla ripartenza delle meccaniche politiche ci porta su <b>Trianguli Sector GM-V b2-4</b></li>
           <li>14 Novembre 3311: Ci espandiamo su <b>Col 285 Sector ZV-M d7-91</b></li>
