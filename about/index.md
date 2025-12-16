@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-12-06
+last_modified_at: 2025-12-16
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **300 sistemi**, di cui **196** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **303 sistemi**, di cui **200** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **365** stazioni
-  - **822** insediamenti
-  - **145** installazioni
+  - **369** stazioni
+  - **823** insediamenti
+  - **144** installazioni
   - **1** megaship
 
-Governiamo su **13,536,665,522** abitanti
+Governiamo su **18,917,548,916** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -187,6 +187,7 @@ Governiamo su **13,536,665,522** abitanti
 |     | Kiga                        | Democratico   | 221,725       | Indipendente        | Controllato     |
 |     | Klikudiya                   | Dittatoriale  | 13.717 Milioni| Indipendente        | Non Controllato |
 |     | Kungurutii                  | Democratico   | 95,223        | Indipendente        | Controllato     |
+|     | Kvashirua                   | Corporativo   | 237,869       | Indipendente        | Non Controllato |
 |     | Kweretet                    | Democratico   | 22,148        | Indipendente        | Non Controllato |
 |     | Lalande 15394               | Dittatoriale  | 9.658 Milioni | Indipendente        | Non Controllato |
 |     | Lalande 15547               | Dittatoriale  | 2,500         | Indipendente        | Non Controllato |
@@ -251,7 +252,7 @@ Governiamo su **13,536,665,522** abitanti
 |     | Nandjabinja                 | Democratico   | 3.46 Milioni  | Indipendente        | Controllato     |
 |     | Nareni                      | Confederato   | 3.50 Milioni  | Indipendente        | Controllato     |
 |     | Ndozins                     | Democratico   | 2,821         | Indipendente        | Controllato     |
-|     | Ninmah                      | Democratico   | 5,326,478,276 | Indipendente        | Non Controllato |
+|     | Ninmah                      | Democratico   | 5,326,478,276 | Indipendente        | Controllato     |
 |     | NLTT 16391                  | Democratico   | 2,916,824     | Indipendente        | Controllato     |
 |     | NLTT 18561                  | Democratico   | 30.62 Milioni | Indipendente        | Controllato     |
 |     | Opila                       | Corporativo   | 3.30 Miliardi | Federale            | Non Controllato |
@@ -347,6 +348,7 @@ Governiamo su **13,536,665,522** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>16 Dicembre 3311: Una guerra di cui siamo solo spettatori ci regala il controllo di <b>Ninmah</b> e dei suoi oltre 3 miliardi di abitanti</li>
           <li>08 Dicembre 3311: Una espansione regolare ci porta su <b>LTT 2545</b>.</li>
           <li>06 Dicembre 3311: Giungiamo al nostro obiettivo <b>HIP 22403</b>, in cui stabiliamo una sfavillante <b>Stazione Dodec</b></li>
           <li>05 Dicembre 3311: Completiamo il ponte, colonizzando <b>Synuefai MW-A b6-0</b>, <b>Synuefai NW-A b6-0</b>, <b>Synuefai LL-C b5-0</b> e <b>Synuefai OC-B d1-1</b>.</li>
@@ -356,6 +358,7 @@ Governiamo su **13,536,665,522** abitanti
           <li>11 Novembre 3311: La nostra espansione nella California Nebula ci regala tre nuovi sistemi: <b>Synuefai IG-A c3-7</b>, <b>Synuefai US-Y b6-1</b> e <b>Synuefai OR-A b6-0</b></li>
           <li>09 Novembre 3311: <i>"...to boldly go where no man has gone before..."</i> <b>Lagoon Sector YZ-Y c6</b>, a 5.000 LY dalla Bolla, diventa un sistema Flotta Stellare</li>
           <li>03 Novembre 3311: I sistemi <b>Synuefai JB-A c3-3</b>, <b>Synuefai WN-Y b6-0</b> e <b>Synuefai KB-A c3-0</b> vengono colonizzati e passano sotto al controllo della Flotta</li>
+          <li>27 Ottobre 3311: Ci espandiamo su <b>Kvashirua</b></li>
           <li>26 Ottobre 3311: L'Operazione California prosegue, col completamento di <b>California Sector GW-W d1-5</b> e di <b>Synuefai ZT-W b7-0</b>.</li>
           <li>18 Ottobre 3311: Dopo una espansione durata tre mesi, approdiamo finalmente su <b>Ceto</b></li>
           <li>17 Ottobre 3311: Conquistiamo <b>HIP 81768</b></li>
