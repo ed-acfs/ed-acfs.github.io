@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-12-16
+last_modified_at: 2025-12-17
 ---
 <style>
 .wrap-collapsible {
@@ -99,11 +99,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 Siamo presenti in: **303 sistemi**, di cui **200** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **369** stazioni
-  - **823** insediamenti
+  - **826** insediamenti
   - **144** installazioni
   - **1** megaship
 
-Governiamo su **18,917,548,916** abitanti
+Governiamo su **19,121,939,000** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -237,7 +237,7 @@ Governiamo su **18,917,548,916** abitanti
 |     | LP 542-33                   | Democratico   | 619,763       | Indipendente        | Controllato     |
 |     | LTT 12033                   | Democratico   | 118,987       | Indipendente        | Controllato     |
 |     | LTT 17868                   | Democratico   | 98,232        | Indipendente        | Controllato     |
-|     | LTT 2454                    | Cooperativo   | 39,122        | Indipendente        | Non Controllato |
+|     | LTT 2545                    | Cooperativo   | 39,122        | Indipendente        | Non Controllato |
 |     | Lumbla                      | Democratico   | 6.73 Milioni  | Indipendente        | Controllato     |
 |     | Lyncis Sector CL-Y d68      | Democratico   | 31,300        | Indipendente        | Controllato     |
 |     | m Tauri                     | Democratico   | 8.78 Milioni  | Indipendente        | Controllato     |
