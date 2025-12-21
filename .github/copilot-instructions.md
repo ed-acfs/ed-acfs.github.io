@@ -26,6 +26,13 @@ This is a Jekyll-based static site for the Italian Elite Dangerous squadron "Alt
 - **SEO**: Use `sitemap` front matter for custom sitemap entries, `robots: noindex` for tag pages
 - **Images**: Store in `images/`, reference with `/images/filename`
 
+### Developer Workflow
+- **Adding a New Post**: Create file in `_posts/` with date prefix (YYYY-MM-DD-title.md), add front matter with `title`, `tags`, `author`, `image`, then run `python tag_generator.py` to update tags
+- **Adding a Guide**: Similar to posts but in `_guide/` directory
+- **Updating Authors**: Edit `_data/authors.yml` with new author keys and details
+- **Navigation Changes**: Modify `_data/navigation.yml` for menu updates
+- **Testing Changes**: Use `bundle exec jekyll serve` to preview locally before committing
+
 ### Integration Points
 - **External Links**: Inara.cz profiles, social media (Twitter, Facebook, Telegram)
 - **Analytics**: Google Analytics with ID in `_config.yml`

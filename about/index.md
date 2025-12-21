@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-12-17
+last_modified_at: 2025-12-21
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **303 sistemi**, di cui **200** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **304 sistemi**, di cui **200** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **369** stazioni
-  - **826** insediamenti
-  - **144** installazioni
+  - **370** stazioni
+  - **838** insediamenti
+  - **143** installazioni
   - **1** megaship
 
 Governiamo su **19,121,939,000** abitanti
@@ -256,6 +256,7 @@ Governiamo su **19,121,939,000** abitanti
 |     | NLTT 16391                  | Democratico   | 2,916,824     | Indipendente        | Controllato     |
 |     | NLTT 18561                  | Democratico   | 30.62 Milioni | Indipendente        | Controllato     |
 |     | Opila                       | Corporativo   | 3.30 Miliardi | Federale            | Non Controllato |
+|     | OU Geminorum                | Dittatoriale  | 7,781,945,847 | Indipendente        | Non Controllato |
 |     | Pechua                      | Democratico   | 6,369         | Indipendente        | Non Controllato |
 |     | Pinyin                      | Corporativo   | 51,651        | Federale            | Non Controllato |
 |     | Pularungu                   | Democratico   | 4.37 Milioni  | Indipendente        | Controllato     |
@@ -348,6 +349,7 @@ Governiamo su **19,121,939,000** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>22 Dicembre 3311: Ci espandiamo su <b>OU Geminorum</b></li>
           <li>16 Dicembre 3311: Una guerra di cui siamo solo spettatori ci regala il controllo di <b>Ninmah</b> e dei suoi oltre 3 miliardi di abitanti</li>
           <li>08 Dicembre 3311: Una espansione regolare ci porta su <b>LTT 2545</b>.</li>
           <li>06 Dicembre 3311: Giungiamo al nostro obiettivo <b>HIP 22403</b>, in cui stabiliamo una sfavillante <b>Stazione Dodec</b></li>
