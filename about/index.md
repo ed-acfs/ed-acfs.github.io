@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-12-21
+last_modified_at: 2025-12-28
 ---
 <style>
 .wrap-collapsible {
@@ -96,11 +96,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **304 sistemi**, di cui **200** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **306 sistemi**, di cui **202** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **370** stazioni
-  - **838** insediamenti
-  - **143** installazioni
+  - **374** stazioni
+  - **844** insediamenti
+  - **144** installazioni
   - **1** megaship
 
 Governiamo su **19,121,939,000** abitanti
@@ -308,6 +308,7 @@ Governiamo su **19,121,939,000** abitanti
 |     | Synuefai ZT-W b7-0          | Democratico   | 17,972        | Indipendente        | Controllato     |
 |     | Tamalhikas                  | Democratico   | 3.76 Milioni  | Indipendente        | Controllato     |
 |     | Tao Ti                      | Democratico   | 3.41 Milioni  | Indipendente        | Controllato     |
+|     | Tascheter Sector DG-X b1-3  | Democratico   | 124,022       | Indipendente        | Controllato     |
 |     | Tascheter Sector DV-Y a0    | Democratico   | 9,000         | Indipendente        | Controllato     |
 |     | Tascheter Sector EG-X b1-1  | Democratico   | 23,700        | Indipendente        | Controllato     |
 |     | Tascheter Sector EG-X b1-5  | Democratico   | 13,000        | Indipendente        | Controllato     |
@@ -349,6 +350,7 @@ Governiamo su **19,121,939,000** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>27 Dicembre 3311: prendiamo il controllo di <b>Tascheter Sector DG-X b1-3</b></li>
           <li>22 Dicembre 3311: Ci espandiamo su <b>OU Geminorum</b></li>
           <li>16 Dicembre 3311: Una guerra di cui siamo solo spettatori ci regala il controllo di <b>Ninmah</b> e dei suoi oltre 3 miliardi di abitanti</li>
           <li>08 Dicembre 3311: Una espansione regolare ci porta su <b>LTT 2545</b>.</li>
