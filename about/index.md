@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2025-12-28
+last_modified_at: 2026-01-03
 ---
 <style>
 .wrap-collapsible {
@@ -316,6 +316,7 @@ Governiamo su **19,121,939,000** abitanti
 |     | Tascheter Sector FB-X b1-4  | Democratico   | 9.84 Milioni  | Indipendente        | Controllato     |
 |     | Tascheter Sector FG-X b1-6  | Democratico   | 5,800         | Indipendente        | Controllato     |
 |     | Tascheter Sector GB-X b1-5  | Democratico   | 8,000         | Indipendente        | Controllato     |
+|     | Tascheter Sector HM-V b2-5  | Dittatoriale  | 309.78 Milioni | Indipendente       | Non Controllato |
 |     | Tascheter Sector IM-V b2-3  | Corporativo   | 4,500         | Federale            | Non Controllato |
 |     | Tascheter Sector LH-V b2-8  | Democratico   | 8,000         | Indipendente        | Controllato     |
 |     | Tascheter Sector OS-T a3-0  | Democratico   | 34.43 milioni | Indipendente        | Controllato     |
@@ -350,6 +351,7 @@ Governiamo su **19,121,939,000** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>03 Gennaio 3312: la prima espansione organica dell'anno ci porta su <b>Tascheter Sector HM-V b2-5</b>, in coabitazione con gli amici Civitas Dei</li>
           <li>27 Dicembre 3311: prendiamo il controllo di <b>Tascheter Sector DG-X b1-3</b></li>
           <li>22 Dicembre 3311: Ci espandiamo su <b>OU Geminorum</b></li>
           <li>16 Dicembre 3311: Una guerra di cui siamo solo spettatori ci regala il controllo di <b>Ninmah</b> e dei suoi oltre 3 miliardi di abitanti</li>
