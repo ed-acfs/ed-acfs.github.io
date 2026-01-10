@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **306 sistemi**, di cui **202** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **312 sistemi**, di cui **202** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **374** stazioni
-  - **844** insediamenti
-  - **144** installazioni
+  - **379** stazioni
+  - **848** insediamenti
+  - **145** installazioni
   - **1** megaship
 
-Governiamo su **19,121,939,000** abitanti
+Governiamo su **14,190,925,452** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -187,7 +187,7 @@ Governiamo su **19,121,939,000** abitanti
 |     | Kiga                        | Democratico   | 221,725       | Indipendente        | Controllato     |
 |     | Klikudiya                   | Dittatoriale  | 13.717 Milioni| Indipendente        | Non Controllato |
 |     | Kungurutii                  | Democratico   | 95,223        | Indipendente        | Controllato     |
-|     | Kvashirua                   | Corporativo   | 237,869       | Indipendente        | Non Controllato |
+|     | Kvashirua                   | Democratico   | 237,869       | Indipendente        | Controllato     |
 |     | Kweretet                    | Democratico   | 22,148        | Indipendente        | Non Controllato |
 |     | Lalande 15394               | Dittatoriale  | 9.658 Milioni | Indipendente        | Non Controllato |
 |     | Lalande 15547               | Dittatoriale  | 2,500         | Indipendente        | Non Controllato |
@@ -252,7 +252,7 @@ Governiamo su **19,121,939,000** abitanti
 |     | Nandjabinja                 | Democratico   | 3.46 Milioni  | Indipendente        | Controllato     |
 |     | Nareni                      | Confederato   | 3.50 Milioni  | Indipendente        | Controllato     |
 |     | Ndozins                     | Democratico   | 2,821         | Indipendente        | Controllato     |
-|     | Ninmah                      | Democratico   | 5,326,478,276 | Indipendente        | Controllato     |
+|     | Ninmah                      | Democratico   | 5,326,478,276 | Indipendente        | Non Controllato |
 |     | NLTT 16391                  | Democratico   | 2,916,824     | Indipendente        | Controllato     |
 |     | NLTT 18561                  | Democratico   | 30.62 Milioni | Indipendente        | Controllato     |
 |     | Opila                       | Corporativo   | 3.30 Miliardi | Federale            | Non Controllato |
@@ -283,10 +283,11 @@ Governiamo su **19,121,939,000** abitanti
 |     | Synuefai JC-U b36-0         | Democratico   | 38,252        | Indipendente        | Controllato     |
 |     | Synuefai KB-A c3-0          | Democratico   |	41,837        | Indipendente        | Controllato     |
 |     | Synuefai LL-C b5-0          | Democratico   | 23,045        | Indipendente        | Controllato     |
-|     | Synuefai MW-A b6-0          | Democratico   |	0             | Indipendente        | Controllato     |
-|     | Synuefai NW-A b6-0          | Democratico   |	0             | Indipendente        | Controllato     |
+|     | Synuefai MW-A b6-0          | Democratico   |	45,136        | Indipendente        | Controllato     |
+|     | Synuefai NW-A b6-0          | Democratico   | 49,835        | Indipendente        | Controllato     |
 |     | Synuefai OA-Y c17-13        | Democratico   | 116,079       | Indipendente        | Controllato     |
 |     | Synuefai OC-B d1-1          | Democratico   | 10,007        | Indipendente        | Controllato     |
+|     | Synuefai OC-B d1-12         | Democratico   | 0             | Indipendente        | Controllato     |
 |     | Synuefai OC-B d1-13         | Democratico   | 10,007        | Indipendente        | Controllato     |
 |     | Synuefai OR-A b6-0          | Democratico   | 10,023        | Indipendente        | Controllato     |
 |     | Synuefai OR-A b6-1          | Democratico   | 10,023        | Indipendente        | Controllato     |
@@ -338,6 +339,7 @@ Governiamo su **19,121,939,000** abitanti
 |     | Vandar                      | Democratico   | 41,917        | Indipendente        | Controllato     |
 |     | Waruts                      | Democratico   | 50,874,418    | Indipendente        | Non Controllato |
 |     | Wolf 289                    | Democratico   | 27,645        | Indipendente        | Controllato     |
+|     | Wredguia MI-S b31-1         | Corporativo   | 13,477        | Indipendente        | Non Controllato |
 |     | Yggdrajang                  | Democratico   | 88,567        | Indipendente        | Controllato     |
 |     | Yin Sector CV-Y b4          | Democratico   | 4,000         | Indipendente        | Controllato     |
 |     | Zandu                       | Democratico   | 11.09 Milioni | Indipendente        | Controllato     |
@@ -351,6 +353,9 @@ Governiamo su **19,121,939,000** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>10 Gennaio 3312: <b>Synuefai OC-B d1-12</b> è il primo sistema colonizzato dal nostro Alfbo, nonchè il n. 313 in cui la Flotta è presente</li>
+          <li>08 Gennaio 3312: Per questioni di diplomazia perdiamo purtroppo il controllo di <b>Ninmah</b>. Ci dispiace per i suoi abitanti, che perderanno a loro volta l'uso di un importante servizio igienico in bagno</li>
+          <li>07 Gennaio 3312: Prendiamo il controllo di <b>Kvashirua</b></li>
           <li>03 Gennaio 3312: la prima espansione organica dell'anno ci porta su <b>Tascheter Sector HM-V b2-5</b>, in coabitazione con gli amici Civitas Dei</li>
           <li>27 Dicembre 3311: prendiamo il controllo di <b>Tascheter Sector DG-X b1-3</b></li>
           <li>22 Dicembre 3311: Ci espandiamo su <b>OU Geminorum</b></li>
