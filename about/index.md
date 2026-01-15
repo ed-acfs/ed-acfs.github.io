@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-01-10
+last_modified_at: 2026-01-16
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **313 sistemi**, di cui **202** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **315 sistemi**, di cui **204** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **379** stazioni
-  - **848** insediamenti
-  - **145** installazioni
+  - **380** stazioni
+  - **847** insediamenti
+  - **147** installazioni
   - **1** megaship
 
-Governiamo su **14,190,925,452** abitanti
+Governiamo su **14,525,237,960** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -339,10 +339,13 @@ Governiamo su **14,190,925,452** abitanti
 |     | Vandar                      | Democratico   | 41,917        | Indipendente        | Controllato     |
 |     | Waruts                      | Democratico   | 50,874,418    | Indipendente        | Non Controllato |
 |     | Wolf 289                    | Democratico   | 27,645        | Indipendente        | Controllato     |
+|     | Wredguia HH-U b30-1         | Democratico   | 37,608        | Indipendente        | Controllato     |
 |     | Wredguia MI-S b31-1         | Corporativo   | 13,477        | Indipendente        | Non Controllato |
 |     | Yggdrajang                  | Democratico   | 88,567        | Indipendente        | Controllato     |
-|     | Yin Sector CV-Y b4          | Democratico   | 4,000         | Indipendente        | Controllato     |
-|     | Zandu                       | Democratico   | 11.09 Milioni | Indipendente        | Controllato     |
+|     | Yin Sector CV-Y b4          | Democratico   | 43,554,410    | Indipendente        | Controllato     |
+|     | Yin Sector EQ-Y b3          | Democratico   | 1,492,451     | Indipendente        | Controllato     |
+|     | Yin Sector EQ-Y b4          | Democratico   | 226,524       | Indipendente        | Controllato     |
+|     | Zandu                       | Democratico   | 11,105,861    | Indipendente        | Controllato     |
 |     | Zeta Cassiopeiae            | Democratico   | 412,191       | Indipendente        | Controllato     |
 
 <div class="datatable-end"></div>
@@ -353,6 +356,7 @@ Governiamo su **14,190,925,452** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>16 Gennaio 3312: Prendiamo il controllo di <b>Wredguia HH-U b30-1</b></li>
           <li>10 Gennaio 3312: <b>Synuefai OC-B d1-12</b> è il primo sistema colonizzato dal nostro Alfbo, nonchè il n. 313 in cui la Flotta è presente</li>
           <li>08 Gennaio 3312: Per questioni di diplomazia perdiamo purtroppo il controllo di <b>Ninmah</b>. Ci dispiace per i suoi abitanti, che perderanno a loro volta l'uso di un importante servizio igienico in bagno</li>
           <li>07 Gennaio 3312: Prendiamo il controllo di <b>Kvashirua</b></li>
