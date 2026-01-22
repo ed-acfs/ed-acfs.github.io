@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-01-16
+last_modified_at: 2026-01-21
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **317 sistemi**, di cui **206** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **318 sistemi**, di cui **206** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **383** stazioni
   - **851** insediamenti
-  - **146** installazioni
+  - **145** installazioni
   - **1** megaship
 
-Governiamo su **14,596,051,856** abitanti
+Governiamo su **14,772,047,374** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -172,6 +172,7 @@ Governiamo su **14,596,051,856** abitanti
 |     | HIP 42084                   | Democratico   | 34.56 milioni | Indipendente        | Controllato     |
 |     | HIP 70618                   | Democratico   | 53,870        | Indipendente        | Controllato     |
 |     | HIP 81768                   | Democratico   | 91,451        | Indipendente        | Controllato     |
+|     | HIP 96960                   | Confederato   | 239,007	      | Indipendente        | Non Controllato |
 |     | Hyades Sector CM-K b9-5     | Democratico   | 5,300         | Indipendente        | Controllato     |
 |     | Hyades Sector IH-V d2-98    | Democratico   | 8,000         | Indipendente        | Controllato     |
 |     | Hyades Sector TK-M b8-3     | Democratico   | 14,000        | Indipendente        | Controllato     |
@@ -189,6 +190,8 @@ Governiamo su **14,596,051,856** abitanti
 |     | Kungurutii                  | Democratico   | 95,223        | Indipendente        | Controllato     |
 |     | Kvashirua                   | Democratico   | 237,869       | Indipendente        | Controllato     |
 |     | Kweretet                    | Democratico   | 22,148        | Indipendente        | Non Controllato |
+|     | Lagoon Sector YZ-Y c6       | Democratico   | 73,500        | Indipendente        | Controlalto     |
+|     | Lagoon Sector ZU-X b1-9     | Democratico   | 41,121        | Indipendente        | Controllato     |
 |     | Lalande 15394               | Dittatoriale  | 9.658 Milioni | Indipendente        | Non Controllato |
 |     | Lalande 15547               | Dittatoriale  | 2,500         | Indipendente        | Non Controllato |
 |     | LBN 623 Sector AG-O b6-5    | Democratico   | 93,876        | Indipendente        | Controllato     |
