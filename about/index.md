@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-01-21
+last_modified_at: 2026-01-24
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **318 sistemi**, di cui **206** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **319 sistemi**, di cui **207** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **383** stazioni
-  - **851** insediamenti
-  - **145** installazioni
+  - **385** stazioni
+  - **852** insediamenti
+  - **146** installazioni
   - **1** megaship
 
-Governiamo su **14,772,047,374** abitanti
+Governiamo su **14,776,321,819** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -342,8 +342,11 @@ Governiamo su **14,772,047,374** abitanti
 |     | Vandar                      | Democratico   | 41,917        | Indipendente        | Controllato     |
 |     | Waruts                      | Democratico   | 50,874,418    | Indipendente        | Non Controllato |
 |     | Wolf 289                    | Democratico   | 27,645        | Indipendente        | Controllato     |
+|     | Wredguia GX-S b31-0         | Cooperativo   | 45,075        | Indipendente        | Non Controllato |
 |     | Wredguia HH-U b30-1         | Democratico   | 37,608        | Indipendente        | Controllato     |
 |     | Wredguia MI-S b31-1         | Corporativo   | 13,477        | Indipendente        | Non Controllato |
+|     | Wredguia QO-Q b32-1         | Corporativo   | 925,312       | Indipendente        | Non Controllato |
+|     | Wredguia SX-L d7-87         | Corporativo   | 209,235       | Indipendente        | Non Controllato |
 |     | Yggdrajang                  | Democratico   | 88,567        | Indipendente        | Controllato     |
 |     | Yin Sector CV-Y b4          | Democratico   | 43,554,410    | Indipendente        | Controllato     |
 |     | Yin Sector EQ-Y b3          | Democratico   | 1,492,451     | Indipendente        | Controllato     |
