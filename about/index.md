@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-01-24
+last_modified_at: 2026-01-31
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **319 sistemi**, di cui **207** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **323 sistemi**, di cui **212** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **385** stazioni
-  - **852** insediamenti
-  - **146** installazioni
+  - **391** stazioni
+  - **853** insediamenti
+  - **145** installazioni
   - **1** megaship
 
-Governiamo su **14,776,321,819** abitanti
+Governiamo su **114,883,960,418** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -166,13 +166,14 @@ Governiamo su **14,776,321,819** abitanti
 |     | HIP 22403                   | Democratico   | 9,160,935     | Indipendente        | Controllato     |
 |     | HIP 2442                    | Democratico   | 13,000        | Indipendente        | Controllato     |
 |     | HIP 4888                    | Democratico   | 16.31 Milioni | Indipendente        | Controllato     |
-|     | HIP 5035                    | Democratico   | 260.41 Milioni| Indipendente        | Controllato     |
+|     | HIP 5035                    | Democratico   | 1.07 Miliardi | Indipendente        | Controllato     |
 |     | HIP 28774                   | Corporativo   | 70.11 Milioni | Federale            | Non Controllato |
 |     | HIP 30129                   | Democratico   | 15,000        | Indipendente        | Controllato     |
 |     | HIP 42084                   | Democratico   | 34.56 milioni | Indipendente        | Controllato     |
 |     | HIP 70618                   | Democratico   | 53,870        | Indipendente        | Controllato     |
 |     | HIP 81768                   | Democratico   | 91,451        | Indipendente        | Controllato     |
-|     | HIP 96960                   | Confederato   | 239,007	      | Indipendente        | Non Controllato |
+|     | HIP 96960                   | Democratico   | 239,007	      | Indipendente        | Controllato     |
+|     | Hyades Sector AB-M b8-5     | Corporativo   | 761,539       | Federale            | Non Controllato |
 |     | Hyades Sector CM-K b9-5     | Democratico   | 5,300         | Indipendente        | Controllato     |
 |     | Hyades Sector IH-V d2-98    | Democratico   | 8,000         | Indipendente        | Controllato     |
 |     | Hyades Sector TK-M b8-3     | Democratico   | 14,000        | Indipendente        | Controllato     |
@@ -345,7 +346,7 @@ Governiamo su **14,776,321,819** abitanti
 |     | Wredguia GX-S b31-0         | Cooperativo   | 45,075        | Indipendente        | Non Controllato |
 |     | Wredguia HH-U b30-1         | Democratico   | 37,608        | Indipendente        | Controllato     |
 |     | Wredguia MI-S b31-1         | Corporativo   | 13,477        | Indipendente        | Non Controllato |
-|     | Wredguia QO-Q b32-1         | Corporativo   | 925,312       | Indipendente        | Non Controllato |
+|     | Wredguia QO-Q b32-1         | Democratico   | 925,312       | Indipendente        | Controllato     |
 |     | Wredguia SX-L d7-87         | Corporativo   | 209,235       | Indipendente        | Non Controllato |
 |     | Yggdrajang                  | Democratico   | 88,567        | Indipendente        | Controllato     |
 |     | Yin Sector CV-Y b4          | Democratico   | 43,554,410    | Indipendente        | Controllato     |
@@ -362,6 +363,8 @@ Governiamo su **14,776,321,819** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>31 Gennaio 3312: In un solo giorno prendiamo il controllo di <b>HIP 96960</b> e di <b>Wredguia QO-Q b32-1</b>.</li>
+          <li>29 Gennaio 3312: Ci espandiamo su <b>Hyades Sector AB-M b8-5</b>.</li>
           <li>16 Gennaio 3312: Prendiamo il controllo di <b>Wredguia HH-U b30-1</b></li>
           <li>10 Gennaio 3312: <b>Synuefai OC-B d1-12</b> è il primo sistema colonizzato dal nostro Alfbo, nonchè il n. 313 in cui la Flotta è presente</li>
           <li>08 Gennaio 3312: Per questioni di diplomazia perdiamo purtroppo il controllo di <b>Ninmah</b>. Ci dispiace per i suoi abitanti, che perderanno a loro volta l'uso di un importante servizio igienico in bagno</li>
