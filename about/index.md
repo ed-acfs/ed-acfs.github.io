@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-01-31
+last_modified_at: 2026-02-10
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **325 sistemi**, di cui **213** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **330 sistemi**, di cui **217** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **395** stazioni
-  - **853** insediamenti
-  - **147** installazioni
+  - **397** stazioni
+  - **856** insediamenti
+  - **148** installazioni
   - **1** megaship
 
-Governiamo su **114,883,960,418** abitanti
+Governiamo su **14,952,823,845** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -345,7 +345,7 @@ Governiamo su **114,883,960,418** abitanti
 |     | Wolf 289                    | Democratico   | 27,645        | Indipendente        | Controllato     |
 |     | Wredguia GX-S b31-0         | Cooperativo   | 45,075        | Indipendente        | Non Controllato |
 |     | Wredguia HH-U b30-1         | Democratico   | 37,608        | Indipendente        | Controllato     |
-|     | Wredguia MI-S b31-1         | Corporativo   | 13,477        | Indipendente        | Non Controllato |
+|     | Wredguia MI-S b31-1         | Democratico   | 51,632        | Indipendente        | Controllato     |
 |     | Wredguia QO-Q b32-1         | Democratico   | 925,312       | Indipendente        | Controllato     |
 |     | Wredguia SX-L d7-87         | Corporativo   | 209,235       | Indipendente        | Non Controllato |
 |     | Yggdrajang                  | Democratico   | 88,567        | Indipendente        | Controllato     |
@@ -363,6 +363,8 @@ Governiamo su **114,883,960,418** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>11 Febbraio 3312: Idraulici spaziali super preparati liberano Ethli dai ribelli che disdegnano l'utilizzo di importanti e fondamentali servizi igienici.</li>
+          <li>05 Febbraio 3312: Prendiamo il controllo di<b>Wredguia MI-S b31-1</b> ed avviamo una nuova mini-bolla</li>
           <li>31 Gennaio 3312: In un solo giorno prendiamo il controllo di <b>HIP 96960</b> e di <b>Wredguia QO-Q b32-1</b>.</li>
           <li>29 Gennaio 3312: Ci espandiamo su <b>Hyades Sector AB-M b8-5</b>.</li>
           <li>16 Gennaio 3312: Prendiamo il controllo di <b>Wredguia HH-U b30-1</b></li>
