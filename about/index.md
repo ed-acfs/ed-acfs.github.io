@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-02-10
+last_modified_at: 2026-02-13
 ---
 <style>
 .wrap-collapsible {
@@ -98,12 +98,12 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 Siamo presenti in: **330 sistemi**, di cui **217** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **397** stazioni
-  - **856** insediamenti
-  - **148** installazioni
+  - **398** stazioni
+  - **857** insediamenti
+  - **147** installazioni
   - **1** megaship
 
-Governiamo su **14,952,823,845** abitanti
+Governiamo su **14,955,795,703** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -167,7 +167,7 @@ Governiamo su **14,952,823,845** abitanti
 |     | HIP 2442                    | Democratico   | 13,000        | Indipendente        | Controllato     |
 |     | HIP 4888                    | Democratico   | 16.31 Milioni | Indipendente        | Controllato     |
 |     | HIP 5035                    | Democratico   | 1.07 Miliardi | Indipendente        | Controllato     |
-|     | HIP 28774                   | Corporativo   | 70.11 Milioni | Federale            | Non Controllato |
+|     | HIP 28774                   | Democratico   | 70.11 Milioni | Indipendente        | Controllato     |
 |     | HIP 30129                   | Democratico   | 15,000        | Indipendente        | Controllato     |
 |     | HIP 42084                   | Democratico   | 34.56 milioni | Indipendente        | Controllato     |
 |     | HIP 70618                   | Democratico   | 53,870        | Indipendente        | Controllato     |
@@ -363,6 +363,7 @@ Governiamo su **14,952,823,845** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>12 Febbraio 3312: Prendiamo il controllo anche di <b>HIP 28774</b>.</li>
           <li>11 Febbraio 3312: Idraulici spaziali super preparati liberano Ethli dai ribelli che disdegnano l'utilizzo di importanti e fondamentali servizi igienici.</li>
           <li>05 Febbraio 3312: Prendiamo il controllo di<b>Wredguia MI-S b31-1</b> ed avviamo una nuova mini-bolla</li>
           <li>31 Gennaio 3312: In un solo giorno prendiamo il controllo di <b>HIP 96960</b> e di <b>Wredguia QO-Q b32-1</b>.</li>
