@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **335 sistemi**, di cui **218** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **337 sistemi**, di cui **224** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **398** stazioni
+  - **402** stazioni
   - **895** insediamenti
-  - **152** installazioni
+  - **153** installazioni
   - **1** megaship
 
-Governiamo su **15,399,208,290** abitanti
+Governiamo su **15,590,533,103** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -136,6 +136,7 @@ Governiamo su **15,399,208,290** abitanti
 |     | Col 285 Sector CD-F b13-1   | Democratico   | 19,903,276    | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-2   | Democratico   | 103,426       | Indipendente        | Controllato     |
 |     | Col 285 Sector CD-F b13-3   | Democratico   | 677,461       | Indipendente        | Controllato     |
+|     | Col 285 Sector CF-Y b14-2   | Democratico   | 157,156       | Indipendente        | Controllato     |
 |     | Col 285 Sector DY-E b13-3   | Democratico   | 51,409        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-2   | Democratico   | 44,795        | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-29  | Democratico   | 94,531        | Indipendente        | Controllato     |
@@ -167,6 +168,7 @@ Governiamo su **15,399,208,290** abitanti
 |     | HIP 2442                    | Democratico   | 13,000        | Indipendente        | Controllato     |
 |     | HIP 4888                    | Democratico   | 16.31 Milioni | Indipendente        | Controllato     |
 |     | HIP 5035                    | Democratico   | 1.07 Miliardi | Indipendente        | Controllato     |
+|     | HIP 23778                   | Democratico   | 0             | Indipendente        | Controllato     |
 |     | HIP 28774                   | Democratico   | 70.11 Milioni | Indipendente        | Controllato     |
 |     | HIP 30129                   | Democratico   | 15,000        | Indipendente        | Controllato     |
 |     | HIP 42084                   | Democratico   | 34.56 milioni | Indipendente        | Controllato     |
@@ -281,6 +283,7 @@ Governiamo su **15,399,208,290** abitanti
 |     | Synuefai BG-W b35-0         | Democratico   | 90,658        | Indipendente        | Controllato     |
 |     | Synuefai BG-W b35-2         | Democratico   | 225,134       | Indipendente        | Controllato     |
 |     | Synuefai BQ-X b34-3         | Democratico   | 97,026        | Indipendente        | Controllato     |
+|     | Synuefai CM-U b36-0         | Democratico   | 431,054       | Indipendente        | Controllato     |
 |     | Synuefai EB-W b35-1         | Democratico   | 12,759,450    | Indipendente        | Controllato     |
 |     | Synuefai IG-A c3-7          | Democratico   | 32,177        | Indipendente        | Controllato     |
 |     | Synuefai JB-A c3-3          | Democratico   | 20,187        | Indipendente        | Controllato     |
@@ -296,8 +299,10 @@ Governiamo su **15,399,208,290** abitanti
 |     | Synuefai OR-A b6-0          | Democratico   | 10,023        | Indipendente        | Controllato     |
 |     | Synuefai OR-A b6-1          | Democratico   | 10,023        | Indipendente        | Controllato     |
 |     | Synuefai QC-Z b6-1          | Democratico   | 13,191        | Indipendente        | Controllato     |
+|     | Synuefai QV-X c17-2         | Democratico   | 0             | Indipendente        | Controllato     |
 |     | Synuefai QV-X c17-5         | Democratico   | 103,797       | Indipendente        | Controllato     |
 |     | Synuefai QV-X c17-7         | Democratico   | 27,382,987	  | Indipendente        | Controllato     |
+|     | Synuefai QV-X c17-8         | Democratico   | 27,598        | Indipendente        | Controllato     |
 |     | Synuefai US-Y b6-1          | Democratico   | 25,221        | Indipendente        | Controllato     |
 |     | Synuefai SU-M d8-12         | Democratico   | 135,452       | Indipendente        | Controllato     |
 |     | Synuefai TU-M d8-14         | Democratico   | 104,288       | Indipendente        | Controllato     |
@@ -363,6 +368,8 @@ Governiamo su **15,399,208,290** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>22 Febbraio 3312: Colonizziamo <b>HIP 23778</b>. La sua stazione Orbis è ora pronta a ricevere i turisti da ogni angolo della Galassia.</li>
+          <li>20 Febbraio 3312: Prendiamo il controllo di <b>Col 285 Sector CF-Y b14-2</b>, primo sistema colonizzato dal Tenente <b>Trentomega</b>.</li>
           <li>12 Febbraio 3312: Prendiamo il controllo anche di <b>HIP 28774</b>.</li>
           <li>11 Febbraio 3312: Idraulici spaziali super preparati liberano Ethli dai ribelli che disdegnano l'utilizzo di importanti e fondamentali servizi igienici.</li>
           <li>05 Febbraio 3312: Prendiamo il controllo di<b>Wredguia MI-S b31-1</b> ed avviamo una nuova mini-bolla</li>
