@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-02-20
+last_modified_at: 2026-02-25
 ---
 <style>
 .wrap-collapsible {
@@ -96,14 +96,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **337 sistemi**, di cui **224** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **338 sistemi**, di cui **225** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **402** stazioni
-  - **895** insediamenti
-  - **153** installazioni
+  - **404** stazioni
+  - **897** insediamenti
+  - **155** installazioni
   - **1** megaship
 
-Governiamo su **15,590,533,103** abitanti
+Governiamo su **15,721,287,575** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -226,6 +226,7 @@ Governiamo su **15,590,533,103** abitanti
 |     | LHS 1803                    | Democratico   | 142,434       | Indipendente        | Non Controllato |
 |     | LHS 1814                    | Democratico   | 6,800         | Indipendente        | Non Controllato |
 |     | LHS 1828                    | Democratico   | 10,000        | Indipendente        | Non Controllato |
+|     | LHS 1838                    | Dittatoriale  | 180,485       | Indipendente        | Non Controllato |
 |     | LHS 1857                    | Democratico   | 48,197        | Indipendente        | Controllato     |
 |     | LHS 1912                    | Dittatoriale  | 9,000         | Indipendente        | Non Controllato |
 |     | LHS 1914                    | Dittatoriale  | 3,99 Miliardi | Indipendente        | Non Controllato |
@@ -368,6 +369,7 @@ Governiamo su **15,590,533,103** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>23 Febbraio 3312: Ci espandiamo su <b>LHS 1838</b>.</li>
           <li>22 Febbraio 3312: Colonizziamo <b>HIP 23778</b>. La sua stazione Orbis è ora pronta a ricevere i turisti da ogni angolo della Galassia.</li>
           <li>20 Febbraio 3312: Prendiamo il controllo di <b>Col 285 Sector CF-Y b14-2</b>, primo sistema colonizzato dal Tenente <b>Trentomega</b>.</li>
           <li>12 Febbraio 3312: Prendiamo il controllo anche di <b>HIP 28774</b>.</li>
