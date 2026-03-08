@@ -265,7 +265,7 @@ Governiamo su **15,789,027,426** abitanti
 |     | Kungurutii                  | Democratico   | 95,223        | Indipendente        | Controllato     |
 |     | Kvashirua                   | Democratico   | 237,869       | Indipendente        | Controllato     |
 |     | Kweretet                    | Democratico   | 22,148        | Indipendente        | Non Controllato |
-|     | Lagoon Sector YZ-Y c6       | Democratico   | 73,500        | Indipendente        | Controlalto     |
+|     | Lagoon Sector YZ-Y c6       | Democratico   | 73,500        | Indipendente        | Controllato     |
 |     | Lagoon Sector ZU-X b1-9     | Democratico   | 41,121        | Indipendente        | Controllato     |
 |     | Lalande 15394               | Dittatoriale  | 9.658 Milioni | Indipendente        | Non Controllato |
 |     | Lalande 15547               | Dittatoriale  | 2,500         | Indipendente        | Non Controllato |
@@ -426,7 +426,7 @@ Governiamo su **15,789,027,426** abitanti
 |     | Wredguia GX-S b31-0         | Cooperativo   | 45,075        | Indipendente        | Non Controllato |
 |     | Wredguia HH-U b30-1         | Democratico   | 37,608        | Indipendente        | Controllato     |
 |     | Wredguia MI-S b31-1         | Democratico   | 51,632        | Indipendente        | Controllato     |
-|     | Wredguia PA-Y c14-8         | Democratico   | 983,513       | Indipendente        | Controlalto     |
+|     | Wredguia PA-Y c14-8         | Democratico   | 983,513       | Indipendente        | Controllato     |
 |     | Wredguia QO-Q b32-1         | Democratico   | 16,294,714    | Indipendente        | Controllato     |
 |     | Wredguia QO-Q b32-3         | Democratico   | 87,324        | Indipendente        | Controllato     |
 |     | Wredguia RO-Q b32-0         | Democratico   | 34,689        | Indipendente        | Controllato     |
@@ -451,7 +451,7 @@ Governiamo su **15,789,027,426** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
-          <li>08 Marzo 3312: Arriviamo su <b>Wasat</b>, sistema molto popoloso controlalto dagli amici Civitas Dei</li>
+          <li>08 Marzo 3312: Arriviamo su <b>Wasat</b>, sistema molto popoloso controllato dagli amici Civitas Dei</li>
           <li>23 Febbraio 3312: Ci espandiamo su <b>LHS 1838</b>.</li>
           <li>22 Febbraio 3312: Colonizziamo <b>HIP 23778</b>. La sua stazione Orbis è ora pronta a ricevere i turisti da ogni angolo della Galassia.</li>
           <li>20 Febbraio 3312: Prendiamo il controllo di <b>Col 285 Sector CF-Y b14-2</b>, primo sistema colonizzato dal Tenente <b>Trentomega</b>.</li>
