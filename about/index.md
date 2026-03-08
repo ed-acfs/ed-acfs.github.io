@@ -701,8 +701,6 @@ Noi **ci impegniamo** a:
 * non trarre beneficio dall’utilizzo di Commanders automatizzati usati da terze parti in Elite: Dangerous
 * segnalare ogni account sospetto di far utilizzo di Automazioni al Frontier Develpments Community Protection Team
 
-Per maggiori informazioni ti rimandiamo alla pagina Inara del <a href="https://inara.cz/squadron/9820/" title="Anti-Botting Agreement" target="_blank">Anti-Botting Agreement</a>
-
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 ## Fazioni Italiane Unite
