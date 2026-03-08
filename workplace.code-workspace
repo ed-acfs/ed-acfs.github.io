@@ -4,5 +4,16 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"chat.tools.terminal.autoApprove": {
+			"/^C:/Users/ccast/AppData/Local/Python/pythoncore-3\\.14-64/python\\.exe edsm_fetcher\\.py$/": {
+				"approve": true,
+				"matchCommandLine": true
+			},
+			"/^py -3 -u edsm_fetcher\\.py$/": {
+				"approve": true,
+				"matchCommandLine": true
+			}
+		}
+	}
 }

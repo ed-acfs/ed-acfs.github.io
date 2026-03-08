@@ -1,0 +1,1802 @@
+bodies:
+- absoluteMagnitude: 4.829987
+  age: 4792
+  argOfPeriapsis: null
+  axialTilt: -0.219615
+  belts:
+  - innerRadius: 308170000
+    mass: 4060500000000
+    name: Asteroid Belt
+    outerRadius: 489190000
+    type: Rocky
+  bodyId: 0
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 0
+  id: 3794
+  id64: 10477373803
+  isMainStar: true
+  isScoopable: true
+  luminosity: V
+  name: Sol
+  orbitalEccentricity: null
+  orbitalInclination: null
+  orbitalPeriod: null
+  parents: null
+  rotationalPeriod: 2.5832745119675926
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: null
+  solarMasses: 1
+  solarRadius: 0.9999999539899354
+  spectralClass: G2
+  subType: G (White-Yellow) Star
+  surfaceTemperature: 5778
+  type: Star
+  updateTime: '2021-01-11 03:07:05'
+- argOfPeriapsis: 29.124
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0.036826
+  bodyId: 1
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 163
+  earthMasses: 0.055
+  gravity: 0.37588835103398993
+  id: 11236
+  id64: 36028807496337771
+  isLandable: true
+  materials:
+    Carbon: 10.81
+    Chromium: 10.57
+    Germanium: 3.81
+    Iron: 23.51
+    Manganese: 9.71
+    Mercury: 1.03
+    Nickel: 17.78
+    Phosphorus: 6.92
+    Ruthenium: 1.45
+    Sulphur: 12.86
+    Tin: 1.56
+  name: Mercury
+  orbitalEccentricity: 0.2056
+  orbitalInclination: 7
+  orbitalPeriod: 87.96910030974537
+  parents:
+  - Star: 0
+  radius: 2439.7
+  rotationalPeriod: 58.64600111792824
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.3870983647295857
+  solidComposition:
+    Ice: 0
+    Metal: 60
+    Rock: 40
+  subType: Metal-rich body
+  surfacePressure: null
+  surfaceTemperature: 401
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 55.186001
+  atmosphereComposition:
+    Carbon dioxide: 96.5
+    Nitrogen: 3.5
+  atmosphereType: Hot thick Carbon dioxide
+  axialTilt: 3.094469
+  bodyId: 2
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 359
+  earthMasses: 0.815
+  gravity: 0.9052270113450551
+  id: 10217
+  id64: 72057604515301739
+  isLandable: false
+  name: Venus
+  orbitalEccentricity: 0.0067
+  orbitalInclination: 3.395
+  orbitalPeriod: 224.70099782502314
+  parents:
+  - Star: 0
+  radius: 6051.8
+  rotationalPeriod: 243.01848545262732
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.723325688208141
+  solidComposition:
+    Ice: 0
+    Metal: 30
+    Rock: 70
+  subType: High metal content world
+  surfacePressure: 93.18950900567481
+  surfaceTemperature: 735
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Minor Rocky Magma
+- argOfPeriapsis: 114.207832
+  atmosphereComposition:
+    Argon: 0.93
+    Nitrogen: 77.89
+    Oxygen: 20.89
+  atmosphereType: Suitable for water-based life
+  axialTilt: 0.401426
+  bodyId: 3
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 499
+  earthMasses: 1
+  gravity: 0.9999686429450564
+  id: 7497
+  id64: 108086401534265707
+  isLandable: false
+  name: Earth
+  orbitalEccentricity: 0.0167
+  orbitalInclination: 0
+  orbitalPeriod: 365.2563732531366
+  parents:
+  - Star: 0
+  radius: 6378.1
+  rotationalPeriod: 0.997269752199074
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 1.0000007212129391
+  solidComposition:
+    Ice: 0
+    Metal: 30
+    Rock: 70
+  subType: Earth-like world
+  surfacePressure: 0.9990787688132248
+  surfaceTemperature: 288
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Rocky Magma
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0.11671
+  bodyId: 4
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 503
+  earthMasses: 0.012304
+  gravity: 0.16567075215550864
+  id: 14780
+  id64: 144115198553229675
+  isLandable: false
+  name: Moon
+  orbitalEccentricity: 0.0549
+  orbitalInclination: -23.434999
+  orbitalPeriod: 27.321582591087964
+  parents:
+  - Planet: 3
+  - Star: 0
+  radius: 1738.14
+  rotationalPeriod: 27.321582010497686
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.0025695481855901843
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: null
+  surfaceTemperature: 250
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 286.536985
+  atmosphereComposition:
+    Nitrogen: 91.17
+    Oxygen: 8.68
+    Water: 0.1
+  atmosphereType: Suitable for water-based life
+  axialTilt: 0.439648
+  bodyId: 5
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 695
+  earthMasses: 0.107
+  gravity: 0.3773690618814674
+  id: 1828
+  id64: 180143995572193643
+  isLandable: false
+  name: Mars
+  orbitalEccentricity: 0.0934
+  orbitalInclination: 1.85
+  orbitalPeriod: 686.9710016029861
+  parents:
+  - Star: 0
+  radius: 3396.2
+  rotationalPeriod: 1.0259570632291666
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 1.5236785671113833
+  solidComposition:
+    Ice: 0
+    Metal: 30
+    Rock: 70
+  subType: Earth-like world
+  surfacePressure: 2.303390698248211
+  surfaceTemperature: 260
+  terraformingState: Terraformed
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 275.066007
+  atmosphereComposition:
+    Helium: 26.3
+    Hydrogen: 73.7
+  atmosphereType: No atmosphere
+  axialTilt: 0.054629
+  bodyId: 7
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 2654
+  earthMasses: 317.799622
+  gravity: 2.5293417504360067
+  id: 48
+  id64: 252201589610121579
+  isLandable: false
+  name: Jupiter
+  orbitalEccentricity: 0.048775
+  orbitalInclination: 1.305
+  orbitalPeriod: 4332.589813404629
+  parents:
+  - Star: 0
+  radius: 71492
+  reserveLevel: Common
+  rings:
+  - innerRadius: 92000
+    mass: 10000
+    name: Jupiter Halo Ring
+    outerRadius: 182000
+    type: Rocky
+  rotationalPeriod: 0.4135416756597222
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 5.204265814002057
+  solidComposition: null
+  subType: Class I gas giant
+  surfacePressure: null
+  surfaceTemperature: 147
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition:
+    Oxygen: 3
+    Silicates: 5
+    Sulphur dioxide: 90
+  atmosphereType: Sulphur dioxide
+  axialTilt: 0
+  bodyId: 9
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 2654
+  earthMasses: 0.015
+  gravity: 0.1839489502155097
+  id: 13971
+  id64: 324259183648049515
+  isLandable: false
+  name: Io
+  orbitalEccentricity: 0.0041
+  orbitalInclination: 0.05
+  orbitalPeriod: 1.7691376722569445
+  parents:
+  - Planet: 7
+  - Star: 0
+  radius: 1821.3
+  rotationalPeriod: 1.7691377325925925
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 0.0028188899562848527
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: 0
+  surfaceTemperature: 120
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Major Rocky Magma
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 10
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 2655
+  earthMasses: 0.008
+  gravity: 0.13358709447585793
+  id: 6371
+  id64: 360287980667013483
+  isLandable: true
+  materials:
+    Antimony: 0.76
+    Arsenic: 1.6
+    Cadmium: 1.32
+    Carbon: 18.97
+    Chromium: 7.62
+    Iron: 16.95
+    Molybdenum: 1.11
+    Nickel: 12.82
+    Phosphorus: 12.14
+    Sulphur: 22.56
+    Vanadium: 4.16
+  name: Europa
+  orbitalEccentricity: 0.009
+  orbitalInclination: 0.47
+  orbitalPeriod: 3.5511810608449075
+  parents:
+  - Planet: 7
+  - Star: 0
+  radius: 1560.8
+  rotationalPeriod: 3.551181111736111
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.004484688817257343
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: 0
+  surfaceTemperature: 104
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Major Water Magma
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0.00576
+  bodyId: 11
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 2650
+  earthMasses: 0.024814
+  gravity: 0.145479329590787
+  id: 11998
+  id64: 396316777685977451
+  isLandable: true
+  materials:
+    Carbon: 14.91
+    Germanium: 5.25
+    Iron: 21.54
+    Manganese: 8.89
+    Molybdenum: 1.41
+    Nickel: 16.29
+    Phosphorus: 9.54
+    Sulphur: 17.73
+    Technetium: 0.77
+    Tungsten: 1.18
+    Zirconium: 2.5
+  name: Ganymede
+  orbitalEccentricity: 0.0013
+  orbitalInclination: 0.2
+  orbitalPeriod: 7.154552886886575
+  parents:
+  - Planet: 7
+  - Star: 0
+  radius: 2634.1
+  rotationalPeriod: 7.15455299236111
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 0.0071551808578288805
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: 0
+  surfaceTemperature: 116
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 12
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 2651
+  earthMasses: 0.018016
+  gravity: 0.12618081199428388
+  id: 12912
+  id64: 432345574704941419
+  isLandable: true
+  materials:
+    Carbon: 14.16
+    Chromium: 9.2
+    Iron: 20.46
+    Manganese: 8.45
+    Molybdenum: 1.34
+    Nickel: 15.48
+    Niobium: 1.4
+    Phosphorus: 9.07
+    Sulphur: 16.84
+    Yttrium: 1.22
+    Zirconium: 2.38
+  name: Callisto
+  orbitalEccentricity: 0.0074
+  orbitalInclination: 0.192
+  orbitalPeriod: 16.689017690995367
+  parents:
+  - Planet: 7
+  - Star: 0
+  radius: 2410
+  rotationalPeriod: 16.68901757417824
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 0.012585069958535177
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: 0
+  surfaceTemperature: 114
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 336.013854
+  atmosphereComposition:
+    Helium: 26.3
+    Hydrogen: 73.7
+  atmosphereType: No atmosphere
+  axialTilt: 0.466526
+  bodyId: 13
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 4754
+  earthMasses: 95.159035
+  gravity: 1.1120262414010167
+  id: 5240
+  id64: 468374371723905387
+  isLandable: false
+  name: Saturn
+  orbitalEccentricity: 0.055723
+  orbitalInclination: 2.48524
+  orbitalPeriod: 10759.219665218287
+  parents:
+  - Star: 0
+  radius: 59000
+  reserveLevel: Common
+  rings:
+  - innerRadius: 74500
+    mass: 58071
+    name: D Ring
+    outerRadius: 140180
+    type: Icy
+  rotationalPeriod: 0.4404166556597222
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 9.582015324280281
+  solidComposition: null
+  subType: Class I gas giant
+  surfacePressure: null
+  surfaceTemperature: 87
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 15
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 4753
+  earthMasses: 1.8e-05
+  gravity: 0.011521150334020883
+  id: 6847
+  id64: 540431965761833323
+  isLandable: true
+  materials:
+    Carbon: 17.94
+    Chromium: 7.21
+    Iron: 16.03
+    Manganese: 6.62
+    Nickel: 12.12
+    Phosphorus: 11.48
+    Ruthenium: 0.99
+    Sulphur: 21.33
+    Tin: 1.04
+    Tungsten: 0.88
+    Zinc: 4.36
+  name: Enceladus
+  orbitalEccentricity: 0.0047
+  orbitalInclination: 0.019
+  orbitalPeriod: 1.3702179960648149
+  parents:
+  - Planet: 13
+  - Star: 0
+  radius: 252.1
+  rotationalPeriod: 1.3702180417361112
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 0.0015905838605482906
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: 0
+  surfaceTemperature: 73
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Major Water Geysers
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 16
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 4754
+  earthMasses: 0.000103
+  gravity: 0.014854349968576637
+  id: 7393
+  id64: 576460762780797291
+  isLandable: true
+  materials:
+    Arsenic: 1.71
+    Carbon: 20.27
+    Iron: 18.12
+    Nickel: 13.7
+    Niobium: 1.24
+    Phosphorus: 12.98
+    Selenium: 3.77
+    Sulphur: 24.11
+    Tellurium: 0.99
+    Tungsten: 0.99
+    Zirconium: 2.1
+  name: Tethys
+  orbitalEccentricity: 0.0001
+  orbitalInclination: 1.12
+  orbitalPeriod: 1.8878019656250002
+  parents:
+  - Planet: 13
+  - Star: 0
+  radius: 531.1
+  rotationalPeriod: 1.887801971550926
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 0.0019694060543491414
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: 0
+  surfaceTemperature: 73
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Major Water Geysers
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 17
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 4754
+  earthMasses: 0.000183
+  gravity: 0.023619750346765285
+  id: 4955
+  id64: 612489559799761259
+  isLandable: true
+  materials:
+    Carbon: 18.5
+    Chromium: 7.43
+    Iron: 16.53
+    Manganese: 6.83
+    Mercury: 0.72
+    Nickel: 12.5
+    Niobium: 1.13
+    Phosphorus: 11.84
+    Sulphur: 22
+    Technetium: 0.59
+    Zirconium: 1.92
+  name: Dione
+  orbitalEccentricity: 0.0022
+  orbitalInclination: 0.019
+  orbitalPeriod: 2.7369151098842592
+  parents:
+  - Planet: 13
+  - Star: 0
+  radius: 561.4
+  rotationalPeriod: 998.974047694919
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.002522736039363694
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: null
+  surfaceTemperature: 73
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Water Geysers
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 18
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 4754
+  earthMasses: 0.000386
+  gravity: 0.02691516375208343
+  id: 10450
+  id64: 648518356818725227
+  isLandable: true
+  materials:
+    Carbon: 18.56
+    Iron: 16.59
+    Manganese: 6.85
+    Molybdenum: 1.08
+    Nickel: 12.55
+    Phosphorus: 11.89
+    Sulphur: 22.08
+    Tellurium: 0.91
+    Tungsten: 0.91
+    Vanadium: 4.07
+    Zinc: 4.51
+  name: Rhea
+  orbitalEccentricity: 0.001258
+  orbitalInclination: 0.345
+  orbitalPeriod: 4.518211784733796
+  parents:
+  - Planet: 13
+  - Star: 0
+  radius: 763.8
+  rotationalPeriod: 4.518211858692129
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.0035234988024631024
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: 0
+  surfaceTemperature: 73
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition:
+    Methane: 1.6
+    Nitrogen: 98.4
+  atmosphereType: Thick Methane-rich
+  axialTilt: 0
+  bodyId: 19
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 4755
+  earthMasses: 0.022499
+  gravity: 0.13792421732077756
+  id: 5154
+  id64: 684547153837689195
+  isLandable: false
+  name: Titan
+  orbitalEccentricity: 0.0288
+  orbitalInclination: 0.34854
+  orbitalPeriod: 15.94499926324074
+  parents:
+  - Planet: 13
+  - Star: 0
+  radius: 2576
+  rotationalPeriod: 5819.924910130324
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.008167694907653521
+  solidComposition:
+    Ice: 40
+    Metal: 19.6
+    Rock: 40.4
+  subType: Rocky Ice world
+  surfacePressure: 1.0027463453047125
+  surfaceTemperature: 94
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Minor Water Magma
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 20
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 4756
+  earthMasses: 0.000302
+  gravity: 0.02277153844392925
+  id: 1621
+  id64: 720575950856653163
+  isLandable: true
+  materials:
+    Carbon: 13.86
+    Chromium: 9.01
+    Germanium: 4.88
+    Iron: 20.03
+    Manganese: 8.27
+    Mercury: 0.87
+    Nickel: 15.15
+    Niobium: 1.37
+    Phosphorus: 8.87
+    Sulphur: 16.49
+    Yttrium: 1.2
+  name: Iapetus
+  orbitalEccentricity: 0.028612
+  orbitalInclination: 15.47
+  orbitalPeriod: 79.32150253542824
+  parents:
+  - Planet: 13
+  - Star: 0
+  radius: 734.5
+  rotationalPeriod: 79.32150507506945
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 0.023802607421977835
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: 0
+  surfaceTemperature: 81
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 96.998853
+  atmosphereComposition:
+    Helium: 26.3
+    Hydrogen: 73.7
+  atmosphereType: No atmosphere
+  axialTilt: 1.706408
+  bodyId: 22
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 9142
+  earthMasses: 14.539695
+  gravity: 0.9053919113722684
+  id: 11649
+  id64: 792633544894581099
+  isLandable: false
+  name: Uranus
+  orbitalEccentricity: 0.04722
+  orbitalInclination: 0.772556
+  orbitalPeriod: 30687.149890042823
+  parents:
+  - Star: 0
+  radius: 25559
+  reserveLevel: Common
+  rings:
+  - innerRadius: 30890
+    mass: 171570
+    name: ZetaCC Ring
+    outerRadius: 103000
+    type: Icy
+  rotationalPeriod: 0.7183300335300926
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 19.229409029354585
+  solidComposition: null
+  subType: Class I gas giant
+  surfacePressure: null
+  surfaceTemperature: 56
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 24
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 9143
+  earthMasses: 0.000227
+  gravity: 0.027554198826164108
+  id: 5094
+  id64: 864691138932509035
+  isLandable: true
+  materials:
+    Carbon: 14.22
+    Chromium: 9.24
+    Iron: 20.55
+    Manganese: 8.49
+    Mercury: 0.9
+    Molybdenum: 1.34
+    Nickel: 15.55
+    Phosphorus: 9.11
+    Sulphur: 16.92
+    Tellurium: 1.3
+    Zirconium: 2.39
+  name: Ariel
+  orbitalEccentricity: 0.0012
+  orbitalInclination: 0.26
+  orbitalPeriod: 2.5199999411921294
+  parents:
+  - Planet: 22
+  - Star: 0
+  radius: 578.9
+  rotationalPeriod: 2.519999955300926
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.0012768896327519721
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: 0
+  surfaceTemperature: 57
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 25
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 9143
+  earthMasses: 0.000196
+  gravity: 0.02332163067402972
+  id: 8425
+  id64: 900719935951473003
+  isLandable: true
+  materials:
+    Cadmium: 1.29
+    Carbon: 18.55
+    Chromium: 7.45
+    Germanium: 3.5
+    Iron: 16.57
+    Nickel: 12.54
+    Phosphorus: 11.87
+    Sulphur: 22.06
+    Technetium: 0.59
+    Tin: 1.08
+    Zinc: 4.5
+  name: Umbriel
+  orbitalEccentricity: 0.0039
+  orbitalInclination: 0.128
+  orbitalPeriod: 4.144000027465278
+  parents:
+  - Planet: 22
+  - Star: 0
+  radius: 584.7
+  rotationalPeriod: 4.1440001338194445
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 0.0017780998334652098
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: 0
+  surfaceTemperature: 50
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 26
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 9141
+  earthMasses: 0.000591
+  gravity: 0.03867793502359556
+  id: 910
+  id64: 936748732970436971
+  isLandable: true
+  materials:
+    Arsenic: 1.66
+    Carbon: 19.69
+    Iron: 17.6
+    Molybdenum: 1.15
+    Nickel: 13.31
+    Phosphorus: 12.61
+    Selenium: 3.67
+    Sulphur: 23.42
+    Tellurium: 0.96
+    Tin: 1.15
+    Zinc: 4.78
+  name: Titania
+  orbitalEccentricity: 0.0011
+  orbitalInclination: 0.34
+  orbitalPeriod: 8.706233912592593
+  parents:
+  - Planet: 22
+  - Star: 0
+  radius: 788.4
+  rotationalPeriod: 8.706234380810185
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.0029138778837667642
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: 0
+  surfaceTemperature: 50
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 27
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 9141
+  earthMasses: 0.000505
+  gravity: 0.03543518161455724
+  id: 158
+  id64: 972777529989400939
+  isLandable: true
+  materials:
+    Cadmium: 1.59
+    Carbon: 14.16
+    Chromium: 9.2
+    Germanium: 4.98
+    Iron: 20.45
+    Nickel: 15.47
+    Niobium: 1.4
+    Phosphorus: 9.06
+    Sulphur: 16.84
+    Tellurium: 1.29
+    Zinc: 5.56
+  name: Oberon
+  orbitalEccentricity: 0.0014
+  orbitalInclination: 0.058
+  orbitalPeriod: 13.463233632071757
+  parents:
+  - Planet: 22
+  - Star: 0
+  radius: 761.4
+  rotationalPeriod: 13.463233383854167
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.003900589687778557
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: 0
+  surfaceTemperature: 57
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 273.219421
+  atmosphereComposition:
+    Helium: 26.3
+    Hydrogen: 73.7
+  atmosphereType: No atmosphere
+  axialTilt: 0.494277
+  bodyId: 28
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 14917
+  earthMasses: 17.149633
+  gravity: 1.1375808427054088
+  id: 9994
+  id64: 1008806327008364907
+  isLandable: false
+  name: Neptune
+  orbitalEccentricity: 0.008678
+  orbitalInclination: 1.767975
+  orbitalPeriod: 60190.030684074074
+  parents:
+  - Star: 0
+  radius: 24764
+  reserveLevel: Common
+  rings:
+  - innerRadius: 40900
+    mass: 29009
+    name: Galle Ring
+    outerRadius: 57200
+    type: Icy
+  rotationalPeriod: 0.6712999953703704
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 29.80994266710843
+  solidComposition: null
+  subType: Class I gas giant
+  surfacePressure: null
+  surfaceTemperature: 45
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: null
+  bodyId: 30
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 14918
+  earthMasses: 0.00359
+  gravity: 0.07972804851489296
+  id: 9188
+  id64: 1080863921046292843
+  isLandable: true
+  materials:
+    Arsenic: 1.6
+    Carbon: 18.98
+    Chromium: 7.63
+    Iron: 16.97
+    Molybdenum: 1.11
+    Nickel: 12.83
+    Phosphorus: 12.15
+    Ruthenium: 1.05
+    Sulphur: 22.58
+    Tungsten: 0.93
+    Vanadium: 4.17
+  name: Triton
+  orbitalEccentricity: 1.6e-05
+  orbitalInclination: -23.115
+  orbitalPeriod: -5.876853924108796
+  parents:
+  - Planet: 28
+  - Star: 0
+  radius: 1353.4
+  rotationalPeriod: -5.876854082175926
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.002371417056053258
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: null
+  surfaceTemperature: 40
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 0
+  atmosphereComposition:
+    Methane: 50
+    Nitrogen: 50
+  atmosphereType: Thin Methane
+  axialTilt: 2.086209
+  bodyId: 32
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 20528
+  earthMasses: 0.00218
+  gravity: 0.06670630868303133
+  id: 2394
+  id64: 1152921515084220779
+  isLandable: false
+  name: Pluto
+  orbitalEccentricity: 0
+  orbitalInclination: 0.001
+  orbitalPeriod: 6.393943533854167
+  parents:
+  - 'Null': 31
+  - Star: 0
+  radius: 1153
+  rotationalPeriod: 6.387000166412037
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 1.3596588724120123e-05
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: 0.0040684993042190976
+  surfaceTemperature: 55
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-02-24 14:10:39'
+  volcanismType: Minor Methane Magma
+- argOfPeriapsis: 179.999995
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0
+  bodyId: 33
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 20528
+  earthMasses: 0.000253
+  gravity: 0.02825758236303145
+  id: 7065
+  id64: 1188950312103184747
+  isLandable: true
+  materials:
+    Antimony: 1.09
+    Cadmium: 1.64
+    Carbon: 14.65
+    Chromium: 9.52
+    Iron: 21.16
+    Mercury: 0.92
+    Nickel: 16.01
+    Phosphorus: 9.38
+    Sulphur: 17.42
+    Zinc: 5.75
+    Zirconium: 2.46
+  name: Charon
+  orbitalEccentricity: 0
+  orbitalInclination: 0.001
+  orbitalPeriod: 6.393943533854167
+  parents:
+  - 'Null': 31
+  - Star: 0
+  radius: 603.5
+  rotationalPeriod: 6.387000166412037
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 0.0001172274501730525
+  solidComposition:
+    Ice: 0
+    Metal: 20
+    Rock: 80
+  subType: Rocky body
+  surfacePressure: 0
+  surfaceTemperature: 39
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 305.572497
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0.513248
+  bodyId: 34
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 15995
+  earthMasses: 0.000107
+  gravity: 0.005176236801765751
+  id: 3200642
+  id64: 1224979109122148715
+  isLandable: true
+  materials:
+    Antimony: 0.8
+    Cadmium: 1.4
+    Carbon: 16.87
+    Chromium: 8.1
+    Iron: 18.02
+    Manganese: 7.44
+    Mercury: 0.79
+    Nickel: 13.63
+    Phosphorus: 10.8
+    Sulphur: 20.06
+    Zirconium: 2.09
+  name: 90482 Orcus
+  orbitalEccentricity: 0.21799
+  orbitalInclination: 44.044498
+  orbitalPeriod: 90509.05014629745
+  parents:
+  - Star: 0
+  radius: 917
+  rotationalPeriod: 0.5494999951388889
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 39.46902956745827
+  solidComposition:
+    Ice: 40
+    Metal: 19.6
+    Rock: 40.4
+  subType: Rocky Ice world
+  surfacePressure: null
+  surfaceTemperature: 35
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 327.889095
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0.26523
+  bodyId: 35
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 15995
+  earthMasses: 7.0e-06
+  gravity: 0.003738082703213611
+  id: 8136010
+  id64: 1261007906141112683
+  isLandable: true
+  materials:
+    Carbon: 18.01
+    Germanium: 4.06
+    Iron: 19.23
+    Nickel: 14.55
+    Niobium: 1.31
+    Phosphorus: 11.53
+    Ruthenium: 1.19
+    Sulphur: 21.41
+    Tin: 1.25
+    Zinc: 5.23
+    Zirconium: 2.23
+  name: Vanth
+  orbitalEccentricity: 0.007
+  orbitalInclination: 21
+  orbitalPeriod: 9.539999895625
+  parents:
+  - Planet: 34
+  - Star: 0
+  radius: 276
+  rotationalPeriod: 9.540863298773148
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 6.036181235889075e-05
+  solidComposition:
+    Ice: 40
+    Metal: 19.6
+    Rock: 40.4
+  subType: Rocky Ice world
+  surfacePressure: 0
+  surfaceTemperature: 35
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 164.461499
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: -0.507365
+  bodyId: 36
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 18883
+  earthMasses: 0.00028
+  gravity: 0.013056696486296876
+  id: 8136013
+  id64: 1297036703160076651
+  isLandable: true
+  materials:
+    Carbon: 18.08
+    Chromium: 7.27
+    Germanium: 3.41
+    Iron: 16.16
+    Manganese: 6.67
+    Nickel: 12.22
+    Niobium: 1.1
+    Phosphorus: 11.57
+    Sulphur: 21.5
+    Tin: 1.05
+    Yttrium: 0.97
+  name: (307261) 2002 MS4
+  orbitalEccentricity: 0.144
+  orbitalInclination: 17.677
+  orbitalPeriod: 98349.25402645717
+  parents:
+  - Star: 0
+  radius: 934
+  rotationalPeriod: 0.6826786814351852
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 41.71702882811219
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: null
+  surfaceTemperature: 34
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 35.987054
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: -0.437534
+  bodyId: 37
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 18617
+  earthMasses: 0.0028
+  gravity: 0.15617492993434942
+  id: 3204253
+  id64: 1333065500179040619
+  isLandable: true
+  materials:
+    Carbon: 17.53
+    Chromium: 8.42
+    Iron: 18.72
+    Molybdenum: 1.22
+    Nickel: 14.16
+    Niobium: 1.28
+    Phosphorus: 11.22
+    Ruthenium: 1.16
+    Selenium: 3.26
+    Sulphur: 20.85
+    Zirconium: 2.17
+  name: Salacia
+  orbitalEccentricity: 0.109
+  orbitalInclination: 23.936001
+  orbitalPeriod: 98856.59855273033
+  parents:
+  - Star: 0
+  radius: 854
+  rotationalPeriod: 0.8884184434143518
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 41.86003061390566
+  solidComposition:
+    Ice: 40
+    Metal: 19.6
+    Rock: 40.4
+  subType: Rocky Ice world
+  surfacePressure: null
+  surfaceTemperature: 34
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 96.9482
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: -0.520236
+  bodyId: 38
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 18617
+  earthMasses: 3.0e-06
+  gravity: 0.001329244975982747
+  id: 3198149
+  id64: 1369094297198004587
+  isLandable: true
+  materials:
+    Carbon: 16.44
+    Chromium: 7.9
+    Iron: 17.56
+    Manganese: 7.25
+    Molybdenum: 1.15
+    Nickel: 13.28
+    Phosphorus: 10.53
+    Sulphur: 19.56
+    Tungsten: 0.96
+    Vanadium: 4.31
+    Yttrium: 1.05
+  name: Actaea
+  orbitalEccentricity: 0.0084
+  orbitalInclination: 11.821146
+  orbitalPeriod: 5.489999704340278
+  parents:
+  - Planet: 37
+  - Star: 0
+  radius: 303
+  rotationalPeriod: 0.9169088516550925
+  rotationalPeriodTidallyLocked: true
+  semiMajorAxis: 3.756068878304563e-05
+  solidComposition:
+    Ice: 40
+    Metal: 19.6
+    Rock: 40.4
+  subType: Rocky Ice world
+  surfacePressure: 0
+  surfaceTemperature: 34
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Major Water Geysers
+- argOfPeriapsis: 101.789281
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: -0.328372
+  bodyId: 39
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 25225
+  earthMasses: 0.00066
+  gravity: 0.06984407762747137
+  id: 8136006
+  id64: 1405123094216968555
+  isLandable: true
+  materials:
+    Cadmium: 1.25
+    Carbon: 17.97
+    Chromium: 7.22
+    Iron: 16.06
+    Manganese: 6.63
+    Nickel: 12.15
+    Phosphorus: 11.51
+    Sulphur: 21.38
+    Technetium: 0.57
+    Tungsten: 0.88
+    Zinc: 4.37
+  name: Haumea
+  orbitalEccentricity: 0.19126
+  orbitalInclination: 28.19
+  orbitalPeriod: 103703.79796734606
+  parents:
+  - Star: 0
+  radius: 620
+  rotationalPeriod: 0.16299999935185186
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 43.21802901912026
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: null
+  surfaceTemperature: 33
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 288.263247
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0.324726
+  bodyId: 40
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 25225
+  earthMasses: 3.0e-06
+  gravity: 0.00476705671875
+  id: 8136016
+  id64: 1441151891235932523
+  isLandable: true
+  materials:
+    Carbon: 18.15
+    Chromium: 7.29
+    Iron: 16.22
+    Manganese: 6.7
+    Mercury: 0.71
+    Nickel: 12.27
+    Phosphorus: 11.62
+    Sulphur: 21.58
+    Technetium: 0.58
+    Tungsten: 0.89
+    Vanadium: 3.98
+  name: Hi'iaka
+  orbitalEccentricity: 0.0513
+  orbitalInclination: 126.356
+  orbitalPeriod: 49.1199987354051
+  parents:
+  - Planet: 39
+  - Star: 0
+  radius: 160
+  rotationalPeriod: 1.448877535763889
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 0.0003334271562212549
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: 0
+  surfaceTemperature: 33
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-01-24 15:05:20'
+  volcanismType: No volcanism
+- argOfPeriapsis: 179.364555
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0.234474
+  bodyId: 41
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 21078
+  earthMasses: 0.000234
+  gravity: 0.008252325021066759
+  id: 8136008
+  id64: 1477180688254896491
+  isLandable: true
+  materials:
+    Arsenic: 1.75
+    Cadmium: 1.44
+    Carbon: 17.4
+    Iron: 18.58
+    Manganese: 7.67
+    Molybdenum: 1.21
+    Nickel: 14.05
+    Phosphorus: 11.14
+    Sulphur: 20.69
+    Tellurium: 1.02
+    Zinc: 5.05
+  name: Quaoar
+  orbitalEccentricity: 0.034
+  orbitalInclination: 7.987
+  orbitalPeriod: 104262.24726769677
+  parents:
+  - Star: 0
+  radius: 1074
+  rotationalPeriod: 0.9490581571527777
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 43.373031590033186
+  solidComposition:
+    Ice: 40
+    Metal: 19.6
+    Rock: 40.4
+  subType: Rocky Ice world
+  surfacePressure: null
+  surfaceTemperature: 33
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 235.525895
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: -0.33764
+  bodyId: 42
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 25402
+  earthMasses: 0.000736
+  gravity: 0.058564543251992764
+  id: 8136007
+  id64: 1513209485273860459
+  isLandable: true
+  materials:
+    Carbon: 18.52
+    Iron: 16.55
+    Manganese: 6.84
+    Nickel: 12.52
+    Niobium: 1.13
+    Phosphorus: 11.86
+    Sulphur: 22.03
+    Tellurium: 0.9
+    Tin: 1.08
+    Vanadium: 4.07
+    Zinc: 4.5
+  name: Makemake
+  orbitalEccentricity: 0.15586
+  orbitalInclination: 29.006849
+  orbitalPeriod: 112817.84830821874
+  parents:
+  - Star: 0
+  radius: 715
+  rotationalPeriod: 0.3237916564467593
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 45.71503261803512
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: null
+  surfaceTemperature: 32
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 269.235511
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: -0.453617
+  bodyId: 43
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 24281
+  earthMasses: 0.000435
+  gravity: 0.010800362878417968
+  id: 8136012
+  id64: 1549238282292824427
+  isLandable: true
+  materials:
+    Arsenic: 1.61
+    Cadmium: 1.33
+    Carbon: 19.11
+    Chromium: 7.68
+    Germanium: 3.6
+    Iron: 17.08
+    Molybdenum: 1.12
+    Nickel: 12.92
+    Phosphorus: 12.23
+    Sulphur: 22.72
+    Technetium: 0.61
+  name: (225088) 2007 OR10
+  orbitalEccentricity: 0.5066
+  orbitalInclination: 30.943001
+  orbitalPeriod: 199841.14915131943
+  parents:
+  - Star: 0
+  radius: 1280
+  rotationalPeriod: 1.2408295282754631
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 66.92504771734028
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: 0
+  surfaceTemperature: 27
+  terraformingState: Not terraformable
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 227.820267
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: 0.471323
+  bodyId: 44
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 39076
+  earthMasses: 0.0028
+  gravity: 0.08421076869276171
+  id: 8136011
+  id64: 1585267079311788395
+  isLandable: true
+  materials:
+    Arsenic: 1.68
+    Carbon: 19.92
+    Germanium: 3.76
+    Iron: 17.8
+    Nickel: 13.46
+    Phosphorus: 12.75
+    Ruthenium: 1.1
+    Selenium: 3.71
+    Sulphur: 23.69
+    Tin: 1.16
+    Tungsten: 0.98
+  name: Eris
+  orbitalEccentricity: 0.44
+  orbitalInclination: 44.044498
+  orbitalPeriod: 203684.58634173608
+  parents:
+  - Star: 0
+  radius: 1163
+  rotationalPeriod: 1.0791666763194445
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 67.78104395767981
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: null
+  surfaceTemperature: 26
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 311.290007
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: -0.143725
+  bodyId: 45
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 290927
+  earthMasses: 0.000435
+  gravity: 0.017873603737279357
+  id: 8136015
+  id64: 1621295876330752363
+  isLandable: true
+  materials:
+    Carbon: 19
+    Iron: 16.98
+    Manganese: 7.01
+    Nickel: 12.84
+    Niobium: 1.16
+    Phosphorus: 12.16
+    Sulphur: 22.59
+    Tin: 1.1
+    Vanadium: 4.17
+    Yttrium: 1.01
+    Zirconium: 1.97
+  name: Sedna
+  orbitalEccentricity: 0.854
+  orbitalInclination: 11.82872
+  orbitalPeriod: 4160999.9758225693
+  parents:
+  - Star: 0
+  radius: 995
+  rotationalPeriod: 1.0974784319444444
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 506.2003718035273
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: null
+  surfaceTemperature: 20
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: No volcanism
+- argOfPeriapsis: 121.143654
+  atmosphereComposition: null
+  atmosphereType: No atmosphere
+  axialTilt: -0.367077
+  bodyId: 46
+  discovery:
+    commander: Redfoxxx
+    date: '2017-09-26 17:50:12'
+  distanceToArrival: 484243
+  earthMasses: 9.9997
+  gravity: 1.954317076274715
+  id: 8136018
+  id64: 1657324673349716331
+  isLandable: true
+  materials:
+    Cadmium: 1.3
+    Carbon: 18.78
+    Germanium: 3.54
+    Iron: 16.79
+    Manganese: 6.93
+    Nickel: 12.7
+    Phosphorus: 12.03
+    Selenium: 3.5
+    Sulphur: 22.34
+    Tin: 1.09
+    Yttrium: 1
+  name: Persephone
+  orbitalEccentricity: 0.6
+  orbitalInclination: 30
+  orbitalPeriod: 5474999.96092581
+  parents:
+  - Star: 0
+  radius: 14427.148
+  rotationalPeriod: 1.597788094212963
+  rotationalPeriodTidallyLocked: false
+  semiMajorAxis: 700.0004968804011
+  solidComposition:
+    Ice: 60
+    Metal: 13.06
+    Rock: 26.93
+  subType: Icy body
+  surfacePressure: null
+  surfaceTemperature: 20
+  terraformingState: null
+  type: Planet
+  updateTime: '2026-03-08 09:19:00'
+  volcanismType: Water Geysers
+bodyCount: 40
+id: 27
+id64: 10477373803
+name: Sol
+url: https://www.edsm.net/en/system/bodies/id/27/name/Sol

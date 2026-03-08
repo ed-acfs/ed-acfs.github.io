@@ -84,6 +84,31 @@ Evocare quindi lo script col comando:
 pyton3 tag_generator.py
 ```
 
+## Aggiornare la tabella popolazione
+
+Per tenere la lista dei sistemi nella pagina **about/index.md** sincronizzata con i dati di EDSM è disponibile
+lo script Python `edsm_fetcher.py` nella root del repository. Esso usa l'API pubblica di EDSM per leggere la
+popolazione e sovrascrive il valore nella tabella (formattandolo con punti come separatori di migliaia)
+lasciando intatto il resto del markup.
+
+Eseguire lo script con il launcher di Python:
+
+```
+py -3 edsm_fetcher.py
+```
+
+(o, se `python` è già associato alla versione 3, usare `python edsm_fetcher.py`).
+Lo script potrà essere rilanciato tutte le volte che serva: i marcatori `<div class="datatable-begin">`
+e `<div class="datatable-end">` vengono mantenuti e viene sempre assicurata una riga vuota
+prima e dopo la tabella per evitare che il Markdown si rompa.
+
+Se invece si vuole aggiornare solo un certo numero di sistemi, è possibile importare la funzione
+e passare il parametro `max_updates`, ad esempio:
+
+```
+python -c "import edsm_fetcher; edsm_fetcher.update_about_table('about/index.md', max_updates=10)"
+```
+
 ## Features
 
 ### Auto-Generating Sitemap

@@ -182,266 +182,266 @@ Governiamo su **15,789,027,426** abitanti
 | 👑  | Sistema                     | Governo       | Popolazione   | Alleanza            | Stato           |
 |:-:  |---------------------------- |-------------- |-------------- |-------------------- |-----------------|
 | 👑  | Wong Sher                   | Democratico   | 90,049        | Indipendente        | Controllato     |
-|     | 111 Tauri                   | Corporativo   | 151,113       | Federale            | Non Controllato |
-|     | 14 Geminorum                | Democratico   | 36.42 Milioni | Indipendente        | Controllato     |
-|     | 37 Geminorum                | Dittatoriale  | 9,207,049,116 | Indipendente        | Non Controllato |
-|     | 71 Orionis                  | Democratico   | 11,000        | Indipendente        | Controllato     |
-|     | 74 K Orionis                | Democratico   | 11,000        | Indipendente        | Controllato     |
-|     | Aldebaran                   | Democratico   | 15,000        | Indipendente        | Controllato     |
-|     | Alzirr                      | Democratico   | 15,000        | Indipendente        | Controllato     |
-|     | Amait                       | Corporativo   | 42,498        | Federale            | Non Controllato |
-|     | Anglii                      | Dittatoriale  | 61,539        | Indipendente        | Non Controllato |
-|     | Ao Kang                     | Democratico   | 2.21 Miliardi | Indipendente        | Controllato     |
-|     | Aravaci                     | Democratico   | 72,561        | Indipendente        | Controllato     |
-|     | BD+08 1303                  | Democratico   | 20.85 Milioni | Indipendente        | Controllato     |
-|     | BD+14 831                   | Democratico   | 105,603       | Indipendente        | Controllato     |
-|     | Bellapa                     | Democratico   | 24,191        | Indipendente        | Controllato     |
-|     | Betel                       | Democratico   | 396,317       | Indipendente        | Controllato     |
-|     | Bifrost                     | Corporativo   | 100,003       | Indipendente        | Controllato     |
-|     | Bota Ili                    | Democratico   | 86,834        | Indipendente        | Controllato     |
-|     | California Sector GW-W d1-5 | Democratico   | 33,899        | Indipendente        | Controllato     |
-|     | California Sector JM-V c2-1 | Democratico   | 46,311        | Indipendente        | Controllato     |
-|     | California Sector LC-V c2-0 | Democratico   | 450,697       | Indipendente        | Controllato     |
-|     | Ceto                        | Democratico   | 47.22 Milioni | Indipendente        | Non Controllato |
-|     | Cintices                    | Democratico   | 37,088        | Indipendente        | Controllato     |
-|     | Col 285 Sector CD-F b13-0   | Democratico   | 298,123       | Indipendente        | Controllato     |
-|     | Col 285 Sector CD-F b13-1   | Democratico   | 19,903,276    | Indipendente        | Controllato     |
-|     | Col 285 Sector CD-F b13-2   | Democratico   | 103,426       | Indipendente        | Controllato     |
-|     | Col 285 Sector CD-F b13-3   | Democratico   | 677,461       | Indipendente        | Controllato     |
-|     | Col 285 Sector CF-Y b14-2   | Democratico   | 157,156       | Indipendente        | Controllato     |
-|     | Col 285 Sector DY-E b13-3   | Democratico   | 51,409        | Indipendente        | Controllato     |
-|     | Col 285 Sector JJ-G c11-2   | Democratico   | 44,795        | Indipendente        | Controllato     |
-|     | Col 285 Sector JJ-G c11-29  | Democratico   | 94,531        | Indipendente        | Controllato     |
-|     | Col 285 Sector MY-Q c5-21   | Democratico   | 718,933       | Indipendente        | Controllato     |
-|     | Col 285 Sector NO-P c6-15   | Democratico   | 51,444        | Indipendente        | Controllato     |
-|     | Col 285 Sector NQ-H a12-1   | Democratico   | 299,527       | Indipendente        | Controllato     |
-|     | Col 285 Sector RD-R c5-6    | Confederato   | 141,093       | Indipendente        | Non Controllato |
-|     | Col 285 Sector ZV-M d7-91   | Anarchico     | 63,308        | Indipendente        | Non Controllato |
-|     | Cosi                        | Democratico   | 4.41 Miliardi | Indipendente        | Controllato     |
-|     | Dazbog                      | Democratico   | 11,000        | Indipendente        | Controllato     |
-|     | Dewikum                     | Confederato   | 38,738        | Indipendente        | Controllato     |
-|     | Dulerce                     | Democratico   | 287,191,965   | Indipendente        | Non Controllato |
-|     | Elohim                      | Corporativo   | 15,000        | Federale            | Non Controllato |
-|     | Ethli                       | Democratico   | 159,949       | Indipendente        | Non Controllato |
-|     | Euripus                     | Dittatoriale  | 38,572        | Indipendente        | Non Controllato |
-|     | Flech                       | Democratico   | 1.45 Miliardi | Indipendente        | Controllato     |
-|     | Fular                       | Democratico   | 5.01 Millioni | Indipendente        | Controllato     |
-|     | G 107-65                    | Dittatoriale  | 7,105         | Indipendente        | Non Controllato |
-|     | G 108-26                    | Democratico   | 87,705        | Indipendente        | Controllato     |
-|     | G 87-16                     | Dittatoriale  | 4,794,262,989 | Indipendente        | Non Controllato |
-|     | G 98-44                     | Democratico   | 4.33 Milioni  | Indipendente        | Non Controllato |
-|     | Galibi                      | Corporativo   | 2,011         | Indipendente        | Non Controllato |
-|     | GD 69                       | Corporativo   | 2,644         | Indipendente        | Controllato     |
-|     | Haghwe                      | Dittatoriale  | 140,943       | Indipendente        | Non Controllato |
-|     | HIP 1773                    | Democratico   | 134,549       | Indipendente        | Controllato     |
-|     | HIP 2074                    | Corporativo   | 7,600         | Indipendente        | Non Controllato |
-|     | HIP 2101                    | Corporativo   | 296,624       | Indipendente        | Non Controllato |
-|     | HIP 22403                   | Democratico   | 9,160,935     | Indipendente        | Controllato     |
-|     | HIP 2442                    | Democratico   | 13,000        | Indipendente        | Controllato     |
-|     | HIP 4888                    | Democratico   | 16.31 Milioni | Indipendente        | Controllato     |
-|     | HIP 5035                    | Democratico   | 1.07 Miliardi | Indipendente        | Controllato     |
-|     | HIP 23778                   | Democratico   | 0             | Indipendente        | Controllato     |
-|     | HIP 28774                   | Democratico   | 70.11 Milioni | Indipendente        | Controllato     |
-|     | HIP 30129                   | Democratico   | 15,000        | Indipendente        | Controllato     |
-|     | HIP 42084                   | Democratico   | 34.56 milioni | Indipendente        | Controllato     |
-|     | HIP 70618                   | Democratico   | 53,870        | Indipendente        | Controllato     |
-|     | HIP 81768                   | Democratico   | 91,451        | Indipendente        | Controllato     |
-|     | HIP 96960                   | Democratico   | 239,007	      | Indipendente        | Controllato     |
-|     | Hyades Sector AB-M b8-5     | Corporativo   | 761,539       | Federale            | Non Controllato |
-|     | Hyades Sector CM-K b9-5     | Democratico   | 5,300         | Indipendente        | Controllato     |
-|     | Hyades Sector IH-V d2-98    | Democratico   | 8,000         | Indipendente        | Controllato     |
-|     | Hyades Sector TK-M b8-3     | Democratico   | 14,000        | Indipendente        | Controllato     |
-|     | Hyades Sector VF-M b8-4     | Democratico   | 9,000         | Indipendente        | Controllato     |
-|     | Hydrae Sector OD-S b4-4     | Corporativo   | 4,000         | Indipendente        | Non Controllato |
-|     | Hydrae Sector QY-R b4-4     | Corporativo   | 4,500         | Indipendente        | Non Controllato |
-|     | Iansan                      | Democratico   | 26,500        | Indipendente        | Controllato     |
-|     | Ishtar                      | Dittatoriale  | 8,539         | Indipendente        | Non Controllato |
-|     | Jita Ten                    | Democratico   | 16.42 Milioni | Indipendente        | Controllato     |
-|     | Julanggarri                 | Democratico   | 10.60 Milioni | Indipendente        | Controllato     |
-|     | Kamchata                    | Democratico   | 1.88 Milioni  | Indipendente        | Controllato     |
-|     | Katocudatta                 | Democratico   | 3.811 Milioni | Indipendente        | Controllato     |
-|     | Kiga                        | Democratico   | 221,725       | Indipendente        | Controllato     |
-|     | Klikudiya                   | Dittatoriale  | 13.717 Milioni| Indipendente        | Non Controllato |
-|     | Kungurutii                  | Democratico   | 95,223        | Indipendente        | Controllato     |
-|     | Kvashirua                   | Democratico   | 237,869       | Indipendente        | Controllato     |
-|     | Kweretet                    | Democratico   | 22,148        | Indipendente        | Non Controllato |
-|     | Lagoon Sector YZ-Y c6       | Democratico   | 73,500        | Indipendente        | Controllato     |
-|     | Lagoon Sector ZU-X b1-9     | Democratico   | 41,121        | Indipendente        | Controllato     |
-|     | Lalande 15394               | Dittatoriale  | 9.658 Milioni | Indipendente        | Non Controllato |
-|     | Lalande 15547               | Dittatoriale  | 2,500         | Indipendente        | Non Controllato |
-|     | LBN 623 Sector AG-O b6-5    | Democratico   | 93,876        | Indipendente        | Controllato     |
-|     | LBN 623 Sector FM-M b7-0    | Democratico   | 64.108        | Indipendente        | Controllato     |
-|     | LBN 623 Sector HR-W d1-39   | Democratico   | 52,731        | Indipendente        | Controllato     |
-|     | LBN 623 Sector HR-W d1-54   | Democratico   | 207,745       | Indipendente        | Controllato     |
-|     | LBN 623 Sector HR-W d1-74   | Democratico   | 100,494       | Indipendente        | Controllato     |
-|     | LBN 623 Sector JM-W d1-52   | Democratico   | 44,792        | Indipendente        | Controllato     |
-|     | LBN 623 Sector KC-V c2-8    | Corporativo   | 355,964       | Indipendente        | Controllato     |
-|     | LBN 623 Sector KI-I a10-0   | Democratico   | 12,650        | Indipendente        | Controllato     |
-|     | LBN 623 Sector LD-I a10-2   | Democratico   | 183,236       | Indipendente        | Controllato     |
-|     | LBN 623 Sector ND-I a10-1   | Democratico   | 89,647        | Indipendente        | Controllato     |
-|     | LBN 623 Sector MX-U c2-6    | Democratico   | 50,269        | Indipendente        | Controllato     |
-|     | LBN 623 Sector MD-I a10-0   | Democratico   | 4,500         | Indipendente        | Controllato     |
-|     | LBN 623 Sector NX-U c2-6    | Democratico   | 51,216        | Indipendente        | Controllato     |
-|     | LBN 623 Sector OI-T C3-4    | Democratico   |	43,376        | Indipendente        | Controllato     |
-|     | LBN 623 Sector PJ-G a11-1   | Democratico   | 2.72 Milioni  | Indipendente        | Controllato     |
-|     | LBN 623 Sector QO-G a11-1   | Democratico   | 38,277        | Indipendente        | Controllato     |
-|     | LBN 623 Sector RD-T c3-10   | Democratico   | 84,957        | Indipendente        | Controllato     |
-|     | LBN 623 Sector RD-T c3-11   | Democratico   | 935,557       | Indipendente        | Controllato     |
-|     | LBN 623 Sector RD-T c3-7    | Democratico   | 45,757        | Indipendente        | Controllato     |
-|     | LBN 623 Sector RJ-G a11-1   | Democratico   | 56,718	      | Indipendente        | Controllato     |
-|     | LBN 623 Sector YU-P b5-0    | Democratico   | 40,069	      | Indipendente        | Controllato     |
-|     | LFT 392                     | Democratico   | 47,107        | Indipendente        | Controllato     |
-|     | LHS 1681                    | Confederato   | 4.31 Milioni  | Federale            | Non Controllato |
-|     | LHS 1706                    | Democratico   | 2.37 Milioni  | Indipendente        | Controllato     |
-|     | LHS 1743                    | Democratico   | 22,187        | Indipendente        | Controllato     |
-|     | LHS 1794                    | Democratico   | 22,187        | Indipendente        | Controllato     |
-|     | LHS 1803                    | Democratico   | 142,434       | Indipendente        | Non Controllato |
-|     | LHS 1814                    | Democratico   | 6,800         | Indipendente        | Non Controllato |
-|     | LHS 1828                    | Democratico   | 10,000        | Indipendente        | Non Controllato |
-|     | LHS 1838                    | Dittatoriale  | 180,485       | Indipendente        | Non Controllato |
-|     | LHS 1857                    | Democratico   | 48,197        | Indipendente        | Controllato     |
-|     | LHS 1912                    | Dittatoriale  | 9,000         | Indipendente        | Non Controllato |
-|     | LHS 1914                    | Dittatoriale  | 3,99 Miliardi | Indipendente        | Non Controllato |
-|     | LHS 1933                    | Democratico   | 52,263        | Indipendente        | Controllato     |
-|     | LHS 2027                    | Democratico   | 13,500        | Indipendente        | Controllato     |
-|     | LHS 6103                    | Democratico   | 28,482        | Indipendente        | Controllato     |
-|     | LHS 6119                    | Dittatoriale  | 15,000        | Indipendente        | Non Controllato |
-|     | Lowne 1                     | Patronale     | 62,137        | Indipendente        | Non Controllato |
-|     | LP 254-26                   | Dittatoriale  | 18.54 Milioni | Indipendente        | Non Controllato |
-|     | LP 302-22                   | Democratico   | 2.61 Miliardi | Indipendente        | Non Controllato |
-|     | LP 308-10                   | Dittatoriale  | 85,846        | Indipendente        | Non Controllato |
-|     | LP 366-45                   | Dittatoriale  | 9,000         | Indipendente        | Non Controllato |
-|     | LP 421-7                    | Dittatoriale  | 26,010        | Indipendente        | Non Controllato |
-|     | LP 5-110                    | Democratico   | 474,235       | Indipendente        | Controllato     |
-|     | LP 542-33                   | Democratico   | 619,763       | Indipendente        | Controllato     |
-|     | LTT 12033                   | Democratico   | 118,987       | Indipendente        | Controllato     |
-|     | LTT 17868                   | Democratico   | 98,232        | Indipendente        | Controllato     |
-|     | LTT 2545                    | Cooperativo   | 39,122        | Indipendente        | Non Controllato |
-|     | Lumbla                      | Democratico   | 6.73 Milioni  | Indipendente        | Controllato     |
-|     | Lyncis Sector CL-Y d68      | Democratico   | 31,300        | Indipendente        | Controllato     |
-|     | m Tauri                     | Democratico   | 8.78 Milioni  | Indipendente        | Controllato     |
-|     | Mbukarla                    | Corporativo   | 8.80 Milioni  | Indipendente        | Non Controllato |
-|     | Misir                       | Democratico   | 6,245,022     | Federale            | Non Controllato |
-|     | MCC 467                     | Democratico   | 24.14 Milioni | Indipendente        | Controllato     |
-|     | Mirdi                       | Corporativo   | 132,024       | Indipendente        | Controllato     |
-|     | Misir                       | Corporativo   | 6.25 Milioni  | Federale            | Non Controllato |
-|     | Morinbath                   | Democratico   | 94,434        | Indipendente        | Controllato     |
-|     | Naiti                       | Democratico   | 33,647        | Indipendente        | Controllato     |
-|     | Nandh                       | Corporativo   | 10.96 Milioni | Federale            | Non Controllato |
-|     | Nandjabinja                 | Democratico   | 3.46 Milioni  | Indipendente        | Controllato     |
-|     | Nareni                      | Confederato   | 3.50 Milioni  | Indipendente        | Controllato     |
-|     | Ndozins                     | Democratico   | 2,821         | Indipendente        | Controllato     |
-|     | Ninmah                      | Democratico   | 5,326,478,276 | Indipendente        | Non Controllato |
-|     | NLTT 16391                  | Democratico   | 2,916,824     | Indipendente        | Controllato     |
-|     | NLTT 18561                  | Democratico   | 30.62 Milioni | Indipendente        | Controllato     |
-|     | Opila                       | Corporativo   | 3.30 Miliardi | Federale            | Non Controllato |
-|     | OU Geminorum                | Dittatoriale  | 7,781,945,847 | Indipendente        | Non Controllato |
-|     | Pechua                      | Democratico   | 6,369         | Indipendente        | Non Controllato |
-|     | Pinyin                      | Corporativo   | 51,651        | Federale            | Non Controllato |
-|     | Pularungu                   | Democratico   | 4.37 Milioni  | Indipendente        | Controllato     |
-|     | Puppis Sector WO-A b3       | Democratico   | 9,000         | Indipendente        | Non Controllato |
-|     | Ragapajo                    | Democratico   | 1.63 Miliardi | Indipendente        | Controllato     |
-|     | Ryujingit                   | Democratico   | 34,255        | Indipendente        | Controllato     |
-|     | Ross 878                    | Dittatoriale  | 11.01 Milioni | Indipendente        | Non Controllato |
-|     | Sairre                      | Teocratico    | 2.72 Milioni  | Indipendente        | Non Controllato |
-|     | Senoni                      | Democratico   | 763.15 millioni | Federale          | Controllato     |
-|     | Sete                        | Democratico   | 3.17 Milioni  | Indipendente        | Controllato     |
-|     | Sharru Sector AK-A b4       | Democratico   | 4,500         | Indipendente        | Controllato     |
-|     | Shibboleth                  | Dittatoriale  | 216,262       | Indipendente        | Non Controllato |
-|     | Skang                       | Democratico   | 119,753       | Indipendente        | Controllato     |
-|     | Skuta                       | Democratico   | 84,970        | Indipendente        | Controllato     |
-|     | SPOCS 253                   | Democrativo   | 1.16 Miliardi | Indipendente        | Controllato     |
-|     | Susanoo                     | Democratico   | 2,644         | Indipendente        | Controllato     |
-|     | Suyarang                    | Democratico   | 31,15 Milioni | Indipendente        | Controllato     |
-|     | Synuefai BG-W b35-0         | Democratico   | 90,658        | Indipendente        | Controllato     |
-|     | Synuefai BG-W b35-2         | Democratico   | 225,134       | Indipendente        | Controllato     |
-|     | Synuefai BQ-X b34-3         | Democratico   | 97,026        | Indipendente        | Controllato     |
-|     | Synuefai CM-U b36-0         | Democratico   | 431,054       | Indipendente        | Controllato     |
-|     | Synuefai EB-W b35-1         | Democratico   | 12,759,450    | Indipendente        | Controllato     |
-|     | Synuefai IG-A c3-7          | Democratico   | 32,177        | Indipendente        | Controllato     |
-|     | Synuefai JB-A c3-3          | Democratico   | 20,187        | Indipendente        | Controllato     |
-|     | Synuefai JC-U b36-0         | Democratico   | 38,252        | Indipendente        | Controllato     |
-|     | Synuefai KB-A c3-0          | Democratico   |	41,837        | Indipendente        | Controllato     |
-|     | Synuefai LL-C b5-0          | Democratico   | 23,045        | Indipendente        | Controllato     |
-|     | Synuefai MW-A b6-0          | Democratico   |	45,136        | Indipendente        | Controllato     |
-|     | Synuefai NW-A b6-0          | Democratico   | 49,835        | Indipendente        | Controllato     |
-|     | Synuefai OA-Y c17-13        | Democratico   | 116,079       | Indipendente        | Controllato     |
-|     | Synuefai OC-B d1-1          | Democratico   | 10,007        | Indipendente        | Controllato     |
-|     | Synuefai OC-B d1-12         | Democratico   | 0             | Indipendente        | Controllato     |
-|     | Synuefai OC-B d1-13         | Democratico   | 10,007        | Indipendente        | Controllato     |
-|     | Synuefai OR-A b6-0          | Democratico   | 10,023        | Indipendente        | Controllato     |
-|     | Synuefai OR-A b6-1          | Democratico   | 10,023        | Indipendente        | Controllato     |
-|     | Synuefai QC-Z b6-1          | Democratico   | 13,191        | Indipendente        | Controllato     |
-|     | Synuefai QV-X c17-2         | Democratico   | 0             | Indipendente        | Controllato     |
-|     | Synuefai QV-X c17-5         | Democratico   | 103,797       | Indipendente        | Controllato     |
-|     | Synuefai QV-X c17-7         | Democratico   | 27,382,987	  | Indipendente        | Controllato     |
-|     | Synuefai QV-X c17-8         | Democratico   | 27,598        | Indipendente        | Controllato     |
-|     | Synuefai US-Y b6-1          | Democratico   | 25,221        | Indipendente        | Controllato     |
-|     | Synuefai SU-M d8-12         | Democratico   | 135,452       | Indipendente        | Controllato     |
-|     | Synuefai TU-M d8-14         | Democratico   | 104,288       | Indipendente        | Controllato     |
-|     | Synuefai TU-M d8-25         | Democratico   | 45,097,534    | Indipendente        | Controllato     |
-|     | Synuefai TU-M d8-36         | Democratico   | 127,576       | Indipendente        | Controllato     |
-|     | Synuefai TU-M d8-38         | Democratico   | 115,988       | Indipendente        | Controllato     |
-|     | Synuefai TU-M d8-41         | Democratico   | 1,256,325	    | Indipendente        | Controllato     |
-|     | Synuefai TU-M d8-50         | Democratico   | 37,513,634    | Indipendente        | Controllato     |
-|     | Synuefai VW-U c19-3         | Corporativo   | 6,000         | Indipendente        | Non Controllato |
-|     | Synuefai WN-Y b6-0          | Democratico   | 44,503        | Indipendente        | Controllato     | 
-|     | Synuefai ZF-W b35-0         | Democratico   | 128,188       | Indipendente        | Controllato     |
-|     | Synuefai ZF-W b35-2         | Democratico   | 114,619       | Indipendente        | Controllato     |
-|     | Synuefai ZT-W b7-0          | Democratico   | 17,972        | Indipendente        | Controllato     |
-|     | Tamalhikas                  | Democratico   | 3.76 Milioni  | Indipendente        | Controllato     |
-|     | Tao Ti                      | Democratico   | 3.41 Milioni  | Indipendente        | Controllato     |
-|     | Tascheter Sector DG-X b1-3  | Democratico   | 124,022       | Indipendente        | Controllato     |
-|     | Tascheter Sector DV-Y a0    | Democratico   | 9,000         | Indipendente        | Controllato     |
-|     | Tascheter Sector EG-X b1-1  | Democratico   | 23,700        | Indipendente        | Controllato     |
-|     | Tascheter Sector EG-X b1-5  | Democratico   | 13,000        | Indipendente        | Controllato     |
-|     | Tascheter Sector FB-X b1-6  | Democratico   | 4,500         | Indipendente        | Controllato     |
-|     | Tascheter Sector FB-X b1-4  | Democratico   | 9.84 Milioni  | Indipendente        | Controllato     |
-|     | Tascheter Sector FG-X b1-6  | Democratico   | 5,800         | Indipendente        | Controllato     |
-|     | Tascheter Sector GB-X b1-5  | Democratico   | 8,000         | Indipendente        | Controllato     |
-|     | Tascheter Sector HM-V b2-5  | Dittatoriale  | 309.78 Milioni | Indipendente       | Non Controllato |
-|     | Tascheter Sector IM-V b2-3  | Corporativo   | 4,500         | Federale            | Non Controllato |
-|     | Tascheter Sector LH-V b2-8  | Democratico   | 8,000         | Indipendente        | Controllato     |
-|     | Tascheter Sector OS-T a3-0  | Democratico   | 34.43 milioni | Indipendente        | Controllato     |
-|     | Tascheter Sector OS-T a3-3  | Democratico   | 13,000        | Indipendente        | Controllato     |
-|     | Tascheter Sector OS-T a3-5  | Democratico   | 16,904,577    | Indipendente        | Controllato     |
-|     | Tascheter Sector VE-Q a5-1  | Corporativo   | 10,300        | Federale            | Non Controllato |
-|     | Tascheter Sector VE-Q a5-2  | Corporativo   | 15,500        | Federale            | Non Controllato |
-|     | Tastis                      | Democratico   | 44,656        | Indipendente        | Controllato     |
-|     | Timocani                    | Democratico   | 74,797        | Federazione         | Controllato     |
-|     | Tirnitz                     | Democratico   | 5,000         | Indipendente        | Controllato     |
-|     | Tomas                       | Democratico   | 22,328        | Indipendente        | Controllato     |
-|     | Trianguli Sector CG-X b1-7  | Corporativo   | 15.23 Milioni | Federale            | Non Controllato |
-|     | Trianguli Sector FC-U a3-2  | Democratico   | 5,000         | Indipendente        | Controllato     |
-|     | Trianguli Sector FH-U a3-3  | Democratico   | 15,400        | Indipendente        | Controllato     |
-|     | Trianguli Sector FM-V b2-6  | Democratico   | 10,500        | Indipendente        | Controllato     |
-|     | Trianguli Sector HM-V b2-3  | Democratico   | 4,500         | Indipendente        | Non Controllato |
-|     | Trianguli Sector II-S a4-4  | Democratico   | 13,900        | Indipendente        | Controllato     |
-|     | V848 Monocerotis            | Corporativo   | 73,294        | Indipendente        | Controllato     |
-|     | Vandar                      | Democratico   | 41,917        | Indipendente        | Controllato     |
-|     | Waruts                      | Democratico   | 50,874,418    | Indipendente        | Non Controllato |
-|     | Wasat                       | Dittatoriale  | 12,072,373,944 | Indipendente       | Non Controllato |
-|     | Wolf 289                    | Democratico   | 27,645        | Indipendente        | Controllato     |
-|     | Wredguia GM-U b30-0         | Democratico   | 94,951        | Indipendente        | Controllato     |
-|     | Wredguia GX-S b31-0         | Cooperativo   | 45,075        | Indipendente        | Non Controllato |
-|     | Wredguia HH-U b30-1         | Democratico   | 37,608        | Indipendente        | Controllato     |
-|     | Wredguia MI-S b31-1         | Democratico   | 51,632        | Indipendente        | Controllato     |
-|     | Wredguia PA-Y c14-8         | Democratico   | 983,513       | Indipendente        | Controllato     |
-|     | Wredguia QO-Q b32-1         | Democratico   | 16,294,714    | Indipendente        | Controllato     |
-|     | Wredguia QO-Q b32-3         | Democratico   | 87,324        | Indipendente        | Controllato     |
-|     | Wredguia RO-Q b32-0         | Democratico   | 34,689        | Indipendente        | Controllato     |
-|     | Wredguia SX-L d7-87         | Corporativo   | 209,235       | Indipendente        | Non Controllato |
-|     | Wredguia SZ-O b33-1         | Democratico   | 16,590        | Indipendente        | Controllato     |
-|     | Wredguia UU-O b33-4         | Democratico   | 0             | Indipendente        | Controllato     |
-|     | Wredguia VX-L d7-19         | Democratico   | 85,516        | Indipendente        | Controllato     |
-|     | Wredguia VX-L d7-86         | Democratico   | 1,413,908	    | Indipendente        | Controllato     |
-|     | Wredguia VX-L d7-88         | Democratico   | 46,087        | Indipendente        | Controllato     |
-|     | Yggdrajang                  | Democratico   | 88,567        | Indipendente        | Controllato     |
-|     | Yin Sector CV-Y b4          | Democratico   | 43,554,410    | Indipendente        | Controllato     |
-|     | Yin Sector EQ-Y b3          | Democratico   | 1,492,451     | Indipendente        | Controllato     |
-|     | Yin Sector EQ-Y b4          | Democratico   | 226,524       | Indipendente        | Controllato     |
-|     | Zandu                       | Democratico   | 11,105,861    | Indipendente        | Controllato     |
-|     | Zeta Cassiopeiae            | Democratico   | 412,191       | Indipendente        | Controllato     |
+|     | 111 Tauri                   | Corporativo   | 151.113 | Federale            | Non Controllato |
+|     | 14 Geminorum                | Democratico   | 36.586.522 | Indipendente        | Controllato     |
+|     | 37 Geminorum                | Dittatoriale  | 9.207.049.116 | Indipendente        | Non Controllato |
+|     | 71 Orionis                  | Democratico   | 366.921 | Indipendente        | Controllato     |
+|     | 74 K Orionis                | Democratico   | 186.187 | Indipendente        | Controllato     |
+|     | Aldebaran                   | Democratico   | 15.000 | Indipendente        | Controllato     |
+|     | Alzirr                      | Democratico   | 2.103.237 | Indipendente        | Controllato     |
+|     | Amait                       | Corporativo   | 47.774 | Federale            | Non Controllato |
+|     | Anglii                      | Dittatoriale  | 61.539 | Indipendente        | Non Controllato |
+|     | Ao Kang                     | Democratico   | 2.234.693.565 | Indipendente        | Controllato     |
+|     | Aravaci                     | Democratico   | 72.561 | Indipendente        | Controllato     |
+|     | BD+08 1303                  | Democratico   | 20.853.922 | Indipendente        | Controllato     |
+|     | BD+14 831                   | Democratico   | 105.603 | Indipendente        | Controllato     |
+|     | Bellapa                     | Democratico   | 24.191 | Indipendente        | Controllato     |
+|     | Betel                       | Democratico   | 396.317 | Indipendente        | Controllato     |
+|     | Bifrost                     | Corporativo   | 100.003 | Indipendente        | Controllato     |
+|     | Bota Ili                    | Democratico   | 86.834 | Indipendente        | Controllato     |
+|     | California Sector GW-W d1-5 | Democratico   | 92.970 | Indipendente        | Controllato     |
+|     | California Sector JM-V c2-1 | Democratico   | 114.526 | Indipendente        | Controllato     |
+|     | California Sector LC-V c2-0 | Democratico   | 1.200.799 | Indipendente        | Controllato     |
+|     | Ceto                        | Democratico   | 57.680.975 | Indipendente        | Non Controllato |
+|     | Cintices                    | Democratico   | 37.088 | Indipendente        | Controllato     |
+|     | Col 285 Sector CD-F b13-0   | Democratico   | 728.029 | Indipendente        | Controllato     |
+|     | Col 285 Sector CD-F b13-1   | Democratico   | 55.607.093 | Indipendente        | Controllato     |
+|     | Col 285 Sector CD-F b13-2   | Democratico   | 2.015.490 | Indipendente        | Controllato     |
+|     | Col 285 Sector CD-F b13-3   | Democratico   | 2.150.183 | Indipendente        | Controllato     |
+|     | Col 285 Sector CF-Y b14-2   | Democratico   | 166.681 | Indipendente        | Controllato     |
+|     | Col 285 Sector DY-E b13-3   | Democratico   | 170.625 | Indipendente        | Controllato     |
+|     | Col 285 Sector JJ-G c11-2   | Democratico   | 161.226 | Indipendente        | Controllato     |
+|     | Col 285 Sector JJ-G c11-29  | Democratico   | 345.463 | Indipendente        | Controllato     |
+|     | Col 285 Sector MY-Q c5-21   | Democratico   | 20.042.894 | Indipendente        | Controllato     |
+|     | Col 285 Sector NO-P c6-15   | Democratico   | 169.358 | Indipendente        | Controllato     |
+|     | Col 285 Sector NQ-H a12-1   | Democratico   | 734.391 | Indipendente        | Controllato     |
+|     | Col 285 Sector RD-R c5-6    | Confederato   | 45.018.877 | Indipendente        | Non Controllato |
+|     | Col 285 Sector ZV-M d7-91   | Anarchico     | 113.929 | Indipendente        | Non Controllato |
+|     | Cosi                        | Democratico   | 4.405.808.790 | Indipendente        | Controllato     |
+|     | Dazbog                      | Democratico   | 205.897 | Indipendente        | Controllato     |
+|     | Dewikum                     | Confederato   | 83.688 | Indipendente        | Controllato     |
+|     | Dulerce                     | Democratico   | 287.191.965 | Indipendente        | Non Controllato |
+|     | Elohim                      | Corporativo   | 2.127.050 | Federale            | Non Controllato |
+|     | Ethli                       | Democratico   | 159.949 | Indipendente        | Non Controllato |
+|     | Euripus                     | Dittatoriale  | 38.572 | Indipendente        | Non Controllato |
+|     | Flech                       | Democratico   | 1.450.039.884 | Indipendente        | Controllato     |
+|     | Fular                       | Democratico   | 5.006.129 | Indipendente        | Controllato     |
+|     | G 107-65                    | Dittatoriale  | 7.105 | Indipendente        | Non Controllato |
+|     | G 108-26                    | Democratico   | 104.831 | Indipendente        | Controllato     |
+|     | G 87-16                     | Dittatoriale  | 4.794.262.989 | Indipendente        | Non Controllato |
+|     | G 98-44                     | Democratico   | 4.328.269 | Indipendente        | Non Controllato |
+|     | Galibi                      | Corporativo   | 2.011 | Indipendente        | Non Controllato |
+|     | GD 69                       | Corporativo   | 2.644 | Indipendente        | Controllato     |
+|     | Hahgwe                      | Dittatoriale  | 140,943       | Indipendente        | Non Controllato |
+|     | HIP 1773                    | Democratico   | 256.531 | Indipendente        | Controllato     |
+|     | HIP 2074                    | Corporativo   | 199.211 | Indipendente        | Non Controllato |
+|     | HIP 2101                    | Corporativo   | 375.652 | Indipendente        | Non Controllato |
+|     | HIP 22403                   | Democratico   | 92.435.001 | Indipendente        | Controllato     |
+|     | HIP 2442                    | Democratico   | 18.745.865 | Indipendente        | Controllato     |
+|     | HIP 4888                    | Democratico   | 75.294.483 | Indipendente        | Controllato     |
+|     | HIP 5035                    | Democratico   | 1.351.304.628 | Indipendente        | Controllato     |
+|     | HIP 23778                   | Democratico   | 5.766.468 | Indipendente        | Controllato     |
+|     | HIP 28774                   | Democratico   | 70.105.266 | Indipendente        | Controllato     |
+|     | HIP 30129                   | Democratico   | 2.126.722 | Indipendente        | Controllato     |
+|     | HIP 42084                   | Democratico   | 145.133.374 | Indipendente        | Controllato     |
+|     | HIP 70618                   | Democratico   | 349.322 | Indipendente        | Controllato     |
+|     | HIP 81768                   | Democratico   | 214.703 | Indipendente        | Controllato     |
+|     | HIP 96960                   | Democratico   | 1.211.816 | Indipendente        | Controllato     |
+|     | Hyades Sector AB-M b8-5     | Corporativo   | 909.472 | Federale            | Non Controllato |
+|     | Hyades Sector CM-K b9-5     | Democratico   | 439.095 | Indipendente        | Controllato     |
+|     | Hyades Sector IH-V d2-98    | Democratico   | 43.722.537 | Indipendente        | Controllato     |
+|     | Hyades Sector TK-M b8-3     | Democratico   | 1.878.530 | Indipendente        | Controllato     |
+|     | Hyades Sector VF-M b8-4     | Democratico   | 189.257 | Indipendente        | Controllato     |
+|     | Hydrae Sector OD-S b4-4     | Corporativo   | 179.123 | Indipendente        | Non Controllato |
+|     | Hydrae Sector QY-R b4-4     | Corporativo   | 288.211 | Indipendente        | Non Controllato |
+|     | Iansan                      | Democratico   | 58.129.645 | Indipendente        | Controllato     |
+|     | Ishtar                      | Dittatoriale  | 8.539 | Indipendente        | Non Controllato |
+|     | Jita Ten                    | Democratico   | 16.481.788 | Indipendente        | Controllato     |
+|     | Julanggarri                 | Democratico   | 10.615.536 | Indipendente        | Controllato     |
+|     | Kamchata                    | Democratico   | 1.884.110 | Indipendente        | Controllato     |
+|     | Katocudatta                 | Democratico   | 3.811.851 | Indipendente        | Controllato     |
+|     | Kiga                        | Democratico   | 221.725 | Indipendente        | Controllato     |
+|     | Klikudiya                   | Dittatoriale  | 13.717.409 | Indipendente        | Non Controllato |
+|     | Kungurutii                  | Democratico   | 119.374 | Indipendente        | Controllato     |
+|     | Kvashirua                   | Democratico   | 237.869 | Indipendente        | Controllato     |
+|     | Kweretet                    | Democratico   | 22.148 | Indipendente        | Non Controllato |
+|     | Lagoon Sector YZ-Y c6       | Democratico   | 83.224 | Indipendente        | Controllato     |
+|     | Lagoon Sector ZU-X b1-9     | Democratico   | 57.563 | Indipendente        | Controllato     |
+|     | Lalande 15394               | Dittatoriale  | 9.658.573 | Indipendente        | Non Controllato |
+|     | Lalande 15547               | Dittatoriale  | 2.500 | Indipendente        | Non Controllato |
+|     | LBN 623 Sector AG-O b6-5    | Democratico   | 339.021 | Indipendente        | Controllato     |
+|     | LBN 623 Sector FM-M b7-0    | Democratico   | 220.423 | Indipendente        | Controllato     |
+|     | LBN 623 Sector HR-W d1-39   | Democratico   | 141.212 | Indipendente        | Controllato     |
+|     | LBN 623 Sector HR-W d1-54   | Democratico   | 1.433.954 | Indipendente        | Controllato     |
+|     | LBN 623 Sector HR-W d1-74   | Democratico   | 189.185 | Indipendente        | Controllato     |
+|     | LBN 623 Sector JM-W d1-52   | Democratico   | 170.338 | Indipendente        | Controllato     |
+|     | LBN 623 Sector KC-V c2-8    | Corporativo   | 51.775.894 | Indipendente        | Controllato     |
+|     | LBN 623 Sector KI-I a10-0   | Democratico   | 17.674.949 | Indipendente        | Controllato     |
+|     | LBN 623 Sector LD-I a10-2   | Democratico   | 351.415 | Indipendente        | Controllato     |
+|     | LBN 623 Sector ND-I a10-1   | Democratico   | 322.760 | Indipendente        | Controllato     |
+|     | LBN 623 Sector MX-U c2-6    | Democratico   | 188.908 | Indipendente        | Controllato     |
+|     | LBN 623 Sector MD-I a10-0   | Democratico   | 350.329 | Indipendente        | Controllato     |
+|     | LBN 623 Sector NX-U c2-6    | Democratico   | 180.691 | Indipendente        | Controllato     |
+|     | LBN 623 Sector OI-T C3-4    | Democratico   | 169.817 | Indipendente        | Controllato     |
+|     | LBN 623 Sector PJ-G a11-1   | Democratico   | 5.410.133 | Indipendente        | Controllato     |
+|     | LBN 623 Sector QO-G a11-1   | Democratico   | 1.778.189 | Indipendente        | Controllato     |
+|     | LBN 623 Sector RD-T c3-10   | Democratico   | 331.840 | Indipendente        | Controllato     |
+|     | LBN 623 Sector RD-T c3-11   | Democratico   | 3.772.856 | Indipendente        | Controllato     |
+|     | LBN 623 Sector RD-T c3-7    | Democratico   | 164.135 | Indipendente        | Controllato     |
+|     | LBN 623 Sector RJ-G a11-1   | Democratico   | 172.313 | Indipendente        | Controllato     |
+|     | LBN 623 Sector YU-P b5-0    | Democratico   | 156.751 | Indipendente        | Controllato     |
+|     | LFT 392                     | Democratico   | 47.107 | Indipendente        | Controllato     |
+|     | LHS 1681                    | Confederato   | 3.174.151 | Federale            | Non Controllato |
+|     | LHS 1706                    | Democratico   | 2.367.878 | Indipendente        | Controllato     |
+|     | LHS 1743                    | Democratico   | 5.803.239 | Indipendente        | Controllato     |
+|     | LHS 1794                    | Democratico   | 70.688 | Indipendente        | Controllato     |
+|     | LHS 1803                    | Democratico   | 142.434 | Indipendente        | Non Controllato |
+|     | LHS 1814                    | Democratico   | 304.591 | Indipendente        | Non Controllato |
+|     | LHS 1828                    | Democratico   | 363.322 | Indipendente        | Non Controllato |
+|     | LHS 1838                    | Dittatoriale  | 182.586 | Indipendente        | Non Controllato |
+|     | LHS 1857                    | Democratico   | 94.563 | Indipendente        | Controllato     |
+|     | LHS 1912                    | Dittatoriale  | 147.560 | Indipendente        | Non Controllato |
+|     | LHS 1914                    | Dittatoriale  | 3.985.538.940 | Indipendente        | Non Controllato |
+|     | LHS 1933                    | Democratico   | 53.263 | Indipendente        | Controllato     |
+|     | LHS 2027                    | Democratico   | 221.545 | Indipendente        | Controllato     |
+|     | LHS 6103                    | Democratico   | 32.286 | Indipendente        | Controllato     |
+|     | LHS 6119                    | Dittatoriale  | 1.936.409 | Indipendente        | Non Controllato |
+|     | Lowne 1                     | Patronale     | 62.137 | Indipendente        | Non Controllato |
+|     | LP 254-26                   | Dittatoriale  | 18.448.576 | Indipendente        | Non Controllato |
+|     | LP 302-22                   | Democratico   | 2.605.486.126 | Indipendente        | Non Controllato |
+|     | LP 308-10                   | Dittatoriale  | 92.860 | Indipendente        | Non Controllato |
+|     | LP 366-45                   | Dittatoriale  | 145.877 | Indipendente        | Non Controllato |
+|     | LP 421-7                    | Dittatoriale  | 39.876 | Indipendente        | Non Controllato |
+|     | LP 5-110                    | Democratico   | 1.538.443 | Indipendente        | Controllato     |
+|     | LP 542-33                   | Democratico   | 619.763 | Indipendente        | Controllato     |
+|     | LTT 12033                   | Democratico   | 158.829 | Indipendente        | Controllato     |
+|     | LTT 17868                   | Democratico   | 166.557 | Indipendente        | Controllato     |
+|     | LTT 2545                    | Cooperativo   | 39.122 | Indipendente        | Non Controllato |
+|     | Lumbla                      | Democratico   | 6.728.766 | Indipendente        | Controllato     |
+|     | Lyncis Sector CL-Y d68      | Democratico   | 54.609.474 | Indipendente        | Controllato     |
+|     | m Tauri                     | Democratico   | 8.799.034 | Indipendente        | Controllato     |
+|     | Mbukarla                    | Corporativo   | 213.549 | Indipendente        | Non Controllato |
+|     | Misir                       | Democratico   | 6.245.022 | Federale            | Non Controllato |
+|     | MCC 467                     | Democratico   | 24.144.394 | Indipendente        | Controllato     |
+|     | Mirdi                       | Corporativo   | 132.024 | Indipendente        | Controllato     |
+|     | Misir                       | Corporativo   | 6.245.022 | Federale            | Non Controllato |
+|     | Morinbath                   | Democratico   | 94.434 | Indipendente        | Controllato     |
+|     | Naiti                       | Democratico   | 60.368 | Indipendente        | Controllato     |
+|     | Nandh                       | Corporativo   | 10.960.390 | Federale            | Non Controllato |
+|     | Nandjabinja                 | Democratico   | 3.513.428 | Indipendente        | Controllato     |
+|     | Nareni                      | Confederato   | 3.495.947 | Indipendente        | Controllato     |
+|     | Ndozins                     | Democratico   | 2.821 | Indipendente        | Controllato     |
+|     | Ninmah                      | Democratico   | 5.326.478.276 | Indipendente        | Non Controllato |
+|     | NLTT 16391                  | Democratico   | 2.916.824 | Indipendente        | Controllato     |
+|     | NLTT 18561                  | Democratico   | 30.668.460 | Indipendente        | Controllato     |
+|     | Opila                       | Corporativo   | 3.300.604.153 | Federale            | Non Controllato |
+|     | OU Geminorum                | Dittatoriale  | 7.781.945.847 | Indipendente        | Non Controllato |
+|     | Pechua                      | Democratico   | 6.369 | Indipendente        | Non Controllato |
+|     | Pinyin                      | Corporativo   | 200.472 | Federale            | Non Controllato |
+|     | Pularungu                   | Democratico   | 4.432.008 | Indipendente        | Controllato     |
+|     | Puppis Sector WO-A b3       | Democratico   | 228.249 | Indipendente        | Non Controllato |
+|     | Ragapajo                    | Democratico   | 1.625.838.868 | Indipendente        | Controllato     |
+|     | Ryujingit                   | Democratico   | 34.255 | Indipendente        | Controllato     |
+|     | Ross 878                    | Dittatoriale  | 11.013.393 | Indipendente        | Non Controllato |
+|     | Sairre                      | Teocratico    | 2.719.912 | Indipendente        | Non Controllato |
+|     | Senoni                      | Democratico   | 763.154.277 | Federale          | Controllato     |
+|     | Sete                        | Democratico   | 3.174.218 | Indipendente        | Controllato     |
+|     | Sharru Sector AK-A b4       | Democratico   | 144.098 | Indipendente        | Controllato     |
+|     | Shibboleth                  | Dittatoriale  | 216.262 | Indipendente        | Non Controllato |
+|     | Skang                       | Democratico   | 119.753 | Indipendente        | Controllato     |
+|     | Skuta                       | Democratico   | 84.970 | Indipendente        | Controllato     |
+|     | SPOCS 253                   | Democrativo   | 1.155.984.689 | Indipendente        | Controllato     |
+|     | Susanoo                     | Democratico   | 2.644 | Indipendente        | Controllato     |
+|     | Suyarang                    | Democratico   | 31.208.467 | Indipendente        | Controllato     |
+|     | Synuefai BG-W b35-0         | Democratico   | 129.162 | Indipendente        | Controllato     |
+|     | Synuefai BG-W b35-2         | Democratico   | 327.569 | Indipendente        | Controllato     |
+|     | Synuefai BQ-X b34-3         | Democratico   | 148.623 | Indipendente        | Controllato     |
+|     | Synuefai CM-U b36-0         | Democratico   | 476.737 | Indipendente        | Controllato     |
+|     | Synuefai EB-W b35-1         | Democratico   | 33.588.947 | Indipendente        | Controllato     |
+|     | Synuefai IG-A c3-7          | Democratico   | 89.193 | Indipendente        | Controllato     |
+|     | Synuefai JB-A c3-3          | Democratico   | 172.732 | Indipendente        | Controllato     |
+|     | Synuefai JC-U b36-0         | Democratico   | 75.328 | Indipendente        | Controllato     |
+|     | Synuefai KB-A c3-0          | Democratico   | 80.496 | Indipendente        | Controllato     |
+|     | Synuefai LL-C b5-0          | Democratico   | 65.280 | Indipendente        | Controllato     |
+|     | Synuefai MW-A b6-0          | Democratico   | 66.712 | Indipendente        | Controllato     |
+|     | Synuefai NW-A b6-0          | Democratico   | 66.716 | Indipendente        | Controllato     |
+|     | Synuefai OA-Y c17-13        | Democratico   | 164.015 | Indipendente        | Controllato     |
+|     | Synuefai OC-B d1-1          | Democratico   | 65.039 | Indipendente        | Controllato     |
+|     | Synuefai OC-B d1-12         | Democratico   | 578.768 | Indipendente        | Controllato     |
+|     | Synuefai OC-B d1-13         | Democratico   | 76.289 | Indipendente        | Controllato     |
+|     | Synuefai OR-A b6-0          | Democratico   | 74.628 | Indipendente        | Controllato     |
+|     | Synuefai OR-A b6-1          | Democratico   | 59.685 | Indipendente        | Controllato     |
+|     | Synuefai QC-Z b6-1          | Democratico   | 55.596 | Indipendente        | Controllato     |
+|     | Synuefai QV-X c17-2         | Democratico   | 0 | Indipendente        | Controllato     |
+|     | Synuefai QV-X c17-5         | Democratico   | 154.345 | Indipendente        | Controllato     |
+|     | Synuefai QV-X c17-7         | Democratico   | 51.971.609 | Indipendente        | Controllato     |
+|     | Synuefai QV-X c17-8         | Democratico   | 41.715 | Indipendente        | Controllato     |
+|     | Synuefai US-Y b6-1          | Democratico   | 76.652 | Indipendente        | Controllato     |
+|     | Synuefai SU-M d8-12         | Democratico   | 368.458 | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-14         | Democratico   | 157.057 | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-25         | Democratico   | 81.660.816 | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-36         | Democratico   | 180.046 | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-38         | Democratico   | 165.674 | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-41         | Democratico   | 1.866.834 | Indipendente        | Controllato     |
+|     | Synuefai TU-M d8-50         | Democratico   | 78.062.269 | Indipendente        | Controllato     |
+|     | Synuefai VW-U c19-3         | Corporativo   | 370.372 | Indipendente        | Non Controllato |
+|     | Synuefai WN-Y b6-0          | Democratico   | 84.153 | Indipendente        | Controllato     | 
+|     | Synuefai ZF-W b35-0         | Democratico   | 180.419 | Indipendente        | Controllato     |
+|     | Synuefai ZF-W b35-2         | Democratico   | 162.019 | Indipendente        | Controllato     |
+|     | Synuefai ZT-W b7-0          | Democratico   | 68.187 | Indipendente        | Controllato     |
+|     | Tamalhikas                  | Democratico   | 3.756.266 | Indipendente        | Controllato     |
+|     | Tao Ti                      | Democratico   | 3.551.128 | Indipendente        | Controllato     |
+|     | Tascheter Sector DG-X b1-3  | Democratico   | 141.842 | Indipendente        | Controllato     |
+|     | Tascheter Sector DV-Y a0    | Democratico   | 195.653 | Indipendente        | Controllato     |
+|     | Tascheter Sector EG-X b1-1  | Democratico   | 37.816.517 | Indipendente        | Controllato     |
+|     | Tascheter Sector EG-X b1-5  | Democratico   | 2.094.556 | Indipendente        | Controllato     |
+|     | Tascheter Sector FB-X b1-6  | Democratico   | 369.715 | Indipendente        | Controllato     |
+|     | Tascheter Sector FB-X b1-4  | Democratico   | 35.471.808 | Indipendente        | Controllato     |
+|     | Tascheter Sector FG-X b1-6  | Democratico   | 186.056 | Indipendente        | Controllato     |
+|     | Tascheter Sector GB-X b1-5  | Democratico   | 188.411 | Indipendente        | Controllato     |
+|     | Tascheter Sector HM-V b2-5  | Dittatoriale  | 352.629.111 | Indipendente       | Non Controllato |
+|     | Tascheter Sector IM-V b2-3  | Corporativo   | 296.312 | Federale            | Non Controllato |
+|     | Tascheter Sector LH-V b2-8  | Democratico   | 49.576.320 | Indipendente        | Controllato     |
+|     | Tascheter Sector OS-T a3-0  | Democratico   | 57.780.882 | Indipendente        | Controllato     |
+|     | Tascheter Sector OS-T a3-3  | Democratico   | 1.908.638 | Indipendente        | Controllato     |
+|     | Tascheter Sector OS-T a3-5  | Democratico   | 359.328.241 | Indipendente        | Controllato     |
+|     | Tascheter Sector VE-Q a5-1  | Corporativo   | 539.742 | Federale            | Non Controllato |
+|     | Tascheter Sector VE-Q a5-2  | Corporativo   | 1.949.008 | Federale            | Non Controllato |
+|     | Tastis                      | Democratico   | 44.656 | Indipendente        | Controllato     |
+|     | Timocani                    | Democratico   | 85.801 | Federazione         | Controllato     |
+|     | Tirnitz                     | Democratico   | 409.027 | Indipendente        | Controllato     |
+|     | Tomas                       | Democratico   | 22.328 | Indipendente        | Controllato     |
+|     | Trianguli Sector CG-X b1-7  | Corporativo   | 48.506.196 | Federale            | Non Controllato |
+|     | Trianguli Sector FC-U a3-2  | Democratico   | 183.129 | Indipendente        | Controllato     |
+|     | Trianguli Sector FH-U a3-3  | Democratico   | 1.940.362 | Indipendente        | Controllato     |
+|     | Trianguli Sector FM-V b2-6  | Democratico   | 46.334.693 | Indipendente        | Controllato     |
+|     | Trianguli Sector HM-V b2-3  | Democratico   | 147.123 | Indipendente        | Non Controllato |
+|     | Trianguli Sector II-S a4-4  | Democratico   | 2.081.923 | Indipendente        | Controllato     |
+|     | V848 Monocerotis            | Corporativo   | 73.294 | Indipendente        | Controllato     |
+|     | Vandar                      | Democratico   | 41.917 | Indipendente        | Controllato     |
+|     | Waruts                      | Democratico   | 50.874.418 | Indipendente        | Non Controllato |
+|     | Wasat                       | Dittatoriale  | 12.072.373.944 | Indipendente       | Non Controllato |
+|     | Wolf 289                    | Democratico   | 115.585 | Indipendente        | Controllato     |
+|     | Wredguia GM-U b30-0         | Democratico   | 94.951 | Indipendente        | Controllato     |
+|     | Wredguia GX-S b31-0         | Cooperativo   | 58.108 | Indipendente        | Non Controllato |
+|     | Wredguia HH-U b30-1         | Democratico   | 91.479 | Indipendente        | Controllato     |
+|     | Wredguia MI-S b31-1         | Democratico   | 61.524 | Indipendente        | Controllato     |
+|     | Wredguia PA-Y c14-8         | Democratico   | 983.513 | Indipendente        | Controllato     |
+|     | Wredguia QO-Q b32-1         | Democratico   | 15.338.712 | Indipendente        | Controllato     |
+|     | Wredguia QO-Q b32-3         | Democratico   | 87.324 | Indipendente        | Controllato     |
+|     | Wredguia RO-Q b32-0         | Democratico   | 34.689 | Indipendente        | Controllato     |
+|     | Wredguia SX-L d7-87         | Corporativo   | 251.946 | Indipendente        | Non Controllato |
+|     | Wredguia SZ-O b33-1         | Democratico   | 16.590 | Indipendente        | Controllato     |
+|     | Wredguia UU-O b33-4         | Democratico   | 0 | Indipendente        | Controllato     |
+|     | Wredguia VX-L d7-19         | Democratico   | 85.516 | Indipendente        | Controllato     |
+|     | Wredguia VX-L d7-86         | Democratico   | 1.413.908 | Indipendente        | Controllato     |
+|     | Wredguia VX-L d7-88         | Democratico   | 46.087 | Indipendente        | Controllato     |
+|     | Yggdrajang                  | Democratico   | 88.567 | Indipendente        | Controllato     |
+|     | Yin Sector CV-Y b4          | Democratico   | 46.078.829 | Indipendente        | Controllato     |
+|     | Yin Sector EQ-Y b3          | Democratico   | 1.593.064 | Indipendente        | Controllato     |
+|     | Yin Sector EQ-Y b4          | Democratico   | 255.181 | Indipendente        | Controllato     |
+|     | Zandu                       | Democratico   | 11.105.861 | Indipendente        | Controllato     |
+|     | Zeta Cassiopeiae            | Democratico   | 2.014.284 | Indipendente        | Controllato     |
 
 <div class="datatable-end"></div>
 
