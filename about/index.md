@@ -4,11 +4,11 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-02-26
+last_modified_at: 2026-03-08
 ---
 <style>
 .wrap-collapsible {
-  margin: 0 0 1rem 0;
+  margin: 3rem 0 1rem 0;
 }
 input[type='checkbox'] {
   display: none;
@@ -53,7 +53,79 @@ table.dataTable.display tbody tr.even > .sorting_1, table.dataTable.order-column
 table.dataTable.display tbody tr:hover > .sorting_1, table.dataTable.order-column.hover tbody tr:hover > .sorting_1 {
     background-color: #b16111;
 }
-</style>
+/* DataTables Pagination Styling */
+.dataTables_wrapper {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  font-family: "Euro Caps", "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 0.8rem;
+  letter-spacing: 0.075em;
+  color: #b5bcc7 !important;
+  border: solid 2px #b5bcc7;
+  background-color: transparent;
+  padding: 0.5rem 0.75rem;
+  margin-left: -2px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+  color: #f07b05 !important;
+  border-color: #f07b05;
+  background-color: transparent;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled,
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover {
+  color: #555 !important;
+  border-color: #555;
+  cursor: not-allowed;
+  display: none;
+}
+.dataTables_wrapper .dataTables_info {
+  color: #b5bcc7;
+  font-size: 0.9rem;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  padding: 0.5rem 0;
+}
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_length select {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+.dataTables_wrapper .dataTables_length select {
+  color: #b5bcc7;
+  background-color: #1a1919;
+  border: solid 1px #b5bcc7;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+}
+.dataTables_wrapper .dataTables_length select:hover {
+  border-color: #f07b05;
+}
+.dataTables_wrapper .dataTables_length label {
+  color: #b5bcc7;
+  font-size: 0.9rem;
+}
+table.dataTable.display thead th {
+  font-weight: normal !important;
+}
+/* Remove bold from table headers */
+table.dataTable.display thead th {
+  font-weight: normal !important;
+}
+/* Also remove bold from original table before DataTables */
+table th, table td {
+  font-weight: normal !important;
+}/* Force normal weight on table cells to override inherited font-weight */
+table.dataTable.display tbody td {
+  font-weight: 200 !important;
+  font-family: 'Helvetica', sans-serif !important;
+}
+table.dataTable.display thead th {
+  font-weight: 200 !important;
+  font-family: 'Helvetica', sans-serif !important;
+}</style>
 ## Alto Comando Flotta Stellare
 
 L'Alto Comando Flotta Stellare (**ACFS**)  è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia garantendo loro una casa lontano da casa; per questa ragione l'ingresso è libero e garantito a tutti, basta fare richiesta, in modo da rendere meno solitaria la vastità della galassia di Elite Dangerous.
@@ -96,11 +168,11 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **342 sistemi**, di cui **229** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **343 sistemi**, di cui **228** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **407** stazioni
+  - **406** stazioni
   - **897** insediamenti
-  - **155** installazioni
+  - **157** installazioni
   - **1** megaship
 
 Governiamo su **15,789,027,426** abitanti
@@ -348,12 +420,22 @@ Governiamo su **15,789,027,426** abitanti
 |     | V848 Monocerotis            | Corporativo   | 73,294        | Indipendente        | Controllato     |
 |     | Vandar                      | Democratico   | 41,917        | Indipendente        | Controllato     |
 |     | Waruts                      | Democratico   | 50,874,418    | Indipendente        | Non Controllato |
+|     | Wasat                       | Dittatoriale  | 12,072,373,944 | Indipendente       | Non Controllato |
 |     | Wolf 289                    | Democratico   | 27,645        | Indipendente        | Controllato     |
+|     | Wredguia GM-U b30-0         | Democratico   | 94,951        | Indipendente        | Controllato     |
 |     | Wredguia GX-S b31-0         | Cooperativo   | 45,075        | Indipendente        | Non Controllato |
 |     | Wredguia HH-U b30-1         | Democratico   | 37,608        | Indipendente        | Controllato     |
 |     | Wredguia MI-S b31-1         | Democratico   | 51,632        | Indipendente        | Controllato     |
-|     | Wredguia QO-Q b32-1         | Democratico   | 925,312       | Indipendente        | Controllato     |
+|     | Wredguia PA-Y c14-8         | Democratico   | 983,513       | Indipendente        | Controlalto     |
+|     | Wredguia QO-Q b32-1         | Democratico   | 16,294,714    | Indipendente        | Controllato     |
+|     | Wredguia QO-Q b32-3         | Democratico   | 87,324        | Indipendente        | Controllato     |
+|     | Wredguia RO-Q b32-0         | Democratico   | 34,689        | Indipendente        | Controllato     |
 |     | Wredguia SX-L d7-87         | Corporativo   | 209,235       | Indipendente        | Non Controllato |
+|     | Wredguia SZ-O b33-1         | Democratico   | 16,590        | Indipendente        | Controllato     |
+|     | Wredguia UU-O b33-4         | Democratico   | 0             | Indipendente        | Controllato     |
+|     | Wredguia VX-L d7-19         | Democratico   | 85,516        | Indipendente        | Controllato     |
+|     | Wredguia VX-L d7-86         | Democratico   | 1,413,908	    | Indipendente        | Controllato     |
+|     | Wredguia VX-L d7-88         | Democratico   | 46,087        | Indipendente        | Controllato     |
 |     | Yggdrajang                  | Democratico   | 88,567        | Indipendente        | Controllato     |
 |     | Yin Sector CV-Y b4          | Democratico   | 43,554,410    | Indipendente        | Controllato     |
 |     | Yin Sector EQ-Y b3          | Democratico   | 1,492,451     | Indipendente        | Controllato     |
@@ -369,6 +451,7 @@ Governiamo su **15,789,027,426** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>08 Marzo 3312: Arriviamo su <b>Wasat</b>, sistema molto popoloso controlalto dagli amici Civitas Dei</li>
           <li>23 Febbraio 3312: Ci espandiamo su <b>LHS 1838</b>.</li>
           <li>22 Febbraio 3312: Colonizziamo <b>HIP 23778</b>. La sua stazione Orbis è ora pronta a ricevere i turisti da ogni angolo della Galassia.</li>
           <li>20 Febbraio 3312: Prendiamo il controllo di <b>Col 285 Sector CF-Y b14-2</b>, primo sistema colonizzato dal Tenente <b>Trentomega</b>.</li>

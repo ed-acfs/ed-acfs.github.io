@@ -19,11 +19,16 @@
   $(document).ready(function(){
       $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
       $('table.display').DataTable( {
-          paging: false,
+          paging: true,
+          pageLength: 40,
           stateSave: false,
-          info: false,
+          info: true,
           searching: true,
-          "order": [[ 0, "desc"]]
+          "order": [[ 0, "desc"]],
+          dom: '<"top"f>rt<"bottom"lip>',
+          language: {
+              info: "Mostra da _START_ a _END_ di _TOTAL_ voci"
+          }
       });
    });
 </script>
