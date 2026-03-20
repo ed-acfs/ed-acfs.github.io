@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-03-17
+last_modified_at: 2026-03-20
 ---
 <style>
 .wrap-collapsible {
@@ -212,6 +212,7 @@ Governiamo su **15,754,298,799** abitanti
 |     | Col 285 Sector CD-F b13-3   | Democratico   | 2.199.305 | Indipendente        | Controllato     |
 |     | Col 285 Sector CF-Y b14-2   | Democratico   | 180.412 | Indipendente        | Controllato     |
 |     | Col 285 Sector DY-E b13-3   | Democratico   | 170.625 | Indipendente        | Controllato     |
+|     | Col 285 Sector GA-B b28-2   | Anarchico     | 18.340.000 | Indipendente     | Non Controllato |
 |     | Col 285 Sector JJ-G c11-2   | Democratico   | 161.226 | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-29  | Democratico   | 345.463 | Indipendente        | Controllato     |
 |     | Col 285 Sector MY-Q c5-21   | Democratico   | 20.042.894 | Indipendente        | Controllato     |
@@ -456,6 +457,7 @@ Governiamo su **15,754,298,799** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>20 Marzo 3312: Approdiamo su <b>Col 285 Sector GA-B b28-2</b></li>
           <li>08 Marzo 3312: Arriviamo su <b>Wasat</b>, sistema molto popoloso controllato dagli amici Civitas Dei</li>
           <li>23 Febbraio 3312: Ci espandiamo su <b>LHS 1838</b>.</li>
           <li>22 Febbraio 3312: Colonizziamo <b>HIP 23778</b>. La sua stazione Orbis è ora pronta a ricevere i turisti da ogni angolo della Galassia.</li>
