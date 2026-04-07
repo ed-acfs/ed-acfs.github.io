@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-03-28
+last_modified_at: 2026-04-07
 ---
 <style>
 .wrap-collapsible {
@@ -168,14 +168,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **347 sistemi**, di cui **230** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **349 sistemi**, di cui **231** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **412** stazioni
-  - **902** insediamenti
-  - **162** installazioni
+  - **419** stazioni
+  - **901** insediamenti
+  - **163** installazioni
   - **1** megaship
 
-Governiamo su **16,056,898,362** abitanti
+Governiamo su **16,742,056,433** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -239,6 +239,7 @@ Governiamo su **16,056,898,362** abitanti
 |     | HIP 1773                    | Democratico   | 279.041 | Indipendente        | Controllato     |
 |     | HIP 2074                    | Corporativo   | 206.839 | Indipendente        | Non Controllato |
 |     | HIP 2101                    | Corporativo   | 394.820 | Indipendente        | Non Controllato |
+|     | HIP 21023                   | Corporativo   | 933.467 | Indipendente        | Non Controllato |
 |     | HIP 22403                   | Democratico   | 121.118.337 | Indipendente        | Controllato     |
 |     | HIP 2442                    | Democratico   | 18.745.865 | Indipendente        | Controllato     |
 |     | HIP 4888                    | Democratico   | 86.728.442 | Indipendente        | Controllato     |
@@ -457,6 +458,7 @@ Governiamo su **16,056,898,362** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>01 Aprile 3312: Approdiamo su <b>HIP 21023</b>.</li>
           <li>28 Marzo 3312: Vinciamo una elezione importante a <b>HIP 28774</b>, dove cercheremo di consolidare il nostro controllo grazie anche all'arrivo di nuovi e fondamentali strumenti igienici</li>
           <li>20 Marzo 3312: Approdiamo su <b>Col 285 Sector GA-B b28-2</b></li>
           <li>08 Marzo 3312: Arriviamo su <b>Wasat</b>, sistema molto popoloso controllato dagli amici Civitas Dei</li>
