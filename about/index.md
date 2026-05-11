@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-04-18
+last_modified_at: 2026-05-11
 ---
 <style>
 .wrap-collapsible {
@@ -140,6 +140,7 @@ Le nostre attività ed interessi sono rivolte a tutte le opportunità che l'univ
 - Esplorazione
 - Xeno ricerca
 - Xeno hunting
+- Colonizzazione
   
 Inoltre organizziamo piccoli campionati CQC, corse attraverso i canyon e rally con i nostri amati SRV!<br>
 Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre esperienze e conoscenze.
@@ -168,14 +169,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **354 sistemi**, di cui **231** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **358 sistemi**, di cui **235** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **420** stazioni
-  - **903** insediamenti
-  - **165** installazioni
+  - **427** stazioni
+  - **913** insediamenti
+  - **170** installazioni
   - **1** megaship
 
-Governiamo su **17,188,698,481** abitanti
+Governiamo su **17,937,183,859** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -234,6 +235,7 @@ Governiamo su **17,188,698,481** abitanti
 |     | G 87-16                     | Dittatoriale  | 4.794.262.989 | Indipendente        | Non Controllato |
 |     | G 98-44                     | Democratico   | 4.328.269 | Indipendente        | Non Controllato |
 |     | Galibi                      | Corporativo   | 2.011 | Indipendente        | Non Controllato |
+|     | Geras                       | Patronale     | 33.000.42 | Indipendente    | Non Controllato |
 |     | GD 69                       | Corporativo   | 2.644 | Indipendente        | Controllato     |
 |     | Hahgwe                      | Dittatoriale  | 140.943 | Indipendente        | Non Controllato |
 |     | HIP 1773                    | Democratico   | 279.041 | Indipendente        | Controllato     |
@@ -459,6 +461,7 @@ Governiamo su **17,188,698,481** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>28 Aprile 3312: Arriviamo su <b>Geras</b></li>
           <li>18 Aprile 3312: Ci espandiamo su <b>Trianguli Sector CG-X b1-6</b></li>
           <li>15 Aprile 3312: Dopo anni di scaramucce, raggiungiamo un accordo di non belligeranza con una Fazione vicina; il nostro segno di pace prevede l'installazione a titolo gratuito di importanti e fondamentali strumenti di igiene personale presso le loro basi</li>
           <li>01 Aprile 3312: Approdiamo su <b>HIP 21023</b>.</li>
