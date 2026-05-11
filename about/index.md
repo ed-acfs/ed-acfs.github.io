@@ -443,6 +443,8 @@ Governiamo su **17,937,183,859** abitanti
 |     | Wredguia VX-L d7-19         | Democratico   | 85.516 | Indipendente        | Controllato     |
 |     | Wredguia VX-L d7-86         | Democratico   | 1.744.196 | Indipendente        | Controllato     |
 |     | Wredguia VX-L d7-88         | Democratico   | 46.087 | Indipendente        | Controllato     |
+|     | Wredguia ZD-K d8-90         | Democratico   | 14.658.111 | Indipendente        | Controllato     |
+|     | Wregoe YK-Y b55-2           | Anarchico     | 2.650.296 | Indipendente      | Non Controllato |
 |     | Yggdrajang                  | Democratico   | 88.567 | Indipendente        | Controllato     |
 |     | Yin Sector CV-Y b1          | Dittatoriale  | 2.403.430 | Indipendente     | Non Controllato    |
 |     | Yin Sector CV-Y b4          | Democratico   | 47.519.749 | Indipendente        | Controllato     |
