@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-05-11
+last_modified_at: 2026-06-3
 ---
 <style>
 .wrap-collapsible {
@@ -169,14 +169,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **358 sistemi**, di cui **235** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **375 sistemi**, di cui **242** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
-  - **427** stazioni
-  - **913** insediamenti
-  - **170** installazioni
+  - **435** stazioni
+  - **927** insediamenti
+  - **179** installazioni
   - **1** megaship
 
-Governiamo su **17,937,183,859** abitanti
+Governiamo su **19,189,918,422** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -214,8 +214,10 @@ Governiamo su **17,937,183,859** abitanti
 |     | Col 285 Sector CF-Y b14-2   | Democratico   | 198.247 | Indipendente        | Controllato     |
 |     | Col 285 Sector DY-E b13-3   | Democratico   | 180.640 | Indipendente        | Controllato     |
 |     | Col 285 Sector GA-B b28-2   | Anarchico     | 19.239.648 | Indipendente     | Non Controllato |
+|     | Col 285 Sector GA-B b28-9   | Confederato   | 343,123 | Indipendente        | Non Controllato |
 |     | Col 285 Sector JJ-G c11-2   | Democratico   | 181.585 | Indipendente        | Controllato     |
 |     | Col 285 Sector JJ-G c11-29  | Democratico   | 376.932 | Indipendente        | Controllato     |
+|     | Col 285 Sector LT-E b26-3   | Democratico   | 36,744,554  | Indipendente    | Controllato     |
 |     | Col 285 Sector MY-Q c5-21   | Democratico   | 20.042.894 | Indipendente        | Controllato     |
 |     | Col 285 Sector NO-P c6-15   | Democratico   | 174.187 | Indipendente        | Controllato     |
 |     | Col 285 Sector NQ-H a12-1   | Democratico   | 753.237 | Indipendente        | Controllato     |
@@ -322,7 +324,7 @@ Governiamo su **17,937,183,859** abitanti
 |     | LP 542-33                   | Democratico   | 619.763 | Indipendente        | Controllato     |
 |     | LTT 12033                   | Democratico   | 158.829 | Indipendente        | Controllato     |
 |     | LTT 17868                   | Democratico   | 166.557 | Indipendente        | Controllato     |
-|     | LTT 2545                    | Cooperativo   | 39.122 | Indipendente        | Non Controllato |
+|     | LTT 2545                    | Democratico   | 39.122 | Indipendente        | Controllato |
 |     | Lumbla                      | Democratico   | 6.728.766 | Indipendente        | Controllato     |
 |     | Lyncis Sector CL-Y d68      | Democratico   | 55.230.798 | Indipendente        | Controllato     |
 |     | m Tauri                     | Democratico   | 8.799.034 | Indipendente        | Controllato     |
@@ -463,6 +465,9 @@ Governiamo su **17,937,183,859** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>24 Giugno 3312: Prendiamo il controllo di <b>Col 285 Sector LT-E b26-3</b></li>
+          <li>23 Giugno 3312: Ci espandiamo su <b>Col 285 Sector GA-B b28-9</b></li>
+          <li>18 Maggio 3312: Prendiamo il controllo di <b>LTT 2545</b></li>
           <li>28 Aprile 3312: Arriviamo su <b>Geras</b></li>
           <li>18 Aprile 3312: Ci espandiamo su <b>Trianguli Sector CG-X b1-6</b></li>
           <li>15 Aprile 3312: Dopo anni di scaramucce, raggiungiamo un accordo di non belligeranza con una Fazione vicina; il nostro segno di pace prevede l'installazione a titolo gratuito di importanti e fondamentali strumenti di igiene personale presso le loro basi</li>
