@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-06-3
+last_modified_at: 2026-07-05
 ---
 <style>
 .wrap-collapsible {
@@ -426,7 +426,8 @@ Governiamo su **19,189,918,422** abitanti
 |     | Trianguli Sector FM-V b2-6  | Democratico   | 47.333.072 | Indipendente        | Controllato     |
 |     | Trianguli Sector HM-V b2-3  | Democratico   | 151.446 | Indipendente        | Non Controllato |
 |     | Trianguli Sector II-S a4-4  | Democratico   | 2.129.212 | Indipendente        | Controllato     |
-|     | V848 Monocerotis            | Corporativo   | 73.294 | Indipendente        | Controllato     |
+|     | V0502 V0502 Ophiuchii       | Democratico   | 174.954 | Indipendente       | Controllato   |
+|     | V848 Monocerotis            | Corporativo   | 73.294 | Indipendente        | Controllato     | 
 |     | Vandar                      | Democratico   | 41.917 | Indipendente        | Controllato     |
 |     | Waruts                      | Democratico   | 50.874.418 | Indipendente        | Non Controllato |
 |     | Wasat                       | Dittatoriale  | 12.072.373.944 | Indipendente       | Non Controllato |
@@ -465,8 +466,10 @@ Governiamo su **19,189,918,422** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>06 Luglio 3312: Prendiamo in controllo di <b>V0502 Ophiuchii</b></li>
           <li>24 Giugno 3312: Prendiamo il controllo di <b>Col 285 Sector LT-E b26-3</b></li>
           <li>23 Giugno 3312: Ci espandiamo su <b>Col 285 Sector GA-B b28-9</b></li>
+          <li>20 Maggio 3312: Approdiamo su <b>V0502 Ophiuchii</b></li>
           <li>18 Maggio 3312: Prendiamo il controllo di <b>LTT 2545</b></li>
           <li>28 Aprile 3312: Arriviamo su <b>Geras</b></li>
           <li>18 Aprile 3312: Ci espandiamo su <b>Trianguli Sector CG-X b1-6</b></li>
