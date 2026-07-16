@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-07-05
+last_modified_at: 2026-07-15
 ---
 <style>
 .wrap-collapsible {
@@ -176,7 +176,7 @@ Controlliamo inoltre:
   - **178** installazioni
   - **1** megaship
 
-Governiamo su **19,350,948,363** abitanti
+Governiamo su **19,875,447,109** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -466,6 +466,9 @@ Governiamo su **19,350,948,363** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>17 Luglio 3312: Inizia la battaglia per la riconquista di Tomas</li>
+          <li>16 Luglio 3312: Ci espandiamo su <b>Tascheter Sector AA-Z b4</b>></li>
+          <li>15 Luglio 3312: Purtroppo perdiamo il controllo di <b>Tomas</b>, ma ci attiviamo immediatamente per la riconquista</b></li>
           <li>06 Luglio 3312: Prendiamo in controllo di <b>V0502 Ophiuchii</b></li>
           <li>24 Giugno 3312: Prendiamo il controllo di <b>Col 285 Sector LT-E b26-3</b></li>
           <li>23 Giugno 3312: Ci espandiamo su <b>Col 285 Sector GA-B b28-9</b></li>
