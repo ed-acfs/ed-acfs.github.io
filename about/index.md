@@ -128,30 +128,34 @@ table.dataTable.display thead th {
 }</style>
 ## Alto Comando Flotta Stellare
 
-L'Alto Comando Flotta Stellare (**ACFS**)  è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia garantendo loro una casa lontano da casa; per questa ragione l'ingresso è libero e garantito a tutti, basta fare richiesta, in modo da rendere meno solitaria la vastità della galassia di Elite Dangerous.
+Alto Comando Flotta Stellare (**ACFS**) è lo squadrone che riunisce al suo interno giocatori indipendenti sparsi per la galassia garantendo loro una casa lontano da casa; per questa ragione l'ingresso è libero e garantito a tutti, così da rendere meno solitaria la vastità della galassia di Elite Dangerous.
 
 ## Cosa facciamo
 
 Le nostre attività ed interessi sono rivolte a tutte le opportunità che l'universo di **Elite: Dangerous** ha da offrire:
 
+- BGS
+- Colonizzazione
 - Mining
 - Commercio
 - Bounty hunting
 - Esplorazione
 - Xeno ricerca
 - Xeno hunting
-- Colonizzazione
-  
+
 Inoltre organizziamo piccoli campionati CQC, corse attraverso i canyon e rally con i nostri amati SRV!<br>
 Soprattutto cerchiamo di divertirci insieme, condividendo ogni giorno le nostre esperienze e conoscenze.
 
 ## BGS (Background Simulation)
 
-Il [BGS](/bgs/) è una parte molto importante per noi e per questo ti chiediamo, se te la senti, di dedicare un po’ del tuo tempo di gioco a questo genere di attività.<br>
-Ci siamo stabiliti nel sistema [**Wong Sher**](https://inara.cz/galaxy-starsystem/12424/){:target="_blank"}, home system della nostra minor faction **Flotta Stellare**.<br>
-Avere un posto da chiamare *casa* è per noi essenziale, ci da un grande senso di appartenenza ed aiuta il gruppo.
+Il [BGS](/bgs/) è una parte molto importante per noi, su cui si è basata tutta la nostra decennale storia e per questo ti chiediamo - se te la senti - di dedicare un po’ del tuo tempo di gioco a questo genere di attività.<br>
+Siamo partiti dal sistema [**Wong Sher**](https://inara.cz/galaxy-starsystem/12424/){:target="_blank"}, home system della nostra minor faction **Flotta Stellare** ed oggi siamo presenti in quasi 400 sistemi.<br>
 
-> Il nostro motto è **BGS ONLY IN OPEN** ed intendiamo rispettarlo sempre.
+## BGS SOLO IN OPEN
+
+> Il nostro motto è **BGS ONLY IN OPEN** ed intendiamo rispettarlo. Sempre.
+
+Presentarsi alla Galassia a viso aperto è per noi motivo di vanto e fonte di rispetto. Una delle poche regole scritte sulla pietra per noi è proprio questa: **BGS SOLO IN OPEN**, che è comunque _l'unica modalità di gioco che ci interessa e che caldeggiamo_. 
 
 ## Alcune semplici regole da rispettare
 
