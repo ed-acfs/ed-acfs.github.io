@@ -471,8 +471,8 @@ Governiamo su **19,875,447,109** abitanti
     <div class="content-inner">
       <ul>
           <li>17 Luglio 3312: Inizia la battaglia per la riconquista di Tomas</li>
-          <li>16 Luglio 3312: Ci espandiamo su <b>Tascheter Sector AA-Z b4</b>></li>
-          <li>15 Luglio 3312: Purtroppo perdiamo il controllo di <b>Tomas</b>, ma ci attiviamo immediatamente per la riconquista</b></li>
+          <li>16 Luglio 3312: Ci espandiamo su <b>Tascheter Sector AA-Z b4</b></li>
+          <li>15 Luglio 3312: Purtroppo perdiamo il controllo di <b>Tomas</b>, ma ci attiviamo immediatamente per la riconquista</li>
           <li>06 Luglio 3312: Prendiamo in controllo di <b>V0502 Ophiuchii</b></li>
           <li>24 Giugno 3312: Prendiamo il controllo di <b>Col 285 Sector LT-E b26-3</b></li>
           <li>23 Giugno 3312: Ci espandiamo su <b>Col 285 Sector GA-B b28-9</b></li>
