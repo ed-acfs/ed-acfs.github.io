@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-07-15
+last_modified_at: 2026-07-21
 ---
 <style>
 .wrap-collapsible {
@@ -301,6 +301,7 @@ Governiamo su **19,875,447,109** abitanti
 |     | LBN 623 Sector RD-T c3-11   | Democratico   | 3.772.856 | Indipendente        | Controllato     |
 |     | LBN 623 Sector RD-T c3-7    | Democratico   | 164.135 | Indipendente        | Controllato     |
 |     | LBN 623 Sector RJ-G a11-1   | Democratico   | 172.313 | Indipendente        | Controllato     |
+|     | LBN 623 Sector UU-E a12-0   | Democratico   | 2.560.000 | Indipendente      | Controllato     |
 |     | LBN 623 Sector YU-P b5-0    | Democratico   | 172.475 | Indipendente        | Controllato     |
 |     | LFT 392                     | Democratico   | 47.107 | Indipendente        | Controllato     |
 |     | LHS 1681                    | Confederato   | 3.174.151 | Federale            | Non Controllato |
@@ -470,6 +471,8 @@ Governiamo su **19,875,447,109** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>21 Luglio 3312: Acquisiamo il controllo di <b>LBN 623 Sector UU-E a12-0</b>, sistema che intendiamo sviluppare in accordo al proprio Architetto</li>
+          <li>21 Luglio 3312: Riprendiamo il controllo di <b>Tomas</b></li>
           <li>17 Luglio 3312: Inizia la battaglia per la riconquista di Tomas</li>
           <li>16 Luglio 3312: Ci espandiamo su <b>Tascheter Sector AA-Z b4</b></li>
           <li>15 Luglio 3312: Purtroppo perdiamo il controllo di <b>Tomas</b>, ma ci attiviamo immediatamente per la riconquista</li>
