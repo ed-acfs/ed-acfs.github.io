@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone che opera all'interno di Elite Dangerous. Abbiamo una minor faction in game con 100+ sistemi e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-07-21
+last_modified_at: 2026-07-27
 ---
 <style>
 .wrap-collapsible {
@@ -180,7 +180,7 @@ Controlliamo inoltre:
   - **178** installazioni
   - **1** megaship
 
-Governiamo su **19,875,447,109** abitanti
+Governiamo su **19,976,909,701** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -430,7 +430,8 @@ Governiamo su **19,875,447,109** abitanti
 |     | Trianguli Sector FH-U a3-3  | Democratico   | 1.965.461 | Indipendente        | Controllato     |
 |     | Trianguli Sector FM-V b2-6  | Democratico   | 47.333.072 | Indipendente        | Controllato     |
 |     | Trianguli Sector HM-V b2-3  | Democratico   | 151.446 | Indipendente        | Non Controllato |
-|     | Trianguli Sector II-S a4-4  | Democratico   | 2.129.212 | Indipendente        | Controllato     |
+|     | Trianguli Sector II-S a4-4  | Democratico   | 2.129.212 | Indipendente        | Controllato   |  
+|     | Trianguli Sector KN-S a4-2  | Patronale     | 397.864 | Imperiale         | Non Controllato |
 |     | V0502 V0502 Ophiuchii       | Democratico   | 174.954 | Indipendente       | Controllato   |
 |     | V848 Monocerotis            | Corporativo   | 73.294 | Indipendente        | Controllato     | 
 |     | Vandar                      | Democratico   | 41.917 | Indipendente        | Controllato     |
@@ -470,7 +471,8 @@ Governiamo su **19,875,447,109** abitanti
   <label for="collapsible" class="12u$ lbl-toggle">Cronologia delle Conquiste</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <ul>
+      <ul>  
+          <li>27 Luglio 3312: Approdiamo su <b>Trianguli Sector KN-S a4-2</b></li>
           <li>21 Luglio 3312: Acquisiamo il controllo di <b>LBN 623 Sector UU-E a12-0</b>, sistema che intendiamo sviluppare in accordo al proprio Architetto</li>
           <li>21 Luglio 3312: Riprendiamo il controllo di <b>Tomas</b></li>
           <li>17 Luglio 3312: Inizia la battaglia per la riconquista di Tomas</li>
