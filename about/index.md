@@ -567,7 +567,8 @@ Governiamo su **20,040,026,063** abitanti
   <label for="collapsible" class="12u$ lbl-toggle">Cronologia delle Conquiste</label>
   <div class="collapsible-content">
     <div class="content-inner">
-      <ul>  
+      <ul>
+          <li>08 Agosto 3312: Ci espandiamo su <b>Tascheter Sector DL-Y d120</b></li>  
           <li>27 Luglio 3312: Approdiamo su <b>Trianguli Sector KN-S a4-2</b></li>
           <li>21 Luglio 3312: Acquisiamo il controllo di <b>LBN 623 Sector UU-E a12-0</b>, sistema che intendiamo sviluppare in accordo al proprio Architetto</li>
           <li>21 Luglio 3312: Riprendiamo il controllo di <b>Tomas</b></li>
