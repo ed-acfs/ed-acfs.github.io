@@ -471,6 +471,7 @@ Governiamo su **19.975.039.896** abitanti
 |     | Tascheter Sector BL-O a6-1   | Democratico   | 157.456 | Federale             | Non Controllato  |
 |     | Tascheter Sector CQ-Y c21    | Corporativo   | 1.532.249 | Federale             | Non Controllato  |
 |     | Tascheter Sector DG-X b1-3   | Dittatoriale  | 156.776 | Imperiale            | Non Controllato  |
+|     | Tascheter Sector DL-Y d120   | Corporativo   | 217.012 | Federale             | Non Controllato  |
 |     | Tascheter Sector DV-Y a0     | Democratico   | 206.754 | Indipendente         | Controllato      |
 |     | Tascheter Sector EG-X b1-1   | Democratico   | 155.784.856 | Indipendente         | Controllato      |
 |     | Tascheter Sector EG-X b1-5   | Democratico   | 2.183.813 | Indipendente         | Controllato      |
