@@ -180,7 +180,7 @@ Controlliamo inoltre:
   - **178** installazioni
   - **1** megaship
 
-Governiamo su **20,040,026,063** abitanti
+Governiamo su **19.975.039.896** abitanti
 
 <div class="datatable-begin"></div>
 

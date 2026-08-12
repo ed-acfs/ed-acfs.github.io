@@ -67,6 +67,24 @@ def update_last_modified(content):
     )
 
 
+def parse_population(value):
+    """Converte una popolazione già formattata (``"151.113"``) in intero."""
+    if not value:
+        return 0
+    return int(value.replace('.', ''))
+
+
+def update_total_population(content, total):
+    """Aggiorna la frase "Governiamo su **N** abitanti" con il totale dei
+    sistemi Controllato, nello stesso formato (punto) usato nel resto del file."""
+    return re.sub(
+        r'Governiamo su \*\*[\d.,]+\*\* abitanti',
+        f'Governiamo su **{format_population(total)}** abitanti',
+        content,
+        count=1,
+    )
+
+
 def fetch_all_presence_systems():
     """Scarica, paginando, tutti i sistemi in cui Flotta Stellare ha presenza."""
     systems = []
@@ -212,8 +230,13 @@ def sync(file_path):
     new_table = "\n\n" + new_table
     new_table = new_table.rstrip("\n") + "\n\n"
 
+    total_population = sum(
+        parse_population(r["population"]) for r in rows if r["status"] == "Controllato"
+    )
+
     updated_content = content[:table_start] + new_table + content[end_idx:]
     updated_content = update_last_modified(updated_content)
+    updated_content = update_total_population(updated_content, total_population)
 
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(updated_content)
@@ -222,6 +245,7 @@ def sync(file_path):
         f"\nFatto: {added} sistemi aggiunti, {updated} aggiornati, "
         f"{len(rows) - added - updated} invariati."
     )
+    print(f"Popolazione totale sistemi Controllato: {format_population(total_population)}")
     if not_found:
         print(
             f"{len(not_found)} sistemi in tabella non risultano su Spansh "
