@@ -86,28 +86,36 @@ pyton3 tag_generator.py
 
 ## Aggiornare la tabella popolazione
 
-Per tenere la lista dei sistemi nella pagina **about/index.md** sincronizzata con i dati di EDSM è disponibile
-lo script Python `edsm_fetcher.py` nella root del repository. Esso usa l'API pubblica di EDSM per leggere la
-popolazione e sovrascrive il valore nella tabella (formattandolo con punti come separatori di migliaia)
-lasciando intatto il resto del markup.
+Per tenere la lista dei sistemi nella pagina **about/index.md** sincronizzata con la presenza reale di
+**Flotta Stellare** è disponibile lo script Python `spansh_sync.py` nella root del repository. Usa l'API
+pubblica (non ufficiale) di [Spansh](https://spansh.co.uk/) — non serve alcuna API key — per:
+
+- aggiungere le righe dei sistemi mancanti (in ordine alfabetico), con Governo, Popolazione, Alleanza e
+  Stato già compilati;
+- aggiornare Governo, Popolazione, Alleanza e Stato delle righe già presenti quando il dato su Spansh è
+  cambiato rispetto al file (il BGS si muove: un sistema può passare da Controllato a Non Controllato,
+  cambiare governo, ecc.);
+- aggiornare in automatico il campo `last_modified_at` nel front matter con la data odierna;
+- ricalcolare e aggiornare la frase "Governiamo su **N** abitanti", sommando la popolazione dei soli
+  sistemi con Stato "Controllato".
+
+Le righe già presenti nel file ma non trovate su Spansh (es. sistemi visitati ma non ancora presenti nei
+dump pubblici) vengono lasciate invariate, non cancellate.
+
+> Lo script `edsm_fetcher.py`, basato sull'API di EDSM, è stato sostituito da `spansh_sync.py` perché
+> l'API di EDSM risultava non raggiungibile; il file resta nel repository come fallback per quando EDSM
+> tornerà disponibile, ma non è più lo script da usare di default.
 
 Eseguire lo script con il launcher di Python:
 
 ```
-py -3 edsm_fetcher.py
+py -3 spansh_sync.py
 ```
 
-(o, se `python` è già associato alla versione 3, usare `python edsm_fetcher.py`).
+(o, se `python` è già associato alla versione 3, usare `python spansh_sync.py`).
 Lo script potrà essere rilanciato tutte le volte che serva: i marcatori `<div class="datatable-begin">`
 e `<div class="datatable-end">` vengono mantenuti e viene sempre assicurata una riga vuota
 prima e dopo la tabella per evitare che il Markdown si rompa.
-
-Se invece si vuole aggiornare solo un certo numero di sistemi, è possibile importare la funzione
-e passare il parametro `max_updates`, ad esempio:
-
-```
-python -c "import edsm_fetcher; edsm_fetcher.update_about_table('about/index.md', max_updates=10)"
-```
 
 ## Features
 
