@@ -2,7 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.7.0] - 2026-08-15 — Rifiniture navbar e icone social
+## [1.7.0] - 2026-08-15 — Tre nuove pagine "Il Gioco": Trailblazers, Vanguards, Operations
+
+### Added
+
+- Tre nuove pagine sotto `about/`, nello stesso stile delle esistenti Elite Dangerous/BGS/Odyssey
+  (fonti ufficiali linkate in fondo a ciascuna):
+  - **`/trailblazers/`** — System Colonisation, l'aggiornamento gratuito lanciato il 26 febbraio
+    2025 (ancora in beta) che permette di reclamare e sviluppare i propri sistemi stellari.
+  - **`/vanguards/`** — rework completo del sistema Squadrons, lanciato il 19 agosto 2025:
+    creazione/personalizzazione dello squadrone, nuova Squadron Home, Squadron Carrier e Squadron
+    Bank, classifiche stagionali.
+  - **`/operations/`** — scenari cooperativi in squadra, lanciato il 30 giugno 2026, richiede
+    Odyssey.
+- Aggiunte le tre voci al menu "Il Gioco" in `_data/navigation.yml`, nell'ordine Odyssey →
+  Trailblazers → Vanguards → Operations.
+
+## [1.6.1] - 2026-08-15 — Rifiniture navbar e icone social
 
 ### Changed
 
