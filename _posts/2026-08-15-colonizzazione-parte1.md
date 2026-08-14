@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Colonizzazione: Capitolo 1 - Perché e come iniziare"
-date:   2026-08-15
+date:   2026-08-14
 excerpt: "La Colonizzazione ci permette di reclamare un sistema stellare e costruirlo pezzo per pezzo. Partiamo dalle basi: perché conviene, cosa serve, e come si reclama il primo sistema."
 image: "/images/posts/colonizzazione/trailblazers-keyart.jpg"
 tags: guide colonizzazione trailblazers tutorial
@@ -9,7 +9,7 @@ author: wiitifulsky
 last_modified_at: 2026-08-15
 sticky: no
 ---
-Ciao a tutti, sono il CMDR WiitifulSky. Con l'arrivo di **Trailblazers** e della **Colonizzazione** non potevo restare in silenzio — è probabilmente la funzionalità più importante aggiunta a Elite Dangerous dai tempi di Odyssey, e per uno squadrone come il nostro, che vive di BGS, è anche un'occasione più unica che rara.
+Ciao a tutti, sono il CMDR WiitifulSky. Con l'arrivo di **Trailblazers** e della **Colonizzazione** non potevamo non realizzare una serie di nuove guide visto che si trattaprobabilmente di una delle funzionalità più importanti aggiunta a Elite Dangerous dai tempi di Odyssey, e per uno squadrone come il nostro, che vive di BGS, è anche un'occasione più unica che rara.
 
 Questa guida sarà divisa in più capitoli, sul modello di quella sugli [Ingegneri](/search/tag/ingegneri/): qui parliamo delle basi, perché conviene farlo e come si reclama il primo sistema. Nei prossimi capitoli entreremo nel dettaglio di come pianificare la costruzione, come funziona l'economia dei sistemi, e come organizzarci per farlo insieme come Flotta.
 
