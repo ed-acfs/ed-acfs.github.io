@@ -10,10 +10,13 @@
   backgroundColor: 'rgba(240, 123, 5, 0.7)',
   textColor: '#fff'
 })</script>
+{% if page.lightbox %}
 <script type="text/javascript" src="{{ "/assets/js/lightbox.js" | prepend:site.baseurl }}"></script>
 <link rel="stylesheet" href="{{ "/assets/css/lightbox.css" | prepend:site.baseurl }}">
+{% endif %}
 <script src="{{ "/assets/js/serviceworker_pwa.js" | prepend:site.baseurl }}"></script>
 <script type="module" src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwainstall@latest/dist/pwa-install.min.js"></script>
+{% if page.datatable %}
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.1/js/jquery.dataTables.js"></script>
 <script>
   $(document).ready(function(){
@@ -32,3 +35,4 @@
       });
    });
 </script>
+{% endif %}

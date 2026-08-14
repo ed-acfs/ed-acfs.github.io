@@ -1,0 +1,44 @@
+///
+/// CookieConsent v3 (orestbida) — rimappa le variabili CSS della libreria
+/// sulla palette del sito (_palette in _sass/libs/_vars.scss) al posto del
+/// tema di default, così banner e pannello preferenze restano coerenti con
+/// il resto del sito.
+///
+
+#cc-main {
+	--cc-font-family: #{_font(family)};
+	--cc-bg: #{_palette(bg)};
+	--cc-primary-color: #{_palette(fg)};
+	--cc-secondary-color: #{_palette(fg-light)};
+	--cc-modal-border-radius: 0.5rem;
+	--cc-btn-border-radius: 0.35rem;
+	--cc-link-color: #{_palette(accent)};
+	--cc-overlay-bg: rgba(0, 0, 0, 0.65);
+
+	--cc-btn-primary-bg: #{_palette(accent)};
+	--cc-btn-primary-color: #ffffff;
+	--cc-btn-primary-border-color: var(--cc-btn-primary-bg);
+	--cc-btn-primary-hover-bg: #{mix(_palette(accent), black, 85%)};
+	--cc-btn-primary-hover-color: #ffffff;
+	--cc-btn-primary-hover-border-color: var(--cc-btn-primary-hover-bg);
+
+	--cc-btn-secondary-bg: transparent;
+	--cc-btn-secondary-color: #{_palette(fg)};
+	--cc-btn-secondary-border-color: #{_palette(fg)};
+	--cc-btn-secondary-hover-bg: #{mix(_palette(accent), _palette(bg), 15%)};
+	--cc-btn-secondary-hover-color: #{_palette(accent)};
+	--cc-btn-secondary-hover-border-color: #{_palette(accent)};
+
+	--cc-separator-border-color: #{_palette(border)};
+	--cc-toggle-on-bg: #{_palette(accent)};
+	--cc-toggle-off-bg: #{_palette(fg-light)};
+
+	--cc-cookie-category-block-bg: #{rgba(white, 0.04)};
+	--cc-cookie-category-block-border: #{_palette(border)};
+	--cc-cookie-category-block-hover-bg: #{rgba(_palette(accent), 0.12)};
+	--cc-cookie-category-block-hover-border: #{_palette(accent)};
+
+	--cc-footer-bg: #{mix(_palette(bg), black, 85%)};
+	--cc-footer-color: #{_palette(fg-light)};
+	--cc-footer-border-color: #{_palette(border)};
+}

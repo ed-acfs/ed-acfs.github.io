@@ -1,1 +1,57 @@
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?theme=momh&customize=1&thirdparty=1&always=1&remember=Autodetect&privacyPage=https%3A%2F%2Fwww.iubenda.com%2Fprivacy-policy%2F69844068"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css">
+<script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js"></script>
+<script>
+  CookieConsent.run({
+    categories: {
+      necessary: {
+        enabled: true,
+        readOnly: true
+      },
+      analytics: {},
+      thirdparty: {}
+    },
+    language: {
+      default: 'it',
+      translations: {
+        it: {
+          consentModal: {
+            title: 'Questo sito usa i cookie',
+            description: 'Usiamo cookie tecnici necessari al funzionamento del sito, cookie di analisi (Google Analytics, con IP anonimizzato) per capire come viene usato il sito, e cookie di terze parti impostati da Disqus per i commenti sotto i post del blog, solo se acconsenti. <a href="https://www.iubenda.com/privacy-policy/69844068" target="_blank" rel="noopener">Leggi l’informativa privacy</a>.',
+            acceptAllBtn: 'Accetta tutto',
+            acceptNecessaryBtn: 'Solo necessari',
+            showPreferencesBtn: 'Gestisci preferenze',
+            footer: '<a href="https://www.iubenda.com/privacy-policy/69844068" target="_blank" rel="noopener">Privacy policy</a>'
+          },
+          preferencesModal: {
+            title: 'Preferenze sui cookie',
+            acceptAllBtn: 'Accetta tutto',
+            acceptNecessaryBtn: 'Solo necessari',
+            savePreferencesBtn: 'Salva le preferenze',
+            closeIconLabel: 'Chiudi',
+            sections: [
+              {
+                title: 'Cookie tecnici',
+                description: 'Necessari al funzionamento del sito. Non possono essere disattivati.',
+                linkedCategory: 'necessary'
+              },
+              {
+                title: 'Cookie di analisi',
+                description: 'Google Analytics, con anonimizzazione dell’IP, per capire come viene usato il sito.',
+                linkedCategory: 'analytics'
+              },
+              {
+                title: 'Cookie di terze parti',
+                description: 'Usati da Disqus per mostrare e gestire i commenti sotto i post del blog.',
+                linkedCategory: 'thirdparty'
+              },
+              {
+                title: 'Ulteriori informazioni',
+                description: 'Per qualsiasi domanda relativa alla nostra policy sui cookie e alle tue scelte, <a href="https://www.iubenda.com/privacy-policy/69844068" target="_blank" rel="noopener">consulta la privacy policy completa</a>.'
+              }
+            ]
+          }
+        }
+      }
+    }
+  });
+</script>

@@ -2,6 +2,44 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.5.0] - 2026-08-14 — Cookie consent, GA4 e pulizia asset
+
+### Added
+
+- New cookie consent banner using [CookieConsent v3](https://cookieconsent.orestbida.com/) (orestbida),
+  replacing the old `cookie-bar.eu` script (stuck on v1.10.3, unmaintained since July 2023). Same library
+  already in use on skyflash.github.io.
+  - Three consent categories: `necessary` (always on), `analytics` (Google Analytics), `thirdparty`
+    (Disqus).
+  - Real script blocking via `type="text/plain" data-category="..."` tags on the GA and Disqus embeds —
+    the old banner was purely cosmetic and never actually gated anything.
+  - New `_sass/components/_cookieconsent.scss`, theming the widget on the site's own palette
+    (`_palette()`/`_font()` helpers) instead of the library's default look.
+  - "Gestisci preferenze cookie" link added to the footer to reopen the preferences panel at any time.
+  - Privacy policy stays hosted on iubenda as before; the banner links out to it.
+
+### Fixed
+
+- Cookie consent script was silently crashing (`TypeError: Cannot read properties of null (reading
+  'appendChild')`) because it lived in `<head>` and tried to attach to `document.body` before the body
+  existed. Moved the include to the end of `<body>` (`foot.html`), matching where it lives on skyflash.
+- Two conflicting `<link rel="manifest">` tags, in `head.html` and `map/index.html` — the second one
+  (`assets/icon/manifest.json`) pointed to icon paths at the site root (`/android-icon-*.png`) that don't
+  exist, so every icon in it 404'd. Removed the dead one, kept the dynamic `/manifest.json`.
+- `<link rel="preload">` tags for the EuroCaps CSS and the three webfonts had invalid/missing `as`
+  attributes (`as="eurocaps"`, or no `as` at all on the fonts), so the browser ignored the preload hint
+  entirely (and logged console warnings). Fixed to `as="style"` / `as="font"`.
+
+### Changed
+
+- Google Analytics migrated from Universal Analytics (`UA-147419241-1`, sunset by Google since July
+  2023 — no longer collecting any data) to GA4 (`G-KKHDG21GJ4`). Confirmed Google Signals disabled and
+  data retention set to 2 months in the GA4 console.
+- DataTables (CSS + JS + init script) and Lightbox (JS + CSS) no longer load on every page — gated
+  behind `page.datatable` / `page.lightbox` front matter flags in `head.html` / `scripts-main.html`.
+  `about/index.md` (the systems table) already had `datatable: true` set but it was never actually
+  wired up until now; every other page was paying for both libraries unconditionally.
+
 ## 2026-08-12
 
 ### Added
