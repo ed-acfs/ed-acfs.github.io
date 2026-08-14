@@ -11,7 +11,7 @@
 <meta name="rating" content="{{ site.settings.rating }}">
  
 <!-- Manifest file per la PWA -->
-<link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl | prepend: site.url }}" />
+<link rel="manifest" href="{{ "/manifest.json" | relative_url }}" />
 
 <!-- Add to homescreen for Chrome on Android -->
 <meta name="mobile-web-app-capable" content="yes">
@@ -22,23 +22,23 @@
 <meta name="apple-mobile-web-app-title" content="{{ site.h1title }}">
 
 <!-- favicons -->
-<link rel="shortcut icon" type="image/png" href="{{ "/assets/icon/favicon-32x32.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="57x57" href="{{ "/assets/icon/apple-icon-57x57.png" | prepend:site.baseurl }}">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ "/assets/icon/apple-icon-60x60.png" | prepend:site.baseurl }}">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/icon/apple-icon-72x72.png" | prepend:site.baseurl }}">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ "/assets/icon/apple-icon-76x76.png" | prepend:site.baseurl }}">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ "/assets/icon/apple-icon-114x114.png" | prepend:site.baseurl }}">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ "/assets/icon/apple-icon-120x120.png" | prepend:site.baseurl }}">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ "/assets/icon/apple-icon-144x144.png" | prepend:site.baseurl }}">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ "/assets/icon/apple-icon-152x152.png" | prepend:site.baseurl }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/icon/apple-icon-180x180.png" | prepend:site.baseurl }}">
-<link rel="icon" type="image/png" sizes="192x192"  href="{{ "/assets/icon/android-icon-192x192.png" | prepend:site.baseurl }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/icon/favicon-32x32.png" | prepend:site.baseurl }}">
-<link rel="icon" type="image/png" sizes="96x96" href="{{ "/assets/icon/favicon-96x96.png" | prepend:site.baseurl }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/icon/favicon-16x16.png" | prepend:site.baseurl }}">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{ site.baseurl }}/assets/icon/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
+<link rel="shortcut icon" type="image/png" href="{{ site.favicon_path | append: "/favicon-32x32.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="57x57" href="{{ site.favicon_path | append: "/apple-icon-57x57.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ site.favicon_path | append: "/apple-icon-60x60.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ site.favicon_path | append: "/apple-icon-72x72.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ site.favicon_path | append: "/apple-icon-76x76.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ site.favicon_path | append: "/apple-icon-114x114.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ site.favicon_path | append: "/apple-icon-120x120.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ site.favicon_path | append: "/apple-icon-144x144.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ site.favicon_path | append: "/apple-icon-152x152.png" | prepend: site.baseurl }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.favicon_path | append: "/apple-icon-180x180.png" | prepend: site.baseurl }}">
+<link rel="icon" type="image/png" sizes="192x192" href="{{ site.favicon_path | append: "/android-icon-192x192.png" | prepend: site.baseurl }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ site.favicon_path | append: "/favicon-32x32.png" | prepend: site.baseurl }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ site.favicon_path | append: "/favicon-96x96.png" | prepend: site.baseurl }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ site.favicon_path | append: "/favicon-16x16.png" | prepend: site.baseurl }}">
+<meta name="msapplication-TileColor" content="{{ site.color }}">
+<meta name="msapplication-TileImage" content="{{ site.favicon_path | append: "/ms-icon-144x144.png" | prepend: site.baseurl }}">
+<meta name="theme-color" content="{{ site.color }}">
 
 <!-- CSS & Fonts Preload -->
 <link rel="preload" href="{{ "/assets/css/eurocaps.css" | prepend:site.baseurl }}" as="style" />

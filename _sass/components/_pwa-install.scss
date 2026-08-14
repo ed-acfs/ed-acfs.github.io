@@ -1,0 +1,10 @@
+///
+/// @pwabuilder/pwainstall — il componente espone solo tre CSS custom
+/// properties (niente Shadow Parts qui, non servono per un bottone semplice).
+///
+
+pwa-install {
+	--install-button-color: #{_palette(accent)};
+	--modal-background-color: #{_palette(bg)};
+	--modal-z-index: #{_misc(z-index-base) - 1};
+}

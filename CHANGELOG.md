@@ -2,6 +2,45 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.6.0] - 2026-08-14 — Favicon configurabile e PWA davvero installabile
+
+### Added
+
+- `favicon_path` in `_config.yml`: singolo punto di controllo per l'intero set di
+  favicon/apple-touch-icon/android-icon/ms-tile. `head.html`, `map/index.html` e `manifest.json`
+  derivano tutti da questo valore — per sostituire il set basta cambiarlo, niente più modifiche
+  sparse nei template.
+- Nuovo set di icone generato dal logo "ACFS Logo 2025 Vanguards" (`assets/icon-vanguards/`): 13
+  file favicon/apple-touch-icon/android-icon (trasparenza vera per favicon/android, sfondo scuro
+  pieno per gli apple-touch-icon, come richiesto da iOS) più un'icona 512×512 "any" e una
+  512×512 "maskable" con safe-zone corretta per l'installabilità PWA.
+- Bottone `<pwa-install>` finalmente presente nell'header/nav — lo script
+  `@pwabuilder/pwainstall` veniva caricato su ogni pagina da mesi, ma l'elemento custom non era
+  mai stato inserito da nessuna parte nell'HTML: nessun visitatore, su nessun browser, aveva mai
+  visto un bottone d'installazione. Temato via nuovo `_sass/components/_pwa-install.scss`.
+  Attributo `showopen` per mostrarlo sempre, senza aspettare le euristiche di installabilità del
+  browser.
+
+### Fixed
+
+- Script `@pwabuilder/pwainstall` fissato alla versione `1.6.7` (era `@latest`, non pinnata).
+- Elenco icone di `manifest.json` ripulito: via i ~19 file legacy con nomi hash a dimensioni
+  Windows-tile obsolete (620×300, 1240×600, ecc.), rimasti col logo vecchio; ora solo
+  192/512/512-maskable dal logo nuovo.
+- `start_url` nel manifest era il dominio di produzione hardcoded — rotto in locale e fragile a
+  un eventuale cambio di dominio. Ora relativo (`/`).
+- **Bug che impediva l'installabilità PWA**: `<link rel="manifest">` (in `head.html` e
+  `map/index.html`) puntava a un URL assoluto costruito da `site.url`; Jekyll in `serve` scrive
+  sempre `localhost` in `site.url` a prescindere dal flag `--host`, quindi navigando su
+  `127.0.0.1` invece che `localhost` il fetch del manifest falliva per CORS (origini diverse) —
+  né il browser né il bottone d'installazione potevano validare nulla. Ora l'URL è relativo,
+  funziona con qualsiasi hostname.
+- Registrazione del service worker (`serviceworker_pwa.js`) con URL assoluto cross-origin —
+  funzionava per puro caso in produzione (stesso dominio) ma falliva silenziosamente ovunque
+  altro, test locali inclusi. Ora path relativo, stesso dominio garantito.
+- `theme-color` e `msapplication-TileColor` erano hardcoded bianchi, in contrasto con il colore
+  di brand già corretto nel manifest. Allineati a `site.color` (arancione).
+
 ## [1.5.0] - 2026-08-14 — Cookie consent, GA4 e pulizia asset
 
 ### Added

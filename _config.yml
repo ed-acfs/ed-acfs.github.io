@@ -21,6 +21,7 @@ short_name: "ACFS"
 lang_direction: "ltr"
 color: "#f07b05"
 background_color: "#1a1919"
+favicon_path: /assets/icon-vanguards  # cartella col set di favicon/apple-touch-icon/android-icon; cambiala qui per sostituire tutto il set in un colpo solo
 
 #
 ###################################

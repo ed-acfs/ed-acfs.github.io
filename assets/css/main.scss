@@ -63,6 +63,7 @@ $background_image: '{{site.background_image | prepend:site.baseurl }}';
 	@import 'components/box';
 	@import 'components/button';
 	@import 'components/cookieconsent';
+	@import 'components/pwa-install';
 	@import 'components/form';
 	@import 'components/icon';
 	@import 'components/image';
