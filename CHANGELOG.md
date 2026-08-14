@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.7.0] - 2026-08-15 — Rifiniture navbar e icone social
+
+### Changed
+
+- Rimossa la voce testuale "Cerca" dal menu di navigazione (`_data/navigation.yml`): era ridondante
+  con l'icona a lente già presente, non a caso il testo era identico ("Cerca"). Verificato che la
+  pagina di ricerca (SimpleJekyllSearch, completamente lato client) non dipenda in alcun modo da
+  quella voce — resta raggiungibile tramite l'icona.
+- Bottone `<pwa-install>` restylizzato usando gli Shadow Parts della libreria
+  (`::part(openButton)`), per farlo somigliare ai bottoni outline già usati nel resto del sito
+  invece dello stile generico di default.
+- Le icone social (nav e footer) mostrano ora il **colore reale del brand** al passaggio del mouse
+  (Facebook, Twitter, YouTube, Instagram, Discord, Telegram), non più un unico arancione generico.
+- Icone social riordinate: Discord, Facebook, (Twitter — solo footer), YouTube, Instagram,
+  Telegram.
+- Ridotta la spaziatura fra le icone e il padding del bottone `pwa-install`, per correggere un
+  problema di layout introdotto dalla maggiore larghezza del bottone (il menu a tendina "Il Gioco"
+  andava a capo e si posizionava male).
+
+### Fixed
+
+- L'icona Telegram era visibilmente disallineata rispetto alle altre: causata dalla classe
+  `fa-lg`, rimasta sul markup, che ingrandiva solo quel glifo del 33% rompendo la centratura nel
+  badge circolare condiviso con le altre icone. Rimossa.
+- I nuovi colori brand in hover non si applicavano nonostante `!important`: la regola arancione
+  generica preesistente era radicata su selettori con ID (`#nav`, `#footer`), sempre più specifici
+  di semplici selettori di classe. Le nuove regole sono ora annidate nello stesso punto (dentro
+  `@mixin color-list`), con pari specificità e ordine successivo, quindi vincono correttamente.
+
 ## [1.6.0] - 2026-08-14 — Favicon configurabile e PWA davvero installabile
 
 ### Added

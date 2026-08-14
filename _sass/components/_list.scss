@@ -47,7 +47,7 @@
 
 			li {
 				display: inline-block;
-				padding: 0 0.5rem 0 0;
+				padding: 0 0.25rem 0 0;
 				vertical-align: middle;
 
 				&:last-child {
@@ -253,6 +253,16 @@
 							}
 						}
 					}
+
+					// Colore reale del brand al passaggio del mouse, al posto
+					// dell'arancione generico di cui sopra (stessa specificità,
+					// vince per ordine — vedi anche :before sotto per la variante .alt).
+					a.fa-facebook:hover:before { color: #1877f2 !important; }
+					a.fa-twitter:hover:before { color: #1da1f2 !important; }
+					a.fa-youtube:hover:before { color: #ff0000 !important; }
+					a.fa-instagram:hover:before { color: #e4405f !important; }
+					a.fa-discord-alt:hover:before { color: #5865f2 !important; }
+					a.fa-telegram:hover:before { color: #26a5e4 !important; }
 				}
 
 				&.alt {
