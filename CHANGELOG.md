@@ -2,7 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.6.2] - 2026-08-15 — Tre nuove pagine "Il Gioco": Trailblazers, Vanguards, Operations
+## [1.6.3] - 2026-08-15 — Guida alla Colonizzazione, Capitolo 1
+
+### Added
+
+- Nuovo post `_posts/2026-08-15-colonizzazione-parte1.md`, primo capitolo di una guida a puntate sulla
+  Colonizzazione (System Colonisation, dall'update Trailblazers) sul modello della guida Ingegneri:
+  perché conviene farlo, il collegamento diretto con il BGS della Flotta (la fazione dello squadrone
+  entra come una delle fazioni del sistema colonizzato), cosa serve per iniziare, i quattro passaggi
+  per reclamare un sistema. Firmato wiitifulsky. Fonti: guida ufficiale Frontier, wiki Fandom, e la
+  "Colonization Mega Guide" comunitaria di CMDR Mechan.
+- Key art ufficiale di Trailblazers scaricata e ospitata localmente in
+  `images/posts/colonizzazione/trailblazers-keyart.jpg`, come immagine di copertina del post.
+- Capitoli 2-4 (pianificazione del sistema, economia e link, costruzione pratica) pianificati per le
+  prossime sessioni.
 
 ### Added
 
