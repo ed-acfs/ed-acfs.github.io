@@ -18,6 +18,14 @@ pwa-install {
 	flex-shrink: 0;
 	margin-left: 0.5rem;
 
+	// La libreria non fissa un proprio line-height per il testo dentro la
+	// modale (titolo, descrizione, elenco funzionalità): eredita quello del
+	// sito (2.375, pensato per i lunghi paragrafi degli articoli), che dentro
+	// un dialog compatto si vede come un'interlinea abnorme. line-height è
+	// ereditabile, quindi impostarlo qui sull'host basta a "tagliare" quel
+	// valore per tutto l'albero shadow della modale.
+	line-height: 1.4;
+
 	&::part(openButton) {
 		appearance: none;
 		transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
