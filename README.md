@@ -84,12 +84,15 @@ Evocare quindi lo script col comando:
 pyton3 tag_generator.py
 ```
 
-## Aggiornare la tabella popolazione
+## Aggiornare tabella sistemi e mappa 3D
 
-Per tenere la lista dei sistemi nella pagina **about/index.md** sincronizzata con la presenza reale di
-**Flotta Stellare** è disponibile lo script Python `spansh_sync.py` nella root del repository. Usa l'API
-pubblica (non ufficiale) di [Spansh](https://spansh.co.uk/) — non serve alcuna API key — per:
+Per tenere sincronizzati con la presenza reale di **Flotta Stellare** sia la tabella sistemi nella
+pagina **about/index.md** sia i dati della **mappa 3D** (`map/json_files/sistemi.json`) è disponibile
+lo script Python `spansh_sync.py` nella root del repository. In un'unica esecuzione, con un solo
+fetch condiviso, usa l'API pubblica (non ufficiale) di [Spansh](https://spansh.co.uk/) — non serve
+alcuna API key — per:
 
+**Tabella sistemi (`about/index.md`)**
 - aggiungere le righe dei sistemi mancanti (in ordine alfabetico), con Governo, Popolazione, Alleanza e
   Stato già compilati;
 - aggiornare Governo, Popolazione, Alleanza e Stato delle righe già presenti quando il dato su Spansh è
@@ -99,8 +102,17 @@ pubblica (non ufficiale) di [Spansh](https://spansh.co.uk/) — non serve alcuna
 - ricalcolare e aggiornare la frase "Governiamo su **N** abitanti", sommando la popolazione dei soli
   sistemi con Stato "Controllato".
 
-Le righe già presenti nel file ma non trovate su Spansh (es. sistemi visitati ma non ancora presenti nei
-dump pubblici) vengono lasciate invariate, non cancellate.
+**Mappa 3D (`map/json_files/sistemi.json`)**
+- aggiungere i sistemi mancanti, con coordinate reali;
+- aggiornare lo stato Controllato/Non Controllato di quelli già presenti;
+- assegnare le categorie Material Trader (Raw/Manufactured/Encoded), Technology Broker
+  (Human/Guardian) e Interstellar Factor disponibili in ciascun sistema, leggendo le stazioni reali
+  da Spansh;
+- lasciare invariati Capitale, sistemi di categorie non gestite dallo script (es. le tappe di
+  spedizioni) e le coordinate di sistemi già presenti.
+
+Le righe/sistemi già presenti nei file ma non trovati su Spansh (es. sistemi visitati ma non ancora
+presenti nei dump pubblici) vengono lasciati invariati, non cancellati.
 
 > Lo script `edsm_fetcher.py`, basato sull'API di EDSM, è stato sostituito da `spansh_sync.py` perché
 > l'API di EDSM risultava non raggiungibile; il file resta nel repository come fallback per quando EDSM
@@ -114,8 +126,8 @@ py -3 spansh_sync.py
 
 (o, se `python` è già associato alla versione 3, usare `python spansh_sync.py`).
 Lo script potrà essere rilanciato tutte le volte che serva: i marcatori `<div class="datatable-begin">`
-e `<div class="datatable-end">` vengono mantenuti e viene sempre assicurata una riga vuota
-prima e dopo la tabella per evitare che il Markdown si rompa.
+e `<div class="datatable-end">` nella tabella sistemi vengono mantenuti e viene sempre assicurata una
+riga vuota prima e dopo la tabella per evitare che il Markdown si rompa.
 
 ## Features
 
