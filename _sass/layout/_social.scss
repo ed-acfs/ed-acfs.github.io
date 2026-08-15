@@ -1,71 +1,99 @@
 .share-box {
     text-align: center;
-    font-size: 1.5rem;
     border-color: #eee !important;
     margin-top: 1rem;
-    padding: 2rem;
+    padding: 2rem 2rem 0 2rem;
     border-top: 1px solid #eee;
+
     h5 {
       font-size: 1rem;
     }
+  }
+
+  // Pulsanti "a pillola" icona+testo, colore del brand sempre visibile
+  // (non solo in hover) per essere riconoscibili a colpo d'occhio invece
+  // che ridotti a icone anonime.
+  .share-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+      padding: 0;
+    }
+
     a {
-      display: inline-block;
-      -webkit-box-shadow: 0 0 1px #eee;
-      box-shadow: 0 0 1px #eee;
-      padding: 5px 12px;
-      margin-right: 5px;
-      margin-bottom: 5px;
+      @include vendor('appearance', 'none');
+      @include vendor('transition', (
+        'background-color #{_duration(transition)} ease-in-out',
+        'color #{_duration(transition)} ease-in-out'
+      ));
+      display: inline-flex;
+      align-items: center;
+      height: 2.5rem;
+      padding: 0 1.1rem;
+      border-radius: 2.5rem;
+      font-family: _font(family-heading);
+      font-size: 0.7rem;
+      font-weight: _font(weight-heading);
+      letter-spacing: 0.075em;
       text-decoration: none;
       border-bottom: none;
-      &:hover {
-        text-decoration: none;
-        -webkit-transition: background-color 200ms linear;
-        -ms-transition: background-color 200ms linear;
-        transition: background-color 200ms linear;
+      white-space: nowrap;
+
+      &:before {
+        margin-right: 0.5rem;
+        font-size: 1rem;
       }
     }
-  }
-  
-  /* All buttons */
-  
-  .share-buttons {}
-  
-  .f {
-    color: #3b5998;
-    &:hover {
-      color: #fff !important;
-      background-color: #3b5998;
+
+    // Facebook
+    a.fa-facebook {
+      box-shadow: inset 0 0 0 2px #1877f2;
+      color: #1877f2 !important;
+      &:hover { background-color: #1877f2; color: #fff !important; }
     }
-  }
-  
-  .t {
-    color: #4099FF;
-    &:hover {
-      color: #fff !important;
-      background-color: #4099FF;
+
+    // X (ex Twitter): il nero del brand attuale sparirebbe su sfondo scuro,
+    // uso l'azzurro storico di Twitter (stesso colore già in _list.scss).
+    a.fa-twitter {
+      box-shadow: inset 0 0 0 2px #1da1f2;
+      color: #1da1f2 !important;
+      &:hover { background-color: #1da1f2; color: #fff !important; }
     }
-  }
-  
-  .r {
-    color: #ff5700;
-    &:hover {
-      color: #fff !important;
-      background-color: #ff5700;
+
+    // WhatsApp
+    a.fa-whatsapp {
+      box-shadow: inset 0 0 0 2px #25d366;
+      color: #25d366 !important;
+      &:hover { background-color: #25d366; color: #fff !important; }
     }
-  }
-  
-  .e {
-    color: #444444;
-    &:hover {
-      color: #fff !important;
-      background-color: #444444;
+
+    // Telegram
+    a.fa-telegram {
+      box-shadow: inset 0 0 0 2px #26a5e4;
+      color: #26a5e4 !important;
+      &:hover { background-color: #26a5e4; color: #fff !important; }
     }
-  }
-  
-  .p {
-    color: #cb2027;
-    &:hover {
-      color: #fff !important;
-      background-color: #cb2027;
+
+    // Reddit
+    a.fa-reddit-alien {
+      box-shadow: inset 0 0 0 2px #ff4500;
+      color: #ff4500 !important;
+      &:hover { background-color: #ff4500; color: #fff !important; }
+    }
+
+    // Email: nessun brand color applicabile, stile neutro coerente con
+    // il resto dei bottoni outline del sito (vedi _button.scss).
+    a.fa-envelope {
+      box-shadow: inset 0 0 0 2px _palette(fg-bold);
+      color: _palette(fg-bold) !important;
+      &:hover { background-color: _palette(fg-bold); color: _palette(bg) !important; }
     }
   }
