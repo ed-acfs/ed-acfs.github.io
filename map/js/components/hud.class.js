@@ -11,6 +11,7 @@ var HUD = {
     Loader.update('Init HUD');
     this.initHudAction();
     this.initControls();
+    this.initSearch();
 
   },
 
@@ -62,17 +63,97 @@ var HUD = {
       '      <span id="cx"></span><span id="cy"></span><span id="cz"></span></div>'+
       '      <p id="infos"></p>'+
       '    </div>'+
-      /*'  <div id="search">'+
-      '    <h2>Search</h2>'+
-      '    <input type="text" />'+
-      '  </div>'+*/
+      '  <div id="search">'+
+      '    <input type="text" id="system-search" placeholder="Cerca sistema..." list="system-names-list" autocomplete="off" />'+
+      '    <datalist id="system-names-list"></datalist>'+
+      '    <p id="search-feedback"></p>'+
+      '  </div>'+
       '  <div id="filters">'+
       '  </div>'+
       '</div>'
     );
 
+    this.initSearchAction();
+
     var addClass = (Ed3d.popupDetail ? 'class="popup-detail"' : '');
     $('#'+this.container).append('<div id="systemDetails" style="display:none;"'+addClass+'></div>');
+
+  },
+
+  /**
+   * Fill the search datalist with every loaded system name
+   */
+  'initSearch' : function() {
+
+    if(!Ed3d.withHudPanel || System.particleGeo == null) return;
+
+    var names = [];
+    $.each(System.particleGeo.vertices, function(key, val) {
+      if(val.name != undefined) names.push(val.name);
+    });
+    names.sort(function(a, b) { return a.localeCompare(b); });
+
+    var options = '';
+    $.each(names, function(key, name) {
+      options += '<option value="'+name.replace(/"/g,'&quot;')+'"></option>';
+    });
+    $('#system-names-list').html(options);
+
+  },
+
+  /**
+   * Wire the search input: Enter jumps to the matching system
+   */
+  'initSearchAction' : function() {
+
+    $('#system-search').on('keydown', function(e) {
+      if(e.which !== 13) return; //-- Enter only
+      HUD.goToSystemByName($(this).val());
+    });
+
+  },
+
+  /**
+   * Find a system by (partial) name and move the camera to it
+   *
+   * @param {string} query
+   */
+  'goToSystemByName' : function(query) {
+
+    query = $.trim(query).toLowerCase();
+    if(query == '' || System.particleGeo == null) return;
+
+    var vertices = System.particleGeo.vertices;
+    var indexExact = -1;
+    var indexPartial = -1;
+
+    for(var i=0; i<vertices.length; i++) {
+      if(vertices[i].name == undefined) continue;
+      var name = vertices[i].name.toLowerCase();
+      if(name == query) { indexExact = i; break; }
+      if(indexPartial == -1 && name.indexOf(query) !== -1) indexPartial = i;
+    }
+
+    var index = (indexExact !== -1) ? indexExact : indexPartial;
+
+    if(index == -1) {
+      $('#search-feedback').text('Nessun sistema trovato').addClass('not-found');
+      return;
+    }
+
+    $('#search-feedback').text('').removeClass('not-found');
+
+    var point = vertices[index];
+
+    //-- Force the point visible even if hidden by an active HUD filter
+    if(!point.visible) {
+      point.visible = true;
+      point.filtered = true;
+      if(point.color != undefined) System.particleGeo.colors[index] = point.color;
+      System.particleGeo.colorsNeedUpdate = true;
+    }
+
+    Action.moveToObj(index, point);
 
   },
 

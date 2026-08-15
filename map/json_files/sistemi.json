@@ -1,1296 +1,5223 @@
-{"categories":{
-    "Sistemi della Flotta":{
-        "0":{"name":"Capitale","color":"6BF93D"},
-        "1":{"name":"Controllati","color":"f07b05"},
-        "2":{"name":"Non Controllati","color":"8a7bff"}},
-
-    "Material Traders": {
-        "3":{"name":"Raw","color":"ff6900"},
-        "4":{"name":"Manufactured","color":"0038e0"},
-        "5":{"name":"Encoded","color":"9400ff"}},
-
-    "Punti di Interesse":{ 
-        "6":{"name":"Interstellar Factor","color":"6BF93D"},
-        "7":{"name":"Human Technology Broker","color":"ffd400"},
-        "8":{"name":"Guardian Technology Broker","color":"00a8ff"}},
-    
-    "Spedizioni":{ 
-        "SVN":{"name":"Spedizione Verso il Niente","color":"ffd400"},
-        "SDE":{"name":"Star Divinity Expedition","color":"00a8ff"}}},
-
+{
+    "categories": {
+        "Sistemi della Flotta": {
+            "0": {
+                "name": "Capitale",
+                "color": "6BF93D"
+            },
+            "1": {
+                "name": "Sistemi Controllati",
+                "color": "f07b05"
+            },
+            "2": {
+                "name": "Non Controllati",
+                "color": "8a7bff"
+            }
+        },
+        "Material Traders": {
+            "3": {
+                "name": "Raw",
+                "color": "ff6900"
+            },
+            "4": {
+                "name": "Manufactured",
+                "color": "0038e0"
+            },
+            "5": {
+                "name": "Encoded",
+                "color": "9400ff"
+            }
+        },
+        "Punti di Interesse": {
+            "6": {
+                "name": "Interstellar Factor",
+                "color": "6BF93D"
+            },
+            "7": {
+                "name": "Human Technology Broker",
+                "color": "ffd400"
+            },
+            "8": {
+                "name": "Guardian Technology Broker",
+                "color": "00a8ff"
+            }
+        },
+        "Spedizioni": {
+            "SVN": {
+                "name": "Spedizione Verso il Niente",
+                "color": "ffd400"
+            }
+        }
+    },
     "systems": [
-    {
-        "name": "Wong Sher",
-        "coords": {
-            "x": 16.46875,
-            "y": 4.0625,
-            "z": -60.5},
-        "cat": [0,1,6],
-        "infos": "<h2>La casa della Flotta<\/h2><div>Wong Sher è la casa del nostro Squadrone, la nostra Capitale.<br>Il nostro BGS è cominciato qui e da qui è partita la nostra prima espansione</div>"
-    },
-    {
-        "name": "111 Tauri",
-        "coords": {
-            "x": 6.0625,
-            "y": -7.90625,
-            "z": -45.875},
-        "cat": [2,6]
-    },
-    {
-        "name": "14 Geminorum",
-        "coords": {
-            "x": 12.28125,
-            "y": 5.0625,
-            "z": -57.25},
-        "cat": [1]
-    },
-    {
-        "name": "37 Geminorum",
-        "coords": {
-            "x": 10.25,
-            "y": 12.3125,
-            "z": -53.90625},
-        "cat": [2]
-    },
-    {
-        "name": "Aldebaran",
-        "coords": {
-            "x": 1.4375,
-            "y": -22.40625,
-            "z": -62.75},
-        "cat": [1]
-    },
-    {
-        "name": "Amait",
-        "coords": {
-            "x": 27.15625,
-            "y": -13.6875,
-            "z": -67.5},
-        "cat": [2]
-    },
-    {
-        "name": "Anglii",
-        "coords": {
-            "x": 10.3125,
-            "y": 36.3125,
-            "z": -60.21875},
-        "cat": [2,6]
-    },
-    {
-        "name": "Ao Kang",
-        "coords": {
-            "x": 32.375,
-            "y": 18.28125,
-            "z": -68.78125},
-        "cat": [1]
-    },
-    {
-        "name": "Aravaci",
-        "coords": {
-            "x": 41.625,
-            "y": 18.40625,
-            "z": -78.875},
-        "cat": [1,6]
-    },
-    {
-        "name": "BD+08 1303",
-        "coords": {
-            "x": 25.53125,
-            "y": -1.875,
-            "z": -62.84375},
-        "cat": [1]
-    },
-    {
-        "name": "BD+14 831",
-        "coords": {
-            "x": 9.90625,
-            "y": -19.8125,
-            "z": -74},
-        "cat": [2,6]
-    },
-    {
-        "name": "Bellapa",
-        "coords": {
-            "x": 43.53125,
-            "y": -4.21875,
-            "z": -87.21875},
-        "cat": [1,6]
-    },
-    {
-        "name": "Betel",
-        "coords": {
-            "x": 43,
-            "y": -4.0625,
-            "z": -79.65625},
-        "cat": [1,6]
-    },
-    {
-        "name": "Bifrost",
-        "coords": {
-            "x": 58.6875,
-            "y": 54.28125,
-            "z": -62.46875},
-        "cat": [1],
-        "infos": "Un tempo casa dei principali nemici della Flotta, oggi è sotto il nostro controllo"
-    },
-    {
-        "name": "Bota Ili",
-        "coords": {
-            "x": 3.71875,
-            "y": -6.78125,
-            "z": -81.0625},
-        "cat": [1,6]
-    },
-    {
-        "name": "Cintices",
-        "coords": {
-            "x": 44.09375,
-            "y": 0.09375,
-            "z": -90.875},
-        "cat": [1,6]
-    },
-    {
-        "name": "Cosi",
-        "coords": {
-            "x": 24.75,
-            "y": -14.6875,
-            "z": -70.75},
-        "cat": [1]
-    },
-    {
-        "name": "Dewikum",
-        "coords": {
-            "x": 19.375,
-            "y": -0.28125,
-            "z": -68.9375},
-        "cat": [1,6],
-        "infos": "Dewikum è la casa dell'Imperatore"
-    },
-    {
-        "name": "Dulerce",
-        "coords": {
-            "x": 49.03125,
-            "y": 25.6875,
-            "z": -73},
-        "cat": [2]
-    },
-    {
-        "name": "Ethli",
-        "coords": {
-            "x": 3.1875,
-            "y": -4.65625,
-            "z": -83.21875},
-        "cat": [2]
-    },
-    {
-        "name": "Euripus",
-        "coords": {
-            "x": 3.8125,
-            "y": 16.03125,
-            "z": -45.75},
-        "cat": [2]
-    },
-    {
-        "name": "Flech",
-        "coords": {
-            "x": 20.125,
-            "y": -10.34375,
-            "z": -63.125},
-        "cat": [1]
-    },
-    {
-        "name": "Fular",
-        "coords": {
-            "x": 4.3125,
-            "y": -18.03125,
-            "z": -81.25},
-        "cat": [1]
-    },
-    {
-        "name": "G 107-65",
-        "coords": {
-            "x": -6.59375,
-            "y": 22.625,
-            "z": -48.0625},
-        "cat":[2]
-    },
-    {
-        "name": "G 108-26",
-        "coords": {
-            "x": 30.0625,
-            "y": 0.25,
-            "z": -51.625},
-        "cat":[1]
-    },
-    {
-        "name": "G 87-16",
-        "coords": {
-            "x": 5.90625,
-            "y": 15.6875,
-            "z": -57.5},
-        "cat": [2]
-    },
-    {
-        "name": "G 98-44",
-        "coords": {
-            "x": -2.34375,
-            "y": 8.71875,
-            "z": -79.0625},
-        "cat": [2]
-    },
-    {
-        "name": "Galibi",
-        "coords": {
-            "x": 37.09375,
-            "y": -2.4375,
-            "z": -89.03125},
-        "cat": [2]
-    },
-    {
-        "name": "GD 69",
-        "coords": {
-            "x": -12.4375,
-            "y": 5.375,
-            "z": -60.0625},
-        "cat": [1,6],
-        "infos": ""
-    },
-    {
-        "name": "Hahgwe",
-        "coords": {
-            "x": 20.53125,
-            "y": 7.375,
-            "z": -60.90625},
-        "cat": [2],
-        "infos": ""
-    },
-    {
-        "name": "HIP 28774",
-        "coords": {
-          "x": 1.84375,
-          "y": 6.96875,
-          "z": -82.9375},
-        "cat":[2],
-        "infos": ""
-    },
-    {
-        "name": "Iansan",
-        "coords": {
-          "x": 25.53125,
-          "y": -1.875,
-          "z": -62.84375},
-        "cat":[1,6],
-        "infos": "Il primo sistema interamente scelto, colonizzato e gestito dalla Flotta"
-    },
-    {
-        "name": "Ishtar",
-        "coords": {
-          "x": 6.75,
-          "y": 21.5625,
-          "z": -53},
-        "cat":[2]
-    },
-    {
-        "name": "Jita Ten",
-        "coords": {
-          "x": 26.28125,
-          "y": 11.6875,
-          "z": -74.5},
-        "cat":[1,7],
-        "infos": ""
-    },
-    {
-        "name": "Julanggarri",
-        "coords": {
-            "x": 19.21875,
-            "y": 6.40625,
-            "z": -64.65625},
-        "cat":[1,4],
-        "infos": "La casa di WiitifulSky"
-    },
-    {
-        "name": "Kamchata",
-        "coords": {
-            "x": 35.65625,
-            "y": -15.71875,
-            "z": -70.03125},
-        "cat":[1,6],
-        "infos": ""
-    },
-    {
-        "name": "Katocudatta",
-        "coords": {
-            "x": 48.875,
-            "y": -13.78125,
-            "z": -83.375},
-        "cat":[1],
-        "infos": ""
-    },
-    {
-        "name": "Kiga",
-        "coords": {
-            "x": 45.96875,
-            "y": 41.53125,
-            "z": -82.375},
-        "cat":[1],
-        "infos": ""
-    },
-    {
-        "name": "Klikudiya",
-        "coords": {
-            "x": 32.4375,
-            "y": 36.6875,
-            "z": -69.437},
-        "cat":[2],
-        "infos": ""
-    },
-    {
-        "name": "Kungurutii",
-        "coords": {
-            "x": 17.84375,
-            "y": -17.5625,
-            "z": -71.5625},
-        "cat":[1,6],
-        "infos": ""
-    },
-    {
-        "name": "Kweretet",
-        "coords": {
-            "x": 36,
-            "y": 41.5,
-            "z": -84.5625},
-        "cat":[2],
-        "infos": ""
-    },
-    {
-        "name": "Lalande 15394",
-        "coords": {
-            "x": 23.6875,
-            "y": 26.25,
-            "z": -57.46875},
-        "cat":[2],
-        "infos": ""
-    },
-    {
-        "name": "Lalande 15547",
-        "coords": {
-            "x": 25.46875,
-            "y": 32.125,
-            "z": -65.625},
-        "cat":[2]
-    },
-    {
-        "name": "LFT 392",
-        "coords": {
-            "x": 7.75,
-            "y": -16.90625,
-            "z": -65.375},
-        "cat":[2]
-    },
-    {
-        "name": "LHS 1681",
-        "coords": {
-            "x": -2.46875,
-            "y": -15.78125,
-            "z": -48.40625},
-        "cat":[2],
-        "infos": "Il sistema che infuoca Grecale80"
-    },
-    {
-        "name": "LHS 1706",
-        "coords": {
-            "x": -1.125,
-            "y": -11.09375,
-            "z": -44.3125},
-        "cat":[1]
-    },
-    {
-        "name": "LHS 1743",
-        "coords": {
-            "x": 5.59375,
-            "y": -16.125,
-            "z": -73.9375},
-        "cat":[2]
-    },
-    {
-        "name": "LHS 1794",
-        "coords": {
-            "x": 5.3125,
-            "y": -1.03125,
-            "z": -62.25},
-        "cat":[1]
-    },
-    {
-        "name": "LHS 1857",
-        "coords": {
-            "x": 21.03125,
-            "y": 1.96875,
-            "z": -55.3125},
-        "cat":[1]
-    },
-    {
-        "name": "LHS 1914",
-        "coords": {
-            "x": 9.84375 ,
-            "y": 26.15625,
-            "z": -72.46875},
-        "cat":[2]
-    },
-    {
-        "name": "LHS 1933",
-        "coords": {
-            "x": 15,
-            "y": 30.71875,
-            "z": -74.71875},
-        "cat": [1,6]
-    },
-    {
-        "name": "LHS 6103",
-        "coords": {
-            "x": 8.84375,
-            "y": 6.03125,
-            "z": -72},
-        "cat": [1,6]
-    },
-    {
-        "name": "LP 254-26",
-        "coords": {
-            "x": -1.21875,
-            "y": 14.15625,
-            "z": -49.34375},
-        "cat": [2]
-    },
-    {
-        "name": "LP 302-22",
-        "coords": {
-            "x": -18.875,
-            "y": -17.0625,
-            "z": -79.6875},
-        "cat": [2]
-    },
-    {
-        "name": "LP 308-10",
-        "coords": {
-            "x": 4.78125,
-            "y": 16.5625,
-            "z": -58.375},
-        "cat": [2]
-    },
-    {
-        "name": "LP 421-7",
-        "coords": {
-            "x": 17.4375,
-            "y": 9.03125 ,
-            "z": -58.34375},
-        "cat": [2]
-    },
-    {
-        "name": "LP 542-33",
-        "coords": {
-            "x": 29.15625,
-            "y": 15.65625,
-            "z": -44.75},
-        "cat": [1,6]
-    },
-    {
-        "name": "LTT 12033",
-        "coords": {
-            "x": 27.03125,
-            "y": 18.53125,
-            "z": -59.4375},
-        "cat": [1]
-    },
-    {
-        "name": "LTT 17868",
-        "coords": {
-            "x": 22.78125,
-            "y": -12.90625,
-            "z": -67.59375},
-        "cat": [1,6]
-    },
-    {
-        "name": "Lumbla",
-        "coords": {
-            "x": 44.65625,
-            "y": -3.40625,
-            "z": -88.8125},
-        "cat": [1]
-    },
-    {
-        "name": "m Tauri",
-        "coords": {
-            "x": 3.5625,
-            "y": -10.78125,
-            "z": -49.0625},
-        "cat": [1,3]
-    },
-    {
-        "name": "Mbukarla",
-        "coords": {
-            "x": 49.09375,
-            "y": 0.84375,
-            "z": -82.5},
-        "cat": [2]
-    },
-    {
-        "name": "MCC 467",
-        "coords": {
-            "x": 13.8125,
-            "y": -8.71875,
-            "z": -67.71875},
-        "cat": [1]
-    },
-    {
-        "name": "Mirdi",
-        "coords": {
-            "x": 41,
-            "y": 1.46875,
-            "z": -66.34375},
-        "cat": [1]
-    },
-    {
-        "name": "Misir",
-        "coords": {
-            "x": 38.125,
-            "y": 12.53125,
-            "z": -48.75},
-        "cat": [2]
-    },
-    {
-        "name": "Morinbath",
-        "coords": {
-            "x": 43.59375,
-            "y": 42.34375,
-            "z": -74.375},
-        "cat": [1]
-    },
-    {
-        "name": "Naiti",
-        "coords": {
-            "x": 24.5,
-            "y": -13.65625,
-            "z": -76.625},
-        "cat": [1]
-    },
-    {
-        "name": "Nandh",
-        "coords": {
-            "x": 42.3125,
-            "y": 7.96875,
-            "z": -65.125},
-        "cat": [2]
-    },
-    {
-        "name": "Nandjabinja",
-        "coords": {
-            "x": 6.375,
-            "y": -4.46875,
-            "z": -63.96875},
-        "cat": [1]
-    },
-    {
-        "name": "Nareni",
-        "coords": {
-            "x": 60.09375,
-            "y": 37.8125,
-            "z": -71.8125},
-        "cat": [1]
-    },
-    {
-        "name": "Ndozins",
-        "coords": {
-            "x": -14.3125,
-            "y": -10.6875,
-            "z": -60.5625},
-        "cat": [1,6]
-    },
-    {
-        "name": "Ninmah",
-        "coords": {
-            "x": -3.625,
-            "y": 1.96875,
-            "z": -67.84375},
-        "cat": [2]
-    },
-    {
-        "name": "NLTT 16391",
-        "coords": {
-            "x": 42.90625,
-            "y": 23.09375,
-            "z": -64.6875},
-        "cat": [1]
-    },
-    {
-        "name": "NLTT 18561",
-        "coords": {
-            "x": 43.96875,
-            "y": -8.65625,
-            "z": -81.875},
-        "cat": [1]
-    },
-    {
-        "name": "Opila",
-        "coords": {
-            "x": 5.46875,
-            "y": -16.25,
-            "z": -84.125},
-        "cat": [2]
-    },
-    {
-        "name": "Pechua",
-        "coords": {
-            "x": 62.6875,
-            "y": 35.28125,
-            "z": -80.71875},
-        "cat": [2]
-    },
-    {
-        "name": "Pularungu",
-        "coords": {
-            "x": 7.53125,
-            "y": 5.875,
-            "z": -83.03125},
-        "cat": [1,6]
-    },
-    {
-        "name": "Ragapajo",
-        "coords": {
-            "x": 45.90625,
-            "y": 32.03125,
-            "z": -64.03125},
-        "cat": [1]
-    },
-    {
-        "name": "Ross 878",
-        "coords": {
-            "x": 17.53125,
-            "y": 19.5625,
-            "z": -57.375},
-        "cat": [2]
-    },
-    {
-        "name": "Ryujingit",
-        "coords": {
-            "x": 18.75,
-            "y": -2.21875,
-            "z": -86.53125},
-        "cat": [1]
-    },
-    {
-        "name": "Sairre",
-        "coords": {
-            "x": -21.21875,
-            "y": 37.375,
-            "z": -82.84375},
-        "cat": [2]
-    },
-    {
-        "name": "Senoni",
-        "coords": {
-            "x": 51.46875,
-            "y": 42.625,
-            "z": -84.09375},
-        "cat": [1]
-    },
-    {
-        "name": "Sete",
-        "coords": {
-            "x": 33.8125,
-            "y": 43.34375,
-            "z": -76.84375},
-        "cat": [1]
-    },
-    {
-        "name": "Shibboleth",
-        "coords": {
-            "x": -8.125,
-            "y": 17.125,
-            "z": -59.46875},
-        "cat": [2]
-    },
-    {
-        "name": "Skang",
-        "coords": {
-            "x": -4.09375,
-            "y": 36.46875,
-            "z": -89.4375},
-        "cat": [1]
-    },
-    {
-        "name": "Skuta",
-        "coords": {
-            "x": 38.5,
-            "y": -10.34375,
-            "z": -89.09375},
-        "cat": [1]
-    },
-    {
-        "name": "SPOCS 253",
-        "coords": {
-            "x": -15.375,
-            "y": -0.625,
-            "z": -83.8125},
-        "cat": [1]
-    },
-    {
-        "name": "Susanoo",
-        "coords": {
-            "x": 12.1875,
-            "y": -1.65625,
-            "z": -62.78125},
-        "cat": [1,6]
-    },
-    {
-        "name": "Suyarang",
-        "coords": {
-            "x": 21.15625,
-            "y": -12.0625,
-            "z": -75.84375},
-        "cat": [1]
-    },
-    {
-        "name": "Tao Ti",
-        "coords": {
-            "x": -1.75,
-            "y": -8.15625,
-            "z": -65.125},
-        "cat": [1]
-    },
-    {
-        "name": "Tastis",
-        "coords": {
-            "x": -4.6875,
-            "y": 30.375,
-            "z": -95.96875},
-        "cat": [1]
-    },
-    {
-        "name": "Timocani",
-        "coords": {
-            "x": 24.625,
-            "y": 10.75,
-            "z": -72.40625},
-        "cat": [1,6]
-    },
-    {
-        "name": "Tomas",
-        "coords": {
-            "x": -15.21875,
-            "y": -28.65625,
-            "z": -64.65625},
-        "cat": [1,6]
-    },
-    {
-        "name": "Toog",
-        "coords": {
-            "x": 21.1875,
-            "y": 3.6875,
-            "z": -50.5},
-        "cat": [1]
-    },
-    {
-        "name": "V848 Monocerotis",
-        "coords": {
-            "x": 44,
-            "y": -2.1875,
-            "z": -91.3125},
-        "cat": [1,6]
-    },
-    {
-        "name": "Vandar",
-        "coords": {
-            "x": 48.78125,
-            "y": 33.84375,
-            "z": -78.8125},
-        "cat": [1,6]
-    },
-    {
-        "name": "Waruts",
-        "coords": {
-            "x": 42.9375,
-            "y": 9.34375,
-            "z": -83.75},
-        "cat": [2]
-    },
-    {
-        "name": "Wolf 289",
-        "coords": {
-            "x": 24.75,
-            "y": 7.0625,
-            "z": -77.375},
-        "cat": [1,6]
-    },
-    {
-        "name": "Yggdrajang",
-        "coords": {
-            "x": 28.3125,
-            "y": 0.84375,
-            "z": -67.875},
-        "cat": [1]
-    },
-    {
-        "name": "Yin Sector CV-Y b4",
-        "coords": {
-            "x": 37.03125,
-            "y": 16.5625,
-            "z": -72.46875},
-        "cat": [1]
-    },
-    {
-        "name": "Zandu",
-        "coords": {
-            "x": 37.25,
-            "y": 6.6875,
-            "z": -72.15625},
-        "cat": [1,5,8]
-    },
-    {
-        "name": "Synuefe JB-G b58-6",
-        "coords": {
-            "x": 168.125,
-            "y": -98.125,
-            "z": 177.3125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Blu Thua WI-B d15",
-        "coords": {
-          "x": 756.875,
-          "y": 557.9375 ,
-          "z": 1504.1875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Praea Euq KS-J d9-14",
-        "coords": {
-          "x": 791.53125,
-          "y": 555.25,
-          "z": 1076.625},
-        "cat":["SVN"]
-    },
-    {
-        "name": "HIP 47126",
-        "coords": {
-          "x": 955.875,
-          "y": -13.71875,
-          "z": 108.59375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Synuefe TO-O b52-3",
-        "coords": {
-          "x": 399.71875,
-          "y": -320.09375,
-          "z": 65.71875},
-        "cat":["SVN"]
-      },
-      {
-        "name": "Wregoe QD-K d8-144",
-        "coords": {
-          "x": 441.84375,
-          "y": 13.625,
-          "z": -305.6875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Running Man Sector FW-W d1-8",
-        "coords": {
-          "x": 543.625,
-          "y": -400.8125,
-          "z": -1000.75},
-        "cat":["SVN"]
-    },
-    {
-        "name": "HD 53041",
-        "coords": {
-          "x": 1110.71875,
-          "y": -225.15625,
-          "z": -646.3125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "VY Canis Majoris",
-        "coords": {
-          "x": 1576.0625,
-          "y": -150.21875,
-          "z": -922.53125},
-        "cat":["SVN"]
-    },     
-    {
-        "name": "HD 49368",
-        "coords": {
-            "x": 757.46875,
-            "y": 67.84375,
-            "z": -1424.375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "HD 43193",
-        "coords": {
-          "x": 905.3125,
-          "y": -271.6875,
-          "z": -1465.875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Gludgaa PD-A d14-9",
-        "coords": {
-          "x": -241.1875,
-          "y": 264.21875,
-          "z": -3640.90625},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Rosette Sector JH-V c2-11",
-        "coords": {
-            "x": 2355.375,
-            "y": -170.5,
-            "z": -4740.84375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Monkey Head Sector MT-G a11-0",
-        "coords": {
-          "x": 1133.3125,
-          "y": 37.53125,
-          "z":  -6283.375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Cyoidai XF-C c14-0",
-        "coords": {
-          "x": 652.34375,
-          "y": -735.71875,
-          "z":  -6852.75},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Crab Sector DL-Y d9",
-        "coords": {
-          "x": 559.625,
-          "y": -708.0625,
-          "z":  -6947.5625},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Dryaa Phoe WV-C d0",
-        "coords": {
-          "x": -4.15625,
-          "y": -62.84375,
-          "z":  -9993.875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Spliech UE-Y c14-0",
-        "coords": {
-          "x": 417.09375,
-          "y": 93.4375,
-          "z":  -13189.28125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Aidohs JI-A d14-0",
-        "coords": {
-          "x": 1993.15625,
-          "y": 341.625,
-          "z":  -13871.375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Wimly LN-B d0",
-        "coords": {
-          "x": 15380.0625,
-          "y": 615.96875,
-          "z":  -12581.8125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Eol Hypa GE-E d13-2",
-        "coords": {
-          "x": 18396.0625,
-          "y": -58.4375,
-          "z":  -12698.6875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Jongoae OX-L d7-0",
-        "coords": {
-          "x": 24939.59375,
-          "y": 14.09375,
-          "z": -9350.375},
-        "cat":["SVN"]
-    },    
-    {
-        "name": "Hypau Aec IO-Z d13-0",
-        "coords": {
-          "x": 26874.21875,
-          "y": -18.6875,
-          "z": -7473.59375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Angosk OM-W d1-0",
-        "coords": {
-          "x": 22183.28125,
-          "y": -24.65625,
-          "z":  -13696.59375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Eowyg Aewsy AL-P e5-0",
-        "coords": {
-          "x": 15725.78125,
-          "y": -17.3125,
-          "z":  -12811.3125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Lyed KX-A c27-0",
-        "coords": {
-          "x": 11170.34375,
-          "y": 6.03125,
-          "z": -16520.875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Lyed YJ-I d9-0",
-        "coords": {
-          "x": 11007.46875,
-          "y": 44.84375,
-          "z":  -16899.75},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Hyueths HS-H d11-5",
-        "coords": {
-          "x": -93.9375,
-          "y": -55.84375,
-          "z":  -12836.96875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Gongae QW-L c24-0",
-        "coords": {
-          "x": -383.0625,
-          "y": -101.53125,
-          "z":  -8980},
-        "cat":["SVN"]
-    },
-    {
-        "name": "NGC 1931 Sector PD-S b4-0",
-        "coords": {
-          "x": -743.84375,
-          "y": 37.4375,
-          "z":  -6959.15625},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Schee Hypa KN-S e4-0",
-        "coords": {
-          "x":  -7097.59375,
-          "y": -61.96875,
-          "z":  -7850.90625},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Hypoae Aescs AA-A h0",
-        "coords": {
-          "x":  -7071.8125,
-          "y": 1078.09375,
-          "z":  -7847.84375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Phrio Hypue AA-A h0",
-        "coords": {
-          "x":  -6130.46875,
-          "y":  -95.875,
-          "z":  -7185.78125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Eafots LZ-H b10-0",
-        "coords": {
-          "x":  -5800.84375,
-          "y":  115.59375,
-          "z":  -5961.1875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Heart Sector IR-V b2-0",
-        "coords": {
-          "x":  -5303.78125,
-          "y":  130.34375,
-          "z":  -5305.40625},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Bubble Sector LX-T b3-1",
-        "coords": {
-          "x":  -6568.375,
-          "y":  24.6875,
-          "z":  -2687.28125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Phi Cassiopeiae",
-        "coords": {
-          "x":  -5317.84375,
-          "y":  -513.90625,
-          "z":  -3964.71875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "2MASS J02351897+6131236",
-        "coords": {
-          "x":  -4192.71875,
-          "y":  114.5,
-          "z":  -4190.625},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Phroea Phoe RD-S e4-12",
-        "coords": {
-          "x":  -3947.21875,
-          "y":  -473.6875,
-          "z":  -3968.21875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "GCRV 2334",
-        "coords": {
-          "x":  -2071.59375,
-          "y":  413.75,
-          "z":  -2915.03125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "NGC 40 star",
-        "coords": {
-          "x":  -2985.96875,
-          "y":  601.75,
-          "z":  -1723.96875},
-        "cat":["SVN"]
-    },
-    {
-        "name": "NGC 7822 Sector BQ-Y d12",
-        "coords": {
-          "x":  -2454.1875,
-          "y":  299.0625,
-          "z":  -1326.0625},
-        "cat":["SVN"]
-    },
-    {
-        "name": "GCRV 950",
-        "coords": {
-          "x":  -1560.71875,
-          "y":  -382.71875,
-          "z":  -1351.9375},
-        "cat":["SVN"]
-    },
-    {
-        "name": "California Sector LX-T b3-0",
-        "coords": {
-          "x":  -337.90625,
-          "y":  -211.9375,
-          "z":  -927.03125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "T Tauri",
-        "coords": {
-          "x":  -32.96875,
-          "y":  -206.40625,
-          "z":  -557.3125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "Hez Ur",
-        "coords": {
-          "x":  149.96875,
-          "y":  23.65625,
-          "z":  -85.03125},
-        "cat":["SVN"]
-    },
-    {
-        "name": "HR 5906",
-        "coords": {
-          "x":  81.65625,
-          "y":  154.53125,
-          "z":  382.21875},
-          "cat":["SVN"]
-    },
-    {
-        "name": "HIP 69445",
-        "coords": {
-          "x": 502.59375,
-          "y": -50.03125,
-          "z": 446.09375},
-          "cat":["SVN"]
-    }
-],
-    "routes": [
         {
-        "title":"Spedizione Veso il Niente",
-        "points": [
-            {"s":"Wong Sher","label":"La casa della Flotta"},
-            {"s":"Synuefe JB-G b58-6","label":"Camp C-NO4 (abandoned exploration camp) Un misterioso insediamento abbandonato"},
-            {"s":"Blu Thua WI-B d15","label":"Nimbostratus Waterworld orbitante vicinissimo a un satellite landabile"},
-            {"s":"Praea Euq KS-J d9-14","label":"Leda 2 earthlike che orbitano uno con l'altro"},
-            {"s":"HIP 47126","label":"Twin eaters 2 neutron che orbitano velocissime attorno a stelle di tipo O e A"},
-            {"s":"Synuefe TO-O b52-3","label":"Eye of Ice Un bellissimo pianeta con anelli separati"},
-            {"s":"Wregoe QD-K d8-144","label":"Red Cyclotron Un bellissimo pianeta orbitante a una L dwarf"},
-            {"s":"Running Man Sector FW-W d1-8","label":"Runner's Gorge Canyon fumarole polonio in paesaggio con nebula"},
-            {"s":"HD 53041","label":"HD 53041 2 black hole in densa atmosfera rossa"},
-            {"s":"VY Canis Majoris","label":"VY Canis Majoris La Stella pi˘ grande nella Galassia di ED"},
-            {"s":"HD 49368","label":"Hades Edge Pianeta orbitante vicino a una stella S morente. Danger"},
-            {"s":"HD 43193","label":"Oochorrs Lighthouse Una binaria neutron ed un black hole!"},
-            {"s":"Gludgaa PD-A d14-9","label":"Close Shave Pianeta a 250km dagli anelli del gassoso"},
-            {"s":"Rosette Sector JH-V c2-11","label":"Aquapark Geysers Il pianeta ha un parco giochi acquatico"},
-            {"s":"Monkey Head Sector MT-G a11-0","label":"Monkey Head Nebula Nebulosa rossa e blu da vedere"},
-            {"s":"Cyoidai XF-C c14-0","label":"The Blue Diamond Un incredibile pianeta orbitante a soli 24mila km da waterworld"},
-            {"s":"Crab Sector DL-Y d9","label":"Station X Base dentro asteroide"},
-            {"s":"Dryaa Phoe WV-C d0","label":"Serebrov Beacon Sistema raggiungibile con fsd dove c'Ë un beacon abbandonato"},
-            {"s":"Spliech UE-Y c14-0","label":"Celeri Transitu Pianeta con orbita incredibile"},
-            {"s":"Aidohs JI-A d14-0","label":"The Aidohs Platforms Pianeta bellissimo da vedere, canyon montagne altissime"},
-            {"s":"Wimly LN-B d0","label":"Ice on fire Ammonia con anelli molto bello"},
-            {"s":"Eol Hypa GE-E d13-2","label":"Australis Ferris Wheel Il pianeta orbita ad anelli vicinissimi e velocissimi"},
-            {"s":"Hypau Aec IO-Z d13-0","label":"Arms End Uno dei sistemi più difficili da raggiungere della Galassia"},
-            {"s":"Jongoae OX-L d7-0","label":"Lone Runner Pianeta che orbita velocissimo. Bello da vedere passare"},
-            {"s":"Angosk OM-W d1-0","label":"Sepositus Beacon Posto più lontano a sud di Sagittarius A"},
-            {"s":"Eowyg Aewsy AL-P e5-0","label":"Red versus Blue Stella blu e arancio vicinissime. Contrasto di luci da favola"},
-            {"s":"Lyed KX-A c27-0","label":"Shackleton's Star Uno dei punti più a sud della galassia"},
-            {"s":"Lyed YJ-I d9-0","label":"Amundsen's Star Il punto pi˘ a sud della Galassia"},
-            {"s":"Hyueths HS-H d11-5","label":"The Twins' Garden Sistema bello con earthlike"},
-            {"s":"Gongae QW-L c24-0","label":"Dreamer Blush Un magnifico gigante gassoso blu viola"},
-            {"s":"NGC 1931 Sector PD-S b4-0","label":"NGC 1931 Nebula Nebulosa vari colori"},
-            {"s":"Schee Hypa KN-S e4-0","label":"Maia's Jewell Bellissima protostar da vedere perchÈ velocissima"},
-            {"s":"Hypoae Aescs AA-A h0","label":"Lumina Caelum 2 wolf-rayet da ammirare"},
-            {"s":"Phrio Hypue AA-A h0","label":"Three Angels of Death 3 black hole di cui 2 con orbite di 0.1d"},
-            {"s":"Eafots LZ-H b10-0","label":"Formidine Rift Abandoned Settlements, Settlement abbandonati in vari sistemi limitrofi"},
-            {"s":"Heart Sector IR-V b2-0","label":"Farsight Expedition Base Base dentro asteroide"},
-            {"s":"Bubble Sector LX-T b3-1","label":"The Dark Fortress & Fumarole in a Bubble Una fortezza naturale e una fumarola bellisssima"},
-            {"s":"Phi Cassiopeiae","label":"Phi Cassiopeiae Supergigante gialla da ammirare da pianeta landabile"},
-            {"s":"2MASS J02351897+6131236","label":"Fireflies Sistema particolare"},
-            {"s":"Phroea Phoe RD-S e4-12","label":"Moore-Nauenberg Sistema pericoloso con stelle binarie e ternarie"},
-            {"s":"GCRV 2334","label":"NGC 1501 Nebula conosciuta come Oyster Nebula"},
-            {"s":"NGC 40 star","label":"Bow-Tie Nebula Nebulosa nata da stella morente. Bella atmosfera"},
-            {"s":"NGC 7822 Sector BQ-Y d12","label":"Gorgon Research Facility Base dentro asteroide"},
-            {"s":"GCRV 950","label":"Little Dumbbell Nebula Nebulosa planetaria tinte blu viola"},
-            {"s":"California Sector LX-T b3-0","label":"Barnacle Sites - California Nebula Strutture aliena da esplorare"},
-            {"s":"T Tauri","label":"Hind Mine Base dentro asteroide"},
-            {"s":"Hez Ur","label":"Pleione (generation ship) Megaship da studiare"},
-            {"s":"HR 5906","label":"Stranded Snake (anaconda settlement) Anaconda abbandonata diventata un settlement"},
-            {"s":"HIP 69445","label":"The Blue Death Wolf rayet fantastica da vedere. Luce intensissima"}
-        ]
+            "name": "Wong Sher",
+            "coords": {
+                "x": 16.46875,
+                "y": 4.0625,
+                "z": -60.5
+            },
+            "cat": [
+                0,
+                1,
+                6
+            ],
+            "infos": "<h2>La casa della Flotta</h2><div>Wong Sher è la casa del nostro Squadrone, la nostra Capitale.<br>Il nostro BGS è cominciato qui e da qui è partita la nostra prima espansione</div>"
         },
         {
-        "title":"Star Divinty Expedition",
-        "points": [
-            {"s":"Checkpoint 4"},
-            {"s":"Checkpoint 5"},
-            {"s":"Checkpoint 6"}
-        ]
+            "name": "111 Tauri",
+            "coords": {
+                "x": 6.0625,
+                "y": -7.90625,
+                "z": -45.875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "14 Geminorum",
+            "coords": {
+                "x": 12.28125,
+                "y": 5.0625,
+                "z": -57.25
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "2MASS J18181234-1649251",
+            "coords": {
+                "x": -1357.0,
+                "y": -49.03125,
+                "z": 5351.40625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "37 Geminorum",
+            "coords": {
+                "x": 10.25,
+                "y": 12.3125,
+                "z": -53.90625
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "50 A2 Cancri",
+            "coords": {
+                "x": 86.78125,
+                "y": 92.1875,
+                "z": -122.28125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "71 Orionis",
+            "coords": {
+                "x": 14.25,
+                "y": 1.78125,
+                "z": -66.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "74 k Orionis",
+            "coords": {
+                "x": 19.78125,
+                "y": -1.59375,
+                "z": -59.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Aldebaran",
+            "coords": {
+                "x": 1.4375,
+                "y": -22.40625,
+                "z": -62.75
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Alzirr",
+            "coords": {
+                "x": 21.03125,
+                "y": 5.1875,
+                "z": -54.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Amait",
+            "coords": {
+                "x": 27.15625,
+                "y": -13.6875,
+                "z": -67.5
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Anglii",
+            "coords": {
+                "x": 10.3125,
+                "y": 36.3125,
+                "z": -60.21875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Ao Kang",
+            "coords": {
+                "x": 32.375,
+                "y": 18.28125,
+                "z": -68.78125
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Aravaci",
+            "coords": {
+                "x": 41.625,
+                "y": 18.40625,
+                "z": -78.875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "BD+08 1303",
+            "coords": {
+                "x": 25.53125,
+                "y": -1.875,
+                "z": -62.84375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "BD+14 831",
+            "coords": {
+                "x": 9.90625,
+                "y": -19.8125,
+                "z": -74
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Bellapa",
+            "coords": {
+                "x": 43.53125,
+                "y": -4.21875,
+                "z": -87.21875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Betel",
+            "coords": {
+                "x": 43,
+                "y": -4.0625,
+                "z": -79.65625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Bifrost",
+            "coords": {
+                "x": 58.6875,
+                "y": 54.28125,
+                "z": -62.46875
+            },
+            "cat": [
+                1
+            ],
+            "infos": "Un tempo casa dei principali nemici della Flotta, oggi è sotto il nostro controllo"
+        },
+        {
+            "name": "Bota Ili",
+            "coords": {
+                "x": 3.71875,
+                "y": -6.78125,
+                "z": -81.0625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "California Sector GW-W d1-5",
+            "coords": {
+                "x": -252.0625,
+                "y": -165.09375,
+                "z": -895.21875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "California Sector JM-V c2-1",
+            "coords": {
+                "x": -257.3125,
+                "y": -177.125,
+                "z": -902.1875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "California Sector LC-V c2-0",
+            "coords": {
+                "x": -305.28125,
+                "y": -235.84375,
+                "z": -890.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Ceto",
+            "coords": {
+                "x": -2.71875,
+                "y": 16.875,
+                "z": -78.3125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Cintices",
+            "coords": {
+                "x": 44.09375,
+                "y": 0.09375,
+                "z": -90.875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector CA-Y c1-17",
+            "coords": {
+                "x": 17.0625,
+                "y": 52.5,
+                "z": -282.90625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector CD-F b13-0",
+            "coords": {
+                "x": -135.09375,
+                "y": 116.71875,
+                "z": -83.4375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector CD-F b13-1",
+            "coords": {
+                "x": -140.125,
+                "y": 118.21875,
+                "z": -81.75
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector CD-F b13-2",
+            "coords": {
+                "x": -143.21875,
+                "y": 118.28125,
+                "z": -77.40625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector CD-F b13-3",
+            "coords": {
+                "x": -139.34375,
+                "y": 121.6875,
+                "z": -79.28125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector CF-Y b14-2",
+            "coords": {
+                "x": 23.9375,
+                "y": -235.28125,
+                "z": -43.6875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector CY-E b13-2",
+            "coords": {
+                "x": -165.84375,
+                "y": 105.625,
+                "z": -83.1875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector DN-A c14-8",
+            "coords": {
+                "x": -173.125,
+                "y": -74.59375,
+                "z": 249.6875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector DN-A c14-9",
+            "coords": {
+                "x": -169.53125,
+                "y": -79.375,
+                "z": 252.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector DY-E b13-2",
+            "coords": {
+                "x": -145.5,
+                "y": 113.34375,
+                "z": -79.03125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector DY-E b13-3",
+            "coords": {
+                "x": -160.125,
+                "y": 104.34375,
+                "z": -80.25
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector GA-B b28-2",
+            "coords": {
+                "x": -172.9375,
+                "y": -75.59375,
+                "z": 245.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector GA-B b28-9",
+            "coords": {
+                "x": -175.6875,
+                "y": -74.15625,
+                "z": 247.125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector JJ-G c11-2",
+            "coords": {
+                "x": -256.84375,
+                "y": 28.25,
+                "z": 110.25
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector JJ-G c11-27",
+            "coords": {
+                "x": -253.375,
+                "y": 23.03125,
+                "z": 106.1875
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Col 285 Sector JJ-G c11-29",
+            "coords": {
+                "x": -254.0625,
+                "y": 28.90625,
+                "z": 108.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector KP-C b27-7",
+            "coords": {
+                "x": -62.71875,
+                "y": -99.5,
+                "z": 234.03125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector LT-E b26-3",
+            "coords": {
+                "x": 134.3125,
+                "y": -47.78125,
+                "z": 204.1875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector MY-Q c5-21",
+            "coords": {
+                "x": -215.46875,
+                "y": 17.6875,
+                "z": -134.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector MY-Q c5-22",
+            "coords": {
+                "x": -218.03125,
+                "y": 21.625,
+                "z": -137.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector NO-P c6-15",
+            "coords": {
+                "x": -164.125,
+                "y": 124.75,
+                "z": -71.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector NQ-H a12-1",
+            "coords": {
+                "x": -286.5625,
+                "y": -26.59375,
+                "z": -216.53125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector OO-P c6-5",
+            "coords": {
+                "x": -139.96875,
+                "y": 125.75,
+                "z": -65.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector RD-R c5-6",
+            "coords": {
+                "x": 94.90625,
+                "y": 77.875,
+                "z": -116.9375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector SR-P b20-11",
+            "coords": {
+                "x": -218.4375,
+                "y": -16.78125,
+                "z": 84.46875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector SX-C b28-4",
+            "coords": {
+                "x": -64.65625,
+                "y": 121.96875,
+                "z": 244.46875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector ZV-M d7-91",
+            "coords": {
+                "x": -65.53125,
+                "y": 124.3125,
+                "z": 230.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Col 285 Sector ZZ-Y d64",
+            "coords": {
+                "x": -134.96875,
+                "y": 25.03125,
+                "z": -323.8125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Cosi",
+            "coords": {
+                "x": 24.75,
+                "y": -14.6875,
+                "z": -70.75
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Dazbog",
+            "coords": {
+                "x": 10.40625,
+                "y": 9.0625,
+                "z": -55.21875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Dewikum",
+            "coords": {
+                "x": 19.375,
+                "y": -0.28125,
+                "z": -68.9375
+            },
+            "cat": [
+                1,
+                6
+            ],
+            "infos": "Dewikum è la casa dell'Imperatore"
+        },
+        {
+            "name": "Dulerce",
+            "coords": {
+                "x": 49.03125,
+                "y": 25.6875,
+                "z": -73
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Elohim",
+            "coords": {
+                "x": 12.34375,
+                "y": -1.6875,
+                "z": -48.25
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Ethli",
+            "coords": {
+                "x": 3.1875,
+                "y": -4.65625,
+                "z": -83.21875
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Euripus",
+            "coords": {
+                "x": 3.8125,
+                "y": 16.03125,
+                "z": -45.75
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Flech",
+            "coords": {
+                "x": 20.125,
+                "y": -10.34375,
+                "z": -63.125
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Fular",
+            "coords": {
+                "x": 4.3125,
+                "y": -18.03125,
+                "z": -81.25
+            },
+            "cat": [
+                1,
+                5,
+                6
+            ]
+        },
+        {
+            "name": "G 100-4",
+            "coords": {
+                "x": 3.1875,
+                "y": -8.875,
+                "z": -66.59375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "G 107-65",
+            "coords": {
+                "x": -6.59375,
+                "y": 22.625,
+                "z": -48.0625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "G 108-26",
+            "coords": {
+                "x": 30.0625,
+                "y": 0.25,
+                "z": -51.625
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "G 87-16",
+            "coords": {
+                "x": 5.90625,
+                "y": 15.6875,
+                "z": -57.5
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "G 98-44",
+            "coords": {
+                "x": -2.34375,
+                "y": 8.71875,
+                "z": -79.0625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Galibi",
+            "coords": {
+                "x": 37.09375,
+                "y": -2.4375,
+                "z": -89.03125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "GD 69",
+            "coords": {
+                "x": -12.4375,
+                "y": 5.375,
+                "z": -60.0625
+            },
+            "cat": [
+                1,
+                6
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Geras",
+            "coords": {
+                "x": -7.03125,
+                "y": -12.875,
+                "z": -56.375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Hahgwe",
+            "coords": {
+                "x": 20.53125,
+                "y": 7.375,
+                "z": -60.90625
+            },
+            "cat": [
+                2,
+                6
+            ],
+            "infos": ""
+        },
+        {
+            "name": "HD 314899",
+            "coords": {
+                "x": -480.21875,
+                "y": -61.75,
+                "z": 4395.40625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "HIP 1773",
+            "coords": {
+                "x": -222.125,
+                "y": 16.71875,
+                "z": -129.90625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 2074",
+            "coords": {
+                "x": -507.15625,
+                "y": -58.1875,
+                "z": -291.21875
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "HIP 2101",
+            "coords": {
+                "x": -502.25,
+                "y": -59.125,
+                "z": -289.0
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "HIP 21023",
+            "coords": {
+                "x": -148.1875,
+                "y": -6.90625,
+                "z": -362.375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "HIP 2198",
+            "coords": {
+                "x": -476.1875,
+                "y": -155.3125,
+                "z": -266.28125
+            },
+            "cat": [
+                2,
+                8
+            ]
+        },
+        {
+            "name": "HIP 22403",
+            "coords": {
+                "x": -195.34375,
+                "y": -97.5,
+                "z": -960.90625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 23778",
+            "coords": {
+                "x": -117.0625,
+                "y": 20.46875,
+                "z": -380.625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 2442",
+            "coords": {
+                "x": -517.0,
+                "y": -54.125,
+                "z": -305.4375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 28774",
+            "coords": {
+                "x": 1.84375,
+                "y": 6.96875,
+                "z": -82.9375
+            },
+            "cat": [
+                1
+            ],
+            "infos": ""
+        },
+        {
+            "name": "HIP 30129",
+            "coords": {
+                "x": -126.15625,
+                "y": 84.21875,
+                "z": -120.28125
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "HIP 42084",
+            "coords": {
+                "x": 92.125,
+                "y": 80.84375,
+                "z": -123.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 4237",
+            "coords": {
+                "x": -332.21875,
+                "y": -39.03125,
+                "z": -221.53125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "HIP 4820",
+            "coords": {
+                "x": -439.71875,
+                "y": -109.34375,
+                "z": -308.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 4888",
+            "coords": {
+                "x": -428.34375,
+                "y": -139.21875,
+                "z": -304.40625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 5035",
+            "coords": {
+                "x": -419.15625,
+                "y": -118.0,
+                "z": -299.78125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 65275",
+            "coords": {
+                "x": 100.40625,
+                "y": 134.375,
+                "z": 97.46875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "HIP 70618",
+            "coords": {
+                "x": -140.71875,
+                "y": 122.25,
+                "z": -71.75
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 81768",
+            "coords": {
+                "x": -73.5,
+                "y": 126.6875,
+                "z": 221.8125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HIP 866",
+            "coords": {
+                "x": -533.03125,
+                "y": -64.78125,
+                "z": -279.0625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "HIP 96960",
+            "coords": {
+                "x": -166.0,
+                "y": -76.40625,
+                "z": 245.0625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "HR 2251",
+            "coords": {
+                "x": 26.21875,
+                "y": -5.09375,
+                "z": -56.8125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Hyades Sector AB-M b8-5",
+            "coords": {
+                "x": 55.375,
+                "y": 1.59375,
+                "z": -90.46875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Hyades Sector AR-K b9-2",
+            "coords": {
+                "x": 65.6875,
+                "y": 41.59375,
+                "z": -72.53125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Hyades Sector CM-K b9-5",
+            "coords": {
+                "x": 57.6875,
+                "y": 32.8125,
+                "z": -80.75
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Hyades Sector IH-V d2-98",
+            "coords": {
+                "x": 43.3125,
+                "y": 43.90625,
+                "z": -89.96875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Hyades Sector TK-M b8-3",
+            "coords": {
+                "x": -0.09375,
+                "y": 36.21875,
+                "z": -95.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Hyades Sector VF-M b8-4",
+            "coords": {
+                "x": 0.3125,
+                "y": 32.5625,
+                "z": -95.25
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Hyades Sector ZK-X c1-10",
+            "coords": {
+                "x": -71.375,
+                "y": -5.84375,
+                "z": -200.0625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Hyades Sector ZQ-K b9-0",
+            "coords": {
+                "x": 37.71875,
+                "y": 40.71875,
+                "z": -84.0625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Hydrae Sector OD-S b4-4",
+            "coords": {
+                "x": 110.78125,
+                "y": 117.71875,
+                "z": 104.65625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Hydrae Sector QY-R b4-4",
+            "coords": {
+                "x": 113.6875,
+                "y": 109.375,
+                "z": 107.71875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Iansan",
+            "coords": {
+                "x": 25.53125,
+                "y": -1.875,
+                "z": -62.84375
+            },
+            "cat": [
+                1,
+                6
+            ],
+            "infos": "Il primo sistema interamente scelto, colonizzato e gestito dalla Flotta"
+        },
+        {
+            "name": "Ishtar",
+            "coords": {
+                "x": 6.75,
+                "y": 21.5625,
+                "z": -53
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Jita Ten",
+            "coords": {
+                "x": 26.28125,
+                "y": 11.6875,
+                "z": -74.5
+            },
+            "cat": [
+                1,
+                7
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Julanggarri",
+            "coords": {
+                "x": 19.21875,
+                "y": 6.40625,
+                "z": -64.65625
+            },
+            "cat": [
+                1,
+                4
+            ],
+            "infos": "La casa di WiitifulSky"
+        },
+        {
+            "name": "Kamchata",
+            "coords": {
+                "x": 35.65625,
+                "y": -15.71875,
+                "z": -70.03125
+            },
+            "cat": [
+                1,
+                6
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Katocudatta",
+            "coords": {
+                "x": 48.875,
+                "y": -13.78125,
+                "z": -83.375
+            },
+            "cat": [
+                1,
+                3
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Kiga",
+            "coords": {
+                "x": 45.96875,
+                "y": 41.53125,
+                "z": -82.375
+            },
+            "cat": [
+                1
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Klikudiya",
+            "coords": {
+                "x": 32.4375,
+                "y": 36.6875,
+                "z": -69.437
+            },
+            "cat": [
+                2,
+                6,
+                7
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Kungurutii",
+            "coords": {
+                "x": 17.84375,
+                "y": -17.5625,
+                "z": -71.5625
+            },
+            "cat": [
+                1,
+                6
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Kvashirua",
+            "coords": {
+                "x": 44.3125,
+                "y": -15.125,
+                "z": -83.8125
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Kweretet",
+            "coords": {
+                "x": 36,
+                "y": 41.5,
+                "z": -84.5625
+            },
+            "cat": [
+                2,
+                6
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Lagoon Sector YZ-Y c6",
+            "coords": {
+                "x": -481.90625,
+                "y": -59.5,
+                "z": 4408.71875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Lagoon Sector ZU-X b1-9",
+            "coords": {
+                "x": -477.4375,
+                "y": -65.0,
+                "z": 4398.90625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Lalande 15394",
+            "coords": {
+                "x": 23.6875,
+                "y": 26.25,
+                "z": -57.46875
+            },
+            "cat": [
+                2,
+                6
+            ],
+            "infos": ""
+        },
+        {
+            "name": "Lalande 15547",
+            "coords": {
+                "x": 25.46875,
+                "y": 32.125,
+                "z": -65.625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector AG-O b6-5",
+            "coords": {
+                "x": -522.1875,
+                "y": -54.125,
+                "z": -295.90625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector BG-O b6-6",
+            "coords": {
+                "x": -503.03125,
+                "y": -59.6875,
+                "z": -304.34375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "LBN 623 Sector EM-M b7-0",
+            "coords": {
+                "x": -524.96875,
+                "y": -58.25,
+                "z": -283.8125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector FM-M b7-0",
+            "coords": {
+                "x": -500.0,
+                "y": -60.84375,
+                "z": -282.03125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector GW-N b6-4",
+            "coords": {
+                "x": -484.25,
+                "y": -96.8125,
+                "z": -291.71875
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "LBN 623 Sector HR-W d1-30",
+            "coords": {
+                "x": -522.0625,
+                "y": -71.375,
+                "z": -319.6875
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "LBN 623 Sector HR-W d1-32",
+            "coords": {
+                "x": -517.3125,
+                "y": -77.8125,
+                "z": -327.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector HR-W d1-33",
+            "coords": {
+                "x": -525.3125,
+                "y": -50.84375,
+                "z": -276.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector HR-W d1-39",
+            "coords": {
+                "x": -521.5625,
+                "y": -84.71875,
+                "z": -335.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector HR-W d1-48",
+            "coords": {
+                "x": -490.34375,
+                "y": -64.03125,
+                "z": -304.53125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector HR-W d1-54",
+            "coords": {
+                "x": -487.625,
+                "y": -92.59375,
+                "z": -287.6875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector HR-W d1-74",
+            "coords": {
+                "x": -522.96875,
+                "y": -65.5625,
+                "z": -306.84375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector IX-J a9-2",
+            "coords": {
+                "x": -502.03125,
+                "y": -35.34375,
+                "z": -328.78125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector JM-W d1-52",
+            "coords": {
+                "x": -494.375,
+                "y": -109.25,
+                "z": -296.46875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector JX-J a9-1",
+            "coords": {
+                "x": -493.59375,
+                "y": -37.15625,
+                "z": -330.1875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector KC-V c2-8",
+            "coords": {
+                "x": -512.125,
+                "y": -47.1875,
+                "z": -309.875
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "LBN 623 Sector KI-I a10-0",
+            "coords": {
+                "x": -502.0625,
+                "y": -33.5,
+                "z": -322.4375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector LD-I a10-2",
+            "coords": {
+                "x": -513.5625,
+                "y": -40.3125,
+                "z": -322.0625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector MD-I a10-0",
+            "coords": {
+                "x": -500.84375,
+                "y": -38.78125,
+                "z": -322.03125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector MX-U c2-14",
+            "coords": {
+                "x": -510.34375,
+                "y": -79.5,
+                "z": -321.90625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector MX-U c2-6",
+            "coords": {
+                "x": -515.5,
+                "y": -73.53125,
+                "z": -310.96875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector ND-I a10-1",
+            "coords": {
+                "x": -490.84375,
+                "y": -39.75,
+                "z": -318.1875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector NX-U c2-6",
+            "coords": {
+                "x": -501.4375,
+                "y": -78.46875,
+                "z": -312.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector OI-T c3-0",
+            "coords": {
+                "x": -542.375,
+                "y": -64.5625,
+                "z": -301.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector OI-T c3-4",
+            "coords": {
+                "x": -509.9375,
+                "y": -57.84375,
+                "z": -299.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector OI-T c3-5",
+            "coords": {
+                "x": -535.03125,
+                "y": -55.9375,
+                "z": -290.40625
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "LBN 623 Sector PJ-G a11-1",
+            "coords": {
+                "x": -512.6875,
+                "y": -43.1875,
+                "z": -314.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector QO-G a11-1",
+            "coords": {
+                "x": -482.625,
+                "y": -34.15625,
+                "z": -313.5
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector RD-T c3-10",
+            "coords": {
+                "x": -501.46875,
+                "y": -81.875,
+                "z": -298.34375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector RD-T c3-11",
+            "coords": {
+                "x": -500.96875,
+                "y": -84.84375,
+                "z": -298.25
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector RD-T c3-18",
+            "coords": {
+                "x": -488.4375,
+                "y": -82.15625,
+                "z": -290.53125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector RD-T c3-4",
+            "coords": {
+                "x": -501.625,
+                "y": -102.375,
+                "z": -292.84375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector RD-T c3-7",
+            "coords": {
+                "x": -503.15625,
+                "y": -98.09375,
+                "z": -299.78125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector RJ-G a11-1",
+            "coords": {
+                "x": -491.1875,
+                "y": -42.53125,
+                "z": -314.96875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector UU-E a12-0",
+            "coords": {
+                "x": -483.40625,
+                "y": -33.96875,
+                "z": -304.0
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "LBN 623 Sector VZ-P b5-3",
+            "coords": {
+                "x": -537.34375,
+                "y": -62.34375,
+                "z": -309.625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector WZ-P b5-2",
+            "coords": {
+                "x": -522.0,
+                "y": -58.5625,
+                "z": -319.46875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LBN 623 Sector YU-P b5-0",
+            "coords": {
+                "x": -522.90625,
+                "y": -79.6875,
+                "z": -320.0
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LFT 392",
+            "coords": {
+                "x": 7.75,
+                "y": -16.90625,
+                "z": -65.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1681",
+            "coords": {
+                "x": -2.46875,
+                "y": -15.78125,
+                "z": -48.40625
+            },
+            "cat": [
+                2
+            ],
+            "infos": "Il sistema che infuoca Grecale80"
+        },
+        {
+            "name": "LHS 1706",
+            "coords": {
+                "x": -1.125,
+                "y": -11.09375,
+                "z": -44.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1743",
+            "coords": {
+                "x": 5.59375,
+                "y": -16.125,
+                "z": -73.9375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1794",
+            "coords": {
+                "x": 5.3125,
+                "y": -1.03125,
+                "z": -62.25
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1803",
+            "coords": {
+                "x": 21.65625,
+                "y": -7.53125,
+                "z": -83.6875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1814",
+            "coords": {
+                "x": 5.25,
+                "y": 2.46875,
+                "z": -67.84375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1828",
+            "coords": {
+                "x": 8.78125,
+                "y": 5.46875,
+                "z": -93.4375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1838",
+            "coords": {
+                "x": 28.84375,
+                "y": -4.6875,
+                "z": -66.6875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1857",
+            "coords": {
+                "x": 21.03125,
+                "y": 1.96875,
+                "z": -55.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1912",
+            "coords": {
+                "x": 5.875,
+                "y": 22.03125,
+                "z": -59.0
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LHS 1914",
+            "coords": {
+                "x": 9.84375,
+                "y": 26.15625,
+                "z": -72.46875
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "LHS 1933",
+            "coords": {
+                "x": 15,
+                "y": 30.71875,
+                "z": -74.71875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LHS 2027",
+            "coords": {
+                "x": 26.0625,
+                "y": 34.53125,
+                "z": -52.40625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LHS 231",
+            "coords": {
+                "x": 21.96875,
+                "y": 26.03125,
+                "z": -72.53125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LHS 6103",
+            "coords": {
+                "x": 8.84375,
+                "y": 6.03125,
+                "z": -72
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LHS 6119",
+            "coords": {
+                "x": 20.96875,
+                "y": 17.34375,
+                "z": -64.5
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Lowne 1",
+            "coords": {
+                "x": -2.8125,
+                "y": -16.59375,
+                "z": -43.40625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LP 254-26",
+            "coords": {
+                "x": -1.21875,
+                "y": 14.15625,
+                "z": -49.34375
+            },
+            "cat": [
+                2,
+                7
+            ]
+        },
+        {
+            "name": "LP 302-22",
+            "coords": {
+                "x": -18.875,
+                "y": -17.0625,
+                "z": -79.6875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LP 307-8",
+            "coords": {
+                "x": 7.25,
+                "y": 12.71875,
+                "z": -69.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LP 308-10",
+            "coords": {
+                "x": 4.78125,
+                "y": 16.5625,
+                "z": -58.375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LP 366-45",
+            "coords": {
+                "x": 23.25,
+                "y": 33.09375,
+                "z": -60.4375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LP 421-7",
+            "coords": {
+                "x": 17.4375,
+                "y": 9.03125,
+                "z": -58.34375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LP 5-110",
+            "coords": {
+                "x": -51.5625,
+                "y": 37.21875,
+                "z": -41.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LP 542-33",
+            "coords": {
+                "x": 29.15625,
+                "y": 15.65625,
+                "z": -44.75
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LTT 12033",
+            "coords": {
+                "x": 27.03125,
+                "y": 18.53125,
+                "z": -59.4375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "LTT 12193",
+            "coords": {
+                "x": 28.1875,
+                "y": 42.90625,
+                "z": -68.5
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "LTT 17868",
+            "coords": {
+                "x": 22.78125,
+                "y": -12.90625,
+                "z": -67.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "LTT 2545",
+            "coords": {
+                "x": 56.28125,
+                "y": -10.90625,
+                "z": -93.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Lumbla",
+            "coords": {
+                "x": 44.65625,
+                "y": -3.40625,
+                "z": -88.8125
+            },
+            "cat": [
+                1,
+                4
+            ]
+        },
+        {
+            "name": "Lyncis Sector CL-Y d68",
+            "coords": {
+                "x": -114.09375,
+                "y": 93.0625,
+                "z": -112.4375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Lyncis Sector NY-R b4-2",
+            "coords": {
+                "x": -117.6875,
+                "y": 84.875,
+                "z": -121.1875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "m Tauri",
+            "coords": {
+                "x": 3.5625,
+                "y": -10.78125,
+                "z": -49.0625
+            },
+            "cat": [
+                1,
+                3
+            ]
+        },
+        {
+            "name": "Mbukarla",
+            "coords": {
+                "x": 49.09375,
+                "y": 0.84375,
+                "z": -82.5
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "MCC 467",
+            "coords": {
+                "x": 13.8125,
+                "y": -8.71875,
+                "z": -67.71875
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Mirdi",
+            "coords": {
+                "x": 41,
+                "y": 1.46875,
+                "z": -66.34375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Misir",
+            "coords": {
+                "x": 38.125,
+                "y": 12.53125,
+                "z": -48.75
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Morinbath",
+            "coords": {
+                "x": 43.59375,
+                "y": 42.34375,
+                "z": -74.375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Naiti",
+            "coords": {
+                "x": 24.5,
+                "y": -13.65625,
+                "z": -76.625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Nandh",
+            "coords": {
+                "x": 42.3125,
+                "y": 7.96875,
+                "z": -65.125
+            },
+            "cat": [
+                2,
+                4
+            ]
+        },
+        {
+            "name": "Nandjabinja",
+            "coords": {
+                "x": 6.375,
+                "y": -4.46875,
+                "z": -63.96875
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Nareni",
+            "coords": {
+                "x": 60.09375,
+                "y": 37.8125,
+                "z": -71.8125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Ndozins",
+            "coords": {
+                "x": -14.3125,
+                "y": -10.6875,
+                "z": -60.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Ninmah",
+            "coords": {
+                "x": -3.625,
+                "y": 1.96875,
+                "z": -67.84375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "NLTT 16391",
+            "coords": {
+                "x": 42.90625,
+                "y": 23.09375,
+                "z": -64.6875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "NLTT 18561",
+            "coords": {
+                "x": 43.96875,
+                "y": -8.65625,
+                "z": -81.875
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "NLTT 19088",
+            "coords": {
+                "x": 43.6875,
+                "y": 46.3125,
+                "z": -86.3125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Opila",
+            "coords": {
+                "x": 5.46875,
+                "y": -16.25,
+                "z": -84.125
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "OU Geminorum",
+            "coords": {
+                "x": 11.34375,
+                "y": 3.0625,
+                "z": -46.375
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Pechua",
+            "coords": {
+                "x": 62.6875,
+                "y": 35.28125,
+                "z": -80.71875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Pegasi Sector ER-V b2-1",
+            "coords": {
+                "x": -232.78125,
+                "y": -96.8125,
+                "z": -45.75
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Pinyin",
+            "coords": {
+                "x": 5.875,
+                "y": -7.875,
+                "z": -44.875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Psi-5 Aurigae",
+            "coords": {
+                "x": -6.625,
+                "y": 16.9375,
+                "z": -51.40625
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Pularungu",
+            "coords": {
+                "x": 7.53125,
+                "y": 5.875,
+                "z": -83.03125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Puppis Sector WO-A b3",
+            "coords": {
+                "x": 51.09375,
+                "y": 27.375,
+                "z": -68.59375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Ragapajo",
+            "coords": {
+                "x": 45.90625,
+                "y": 32.03125,
+                "z": -64.03125
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Ross 45",
+            "coords": {
+                "x": 15.75,
+                "y": -13.28125,
+                "z": -60.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Ross 49",
+            "coords": {
+                "x": 21.3125,
+                "y": -12.28125,
+                "z": -68.78125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Ross 878",
+            "coords": {
+                "x": 17.53125,
+                "y": 19.5625,
+                "z": -57.375
+            },
+            "cat": [
+                2,
+                5,
+                8
+            ]
+        },
+        {
+            "name": "Ryujingit",
+            "coords": {
+                "x": 18.75,
+                "y": -2.21875,
+                "z": -86.53125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Sairre",
+            "coords": {
+                "x": -21.21875,
+                "y": 37.375,
+                "z": -82.84375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Senoni",
+            "coords": {
+                "x": 51.46875,
+                "y": 42.625,
+                "z": -84.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Sete",
+            "coords": {
+                "x": 33.8125,
+                "y": 43.34375,
+                "z": -76.84375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Sharru Sector AK-A b4",
+            "coords": {
+                "x": 64.3125,
+                "y": 39.6875,
+                "z": -68.34375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Shibboleth",
+            "coords": {
+                "x": -8.125,
+                "y": 17.125,
+                "z": -59.46875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Skang",
+            "coords": {
+                "x": -4.09375,
+                "y": 36.46875,
+                "z": -89.4375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Skuta",
+            "coords": {
+                "x": 38.5,
+                "y": -10.34375,
+                "z": -89.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "SPOCS 253",
+            "coords": {
+                "x": -15.375,
+                "y": -0.625,
+                "z": -83.8125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Susanoo",
+            "coords": {
+                "x": 12.1875,
+                "y": -1.65625,
+                "z": -62.78125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Suyarang",
+            "coords": {
+                "x": 21.15625,
+                "y": -12.0625,
+                "z": -75.84375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Synuefai BC-G a79-0",
+            "coords": {
+                "x": -330.90625,
+                "y": -27.5625,
+                "z": -220.59375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai BC-G a79-2",
+            "coords": {
+                "x": -331.21875,
+                "y": -27.75,
+                "z": -221.03125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai BG-W b35-0",
+            "coords": {
+                "x": -442.84375,
+                "y": -121.75,
+                "z": -299.6875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai BG-W b35-2",
+            "coords": {
+                "x": -439.375,
+                "y": -117.78125,
+                "z": -301.21875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai BQ-X b34-3",
+            "coords": {
+                "x": -439.53125,
+                "y": -145.1875,
+                "z": -305.21875
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Synuefai BS-B b33-1",
+            "coords": {
+                "x": -681.21875,
+                "y": -103.78125,
+                "z": -361.65625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai CM-U b36-0",
+            "coords": {
+                "x": -503.59375,
+                "y": -121.21875,
+                "z": -284.40625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai DF-C c2-3",
+            "coords": {
+                "x": -184.375,
+                "y": -101.78125,
+                "z": -963.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai EB-W b35-0",
+            "coords": {
+                "x": -423.125,
+                "y": -141.8125,
+                "z": -304.9375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Synuefai EB-W b35-1",
+            "coords": {
+                "x": -419.6875,
+                "y": -129.8125,
+                "z": -301.53125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai FK-E b4-1",
+            "coords": {
+                "x": -196.0625,
+                "y": -98.59375,
+                "z": -971.5
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai IG-A c3-1",
+            "coords": {
+                "x": -207.4375,
+                "y": -113.125,
+                "z": -937.0
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai IG-A c3-7",
+            "coords": {
+                "x": -219.9375,
+                "y": -138.90625,
+                "z": -922.0
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai JB-A c3-3",
+            "coords": {
+                "x": -232.84375,
+                "y": -157.25,
+                "z": -905.84375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai JC-U b36-0",
+            "coords": {
+                "x": -443.28125,
+                "y": -163.4375,
+                "z": -280.625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai JQ-C b5-0",
+            "coords": {
+                "x": -202.875,
+                "y": -103.125,
+                "z": -963.40625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai KB-A c3-0",
+            "coords": {
+                "x": -222.375,
+                "y": -150.59375,
+                "z": -916.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai LI-S b37-0",
+            "coords": {
+                "x": -483.125,
+                "y": -162.0625,
+                "z": -260.0625
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Synuefai LL-C b5-0",
+            "coords": {
+                "x": -198.59375,
+                "y": -114.0,
+                "z": -947.6875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai MW-A b6-0",
+            "coords": {
+                "x": -207.75,
+                "y": -100.5,
+                "z": -938.96875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai NW-A b6-0",
+            "coords": {
+                "x": -201.96875,
+                "y": -104.4375,
+                "z": -940.8125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai OA-Y c17-13",
+            "coords": {
+                "x": -429.21875,
+                "y": -125.90625,
+                "z": -304.0
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai OC-B d1-1",
+            "coords": {
+                "x": -191.46875,
+                "y": -104.15625,
+                "z": -955.28125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai OC-B d1-12",
+            "coords": {
+                "x": -216.9375,
+                "y": -96.71875,
+                "z": -925.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai OC-B d1-13",
+            "coords": {
+                "x": -213.46875,
+                "y": -95.875,
+                "z": -928.6875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai OR-A b6-0",
+            "coords": {
+                "x": -213.59375,
+                "y": -122.9375,
+                "z": -926.1875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai OR-A b6-1",
+            "coords": {
+                "x": -220.65625,
+                "y": -117.75,
+                "z": -925.15625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai PX-A d1-8",
+            "coords": {
+                "x": -233.21875,
+                "y": -162.375,
+                "z": -909.4375
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Synuefai QC-Z b6-1",
+            "coords": {
+                "x": -216.5,
+                "y": -104.625,
+                "z": -921.5625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai QV-X c17-5",
+            "coords": {
+                "x": -430.5625,
+                "y": -149.03125,
+                "z": -293.5
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai QV-X c17-7",
+            "coords": {
+                "x": -435.125,
+                "y": -159.78125,
+                "z": -290.96875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai QV-X c17-8",
+            "coords": {
+                "x": -464.40625,
+                "y": -152.5625,
+                "z": -269.1875
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Synuefai SU-M d8-11",
+            "coords": {
+                "x": -494.90625,
+                "y": -127.0,
+                "z": -286.625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai SU-M d8-12",
+            "coords": {
+                "x": -489.0,
+                "y": -120.09375,
+                "z": -296.03125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai SU-M d8-8",
+            "coords": {
+                "x": -503.15625,
+                "y": -120.5625,
+                "z": -279.875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai TU-M d8-14",
+            "coords": {
+                "x": -419.9375,
+                "y": -131.03125,
+                "z": -304.75
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai TU-M d8-25",
+            "coords": {
+                "x": -438.40625,
+                "y": -129.75,
+                "z": -286.5
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai TU-M d8-36",
+            "coords": {
+                "x": -450.59375,
+                "y": -128.375,
+                "z": -292.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai TU-M d8-38",
+            "coords": {
+                "x": -461.1875,
+                "y": -120.28125,
+                "z": -292.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai TU-M d8-41",
+            "coords": {
+                "x": -451.96875,
+                "y": -108.65625,
+                "z": -291.0625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai TU-M d8-50",
+            "coords": {
+                "x": -447.0,
+                "y": -107.25,
+                "z": -301.5
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai TU-M d8-69",
+            "coords": {
+                "x": -438.40625,
+                "y": -161.375,
+                "z": -288.4375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai UJ-T c6-8",
+            "coords": {
+                "x": -272.0625,
+                "y": -96.4375,
+                "z": -777.125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai US-Y b6-1",
+            "coords": {
+                "x": -211.28125,
+                "y": -128.59375,
+                "z": -919.875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai VW-U c19-3",
+            "coords": {
+                "x": -326.4375,
+                "y": -34.65625,
+                "z": -218.03125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai WN-Y b6-0",
+            "coords": {
+                "x": -224.71875,
+                "y": -158.96875,
+                "z": -909.625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai ZF-W b35-0",
+            "coords": {
+                "x": -466.6875,
+                "y": -108.0,
+                "z": -289.21875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai ZF-W b35-2",
+            "coords": {
+                "x": -479.96875,
+                "y": -110.5,
+                "z": -293.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefai ZT-W b7-0",
+            "coords": {
+                "x": -242.53125,
+                "y": -163.3125,
+                "z": -899.84375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefe GT-H b43-4",
+            "coords": {
+                "x": 736.1875,
+                "y": -158.625,
+                "z": -135.5
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Tamalhikas",
+            "coords": {
+                "x": 43.1875,
+                "y": -12.15625,
+                "z": -77.4375
+            },
+            "cat": [
+                1,
+                4
+            ]
+        },
+        {
+            "name": "Tao Ti",
+            "coords": {
+                "x": -1.75,
+                "y": -8.15625,
+                "z": -65.125
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Tascheter Sector AA-Z b2",
+            "coords": {
+                "x": 30.59375,
+                "y": 1.03125,
+                "z": -87.34375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector AA-Z b4",
+            "coords": {
+                "x": 29.9375,
+                "y": -3.8125,
+                "z": -92.34375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector BL-O a6-1",
+            "coords": {
+                "x": 22.65625,
+                "y": -33.96875,
+                "z": -38.90625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector CQ-Y c21",
+            "coords": {
+                "x": 23.125,
+                "y": -11.40625,
+                "z": -77.0625
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Tascheter Sector DG-X b1-3",
+            "coords": {
+                "x": 0.40625,
+                "y": 0.6875,
+                "z": -66.90625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector DL-Y d120",
+            "coords": {
+                "x": 24.21875,
+                "y": -0.0625,
+                "z": -47.53125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector DV-Y a0",
+            "coords": {
+                "x": -0.1875,
+                "y": -44.96875,
+                "z": -96.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector EG-X b1-1",
+            "coords": {
+                "x": 27.3125,
+                "y": 3.1875,
+                "z": -66.15625
+            },
+            "cat": [
+                1,
+                8
+            ]
+        },
+        {
+            "name": "Tascheter Sector EG-X b1-5",
+            "coords": {
+                "x": 29.375,
+                "y": 10.53125,
+                "z": -75.84375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector EV-Y a4",
+            "coords": {
+                "x": 11.71875,
+                "y": -40.1875,
+                "z": -102.34375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector FB-X b1-4",
+            "coords": {
+                "x": -0.8125,
+                "y": -13.75,
+                "z": -69.96875
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Tascheter Sector FB-X b1-6",
+            "coords": {
+                "x": 14.84375,
+                "y": -16.90625,
+                "z": -68.15625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector FB-X b1-7",
+            "coords": {
+                "x": 3.59375,
+                "y": -12.09375,
+                "z": -81.625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector FG-X b1-1",
+            "coords": {
+                "x": 39.15625,
+                "y": -0.34375,
+                "z": -69.28125
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Tascheter Sector FG-X b1-2",
+            "coords": {
+                "x": 37.75,
+                "y": -3.84375,
+                "z": -68.46875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector FG-X b1-6",
+            "coords": {
+                "x": 36.71875,
+                "y": 3.5625,
+                "z": -84.5
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector GB-X b1-5",
+            "coords": {
+                "x": 15.25,
+                "y": -16.875,
+                "z": -67.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector HM-V b2-2",
+            "coords": {
+                "x": 0.0625,
+                "y": -0.1875,
+                "z": -61.8125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector HM-V b2-3",
+            "coords": {
+                "x": 2.6875,
+                "y": 4.3125,
+                "z": -63.875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector HM-V b2-4",
+            "coords": {
+                "x": 2.6875,
+                "y": 8.1875,
+                "z": -57.625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector HM-V b2-5",
+            "coords": {
+                "x": 12.65625,
+                "y": 1.875,
+                "z": -45.6875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector IM-V b2-3",
+            "coords": {
+                "x": 26.5,
+                "y": 3.1875,
+                "z": -62.4375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector IM-V b2-6",
+            "coords": {
+                "x": 15.375,
+                "y": 6.90625,
+                "z": -60.96875
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector LH-V a2-1",
+            "coords": {
+                "x": 2.0625,
+                "y": -38.21875,
+                "z": -83.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector LH-V b2-8",
+            "coords": {
+                "x": 37.65625,
+                "y": -9.0625,
+                "z": -58.75
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Tascheter Sector LS-T a3-3",
+            "coords": {
+                "x": -20.34375,
+                "y": -32.25,
+                "z": -69.0
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector OS-T a3-0",
+            "coords": {
+                "x": 6.0625,
+                "y": -27.78125,
+                "z": -69.0625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector OS-T a3-3",
+            "coords": {
+                "x": 14.65625,
+                "y": -28.9375,
+                "z": -71.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector OS-T a3-4",
+            "coords": {
+                "x": 7.0,
+                "y": -32.75,
+                "z": -74.9375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector OS-T a3-5",
+            "coords": {
+                "x": 7.28125,
+                "y": -34.375,
+                "z": -72.625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector QN-T a3-1",
+            "coords": {
+                "x": 12.625,
+                "y": -43.53125,
+                "z": -65.75
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector VE-Q a5-1",
+            "coords": {
+                "x": 4.53125,
+                "y": -27.09375,
+                "z": -50.75
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Tascheter Sector VE-Q a5-2",
+            "coords": {
+                "x": 4.03125,
+                "y": -25.78125,
+                "z": -48.6875
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Tascheter Sector ZZ-Y b1",
+            "coords": {
+                "x": 1.96875,
+                "y": 7.0,
+                "z": -100.125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tascheter Sector ZZ-Y b4",
+            "coords": {
+                "x": 12.28125,
+                "y": 4.40625,
+                "z": -102.375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Tastis",
+            "coords": {
+                "x": -4.6875,
+                "y": 30.375,
+                "z": -95.96875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Timocani",
+            "coords": {
+                "x": 24.625,
+                "y": 10.75,
+                "z": -72.40625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tirnitz",
+            "coords": {
+                "x": 31.21875,
+                "y": 4.71875,
+                "z": -81.9375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Tomas",
+            "coords": {
+                "x": -15.21875,
+                "y": -28.65625,
+                "z": -64.65625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Toog",
+            "coords": {
+                "x": 21.1875,
+                "y": 3.6875,
+                "z": -50.5
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Trianguli Sector AB-W a2-3",
+            "coords": {
+                "x": 26.65625,
+                "y": -26.375,
+                "z": -97.0625
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Trianguli Sector BQ-Y c15",
+            "coords": {
+                "x": 30.5,
+                "y": -18.4375,
+                "z": -87.65625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector BQ-Y c18",
+            "coords": {
+                "x": 47.21875,
+                "y": -11.78125,
+                "z": -82.84375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector CG-X b1-6",
+            "coords": {
+                "x": 48.84375,
+                "y": -10.8125,
+                "z": -95.90625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector CG-X b1-7",
+            "coords": {
+                "x": 43.125,
+                "y": -5.1875,
+                "z": -99.5
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Trianguli Sector DL-Y c15",
+            "coords": {
+                "x": 28.15625,
+                "y": -25.9375,
+                "z": -72.625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector FC-U a3-2",
+            "coords": {
+                "x": 16.5,
+                "y": -41.0,
+                "z": -90.6875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector FH-U a3-3",
+            "coords": {
+                "x": 42.65625,
+                "y": -25.875,
+                "z": -87.875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector FM-V b2-6",
+            "coords": {
+                "x": 24.71875,
+                "y": -16.21875,
+                "z": -69.65625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector GH-U a3-0",
+            "coords": {
+                "x": 52.53125,
+                "y": -25.6875,
+                "z": -86.9375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector GH-U a3-1",
+            "coords": {
+                "x": 52.5625,
+                "y": -28.75,
+                "z": -86.15625
+            },
+            "cat": [
+                2,
+                6,
+                7
+            ]
+        },
+        {
+            "name": "Trianguli Sector GH-U a3-2",
+            "coords": {
+                "x": 52.03125,
+                "y": -29.0625,
+                "z": -88.625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector GM-V b2-4",
+            "coords": {
+                "x": 38.6875,
+                "y": -17.5,
+                "z": -70.59375
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Trianguli Sector HH-U a3-2",
+            "coords": {
+                "x": 55.3125,
+                "y": -26.03125,
+                "z": -87.84375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector HM-V b2-3",
+            "coords": {
+                "x": 56.09375,
+                "y": -8.90625,
+                "z": -77.03125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector II-S a4-4",
+            "coords": {
+                "x": 14.625,
+                "y": -42.75,
+                "z": -76.1875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector KN-S a4-2",
+            "coords": {
+                "x": 50.28125,
+                "y": -25.375,
+                "z": -75.34375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector LT-Q a5-0",
+            "coords": {
+                "x": 23.25,
+                "y": -28.375,
+                "z": -73.09375
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Trianguli Sector NO-Q a5-3",
+            "coords": {
+                "x": 15.40625,
+                "y": -44.9375,
+                "z": -71.40625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "UBV 6193",
+            "coords": {
+                "x": -0.25,
+                "y": 26.4375,
+                "z": -74.03125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "V0502 Ophiuchii",
+            "coords": {
+                "x": -74.1875,
+                "y": 132.53125,
+                "z": 235.1875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "V848 Monocerotis",
+            "coords": {
+                "x": 44,
+                "y": -2.1875,
+                "z": -91.3125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Vandar",
+            "coords": {
+                "x": 48.78125,
+                "y": 33.84375,
+                "z": -78.8125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Waruts",
+            "coords": {
+                "x": 42.9375,
+                "y": 9.34375,
+                "z": -83.75
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Wasat",
+            "coords": {
+                "x": 16.3125,
+                "y": 17.125,
+                "z": -55.65625
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Wolf 289",
+            "coords": {
+                "x": 24.75,
+                "y": 7.0625,
+                "z": -77.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia GM-U b30-0",
+            "coords": {
+                "x": -103.90625,
+                "y": 38.53125,
+                "z": -400.625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia GX-S b31-0",
+            "coords": {
+                "x": -139.0625,
+                "y": 55.96875,
+                "z": -383.84375
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Wredguia GX-S b31-3",
+            "coords": {
+                "x": -134.1875,
+                "y": 64.4375,
+                "z": -381.90625
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia HH-U b30-1",
+            "coords": {
+                "x": -124.46875,
+                "y": 32.53125,
+                "z": -388.28125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia MI-S b31-1",
+            "coords": {
+                "x": -132.40625,
+                "y": 2.96875,
+                "z": -365.34375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia PA-Y c14-8",
+            "coords": {
+                "x": -93.28125,
+                "y": 36.09375,
+                "z": -406.8125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia QO-Q b32-1",
+            "coords": {
+                "x": -135.03125,
+                "y": 6.375,
+                "z": -351.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia QO-Q b32-3",
+            "coords": {
+                "x": -134.90625,
+                "y": 3.46875,
+                "z": -364.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia RO-Q b32-0",
+            "coords": {
+                "x": -124.1875,
+                "y": -1.21875,
+                "z": -360.5
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia SX-L d7-87",
+            "coords": {
+                "x": -336.3125,
+                "y": 21.40625,
+                "z": -409.96875
+            },
+            "cat": [
+                2
+            ]
+        },
+        {
+            "name": "Wredguia SZ-O b33-1",
+            "coords": {
+                "x": -129.9375,
+                "y": 18.46875,
+                "z": -341.09375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia SZ-O b33-2",
+            "coords": {
+                "x": -133.84375,
+                "y": 25.84375,
+                "z": -335.09375
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Wredguia UU-O b33-4",
+            "coords": {
+                "x": -136.75,
+                "y": 10.46875,
+                "z": -337.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia VX-L d7-19",
+            "coords": {
+                "x": -116.96875,
+                "y": 1.5625,
+                "z": -367.375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia VX-L d7-24",
+            "coords": {
+                "x": -123.71875,
+                "y": -10.8125,
+                "z": -355.28125
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
+            "name": "Wredguia VX-L d7-86",
+            "coords": {
+                "x": -112.5625,
+                "y": 23.90625,
+                "z": -393.6875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia VX-L d7-88",
+            "coords": {
+                "x": -115.5625,
+                "y": 33.1875,
+                "z": -397.0625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wredguia ZD-K d8-90",
+            "coords": {
+                "x": -121.9375,
+                "y": 18.71875,
+                "z": -338.21875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Wregoe YK-Y b55-2",
+            "coords": {
+                "x": 340.09375,
+                "y": -1.4375,
+                "z": 142.59375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Yggdrajang",
+            "coords": {
+                "x": 28.3125,
+                "y": 0.84375,
+                "z": -67.875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Yin Sector CV-Y b1",
+            "coords": {
+                "x": 37.21875,
+                "y": 33.21875,
+                "z": -76.125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Yin Sector CV-Y b4",
+            "coords": {
+                "x": 37.03125,
+                "y": 16.5625,
+                "z": -72.46875
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Yin Sector EQ-Y b3",
+            "coords": {
+                "x": 43.5625,
+                "y": 11.84375,
+                "z": -78.15625
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Yin Sector EQ-Y b4",
+            "coords": {
+                "x": 38.09375,
+                "y": 11.25,
+                "z": -80.4375
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Yin Sector XZ-Y b2",
+            "coords": {
+                "x": -17.40625,
+                "y": 39.21875,
+                "z": -80.4375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Yin Sector YJ-A c16",
+            "coords": {
+                "x": 39.15625,
+                "y": 46.3125,
+                "z": -71.125
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
+            "name": "Zandu",
+            "coords": {
+                "x": 37.25,
+                "y": 6.6875,
+                "z": -72.15625
+            },
+            "cat": [
+                1,
+                5,
+                8
+            ]
+        },
+        {
+            "name": "Zeta Cassiopeiae",
+            "coords": {
+                "x": -501.4375,
+                "y": -89.3125,
+                "z": -303.78125
+            },
+            "cat": [
+                1,
+                6
+            ]
+        },
+        {
+            "name": "Synuefe JB-G b58-6",
+            "coords": {
+                "x": 168.125,
+                "y": -98.125,
+                "z": 177.3125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Blu Thua WI-B d15",
+            "coords": {
+                "x": 756.875,
+                "y": 557.9375,
+                "z": 1504.1875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Praea Euq KS-J d9-14",
+            "coords": {
+                "x": 791.53125,
+                "y": 555.25,
+                "z": 1076.625
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "HIP 47126",
+            "coords": {
+                "x": 955.875,
+                "y": -13.71875,
+                "z": 108.59375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Synuefe TO-O b52-3",
+            "coords": {
+                "x": 399.71875,
+                "y": -320.09375,
+                "z": 65.71875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Wregoe QD-K d8-144",
+            "coords": {
+                "x": 441.84375,
+                "y": 13.625,
+                "z": -305.6875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Running Man Sector FW-W d1-8",
+            "coords": {
+                "x": 543.625,
+                "y": -400.8125,
+                "z": -1000.75
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "HD 53041",
+            "coords": {
+                "x": 1110.71875,
+                "y": -225.15625,
+                "z": -646.3125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "VY Canis Majoris",
+            "coords": {
+                "x": 1576.0625,
+                "y": -150.21875,
+                "z": -922.53125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "HD 49368",
+            "coords": {
+                "x": 757.46875,
+                "y": 67.84375,
+                "z": -1424.375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "HD 43193",
+            "coords": {
+                "x": 905.3125,
+                "y": -271.6875,
+                "z": -1465.875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Gludgaa PD-A d14-9",
+            "coords": {
+                "x": -241.1875,
+                "y": 264.21875,
+                "z": -3640.90625
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Rosette Sector JH-V c2-11",
+            "coords": {
+                "x": 2355.375,
+                "y": -170.5,
+                "z": -4740.84375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Monkey Head Sector MT-G a11-0",
+            "coords": {
+                "x": 1133.3125,
+                "y": 37.53125,
+                "z": -6283.375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Cyoidai XF-C c14-0",
+            "coords": {
+                "x": 652.34375,
+                "y": -735.71875,
+                "z": -6852.75
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Crab Sector DL-Y d9",
+            "coords": {
+                "x": 559.625,
+                "y": -708.0625,
+                "z": -6947.5625
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Dryaa Phoe WV-C d0",
+            "coords": {
+                "x": -4.15625,
+                "y": -62.84375,
+                "z": -9993.875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Spliech UE-Y c14-0",
+            "coords": {
+                "x": 417.09375,
+                "y": 93.4375,
+                "z": -13189.28125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Aidohs JI-A d14-0",
+            "coords": {
+                "x": 1993.15625,
+                "y": 341.625,
+                "z": -13871.375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Wimly LN-B d0",
+            "coords": {
+                "x": 15380.0625,
+                "y": 615.96875,
+                "z": -12581.8125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Eol Hypa GE-E d13-2",
+            "coords": {
+                "x": 18396.0625,
+                "y": -58.4375,
+                "z": -12698.6875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Jongoae OX-L d7-0",
+            "coords": {
+                "x": 24939.59375,
+                "y": 14.09375,
+                "z": -9350.375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Hypau Aec IO-Z d13-0",
+            "coords": {
+                "x": 26874.21875,
+                "y": -18.6875,
+                "z": -7473.59375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Angosk OM-W d1-0",
+            "coords": {
+                "x": 22183.28125,
+                "y": -24.65625,
+                "z": -13696.59375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Eowyg Aewsy AL-P e5-0",
+            "coords": {
+                "x": 15725.78125,
+                "y": -17.3125,
+                "z": -12811.3125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Lyed KX-A c27-0",
+            "coords": {
+                "x": 11170.34375,
+                "y": 6.03125,
+                "z": -16520.875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Lyed YJ-I d9-0",
+            "coords": {
+                "x": 11007.46875,
+                "y": 44.84375,
+                "z": -16899.75
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Hyueths HS-H d11-5",
+            "coords": {
+                "x": -93.9375,
+                "y": -55.84375,
+                "z": -12836.96875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Gongae QW-L c24-0",
+            "coords": {
+                "x": -383.0625,
+                "y": -101.53125,
+                "z": -8980
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "NGC 1931 Sector PD-S b4-0",
+            "coords": {
+                "x": -743.84375,
+                "y": 37.4375,
+                "z": -6959.15625
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Schee Hypa KN-S e4-0",
+            "coords": {
+                "x": -7097.59375,
+                "y": -61.96875,
+                "z": -7850.90625
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Hypoae Aescs AA-A h0",
+            "coords": {
+                "x": -7071.8125,
+                "y": 1078.09375,
+                "z": -7847.84375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Phrio Hypue AA-A h0",
+            "coords": {
+                "x": -6130.46875,
+                "y": -95.875,
+                "z": -7185.78125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Eafots LZ-H b10-0",
+            "coords": {
+                "x": -5800.84375,
+                "y": 115.59375,
+                "z": -5961.1875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Heart Sector IR-V b2-0",
+            "coords": {
+                "x": -5303.78125,
+                "y": 130.34375,
+                "z": -5305.40625
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Bubble Sector LX-T b3-1",
+            "coords": {
+                "x": -6568.375,
+                "y": 24.6875,
+                "z": -2687.28125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Phi Cassiopeiae",
+            "coords": {
+                "x": -5317.84375,
+                "y": -513.90625,
+                "z": -3964.71875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "2MASS J02351897+6131236",
+            "coords": {
+                "x": -4192.71875,
+                "y": 114.5,
+                "z": -4190.625
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Phroea Phoe RD-S e4-12",
+            "coords": {
+                "x": -3947.21875,
+                "y": -473.6875,
+                "z": -3968.21875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "GCRV 2334",
+            "coords": {
+                "x": -2071.59375,
+                "y": 413.75,
+                "z": -2915.03125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "NGC 40 star",
+            "coords": {
+                "x": -2985.96875,
+                "y": 601.75,
+                "z": -1723.96875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "NGC 7822 Sector BQ-Y d12",
+            "coords": {
+                "x": -2454.1875,
+                "y": 299.0625,
+                "z": -1326.0625
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "GCRV 950",
+            "coords": {
+                "x": -1560.71875,
+                "y": -382.71875,
+                "z": -1351.9375
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "California Sector LX-T b3-0",
+            "coords": {
+                "x": -337.90625,
+                "y": -211.9375,
+                "z": -927.03125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "T Tauri",
+            "coords": {
+                "x": -32.96875,
+                "y": -206.40625,
+                "z": -557.3125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "Hez Ur",
+            "coords": {
+                "x": 149.96875,
+                "y": 23.65625,
+                "z": -85.03125
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "HR 5906",
+            "coords": {
+                "x": 81.65625,
+                "y": 154.53125,
+                "z": 382.21875
+            },
+            "cat": [
+                "SVN"
+            ]
+        },
+        {
+            "name": "HIP 69445",
+            "coords": {
+                "x": 502.59375,
+                "y": -50.03125,
+                "z": 446.09375
+            },
+            "cat": [
+                "SVN"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "title": "Spedizione Veso il Niente",
+            "points": [
+                {
+                    "s": "Wong Sher",
+                    "label": "La casa della Flotta"
+                },
+                {
+                    "s": "Synuefe JB-G b58-6",
+                    "label": "Camp C-NO4 (abandoned exploration camp) Un misterioso insediamento abbandonato"
+                },
+                {
+                    "s": "Blu Thua WI-B d15",
+                    "label": "Nimbostratus Waterworld orbitante vicinissimo a un satellite landabile"
+                },
+                {
+                    "s": "Praea Euq KS-J d9-14",
+                    "label": "Leda 2 earthlike che orbitano uno con l'altro"
+                },
+                {
+                    "s": "HIP 47126",
+                    "label": "Twin eaters 2 neutron che orbitano velocissime attorno a stelle di tipo O e A"
+                },
+                {
+                    "s": "Synuefe TO-O b52-3",
+                    "label": "Eye of Ice Un bellissimo pianeta con anelli separati"
+                },
+                {
+                    "s": "Wregoe QD-K d8-144",
+                    "label": "Red Cyclotron Un bellissimo pianeta orbitante a una L dwarf"
+                },
+                {
+                    "s": "Running Man Sector FW-W d1-8",
+                    "label": "Runner's Gorge Canyon fumarole polonio in paesaggio con nebula"
+                },
+                {
+                    "s": "HD 53041",
+                    "label": "HD 53041 2 black hole in densa atmosfera rossa"
+                },
+                {
+                    "s": "VY Canis Majoris",
+                    "label": "VY Canis Majoris La Stella pi˘ grande nella Galassia di ED"
+                },
+                {
+                    "s": "HD 49368",
+                    "label": "Hades Edge Pianeta orbitante vicino a una stella S morente. Danger"
+                },
+                {
+                    "s": "HD 43193",
+                    "label": "Oochorrs Lighthouse Una binaria neutron ed un black hole!"
+                },
+                {
+                    "s": "Gludgaa PD-A d14-9",
+                    "label": "Close Shave Pianeta a 250km dagli anelli del gassoso"
+                },
+                {
+                    "s": "Rosette Sector JH-V c2-11",
+                    "label": "Aquapark Geysers Il pianeta ha un parco giochi acquatico"
+                },
+                {
+                    "s": "Monkey Head Sector MT-G a11-0",
+                    "label": "Monkey Head Nebula Nebulosa rossa e blu da vedere"
+                },
+                {
+                    "s": "Cyoidai XF-C c14-0",
+                    "label": "The Blue Diamond Un incredibile pianeta orbitante a soli 24mila km da waterworld"
+                },
+                {
+                    "s": "Crab Sector DL-Y d9",
+                    "label": "Station X Base dentro asteroide"
+                },
+                {
+                    "s": "Dryaa Phoe WV-C d0",
+                    "label": "Serebrov Beacon Sistema raggiungibile con fsd dove c'Ë un beacon abbandonato"
+                },
+                {
+                    "s": "Spliech UE-Y c14-0",
+                    "label": "Celeri Transitu Pianeta con orbita incredibile"
+                },
+                {
+                    "s": "Aidohs JI-A d14-0",
+                    "label": "The Aidohs Platforms Pianeta bellissimo da vedere, canyon montagne altissime"
+                },
+                {
+                    "s": "Wimly LN-B d0",
+                    "label": "Ice on fire Ammonia con anelli molto bello"
+                },
+                {
+                    "s": "Eol Hypa GE-E d13-2",
+                    "label": "Australis Ferris Wheel Il pianeta orbita ad anelli vicinissimi e velocissimi"
+                },
+                {
+                    "s": "Hypau Aec IO-Z d13-0",
+                    "label": "Arms End Uno dei sistemi più difficili da raggiungere della Galassia"
+                },
+                {
+                    "s": "Jongoae OX-L d7-0",
+                    "label": "Lone Runner Pianeta che orbita velocissimo. Bello da vedere passare"
+                },
+                {
+                    "s": "Angosk OM-W d1-0",
+                    "label": "Sepositus Beacon Posto più lontano a sud di Sagittarius A"
+                },
+                {
+                    "s": "Eowyg Aewsy AL-P e5-0",
+                    "label": "Red versus Blue Stella blu e arancio vicinissime. Contrasto di luci da favola"
+                },
+                {
+                    "s": "Lyed KX-A c27-0",
+                    "label": "Shackleton's Star Uno dei punti più a sud della galassia"
+                },
+                {
+                    "s": "Lyed YJ-I d9-0",
+                    "label": "Amundsen's Star Il punto pi˘ a sud della Galassia"
+                },
+                {
+                    "s": "Hyueths HS-H d11-5",
+                    "label": "The Twins' Garden Sistema bello con earthlike"
+                },
+                {
+                    "s": "Gongae QW-L c24-0",
+                    "label": "Dreamer Blush Un magnifico gigante gassoso blu viola"
+                },
+                {
+                    "s": "NGC 1931 Sector PD-S b4-0",
+                    "label": "NGC 1931 Nebula Nebulosa vari colori"
+                },
+                {
+                    "s": "Schee Hypa KN-S e4-0",
+                    "label": "Maia's Jewell Bellissima protostar da vedere perchÈ velocissima"
+                },
+                {
+                    "s": "Hypoae Aescs AA-A h0",
+                    "label": "Lumina Caelum 2 wolf-rayet da ammirare"
+                },
+                {
+                    "s": "Phrio Hypue AA-A h0",
+                    "label": "Three Angels of Death 3 black hole di cui 2 con orbite di 0.1d"
+                },
+                {
+                    "s": "Eafots LZ-H b10-0",
+                    "label": "Formidine Rift Abandoned Settlements, Settlement abbandonati in vari sistemi limitrofi"
+                },
+                {
+                    "s": "Heart Sector IR-V b2-0",
+                    "label": "Farsight Expedition Base Base dentro asteroide"
+                },
+                {
+                    "s": "Bubble Sector LX-T b3-1",
+                    "label": "The Dark Fortress & Fumarole in a Bubble Una fortezza naturale e una fumarola bellisssima"
+                },
+                {
+                    "s": "Phi Cassiopeiae",
+                    "label": "Phi Cassiopeiae Supergigante gialla da ammirare da pianeta landabile"
+                },
+                {
+                    "s": "2MASS J02351897+6131236",
+                    "label": "Fireflies Sistema particolare"
+                },
+                {
+                    "s": "Phroea Phoe RD-S e4-12",
+                    "label": "Moore-Nauenberg Sistema pericoloso con stelle binarie e ternarie"
+                },
+                {
+                    "s": "GCRV 2334",
+                    "label": "NGC 1501 Nebula conosciuta come Oyster Nebula"
+                },
+                {
+                    "s": "NGC 40 star",
+                    "label": "Bow-Tie Nebula Nebulosa nata da stella morente. Bella atmosfera"
+                },
+                {
+                    "s": "NGC 7822 Sector BQ-Y d12",
+                    "label": "Gorgon Research Facility Base dentro asteroide"
+                },
+                {
+                    "s": "GCRV 950",
+                    "label": "Little Dumbbell Nebula Nebulosa planetaria tinte blu viola"
+                },
+                {
+                    "s": "California Sector LX-T b3-0",
+                    "label": "Barnacle Sites - California Nebula Strutture aliena da esplorare"
+                },
+                {
+                    "s": "T Tauri",
+                    "label": "Hind Mine Base dentro asteroide"
+                },
+                {
+                    "s": "Hez Ur",
+                    "label": "Pleione (generation ship) Megaship da studiare"
+                },
+                {
+                    "s": "HR 5906",
+                    "label": "Stranded Snake (anaconda settlement) Anaconda abbandonata diventata un settlement"
+                },
+                {
+                    "s": "HIP 69445",
+                    "label": "The Blue Death Wolf rayet fantastica da vedere. Luce intensissima"
+                }
+            ]
         }
     ]
 }

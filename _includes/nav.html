@@ -25,7 +25,11 @@
             <a href="{{ site.baseurl }}{{ entry.url }}" class="trigger-drop">{{ entry.title }} ▼</a>
             <ul class="drop" style="list-style: none;">
                 {% for sublink in sublinks %}
+                {% if sublink.newtab %}
+                <li class="active"><a href="{{ site.baseurl }}{{ sublink.url }}" target="_blank" rel="noopener">{{ sublink.title }}</a></li>
+                {% else %}
                 <li class="active"><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                {% endif %}
                 {% endfor %}
             </ul>
         </li>

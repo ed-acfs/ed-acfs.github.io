@@ -8,6 +8,7 @@
       url: /about/
     - title: Mappa 3D
       url: /map/
+      newtab: true
 
 - title: Blog
   url: /blog/

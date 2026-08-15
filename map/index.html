@@ -4,7 +4,7 @@ title: Alto Comando Flotta Stellare &#124; Mappa 3D
 description: Mappa 3D interattiva dei Terrori della Flotta
 permalink: /map/
 image: /images/ed3dmap.png
-last_modified_at: 2025-01-22
+last_modified_at: 2026-08-16
 ---
 <!DOCTYPE html>
 <html>
@@ -50,12 +50,11 @@ last_modified_at: 2025-01-22
 <meta name="theme-color" content="{{ site.color }}">
 
 <!-- CSS & Fonts Preload -->
-<link rel="preload" href="{{ "/assets/css/eurocaps.css" | prepend:site.baseurl }}" as="eurocaps" />
+<link rel="preload" href="{{ "/assets/css/eurocaps.css" | prepend:site.baseurl }}" as="style" />
+<link rel="stylesheet" href="{{ "/assets/css/eurocaps.css" | prepend:site.baseurl }}" />
 <link rel="preload" href="/assets/fonts/EuroCaps.woff2" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/fontawesome-webfont.woff2" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/forkawesome-webfont.woff2" type="font/woff2" crossorigin>
-
-<link href="http://fonts.googleapis.com/css?family=Orbitron:400" rel="stylesheet" type="text/css" />
 
 <!-- CSS -->
 <noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
@@ -78,10 +77,32 @@ last_modified_at: 2025-01-22
     width: 100%;
     height: 100%;
   }
+
+  #back-to-site {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1000;
+    display: inline-block;
+    padding: 6px 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.85rem;
+    color: rgba(255,255,255,0.8);
+    background: rgba(10,10,10,0.8);
+    border: solid 1px rgba(255,255,255,0.2);
+    border-radius: 4px;
+    text-decoration: none;
+    box-shadow: 1px 1px 3px #000;
+  }
+  #back-to-site:hover {
+    color: #fff;
+    border-color: #FF9D00;
+  }
   </style>
 </head>
 <body>
 
+  <a id="back-to-site" href="{{ site.baseurl }}/">&larr; Torna al sito</a>
   <div id="edmap"></div>
   <!-- jQuery -->
   <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
@@ -90,7 +111,7 @@ last_modified_at: 2025-01-22
 
   <!-- Launch ED3Dmap -->
   <link href="css/styles.css" rel="stylesheet" type="text/css" />
-  <script src="js/ed3dmap.min.js?v=5"></script>
+  <script src="js/ed3dmap.js?v=6"></script>
   <script type="text/javascript">
 
     Ed3d.init({
@@ -98,7 +119,7 @@ last_modified_at: 2025-01-22
         jsonPath    : "./json_files/sistemi.json",
         withHudPanel : true,
         withOptionsPanel : true,
-        hudMultipleSelect : false,
+        hudMultipleSelect : true,
         effectScaleSystem : [10,1000],
         startAnim: true,
         showGalaxyInfos: true,

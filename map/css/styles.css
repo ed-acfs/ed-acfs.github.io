@@ -11,7 +11,7 @@ body {
 /* -------------------------------------------------------------------------- */
 
 #ed3dmap {
-  font-family: Helvetica, Sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   position: relative;
   width: 100%;
   height: 100%;
@@ -36,12 +36,10 @@ body {
   left: 0;
   width: 250px;
   height: 100%;
-  background: red;
   padding: 15px;
   color: #fff;
   z-index: 999;
 
-  /*border: solid 3px rgba(255, 140, 13, 0.8);*/
   background: rgba(3, 3, 6,0.8);
   border-right: solid 1px #111;
 
@@ -68,9 +66,11 @@ body {
   clear: both;
 }
 #hud h2 {
+  font-family: 'Euro Caps', Helvetica, Arial, sans-serif;
+  letter-spacing: 0.5px;
   font-weight: bold;
   color: #eee;
-  font-size: 1rem;
+  font-size: 1.1rem;
   border-bottom: 1px solid #eee;
   margin: 0 0 5px;
   text-shadow: 1px 1px 2px rgb(0,0,0);
@@ -88,6 +88,22 @@ body {
   width: 100%;
   background: rgba(0,0,0,0.5);
   color: #fff;
+}
+#hud input[type=text]:focus {
+  outline: none;
+  border-color: #FF9D00;
+}
+
+#search {
+  position: relative;
+}
+#search-feedback {
+  min-height: 1em;
+  font-size: 0.8rem;
+  color: #999;
+}
+#search-feedback.not-found {
+  color: #ff6060;
 }
 #hud input[type=range] {
   margin: 3px 0;
@@ -145,7 +161,7 @@ body {
 }
 .map_filter:hover,
 .map_link:hover {
-  color: #FF7207;
+  color: #FF9D00;
 }
 
 .map_filter.disabled .check {

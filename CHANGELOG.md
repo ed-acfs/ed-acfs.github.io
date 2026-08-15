@@ -2,6 +2,65 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.7.0] - 2026-08-16 — Mappa 3D risincronizzata, ricerca sistemi e via di uscita
+
+### Added
+
+- **Ricerca sistemi nell'HUD della mappa 3D** (`map/js/components/hud.class.js`): campo di testo
+  che centra la camera sul sistema cercato premendo Invio (match esatto, poi per sottostringa),
+  forzando la visibilità del punto anche se un filtro categoria l'aveva nascosto; se non trova
+  nulla mostra "Nessun sistema trovato". Il campo esisteva come stub HTML commentato da circa
+  quattro anni, mai attivato — riattivato e collegato alla logica di selezione già usata dai click
+  diretti sui sistemi.
+- **Pulsante "← Torna al sito"** in basso a destra su `/map/`: prima la pagina (senza header/nav
+  del sito, `layout: null`) non offriva alcuna via di uscita visibile, solo il tasto "indietro" del
+  browser. La voce "Mappa 3D" nel menu (`_data/navigation.yml`, `_includes/nav.html`) ora si apre
+  anche in una nuova scheda (`target="_blank" rel="noopener"`, tramite un flag `newtab: true`
+  generico riusabile per altri link), così chi arriva dal sito non perde la pagina di partenza.
+
+### Changed
+
+- **`map/json_files/sistemi.json` risincronizzato da zero con l'API pubblica di Spansh** (stessa
+  fonte già usata da `spansh_sync.py` per `about/index.md`, dato che EDSM resta non disponibile):
+  - Da ~95 a 373 sistemi con presenza di Flotta Stellare (tutti quelli già tracciati in
+    `about/index.md`), con coordinate reali.
+  - Stato Controllato/Non Controllato ricalcolato da `controlling_minor_faction`; corretti 6
+    sistemi rimasti disallineati nella versione precedente (BD+14 831, G 98-44, HIP 28774, LFT 392,
+    LHS 1743 → Controllato; Toog → Non Controllato).
+  - Categorie Material Trader (Raw/Manufactured/Encoded) e Technology Broker (Human/Guardian)
+    popolate per la prima volta in modo sistematico, leggendo i campi dedicati
+    `material_trader`/`technology_broker` dell'endpoint `stations/search` di Spansh (l'endpoint
+    sistemi generico non distingue i sottotipi). Criterio "qualsiasi stazione nel sistema",
+    validato al 100% contro le 30 categorizzazioni già presenti a mano nel file prima della
+    risincronizzazione.
+  - Rimossa la categoria "SDE" (Star Divinity Expedition): stub mai completato, zero sistemi
+    taggati e rotta con placeholder "Checkpoint 4/5/6" mai sostituiti, eredità della demo della
+    libreria originale.
+  - Confermato (non un bug): `BD+08 1303` e `Iansan` restano entrambi in mappa con le stesse
+    coordinate — sono lo stesso sistema fisico, rinominato dalla Flotta dopo la colonizzazione,
+    tenuto volutamente doppio.
+- **Font "Euro Caps" applicato ai titoli dell'HUD** della mappa (`map/css/styles.css`), coerente
+  con `family-heading` usato nel resto del sito — prima il preload del font era rotto (attributo
+  `as="eurocaps"` non valido, mai realmente applicato) e i titoli usavano Helvetica generico. Colore
+  hover dei filtri cambiato dall'arancio generico `#FF7207` all'arancio ufficiale ACFS `#FF9D00`
+  (già usato per il colore dei sistemi sulla mappa).
+- `map/index.html` carica ora i sorgenti JS non minificati (`js/ed3dmap.js`, che a sua volta carica
+  dinamicamente i singoli `js/components/*.class.js`) invece del bundle precostruito
+  `js/ed3dmap.min.js`. Quel bundle risaliva a diversi anni fa e il codice stesso lo bypassa
+  completamente quando presente (`if(typeof isMinified !== 'undefined') return
+  Ed3d.launchMap();`) senza più ricaricare i componenti: qualunque modifica ai singoli file
+  `.class.js`, passata o futura, non arrivava mai in produzione. Non esiste più un build tool
+  (Grunt) nel repository per rigenerare il bundle, quindi si è scelto di servire i sorgenti diretti.
+
+### Fixed
+
+- `Action.addCursorOnSelect` (`map/js/components/action.class.js`) scriveva
+  `cursor.hover.scale.set(...)` invece di `cursor.selection.scale.set(...)` — copia-incolla da
+  `addCursorOnHover`. Il bug era mascherato da sempre perché un click reale è sempre preceduto da
+  un movimento del mouse (che inizializza `cursor.hover`); selezionare un sistema tramite la nuova
+  ricerca da tastiera lo bypassa e mandava in eccezione la creazione del cursore di selezione.
+  Scoperto testando la ricerca in Chromium headless (nessun hover simulato).
+
 ## [1.6.3] - 2026-08-15 — Service worker meno invasivo
 
 ### Fixed
