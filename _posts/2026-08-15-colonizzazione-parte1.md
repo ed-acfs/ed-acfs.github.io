@@ -13,7 +13,7 @@ Ciao a tutti, sono il CMDR WiitifulSky. Con l'arrivo di **Trailblazers** e della
 
 Questa guida sarà divisa in più capitoli, sul modello di quella sugli [Ingegneri](/search/tag/ingegneri/): qui parliamo delle basi, perché conviene farlo e come si reclama il primo sistema. Nei prossimi capitoli entreremo nel dettaglio di come pianificare la costruzione, come funziona l'economia dei sistemi, e come organizzarci per farlo insieme come Flotta.
 
-<span class="image fit"><img src="/images/posts/colonizzazione/trailblazers-keyart.jpg" alt=""></span>
+<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
 ## Cos'è la Colonizzazione
 
@@ -47,16 +47,16 @@ Questa è la parte che più ci interessa come squadrone. Quando reclami un siste
 - **13%** — la fazione **allineata al tuo squadrone**
 - **6%** — una fazione anarchica, presa dal sistema anarchico più vicino
 
-In altre parole: ogni comandante della Flotta che colonizza un nuovo sistema porta automaticamente la nostra minor faction in quel sistema, come una delle fazioni presenti fin dal primo giorno. È un modo diretto per espandere la nostra influenza ben oltre i confini della Bolla, e vale la pena pensarci **prima** di scegliere da quale sistema partire per il reclamo: cambiare le fazioni controllanti dopo, via BGS, richiede settimane di guerre di influenza.
+In altre parole: ogni comandante della Flotta che colonizza un nuovo sistema porta automaticamente la nostra minor faction in quel sistema, come una delle fazioni presenti fin dal primo giorno. È un modo diretto per espandere la nostra influenza ben oltre i confini della Bolla, e vale la pena pensarci **prima** di scegliere da quale sistema partire per la rivendicazione: cambiare le fazioni controllanti dopo, via BGS, richiede settimane di guerre di influenza.
 
 <div class="box">
-<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Consiglio:</b>&nbsp;Se possibile, avvia sempre il reclamo da un sistema dove la fazione controllante è una che ti sta bene — evita di partire da sistemi in mano ad Anarchia se non è quello che vuoi nel sistema nuovo.</div>
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Consiglio:</b>&nbsp;Se possibile, avvia sempre la rivendicazione da un sistema dove la fazione controllante è una che ti sta bene — evita di partire da sistemi in mano ad Anarchia se non è quello che vuoi nel sistema nuovo.</div>
 
 ## Cosa serve per iniziare
 
 I requisiti di partenza sono più bassi di quanto ci si aspetti:
 
-- **25 milioni di crediti**, il costo del reclamo (non rimborsabile se il reclamo fallisce o viene annullato)
+- **25 milioni di crediti**, il costo della rivendicazione (non rimborsabile se la rivendicazione fallisce o viene annullata)
 - Una nave da carico decente. Il minimo sindacale è una **Type-8** o **Type-9**; salendo di livello, un'**Imperial Cutter** o una **Panther Clipper Mk2** rendono tutto molto più rapido
 - Tempo libero. Tanto — la colonizzazione è un gioco di trasporti su larga scala
 
@@ -64,15 +64,15 @@ Costruire qualcosa di più di un piccolo avamposto personale richiede risorse da
 
 ## Come si reclama un sistema
 
-Il processo di reclamo si svolge in quattro passaggi.
+Il processo di rivendicazione si svolge in quattro passaggi.
 
 ### 1. Trovare un Contatto di Colonizzazione
 
 Il contatto per la colonizzazione si trova nei sistemi della Bolla (attorno a Sol, Achenar, Allioth) oppure nei sistemi già colonizzati da altri giocatori dove il porto primario è stato completato. La colonizzazione si espande sempre "a partire" dalla Bolla verso l'esterno: non è possibile colonizzare direttamente da un sistema abitato ma non colonizzato, come Colonia.
 
-### 2. Fare il reclamo e scegliere il porto primario
+### 2. Rivendicare il sistema e scegliere il porto primario
 
-Il reclamo costa **25 milioni di crediti** una tantum, e puoi scegliere qualsiasi sistema idoneo entro **15 anni luce** dal contatto. Una volta selezionato il sistema, dovrai scegliere il tipo di porto primario da costruire.
+La rivendicazione costa **25 milioni di crediti** una tantum, e puoi scegliere qualsiasi sistema idoneo entro **15 anni luce** dal contatto. Una volta selezionato il sistema, dovrai scegliere il tipo di porto primario da costruire.
 
 <div class="box">
 <i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Importante:</b>&nbsp;Il porto primario è l'UNICA struttura che non potrai mai cambiare una volta costruita (puoi solo annullarla o abbandonarla prima che sia completata). Sceglilo con attenzione — nel prossimo capitolo vedremo come.</div>
@@ -83,14 +83,14 @@ Una volta confermata la scelta, hai **24 ore** per raggiungere il sistema e piaz
 
 ### 4. Costruire il porto primario
 
-Piazzato il Beacon, arriverà nel sistema una gigantesca **Megaship di Colonizzazione**, che funge da punto di consegna per i materiali necessari a costruire il porto. Hai **4 settimane** per completare la consegna, dopodiché il reclamo scade. Una volta completata la costruzione, il porto compare vicino alla megaship, e tu diventi ufficialmente **System Architect** del sistema — senza più scadenze sul collo per le costruzioni successive.
+Piazzato il Beacon, arriverà nel sistema una gigantesca **Megaship di Colonizzazione**, che funge da punto di consegna per i materiali necessari a costruire il porto. Hai **4 settimane** per completare la consegna, dopodiché la rivendicazione scade. Una volta completata la costruzione, il porto compare vicino alla megaship, e tu diventi ufficialmente **System Architect** del sistema — senza più scadenze sul collo per le costruzioni successive.
 
 <div class="box">
-<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Consiglio:</b>&nbsp;Dopo il completamento del porto primario, hai 30 minuti di diritto esclusivo a fare nuovi reclami da quel sistema, seguiti da 23,5 ore in cui questo diritto si estende a tutto il tuo squadrone. Se giochi da solo, creare uno squadrone anche di un solo membro ti dà comunque l'intera giornata di protezione, invece di soli 30 minuti.</div>
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Consiglio:</b>&nbsp;Dopo il completamento del porto primario, hai 30 minuti di diritto esclusivo a fare nuove rivendicazioni da quel sistema, seguiti da 23,5 ore in cui questo diritto si estende a tutto il tuo squadrone. Se giochi da solo, creare uno squadrone anche di un solo membro ti dà comunque l'intera giornata di protezione, invece di soli 30 minuti.</div>
 
 ## E se il sistema che voglio è troppo lontano?
 
-Il raggio di reclamo da un singolo contatto è di soli 15 anni luce. Per raggiungere un sistema più distante, bisogna costruire una catena di piccoli avamposti "ponte" (**bridging**): reclami un sistema, costruisci un piccolo avamposto, e da lì reclami il successivo, ripetendo la sequenza fino a destinazione. Alcune community hanno costruito ponti lunghi centinaia di sistemi in questo modo. Per pianificare un bridge è utile il [Colonization Plotter di Spansh](https://spansh.co.uk/){:target="_blank"}.
+Il raggio di rivendicazione da un singolo contatto è di soli 15 anni luce. Per raggiungere un sistema più distante, bisogna costruire una catena di piccoli avamposti "ponte" (**bridging**): reclami un sistema, costruisci un piccolo avamposto, e da lì reclami il successivo, ripetendo la sequenza fino a destinazione. Alcune community hanno costruito ponti lunghi centinaia di sistemi in questo modo. Per pianificare un bridge è utile il [Colonization Plotter di Spansh](https://spansh.co.uk/){:target="_blank"}.
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
@@ -98,4 +98,4 @@ Nel prossimo capitolo vedremo come pianificare davvero un sistema: tier delle st
 
 FONTI: [System Colonisation Guide](https://www.elitedangerous.com/news/system-colonisation-guide), [Elite-Dangerous Fandom](https://elite-dangerous.fandom.com/wiki/System_Colonisation), [Colonization Mega Guide](https://docs.google.com/document/d/1toXyDQglwVACFKx8umXhP8QcMSAUYPcP6k3STIV2-hE/edit) di CMDR Mechan
 
-#### Prosegui la lettura: Colonizzazione: Capitolo 2 - Pianificare il sistema (in arrivo)
+#### Prosegui la lettura: [Colonizzazione: Capitolo 2 - Pianificare il sistema](/blog/colonizzazione-parte2/)

@@ -18,9 +18,9 @@ Con Trailblazers, espandere la Bolla non è più solo una questione di narrativa
 
 ## Come iniziare una colonizzazione
 
-Il processo parte da un **Colonisation Contact**, presente nei sistemi già popolati: è lui a permettere di avanzare la richiesta di reclamo su un sistema stellare non popolato. La scelta del sistema è cruciale, e la Galaxy Map e la System Map aiutano a valutare le opzioni: conviene un sistema comodo per le proprie spedizioni, o uno con una buona scelta di pianeti su cui costruire un'economia?
+Il processo parte da un **Colonisation Contact**, presente nei sistemi già popolati: è lui a permettere di avanzare la richiesta di rivendicazione su un sistema stellare non popolato. La scelta del sistema è cruciale, e la Galaxy Map e la System Map aiutano a valutare le opzioni: conviene un sistema comodo per le proprie spedizioni, o uno con una buona scelta di pianeti su cui costruire un'economia?
 
-Avviare il reclamo permette anche di scegliere il porto primario del sistema: un semplice avamposto per fare rifornimento prima di ripartire, o una grande stazione Coriolis destinata a diventare il cuore di un'economia importante?
+Avviare la rivendicazione permette anche di scegliere il porto primario del sistema: un semplice avamposto per fare rifornimento prima di ripartire, o una grande stazione Coriolis destinata a diventare il cuore di un'economia importante?
 
 ### Il Beacon di Colonizzazione
 
@@ -50,7 +50,7 @@ I sistemi colonizzati generano anche un ritorno economico diretto: un'entrata re
 Trailblazers introduce anche le varianti **Ghiaccio** e **Metallica** delle stazioni asteroidi, costruibili nei sistemi con anelli planetari o ammassi di asteroidi: la stazione assume automaticamente il tipo corrispondente al campo di asteroidi in cui viene posizionata.
 
 <div class="box">
-<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Pro Tip:</b>&nbsp;Dopo aver piazzato il Colonisation Beacon hai solo 24 ore per completare il reclamo: pianifica in anticipo cosa costruire e con cosa rifornire la Colonisation Ship, prima di iniziare.</div>
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>Pro Tip:</b>&nbsp;Dopo aver piazzato il Colonisation Beacon hai solo 24 ore per completare la rivendicazione: pianifica in anticipo cosa costruire e con cosa rifornire la Colonisation Ship, prima di iniziare.</div>
 
 ## Ancora in beta
 
