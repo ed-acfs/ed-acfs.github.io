@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.7.1] - 2026-08-16 — Un solo script per sincronizzare tabella e mappa
+
+### Changed
+
+- `spansh_sync.py` ora aggiorna in un'unica esecuzione sia la tabella sistemi di `about/index.md`
+  sia `map/json_files/sistemi.json`, con un solo fetch da Spansh condiviso fra i due: prima erano
+  due fonti alimentate a mano in momenti diversi, con il rischio concreto di lasciarne una indietro
+  rispetto all'altra (è già successo con `sistemi.json`, sincronizzato per la prima volta solo
+  ieri). La logica di risincronizzazione della mappa (aggiunta sistemi, stato
+  Controllato/Non Controllato, categorie Material Trader/Technology Broker/Interstellar Factor),
+  scritta ieri in script temporanei di appoggio, è ora integrata in modo permanente in
+  `spansh_sync.py` come funzione `sync_map()`. Resta un comando manuale (`python spansh_sync.py`),
+  nessuno scheduling automatico è stato ancora deciso.
+- Aggiornati i dati sincronizzati da Spansh in `about/index.md` (popolazioni, in continua
+  variazione nel gioco).
+
 ## [1.7.0] - 2026-08-16 — Mappa 3D risincronizzata, ricerca sistemi e via di uscita
 
 ### Added

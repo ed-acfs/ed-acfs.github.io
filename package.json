@@ -1,6 +1,6 @@
 {
   "name": "ed-acfs-github-io",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "private": true,
   "dependencies": {
     "arborist": "^0.0.5",
