@@ -102,4 +102,4 @@ Nel prossimo capitolo parliamo di economia: come i porti "ereditano" un'economia
 
 FONTI: [System Colonisation Guide](https://www.elitedangerous.com/news/system-colonisation-guide), [Elite-Dangerous Fandom](https://elite-dangerous.fandom.com/wiki/System_Colonisation), [Colonization Mega Guide](https://docs.google.com/document/d/1toXyDQglwVACFKx8umXhP8QcMSAUYPcP6k3STIV2-hE/edit) di CMDR Mechan
 
-#### Prosegui la lettura: Colonizzazione: Capitolo 3 - Economia e link (in arrivo)
+#### Prosegui la lettura: [Colonizzazione: Capitolo 3 - Economia e link](/blog/colonizzazione-parte3/)
