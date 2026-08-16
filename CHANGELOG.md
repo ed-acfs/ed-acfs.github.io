@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.8.0] - 2026-08-16 — Una 404 a tema
+## [1.7.3] - 2026-08-16 — Una 404 a tema
 
 ### Added
 
