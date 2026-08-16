@@ -2,6 +2,12 @@
 <script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js"></script>
 <script>
   CookieConsent.run({
+    onConsent: function () {
+      if (CookieConsent.acceptedCategory('analytics')) loadAnalytics();
+    },
+    onChange: function () {
+      if (CookieConsent.acceptedCategory('analytics')) loadAnalytics();
+    },
     categories: {
       necessary: {
         enabled: true,
