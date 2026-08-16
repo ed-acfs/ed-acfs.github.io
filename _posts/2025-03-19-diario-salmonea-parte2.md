@@ -4,7 +4,7 @@ title:  "Diario di Salmonea: Parte 2 - Sette Giorni"
 date:   2025-03-19
 excerpt: "Una settimana intera a osservare gli stessi Thargoid marciare intorno allo stesso relitto. Nessun combattimento, nessuna fuga — solo l'attesa, ed è quella a logorare di più."
 image: "/images/posts/storia-dei-thargoids/thargoids1.jpg"
-tags: racconti thargoids civitas-dei xenobiologia
+tags: racconti thargoids xenobiologia
 author: salmonea
 last_modified_at: 2025-03-19
 sticky: no

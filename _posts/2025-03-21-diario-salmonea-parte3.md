@@ -4,7 +4,7 @@ title:  "Diario di Salmonea: Parte 3 - Il Segnale"
 date:   2025-03-21
 excerpt: "L'ultimo giorno di osservazione i Thargoid fanno qualcosa che non avevano mai fatto prima. E il cliente, una volta pagata la missione, lascia una sola frase che pesa più di ogni risposta."
 image: "/images/posts/societa-thargoids/thargoids.jpg"
-tags: racconti thargoids civitas-dei xenobiologia
+tags: racconti thargoids xenobiologia
 author: salmonea
 last_modified_at: 2025-03-21
 sticky: no

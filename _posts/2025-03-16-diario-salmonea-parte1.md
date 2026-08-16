@@ -4,7 +4,7 @@ title:  "Diario di Salmonea: Parte 1 - Il Relitto"
 date:   2025-03-16
 excerpt: "Un racconto ospite: la CMDR Salmonea, Chief of Staff dei Civitas Dei, si infiltra in un sistema sotto controllo Thargoid per osservare da vicino qualcosa che nessun opuscolo di AEGIS potrebbe davvero preparare a vedere."
 image: "/images/posts/societa-thargoids/Basilisk.jpg"
-tags: racconti thargoids civitas-dei xenobiologia
+tags: racconti thargoids xenobiologia
 author: salmonea
 last_modified_at: 2025-03-16
 sticky: no
