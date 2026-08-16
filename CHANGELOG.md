@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.7.2] - 2026-08-16 — Google Analytics non partiva mai dopo la migrazione a GA4
+
+### Fixed
+
+- Lo script GA4 in `_includes/tracking.html` restava bloccato con `type="text/plain"` in attesa
+  che `cookieconsent.html` lo attivasse al consenso dell'utente, ma la libreria
+  `vanilla-cookieconsent` 3.1.0 non implementa quel meccanismo: il tag non è mai partito, a
+  prescindere dal consenso dato. Individuato tramite Tag Assistant (nessun tag trovato anche dopo
+  aver accettato i cookie) e confermato ispezionando il sorgente della libreria, che non contiene
+  alcun riferimento a `text/plain`. Ora `tracking.html` definisce `loadAnalytics()`, chiamata solo
+  dopo consenso esplicito tramite gli hook reali della libreria (`onConsent`/`onChange` in
+  `cookieconsent.html`), mantenendo separata la logica di consenso da quella del tool di tracking.
+
 ## [1.7.1] - 2026-08-16 — Un solo script per sincronizzare tabella e mappa
 
 ### Changed
