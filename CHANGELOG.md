@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.8.0] - 2026-08-16 — Una 404 a tema
+
+### Added
+
+- **Pagina 404 a tema** (`404.html`), standalone (nessun nav/header/footer del sito, giusto lo
+  stile via `main.css`): al posto del generico "codice errore" mostra a caso uno dei quattro
+  errori di connessione più noti fra i piloti di Elite Dangerous — Orange Sidewinder, Mauve Adder,
+  Yellow Adder, Blue Cobra — colorato col colore che richiama il nome.
+
 ## [1.7.2] - 2026-08-16 — Google Analytics non partiva mai dopo la migrazione a GA4
 
 ### Fixed

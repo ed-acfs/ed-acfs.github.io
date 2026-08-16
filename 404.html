@@ -1,0 +1,82 @@
+---
+permalink: /404.html
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<title>404 - Pagina non trovata | {{ site.title }}</title>
+	<meta name="robots" content="noindex,follow" />
+	<meta name="description" content="La pagina cercata non esiste o è stata spostata." />
+
+	<link rel="shortcut icon" type="image/png" href="{{ site.favicon_path }}/favicon-32x32.png" />
+	<link rel="stylesheet" href="/assets/css/main.css" />
+	<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+
+	<style>
+		.error-404 {
+			min-height: 100vh;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			text-align: center;
+			padding: 2rem;
+		}
+
+		.error-404 .logo-link {
+			border-bottom: 0;
+			margin-bottom: 1rem;
+		}
+
+		.error-404 .error-code {
+			font-size: 1.5rem;
+			letter-spacing: 0.2em;
+			color: #f07b05;
+			margin: 0;
+		}
+
+		.error-404 h1 {
+			font-size: 6rem;
+			color: #f07b05;
+			margin: 0;
+		}
+
+		.error-404 h2 {
+			margin: 0 0 1.5rem 0;
+		}
+
+		.error-404 p {
+			max-width: 30rem;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+
+	<div class="error-404">
+		<a href="/" class="logo-link"><img src="/images/logo_h_variant1.png" alt="{{ site.h1title }}" style="max-width: 220px;" /></a>
+		<p class="error-code" id="error-code">ORANGE SIDEWINDER</p>
+		<h1>404</h1>
+		<h2>Pagina non trovata</h2>
+		<p>La pagina che stai cercando non esiste o è stata spostata.</p>
+		<a href="/" class="button special">Torna alla Home</a>
+	</div>
+
+	<script>
+		var errorCodes = [
+			{ text: 'ORANGE SIDEWINDER', color: '#f07b05' },
+			{ text: 'MAUVE ADDER', color: '#c974c9' },
+			{ text: 'YELLOW ADDER', color: '#f5d90a' },
+			{ text: 'BLUE COBRA', color: '#4aa8ff' }
+		];
+		var pick = errorCodes[Math.floor(Math.random() * errorCodes.length)];
+		var el = document.getElementById('error-code');
+		el.textContent = pick.text;
+		el.style.color = pick.color;
+	</script>
+
+</body>
+</html>
