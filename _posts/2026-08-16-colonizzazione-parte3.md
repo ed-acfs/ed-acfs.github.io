@@ -90,4 +90,4 @@ Nell'ultimo capitolo passiamo dalla teoria alla pratica: quali navi usare per tr
 
 FONTI: [System Colonisation Guide](https://www.elitedangerous.com/news/system-colonisation-guide), [Elite-Dangerous Fandom](https://elite-dangerous.fandom.com/wiki/System_Colonisation), [Colonization Mega Guide](https://docs.google.com/document/d/1toXyDQglwVACFKx8umXhP8QcMSAUYPcP6k3STIV2-hE/edit) di CMDR Mechan
 
-#### Prosegui la lettura: Colonizzazione: Capitolo 4 - Costruire in pratica (in arrivo)
+#### Prosegui la lettura: [Colonizzazione: Capitolo 4 - Costruire in pratica](/blog/colonizzazione-parte4/)
