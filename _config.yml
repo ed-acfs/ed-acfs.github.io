@@ -131,6 +131,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jemoji
+  - jekyll-target-blank
 
 paginate: 8
 paginate_path: "/blog/page:num/"

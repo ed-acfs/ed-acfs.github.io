@@ -2,6 +2,57 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.8.0] - 2026-08-19 — Migrazione a GitHub Actions (preparata, non ancora attiva)
+
+Preparata, sul branch `explore/github-actions-jekyll4`, la migrazione dalla pipeline legacy di
+GitHub Pages ("Deploy from a branch", che ignora il `Gemfile` del repo e builda sempre con la gem
+`github-pages` pinnata dal team di GitHub) a un deploy tramite GitHub Actions, che builda con le
+gemme scelte da questo repo. Stesso schema già validato su skyflash.github.io e ipui2ipei.
+**La pubblicazione in produzione resta quella legacy finché non si cambia manualmente il source in
+Settings → Pages → Build and deployment**: questo aggiornamento da solo non cambia nulla sul sito
+live.
+
+### Migrazione build e nuovi workflow
+
+- `Gemfile`: `jekyll ~> 4.3` e `jekyll-sass-converter ~> 3.0` (Dart Sass) dichiarati direttamente,
+  non più lasciati risolvere implicitamente dalle gemme dei plugin; aggiunta `kramdown-parser-gfm`
+  (prima arrivava come dipendenza transitiva). In locale la build già usava Jekyll 4.4.1 da tempo
+  (il `Gemfile` non lo pinnava), quindi qui non c'è un salto di versione da verificare come per gli
+  altri due siti — solo la build in produzione, ancora su Jekyll 3.9.x via `github-pages`, resta
+  indietro finché non si completa la migrazione.
+- `Gemfile.lock`: generato solo su Windows (piattaforma `x64-mingw-ucrt`), mancava la piattaforma
+  `x86_64-linux` necessaria ai runner Ubuntu di GitHub Actions — stesso problema già risolto su
+  skyflash.github.io. Aggiunta con `bundle lock --add-platform x86_64-linux`.
+- Due nuovi workflow GitHub Actions:
+  - `.github/workflows/build-check.yml`: build + `html-proofer` (link interni, immagini) su ogni
+    push/pull request di ogni branch — solo verifica, nessuna pubblicazione.
+  - `.github/workflows/pages.yml`: build + deploy vero e proprio su GitHub Pages
+    (`actions/upload-pages-artifact`, `actions/deploy-pages`), attivo su push a `master` e
+    manualmente. Nessun trigger schedulato (a differenza di skyflash.github.io): questo sito non ha
+    post con data futura da pubblicare da soli.
+
+### Nuovi plugin
+
+- `jekyll-target-blank`: link esterni con `target="_blank" rel="noopener noreferrer"` automatico,
+  in tutto il sito — cosa che finora non veniva fatta in nessun modo.
+
+### Verifica
+
+- Confrontata riga per riga la build legacy (Gemfile precedente) con quella nuova: CSS compilato
+  byte-identico, nessun file mancante o in più, unica differenza reale gli attributi
+  `target="_blank"`/`rel="noopener"` aggiunti da `jekyll-target-blank`.
+- `html-proofer` non è eseguibile in locale su Windows (la gem `ethon`/`typhoeus` richiede
+  `libcurl.dll`, assente di serie) — la prima verifica reale sui link è avvenuta al primo push del
+  branch, su `build-check.yml` sul runner Ubuntu di Actions.
+
+### Bug scovato (e corretto) dal nuovo controllo
+
+- `_posts/2020-11-13-pianeta-morte.md`: due link del lightbox (righe 44 e 137) puntavano a
+  `/images/posts/pianet-morte/...` invece di `/images/posts/pianeta-morte/...` — refuso mai
+  notato perché il tag `<img>` della miniatura usava il percorso corretto, solo il link
+  "apri a piena risoluzione" era rotto. Tollerato in silenzio dalla pipeline legacy, segnalato
+  subito da `html-proofer` al primo run su CI. Corretto.
+
 ## [1.7.3] - 2026-08-16 — Una 404 a tema
 
 ### Added
