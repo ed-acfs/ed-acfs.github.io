@@ -42,8 +42,16 @@ live.
   byte-identico, nessun file mancante o in più, unica differenza reale gli attributi
   `target="_blank"`/`rel="noopener"` aggiunti da `jekyll-target-blank`.
 - `html-proofer` non è eseguibile in locale su Windows (la gem `ethon`/`typhoeus` richiede
-  `libcurl.dll`, assente di serie) — la prima verifica reale sui link avverrà quando il branch verrà
-  pushato e girerà `build-check.yml` sul runner Ubuntu di Actions.
+  `libcurl.dll`, assente di serie) — la prima verifica reale sui link è avvenuta al primo push del
+  branch, su `build-check.yml` sul runner Ubuntu di Actions.
+
+### Bug scovato (e corretto) dal nuovo controllo
+
+- `_posts/2020-11-13-pianeta-morte.md`: due link del lightbox (righe 44 e 137) puntavano a
+  `/images/posts/pianet-morte/...` invece di `/images/posts/pianeta-morte/...` — refuso mai
+  notato perché il tag `<img>` della miniatura usava il percorso corretto, solo il link
+  "apri a piena risoluzione" era rotto. Tollerato in silenzio dalla pipeline legacy, segnalato
+  subito da `html-proofer` al primo run su CI. Corretto.
 
 ## [1.7.3] - 2026-08-16 — Una 404 a tema
 

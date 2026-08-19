@@ -41,7 +41,7 @@ Perché sul pianeta, qualora si riuscisse ad atterrarvi indenni, bisogna fare i 
 > Non c’è più tempo per i ripensamenti, si parte in ordine, l’Ammiraglio scandisce i nomi, si va in coppia...
 
 <div class="box alt">
-    <span class="image fit"><a href="/images/posts/pianet-morte/IMG_No_style_20201111_000822_processed.jpg"><img src="{{ "/images/posts/pianeta-morte/IMG_No_style_20201111_000822_processed.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 1"/></a></span>
+    <span class="image fit"><a href="/images/posts/pianeta-morte/IMG_No_style_20201111_000822_processed.jpg"><img src="{{ "/images/posts/pianeta-morte/IMG_No_style_20201111_000822_processed.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 1"/></a></span>
 </div>
 
 Perdo subito il mio compagno (sono un lupo solitario di solito); lo vedo inghiottito nel buio della faccia oscura del pianeta, anche se gli altri riesco a sentirli, non c’è traccia delle loro navi sul radar. Pensiamo di riunirci una volta atterrati, ma non andrà proprio così
@@ -134,7 +134,7 @@ La nave si spegne totalmente per poi tornare a nuova vita pochi secondi dopo.<br
 Le voglio bene...è stata la mia compagna per almeno sei mesi quando muovevo i primi passi nella galassia. Il glorioso Sidewinder, che mi ha salvato il culo anche stavolta. La Carrier è pronta ad accogliermi di nuovo, sono a casa finalmente.
 
 <div class="box alt">
-    <span class="image fit"><a href="/images/posts/pianet-morte/PS_Messages_20201111_080955.jpg"><img src="{{ "/images/posts/pianeta-morte/PS_Messages_20201111_080955.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 8"/></a></span>
+    <span class="image fit"><a href="/images/posts/pianeta-morte/PS_Messages_20201111_080955.jpg"><img src="{{ "/images/posts/pianeta-morte/PS_Messages_20201111_080955.jpg" | prepend:site.baseurl }}" alt=""  title="Immagine 8"/></a></span>
 </div>
 
 ### Epilogo
