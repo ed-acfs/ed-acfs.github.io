@@ -24,6 +24,10 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jekyll-redirect-from'
     gem 'jemoji'
+
+    # Aggiunge automaticamente target="_blank" rel="noopener noreferrer" ai
+    # link esterni nell'HTML generato — il sito oggi non lo fa in nessun modo.
+    gem "jekyll-target-blank"
 end
 
 # Non è un plugin Jekyll: gira in CI dopo la build per controllare link
