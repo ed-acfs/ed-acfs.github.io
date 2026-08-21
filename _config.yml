@@ -79,6 +79,7 @@ defaults:
       layout: post
       author:
       image: /images/logo_843x885.png
+      lightbox: true
 
   -
     scope:
