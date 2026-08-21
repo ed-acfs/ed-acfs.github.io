@@ -9,6 +9,13 @@ on:
   push:
     branches: [master]
   workflow_dispatch:
+  schedule:
+    # Pubblica automaticamente i post con data futura non appena scatta
+    # la data (Jekyll non pubblica post futuri senza un nuovo push/build).
+    # Orari pensati per le 6:00 e le 17:00 ora italiana (CEST, UTC+2);
+    # in inverno (CET, UTC+1) corrispondono a un'ora dopo, 5:00 e 16:00.
+    - cron: '5 4 * * *'
+    - cron: '5 15 * * *'
 
 permissions:
   contents: read
