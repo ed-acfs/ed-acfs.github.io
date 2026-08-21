@@ -7,7 +7,7 @@ last_modified_at: 2025-02-12
 ---
 <!DOCTYPE HTML>
 
-<html>
+<html lang="it">
 	<head>
     {% include head.html %}
 		{% seo %}
@@ -44,13 +44,13 @@ last_modified_at: 2025-02-12
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<a href="#" class="image main"><img src="{{ "/images/logo_h_variant1.png" | prepend:site.baseurl }}" alt="" /></a>
+									<a href="#" class="image main"><img src="{{ "/images/logo_h_variant1.png" | prepend:site.baseurl }}" alt="{{ site.h1title }}" /></a>
 									<p>Alto Comando Flotta Stellare (<b>ACFS</b>) è uno squadrone italiano che riunisce al suo interno giocatori a cui piace crescere e divertirsi insieme. <br>
 										Offriamo supporto attivo a tutti i nuovi piloti che si affacciano alla maestosa galassia di Elite. <br>
 										 Il nostro principale obiettivo è godersi il gioco.</p>
 								</header>
 								<p>Questo è il nostro sito web. 
-									Qui troverai informazioni su come <a href="/about/" rel="nofollow">unirti al nostro Squadrone</a> e contribuire all'<a href="/search/tag/bgs/" rel="nofollow">espansione della minor faction</a> <b>Flotta Stellare</b> all'interno del mondo in continua espansione di <a href="/elite/">Elite: Dangerous</a>.
+									Qui troverai informazioni su come <a href="/about/">unirti al nostro Squadrone</a> e contribuire all'<a href="/search/tag/bgs/" rel="nofollow">espansione della minor faction</a> <b>Flotta Stellare</b> all'interno del mondo in continua espansione di <a href="/elite/">Elite: Dangerous</a>.
 							</article>
 
 						<!-- Posts -->
@@ -62,7 +62,7 @@ last_modified_at: 2025-02-12
   										<span class="date">Post in Evidenza &nbsp; <i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
 											<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" alt="" data-echo="{{ post.image | prepend:site.baseurl }}" /></a>
+  									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" alt="{{ post.title }}" data-echo="{{ post.image | prepend:site.baseurl }}" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
   										<li><a href="{{ post.url | prepend:site.baseurl }}" class="button">Continua a leggere</a></li>
@@ -76,7 +76,7 @@ last_modified_at: 2025-02-12
 										<span class="date">{{ post.date | date_to_string }}</span>
 										<h2><a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a></h2>
 									</header>
-									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" alt="" data-echo="{{ post.image | prepend:site.baseurl }}" /></a>
+									<a href="{{ post.url | prepend:site.baseurl }}" class="image fit"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" alt="{{ post.title }}" data-echo="{{ post.image | prepend:site.baseurl }}" /></a>
 									<p>{{ post.excerpt }}</p>
 									<ul class="actions">
 										<li><a href="{{ post.url | prepend:site.baseurl }}" class="button">Continua a leggere</a></li>

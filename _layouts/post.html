@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 
-<html>
+<html lang="it">
 	<head>
     {% include head.html %}
     {% seo %}
@@ -30,7 +30,7 @@
       				<h1>{{page.title}}</h1>
       				<p>{{page.excerpt}}</p>
       			</header>
-      			<div class="image main"><img src="{{page.image}}" alt=""></div>
+      			<div class="image main"><img src="{{page.image}}" alt="{{ page.title }}"></div>
       			<p>{{content}}</p>
 
             <sup>Tags: [
