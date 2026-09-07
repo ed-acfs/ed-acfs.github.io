@@ -576,6 +576,7 @@ Governiamo su **22.028.112.823** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>05 Settembre 3312: <b>Trianguli Sector BG-X b1-5</b> è il sistema n. 392 in cui la Flotta è presente</li>
           <li>28 Agosto 3312: Prendiamo il controllo di <b>Trianguli Sector GH-U a3-1</b></li>
           <li>20 Agosto 3312: Arriviamo su <b>Tascheter Sector DG-X b1-4</b></li>
           <li>08 Agosto 3312: Ci espandiamo su <b>Tascheter Sector DL-Y d120</b></li>  
