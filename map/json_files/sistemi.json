@@ -1454,6 +1454,18 @@
             ]
         },
         {
+            "name": "Lagoon Sector YU-X b1-4",
+            "coords": {
+                "x": -487.65625,
+                "y": -53.09375,
+                "z": 4398.09375
+            },
+            "cat": [
+                2,
+                6
+            ]
+        },
+        {
             "name": "Lagoon Sector YZ-Y c6",
             "coords": {
                 "x": -481.90625,
