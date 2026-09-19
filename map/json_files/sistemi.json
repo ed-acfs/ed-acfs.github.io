@@ -670,6 +670,17 @@
             ]
         },
         {
+            "name": "Col 285 Sector WO-Z c19",
+            "coords": {
+                "x": -119.0625,
+                "y": 11.0,
+                "z": -332.5
+            },
+            "cat": [
+                1
+            ]
+        },
+        {
             "name": "Col 285 Sector ZV-M d7-91",
             "coords": {
                 "x": -65.53125,
@@ -1441,6 +1452,18 @@
                 6
             ],
             "infos": ""
+        },
+        {
+            "name": "Lagoon Sector AQ-X b1-2",
+            "coords": {
+                "x": -494.0,
+                "y": -65.03125,
+                "z": 4401.15625
+            },
+            "cat": [
+                2,
+                6
+            ]
         },
         {
             "name": "Lagoon Sector BQ-Y d69",
@@ -4127,6 +4150,18 @@
             },
             "cat": [
                 1,
+                6
+            ]
+        },
+        {
+            "name": "Trianguli Sector KN-S a4-0",
+            "coords": {
+                "x": 52.28125,
+                "y": -26.1875,
+                "z": -76.90625
+            },
+            "cat": [
+                2,
                 6
             ]
         },
