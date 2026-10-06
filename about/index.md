@@ -586,6 +586,7 @@ Governiamo su **21.189.532.488** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>29 Settembre 3312: Arriviamo a <b>Crowfor</b>, importante roccaforte di Edmund Mahon con oltre 1,8 miliardi di abitanti</li>
           <li>19 Settembre 3312: Approdiamo su <b>Trianguli Sector KN-S a4-0</b>, sistema patronale di allineamento imperiale con oltre 107 milioni di abitanti, per ora non sotto il nostro controllo</li>
           <li>05 Settembre 3312: <b>Trianguli Sector BG-X b1-5</b> è il sistema n. 392 in cui la Flotta è presente</li>
           <li>28 Agosto 3312: Prendiamo il controllo di <b>Trianguli Sector GH-U a3-1</b></li>
