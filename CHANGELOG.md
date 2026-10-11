@@ -56,6 +56,7 @@ live.
 ### Repository
 
 - `.gitignore`: escluso `SEO-REPORT.md`, il report locale del SEO Monitor settimanale, rigenerato a ogni run.
+- Skill di Claude Code versionate in `.claude/skills/` (installate con `npx autoskills -a claude-code`), così sono disponibili su tutti i PC.
 
 ## [1.7.3] - 2026-08-16 — Una 404 a tema
 
