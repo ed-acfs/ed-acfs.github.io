@@ -53,6 +53,10 @@ live.
   "apri a piena risoluzione" era rotto. Tollerato in silenzio dalla pipeline legacy, segnalato
   subito da `html-proofer` al primo run su CI. Corretto.
 
+### Repository
+
+- `.gitignore`: escluso `SEO-REPORT.md`, il report locale del SEO Monitor settimanale, rigenerato a ogni run.
+
 ## [1.7.3] - 2026-08-16 — Una 404 a tema
 
 ### Added
