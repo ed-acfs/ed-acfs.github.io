@@ -597,6 +597,7 @@ Governiamo su **22.361.326.065** abitanti
           <li>28 Agosto 3312: Prendiamo il controllo di <b>Trianguli Sector GH-U a3-1</b></li>
           <li>20 Agosto 3312: Arriviamo su <b>Tascheter Sector DG-X b1-4</b></li>
           <li>08 Agosto 3312: Ci espandiamo su <b>Tascheter Sector DL-Y d120</b></li>  
+          <li>01 Agosto 3312: Colonizziamo <b>HIP 22284</b>, sistema fino ad oggi privo di vita che diventa una nuova democrazia indipendente sotto il controllo della Flotta</li>
           <li>27 Luglio 3312: Approdiamo su <b>Trianguli Sector KN-S a4-2</b></li>
           <li>21 Luglio 3312: Acquisiamo il controllo di <b>LBN 623 Sector UU-E a12-0</b>, sistema che intendiamo sviluppare in accordo al proprio Architetto</li>
           <li>21 Luglio 3312: Riprendiamo il controllo di <b>Tomas</b></li>
