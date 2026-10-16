@@ -173,7 +173,7 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **402 sistemi**, di cui **257** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **402 sistemi**, di cui **258** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **445** stazioni
   - **928** insediamenti
@@ -589,10 +589,11 @@ Governiamo su **23.894.574.510** abitanti
     <div class="content-inner">
       <ul>
           <li>16 Ottobre 3312: Vinciamo il conflitto e riprendiamo il controllo di <b>Lyncis Sector CL-Y d68</b>: i suoi oltre 1,5 miliardi di abitanti tornano sotto la protezione della Flotta!</li>
-          <li>16 Ottobre 3312: Prendiamo il controllo di <b>HIP 30129</b></li>
+          <li>16 Ottobre 3312: Riprendiamo il controllo di <b>HIP 30129</b></li>
           <li>13 Ottobre 3312: Ci espandiamo su <b>BD+21 717</b>, sistema corporativo di allineamento imperiale con oltre 227 milioni di abitanti: è il sistema n. 400 in cui la Flotta è presente!</li>
           <li>13 Ottobre 3312: Prendiamo il controllo di <b>Lyncis Sector NY-R b4-2</b>, il sistema costruito dal nostro Primo Ammiraglio© <b>Scorpion</b></li>
           <li>13 Ottobre 3312: Inizia il conflitto per la riconquista di <b>Lyncis Sector CL-Y d68</b></li>
+          <li>05 Ottobre 3312: Perdiamo anche il controllo di <b>HIP 30129</b></li>
           <li>04 Ottobre 3312: Purtroppo perdiamo il controllo di <b>Lyncis Sector CL-Y d68</b> e dei suoi quasi 1,5 miliardi di abitanti</li>
           <li>30 Settembre 3312: Arriviamo a <b>Crowfor</b>, importante roccaforte di Edmund Mahon con oltre 1,8 miliardi di abitanti</li>
           <li>19 Settembre 3312: Approdiamo su <b>Trianguli Sector KN-S a4-0</b>, sistema patronale di allineamento imperiale con oltre 107 milioni di abitanti, per ora non sotto il nostro controllo</li>
