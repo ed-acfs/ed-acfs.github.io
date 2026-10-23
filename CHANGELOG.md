@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.9.0] - 2026-10-23 — Mappa 3D con i dati aggiornati dal server
+
+- La mappa legge all'apertura i sistemi dal server dello Squadrone (`api.flottastellare.it/v1/site`, Spansh
+  ogni ora più EDDN) e li unisce a `sistemi.json` (`map/js/dati-aggiornati.js`): sistemi nuovi, stato
+  Controllato/Non Controllato, Material Trader, Technology Broker e Interstellar Factor senza più lanciare
+  `spansh_sync.py`. Se il server non risponde usa il `bgs.json` dell'ACFS BGS Tool, poi `sistemi.json`.
+- In basso a sinistra, la fonte e l'ora dei dati.
+- **Corretto**: la mappa si apriva spesso nera e tornava con un reload (7 aperture su 10 il 23 ottobre 2026,
+  su desktop e su telefono). I moduli della mappa si scaricavano con `$.getScript` in parallelo ed eseguivano
+  nell'ordine di arrivo: se il font arrivava prima di `FontUtils.js` l'avvio si fermava. Ora si caricano con
+  tag `<script>` nell'ordine delle dipendenze (15 aperture su 15 riuscite).
+- Interstellar Factor con la stessa soglia del tool: non compaiono quelli di stazioni che Spansh non
+  aggiorna da un anno (18 sistemi in meno rispetto a `sistemi.json` il 23 ottobre 2026).
+
 ## [1.8.0] - 2026-08-19 — Migrazione a GitHub Actions (preparata, non ancora attiva)
 
 Preparata, sul branch `explore/github-actions-jekyll4`, la migrazione dalla pipeline legacy di

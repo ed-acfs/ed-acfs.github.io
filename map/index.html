@@ -98,12 +98,31 @@ last_modified_at: 2026-08-16
     color: #fff;
     border-color: #FF9D00;
   }
+
+  #data-freshness {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    z-index: 1000;
+    max-width: calc(100% - 180px);
+    padding: 6px 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+    color: rgba(255,255,255,0.7);
+    background: rgba(10,10,10,0.8);
+    border: solid 1px rgba(255,255,255,0.2);
+    border-radius: 4px;
+  }
+  #data-freshness:empty {
+    display: none;
+  }
   </style>
   {% include tracking.html %}
 </head>
 <body>
 
   <a id="back-to-site" href="{{ site.baseurl }}/">&larr; Torna al sito</a>
+  <div id="data-freshness"></div>
   <div id="edmap"></div>
   <!-- jQuery -->
   <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
@@ -112,12 +131,42 @@ last_modified_at: 2026-08-16
 
   <!-- Launch ED3Dmap -->
   <link href="css/styles.css" rel="stylesheet" type="text/css" />
-  <script src="js/ed3dmap.js?v=6"></script>
+  <script src="js/ed3dmap.js?v=7"></script>
+  <!-- Moduli della mappa caricati qui, nell'ordine delle dipendenze: ed3dmap.js li scaricherebbe con
+       $.getScript in parallelo, eseguendoli nell'ordine di arrivo, e quando il font arrivava prima di
+       FontUtils.js la mappa restava nera (7 aperture su 10 il 23 ottobre 2026). Con isMinified
+       definito ed3dmap.js salta quel caricamento; il browser scarica comunque i file in parallelo. -->
+  <script>var isMinified = true;</script>
+  <script src="vendor/three-js/OrbitControls.js"></script>
+  <script src="vendor/three-js/CSS3DRenderer.js"></script>
+  <script src="vendor/three-js/Projector.js"></script>
+  <script src="vendor/three-js/FontUtils.js"></script>
+  <script src="vendor/three-js/helvetiker_regular.typeface.js"></script>
+  <script src="js/components/grid.class.js?v=7"></script>
+  <script src="js/components/icon.class.js?v=7"></script>
+  <script src="js/components/hud.class.js?v=7"></script>
+  <script src="js/components/action.class.js?v=7"></script>
+  <script src="js/components/route.class.js?v=7"></script>
+  <script src="js/components/system.class.js?v=7"></script>
+  <script src="js/components/galaxy.class.js?v=7"></script>
+  <script src="js/components/heat.class.js?v=7"></script>
+  <script src="vendor/tween-js/Tween.js"></script>
+  <script src="js/dati-aggiornati.js?v=1"></script>
   <script type="text/javascript">
+
+    // Dati aggiornati dal server dello Squadrone (vedi js/dati-aggiornati.js), uniti a sistemi.json.
+    acfsMapData("./json_files/sistemi.json", function (json, info) {
+      var freshness = document.getElementById('data-freshness');
+      if (info.stale) {
+        freshness.textContent = 'Dati non aggiornati: server e tool non raggiungibili';
+      } else {
+        var at = info.at ? new Date(info.at).toLocaleString('it-IT', { dateStyle: 'short', timeStyle: 'short' }) : '?';
+        freshness.textContent = 'Dati: ' + info.label + ', aggiornati il ' + at;
+      }
 
     Ed3d.init({
         container   : 'edmap',
-        jsonPath    : "./json_files/sistemi.json",
+        json        : json,
         withHudPanel : true,
         withOptionsPanel : true,
         hudMultipleSelect : true,
@@ -128,6 +177,7 @@ last_modified_at: 2026-08-16
         starSprite: "textures/lensflare/star_grey.png",
         playerPos: [16.46875,4.0625,-60.5], 
         showNameNear: true //-- EXPERIMENTAL (Show name from systems near camera)
+    });
     });
   </script>
 
