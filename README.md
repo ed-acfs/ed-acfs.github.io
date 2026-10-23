@@ -84,7 +84,23 @@ Evocare quindi lo script col comando:
 pyton3 tag_generator.py
 ```
 
-## Aggiornare tabella sistemi e mappa 3D
+## Mappa 3D: dati aggiornati dal server
+
+Dal 23 ottobre 2026 la mappa (`map/`) non aspetta più lo script: all'apertura `map/js/dati-aggiornati.js`
+legge i sistemi dal server dello Squadrone (`https://api.flottastellare.it/v1/site`: Spansh ogni ora più
+il flusso EDDN, vedi il repo `acfs-server`) e li unisce a `map/json_files/sistemi.json`, che resta la base
+per ciò che si scrive a mano (categorie, Capitale, note `infos`, Spedizione Verso il Niente). Per i sistemi
+della Flotta prende coordinate, stato Controllato/Non Controllato, Material Trader, Technology Broker e
+Interstellar Factor; aggiunge i sistemi nuovi e toglie quelli in cui la Flotta non è più presente.
+
+- Se il server non risponde, usa il `bgs.json` dell'ACFS BGS Tool; se manca anche quello, `sistemi.json`
+  così com'è. In basso a sinistra la mappa dice da dove vengono i dati e di quando.
+- Il server applica la soglia del tool sugli Interstellar Factors: quelli di stazioni che Spansh non
+  aggiorna da un anno non compaiono.
+- In locale l'API del server accetta solo i nostri domini: per provare con un'API sul proprio PC,
+  `/map/?api=http://localhost:8081/v1/site` (vale solo su `localhost`).
+
+## Aggiornare tabella sistemi (e copia di riserva della mappa)
 
 Per tenere sincronizzati con la presenza reale di **Flotta Stellare** sia la tabella sistemi nella
 pagina **about/index.md** sia i dati della **mappa 3D** (`map/json_files/sistemi.json`) è disponibile
