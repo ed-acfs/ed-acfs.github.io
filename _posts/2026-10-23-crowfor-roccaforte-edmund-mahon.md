@@ -6,7 +6,7 @@ excerpt: "Arrivati il 30 Settembre 3312 senza sparare un colpo, eletti il 17 Ott
 image: "/images/posts/crowfor/crowfor.png"
 tags: bgs flotta-stellare squadrone alleanza
 author: wiitifulsky
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-24
 sticky: no
 ---
 <div class="box alt">
@@ -51,11 +51,11 @@ Tenetela a mente. Ci torneremo.
 
 Per capire perché Crowfor conti così tanto bisogna guardarlo con due occhi diversi.
 
-Il primo è quello del **Powerplay**. Crowfor è una *Stronghold* di Edmund Mahon, il livello più alto di controllo che una Potenza possa avere su un sistema: qui l'Alleanza non è di passaggio, è a casa. Le sue stazioni ospitano anche una portaerei della Potenza, la *Stronghold Carrier*, a ricordare a chiunque attracchi chi tiene le chiavi del sistema sul piano politico galattico.
+Il primo è quello del **Powerplay**. Crowfor è una *Roccaforte* di Edmund Mahon, il livello più alto di controllo che un Power possa avere su un sistema: qui l'Alleanza non è di passaggio, è a casa. Nel sistema si trova anche una *Stronghold Carrier*, a ricordare a chiunque attracchi chi tiene le chiavi del sistema sul piano politico galattico.
 
 Il secondo è quello del **governo dei sistemi**, il nostro mestiere. Sotto la bandiera di Mahon, il governo quotidiano di Crowfor (le sue stazioni, i suoi mercati, la sicurezza delle sue rotte) spetta alle fazioni minori che se lo contendono giorno dopo giorno. E fra queste, adesso, c'è anche la Flotta.
 
-Le due cose non si escludono: un sistema può essere roccaforte di una Potenza e avere al governo una fazione indipendente come la nostra. È esattamente ciò che rende Crowfor così interessante. E così delicato.
+Le due cose non si escludono: un sistema può essere roccaforte di un Power e avere al governo una fazione indipendente come la nostra. È esattamente ciò che rende Crowfor così interessante. E così delicato.
 
 ## Le elezioni di Crowfor: la conquista si fa con le urne
 
