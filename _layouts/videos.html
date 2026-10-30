@@ -105,11 +105,12 @@
 						<p>{{ cat.intro }}</p>
 						{% endif %}
 					</section>
-					<section class="posts">
+					<section class="videogrid">
 							{% for video in catvideos limit: video_limit %}
 							{% capture vname %}{{video.title}}{% if video.subtitle %} - {{video.subtitle}}{% endif %}{% endcapture %}
+							<div class="videoitem">
 							 {% if cat.cover %}
-							 <div class="hoverbox" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
+							 <div class="hoverbox" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.parentNode.classList.add('playing'); this.nextElementSibling.style.display='block'; this.style.display='none'">
 								<img src="/images/videodelcock.png" style="cursor:pointer" alt="Copertina di {{vname}}. Clicca per avviare il video" title="{{vname}}">
 									<div class="hovertext">
 										<h3>{{video.title}}</h3>
@@ -121,7 +122,7 @@
 									{% endif %}
 							 </div>
 							 {% else %}
-							 <div class="videocard" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
+							 <div class="videocard" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.parentNode.classList.add('playing'); this.nextElementSibling.style.display='block'; this.style.display='none'">
 								<img src="https://i.ytimg.com/vi/{{video.videoId}}/hqdefault.jpg" loading="lazy" alt="Anteprima di {{vname}}. Clicca per avviare il video" title="{{vname}}">
 								<h3>{{video.title}}</h3>
 							 </div>
@@ -135,19 +136,20 @@
 										frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen>
 									</iframe>
 								</div>
+							</div>
 							{% endfor %}
 					</section>
 					{% unless page.video_category %}
-					<ul class="actions">
+					<div class="align-center"><ul class="actions videoactions">
 						<li><a href="{{ cat.url | prepend:site.baseurl }}" class="button">Tutti i video: {{ cat.title }}</a></li>
-					</ul>
+					</ul></div>
 					{% endunless %}
 					{% endfor %}
 
 					<p><span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span></p>
 
 					<div class="align-center">
-              <ul class="actions">
+              <ul class="actions videoactions">
 							{% if page.video_category %}
 								<li><a href="{{ "/video/" | prepend:site.baseurl }}" class="button">Tutti i video</a></li>
 							{% endif %}
