@@ -8,6 +8,6 @@ seo:
     type: BlogPosting
     name: "Video Tutorials di Elite Dangerous, in Italiano, by COK7SETTE"
     links: https://www.youtube.com/channel/UCm_5BwEeZyzvildWQ73u0IQ
-    date_modified: 2020-01-07
-last_modified_at: 2020-01-07
+    date_modified: 2026-10-30
+last_modified_at: 2026-10-30
 ---
