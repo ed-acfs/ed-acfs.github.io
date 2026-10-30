@@ -5,9 +5,9 @@ description: Segui anche tu i video Tutorials del nostro Vice Ammiraglio per arr
 image: /images/videodelcock.png
 author: cok7sette
 seo:
-    type: BlogPosting
+    type: CollectionPage
     name: "Video Tutorials di Elite Dangerous, in Italiano, by COK7SETTE"
     links: https://www.youtube.com/channel/UCm_5BwEeZyzvildWQ73u0IQ
-    date_modified: 2020-01-07
-last_modified_at: 2020-01-07
+    date_modified: 2026-10-30
+last_modified_at: 2026-10-30
 ---

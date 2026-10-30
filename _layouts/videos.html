@@ -4,6 +4,25 @@
 	<head>
 		{% include head.html %}
 		{% seo %}
+			{% assign ld_videos = site.data.videos | sort: 'pubDate' %}
+			<script type="application/ld+json">
+			[
+			{% for video in ld_videos %}
+				{
+					"@context": "https://schema.org",
+					"@type": "VideoObject",
+					"name": {{ video.title | append: " – " | append: video.subtitle | jsonify }},
+					"description": {{ video.title | append: " in italiano: " | append: video.subtitle | append: ". Video tutorial di Elite Dangerous a cura di " | append: video.author | append: ", Alto Comando Flotta Stellare." | jsonify }},
+					"thumbnailUrl": "https://i.ytimg.com/vi/{{ video.videoId }}/hqdefault.jpg",
+					"uploadDate": "{{ video.pubDate | date_to_xmlschema }}",
+					"contentUrl": {{ video.link | jsonify }},
+					"embedUrl": "https://www.youtube-nocookie.com/embed/{{ video.videoId }}",
+					"inLanguage": "it",
+					"author": { "@type": "Person", "name": {{ video.author | jsonify }} }
+				}{% unless forloop.last %},{% endunless %}
+			{% endfor %}
+			]
+			</script>
 	</head>
 	<body class="is-loading">
 
@@ -29,17 +48,17 @@
 							<h2><a href="#">I video tutorials di CMDR COK7SETTE</a></h2>
 							<p>Segui anche tu i Video Tutorials del nostro Vice Ammiraglio per arrivare lá... dove nessun video è mai giunto prima
 							</p>					
-						<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+						<span class="image fit"><img src="/images/Elite-Division-png.png" alt="Elite Dangerous Division, Flotta Stellare"></span>
 						</header>
 						<!-- Video in Evidenza -->
 						<h2>Video in Evidenza</h2>
 						{% assign latestvideo = site.data.videos | sort: 'pubDate' | reverse %}
 						{% for video in latestvideo limit:1 %}
-						<div class="video-container" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+						<div class="video-container">
 								<iframe 
-									id="ytplayer" width="560" height="315" 
+									id="ytplayer" width="560" height="315" title="{{video.title}} – {{video.subtitle}}"
 									src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent" 
-									frameborder="0" allowfullscreen>
+									frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen>
 								</iframe>
 							</div>
 						{% endfor %}
@@ -50,8 +69,8 @@
 							{% assign sorted = site.data.videos | sort: 'pubDate' %}
 							{% for video in sorted %}
 						
-							 <div class="hoverbox" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
-								<img src="/images/videodelcock.png" style="cursor:pointer" alt="{{video.title}} ITA - {{video.subtitle}}" title="{{video.title}} ITA - {{video.subtitle}}">
+							 <div class="hoverbox" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
+								<img src="/images/videodelcock.png" style="cursor:pointer" alt="Copertina di {{video.title}}: {{video.subtitle}}. Clicca per avviare il video" title="{{video.title}} ITA - {{video.subtitle}}">
 									<div class="hovertext">
 										<h3>{{video.title}}</h3>
 									</div>
@@ -62,9 +81,10 @@
 					
 								<div class="video-container" style="display:none;">
 									<iframe 
-										width="560" height="315" 
-										src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent" 
-										frameborder="0" allowfullscreen>
+										width="560" height="315" loading="lazy"
+										title="{{video.title}} – {{video.subtitle}}"
+										src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent"
+										frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen>
 									</iframe>
 								</div>
 							{% endfor %}
