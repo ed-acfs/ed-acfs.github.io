@@ -48,7 +48,7 @@
 							<h2><a href="#">I video tutorials di CMDR COK7SETTE</a></h2>
 							<p>Segui anche tu i Video Tutorials del nostro Vice Ammiraglio per arrivare lá... dove nessun video è mai giunto prima
 							</p>					
-						<span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
+						<span class="image fit"><img src="/images/Elite-Division-png.png" alt="Elite Dangerous Division, Flotta Stellare"></span>
 						</header>
 						<!-- Video in Evidenza -->
 						<h2>Video in Evidenza</h2>
@@ -69,8 +69,8 @@
 							{% assign sorted = site.data.videos | sort: 'pubDate' %}
 							{% for video in sorted %}
 						
-							 <div class="hoverbox" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
-								<img src="/images/videodelcock.png" style="cursor:pointer" alt="{{video.title}} ITA - {{video.subtitle}}" title="{{video.title}} ITA - {{video.subtitle}}">
+							 <div class="hoverbox" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
+								<img src="/images/videodelcock.png" style="cursor:pointer" alt="Copertina di {{video.title}}: {{video.subtitle}}. Clicca per avviare il video" title="{{video.title}} ITA - {{video.subtitle}}">
 									<div class="hovertext">
 										<h3>{{video.title}}</h3>
 									</div>
