@@ -1,9 +1,11 @@
 ---
 layout: videos
-title: "I Video Tutorials di COK7SETTE" 
+title: "I Video Tutorials di COK7SETTE"
 description: Segui anche tu i video Tutorials del nostro Vice Ammiraglio per arrivare lá... dove nessun video è mai giunto prima
+heading: "I video tutorials di CMDR COK7SETTE"
 image: /images/videodelcock.png
 author: cok7sette
+video_category: video-del-cok
 seo:
     type: CollectionPage
     name: "Video Tutorials di Elite Dangerous, in Italiano, by COK7SETTE"
