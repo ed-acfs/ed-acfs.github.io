@@ -1,28 +1,57 @@
 <!DOCTYPE HTML>
+{% comment %}
+  Layout video. Con page.video_category mostra solo quella categoria (id in _data/video_categories.yml),
+  senza è l'hub: ultimi 3 video di ogni sezione con link alla pagina della categoria.
+{% endcomment %}
+{% if page.video_category %}
+	{% assign cats = site.data.video_categories | where: "id", page.video_category %}
+	{% assign video_limit = 1000 %}
+{% else %}
+	{% assign cats = site.data.video_categories %}
+	{% assign video_limit = 3 %}
+{% endif %}
+{% assign video_pool = site.data.videos | sort: 'pubDate' | reverse %}
+{% if page.video_category %}
+	{% assign video_pool = video_pool | where: "category", page.video_category %}
+{% endif %}
 
 <html lang="it">
 	<head>
 		{% include head.html %}
 		{% seo %}
-			{% assign ld_videos = site.data.videos | sort: 'pubDate' %}
-			<script type="application/ld+json">
-			[
-			{% for video in ld_videos %}
-				{
-					"@context": "https://schema.org",
-					"@type": "VideoObject",
-					"name": {{ video.title | append: " – " | append: video.subtitle | jsonify }},
-					"description": {{ video.title | append: " in italiano: " | append: video.subtitle | append: ". Video tutorial di Elite Dangerous a cura di " | append: video.author | append: ", Alto Comando Flotta Stellare." | jsonify }},
-					"thumbnailUrl": "https://i.ytimg.com/vi/{{ video.videoId }}/hqdefault.jpg",
-					"uploadDate": "{{ video.pubDate | date_to_xmlschema }}",
-					"contentUrl": {{ video.link | jsonify }},
-					"embedUrl": "https://www.youtube-nocookie.com/embed/{{ video.videoId }}",
-					"inLanguage": "it",
-					"author": { "@type": "Person", "name": {{ video.author | jsonify }} }
-				}{% unless forloop.last %},{% endunless %}
+		{% for cat in cats %}
+			{% assign vcat_videos = site.data.videos | where: "category", cat.id | sort: 'pubDate' %}
+			{% if cat.order == "desc" %}{% assign vcat_videos = vcat_videos | reverse %}{% endif %}
+			{% for video in vcat_videos limit: video_limit %}
+				{% capture vname %}{{ video.title }}{% if video.subtitle %} – {{ video.subtitle }}{% endif %}{% endcapture %}
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "VideoObject",
+			"name": {{ vname | jsonify }},
+			"description": {{ vname | append: " – " | append: cat.label | append: " a cura di " | append: video.author | append: "." | jsonify }},
+			"thumbnailUrl": "https://i.ytimg.com/vi/{{ video.videoId }}/hqdefault.jpg",
+			"uploadDate": "{{ video.pubDate | date_to_xmlschema }}",
+{% if video.duration %}			"duration": "{{ video.duration }}",
+{% endif %}			"contentUrl": {{ video.link | jsonify }},
+			"embedUrl": "https://www.youtube-nocookie.com/embed/{{ video.videoId }}",
+			"inLanguage": "it",
+			"author": { "@type": "{% if video.author contains 'CMDR' %}Person{% else %}Organization{% endif %}", "name": {{ video.author | jsonify }} }
+		}
+		</script>
 			{% endfor %}
+		{% endfor %}
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{ "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+				{ "@type": "ListItem", "position": 2, "name": "Video", "item": "{{ site.url }}/video/" }{% if page.video_category %},
+				{ "@type": "ListItem", "position": 3, "name": {{ cats.first.title | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }{% endif %}
 			]
-			</script>
+		}
+		</script>
 	</head>
 	<body class="is-loading">
 
@@ -42,70 +71,99 @@
 					</nav>
 
 				<!-- Main -->
-				<div id="main">		
+				<div id="main">
 					<article class="post featured">
 						<header class="major">
-							<h2><a href="#">I video tutorials di CMDR COK7SETTE</a></h2>
-							<p>Segui anche tu i Video Tutorials del nostro Vice Ammiraglio per arrivare lá... dove nessun video è mai giunto prima
-							</p>					
-						<span class="image fit"><img src="/images/Elite-Division-png.png" alt="Elite Dangerous Division, Flotta Stellare"></span>
+							{% if page.video_category %}
+							<p><a href="{{ "/video/" | prepend:site.baseurl }}">Video</a> › {{ cats.first.title }}</p>
+							{% endif %}
+							<h2><a href="#">{{ page.heading | default: page.title }}</a></h2>
+							<p>{{ page.subheading | default: page.description }}</p>
 						</header>
 						<!-- Video in Evidenza -->
 						<h2>Video in Evidenza</h2>
-						{% assign latestvideo = site.data.videos | sort: 'pubDate' | reverse %}
-						{% for video in latestvideo limit:1 %}
+						{% for video in video_pool limit:1 %}
 						<div class="video-container">
-								<iframe 
-									id="ytplayer" width="560" height="315" title="{{video.title}} – {{video.subtitle}}"
-									src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent" 
+								<iframe
+									id="ytplayer" width="560" height="315" title="{{video.title}}{% if video.subtitle %} – {{video.subtitle}}{% endif %}"
+									src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent"
 									frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen>
 								</iframe>
 							</div>
 						{% endfor %}
-					</article>
 
-					<!-- Video -->
-					<section class="posts">
-							{% assign sorted = site.data.videos | sort: 'pubDate' %}
-							{% for video in sorted %}
-						
-							 <div class="hoverbox" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
-								<img src="/images/videodelcock.png" style="cursor:pointer" alt="Copertina di {{video.title}}: {{video.subtitle}}. Clicca per avviare il video" title="{{video.title}} ITA - {{video.subtitle}}">
+					{% for cat in cats %}
+					{% assign catvideos = site.data.videos | where: "category", cat.id | sort: 'pubDate' %}
+					{% if cat.order == "desc" %}{% assign catvideos = catvideos | reverse %}{% endif %}
+
+					<p><span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span></p>
+
+					<section id="{{ cat.id }}">
+						{% if page.video_category %}
+						<p>{{ cat.intro }}</p>
+						{% else %}
+						<h2><a href="{{ cat.url | prepend:site.baseurl }}">{{ cat.title }}</a></h2>
+						<p>{{ cat.intro }}</p>
+						{% endif %}
+					</section>
+					<section class="videogrid">
+							{% for video in catvideos limit: video_limit %}
+							{% capture vname %}{{video.title}}{% if video.subtitle %} - {{video.subtitle}}{% endif %}{% endcapture %}
+							<div class="videoitem">
+							 {% if cat.cover %}
+							 <div class="hoverbox" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.parentNode.classList.add('playing'); this.nextElementSibling.style.display='block'; this.style.display='none'">
+								<img src="/images/videodelcock.png" style="cursor:pointer" alt="Copertina di {{vname}}. Clicca per avviare il video" title="{{vname}}">
 									<div class="hovertext">
 										<h3>{{video.title}}</h3>
 									</div>
+									{% if video.subtitle %}
 									<div class="hoversub">
 										<h3>{{video.subtitle}}</h3>
 									</div>
+									{% endif %}
 							 </div>
-					
+							 {% else %}
+							 <div class="videocard" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.parentNode.classList.add('playing'); this.nextElementSibling.style.display='block'; this.style.display='none'">
+								<img src="https://i.ytimg.com/vi/{{video.videoId}}/hqdefault.jpg" loading="lazy" alt="Anteprima di {{vname}}. Clicca per avviare il video" title="{{vname}}">
+								<h3>{{video.title}}</h3>
+							 </div>
+							 {% endif %}
+
 								<div class="video-container" style="display:none;">
-									<iframe 
+									<iframe
 										width="560" height="315" loading="lazy"
-										title="{{video.title}} – {{video.subtitle}}"
+										title="{{vname}}"
 										src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent"
 										frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen>
 									</iframe>
 								</div>
+							</div>
 							{% endfor %}
 					</section>
+					{% unless page.video_category %}
+					<div class="align-center"><ul class="actions videoactions">
+						<li><a href="{{ cat.url | prepend:site.baseurl }}" class="button">Tutti i video: {{ cat.title }}</a></li>
+					</ul></div>
+					{% endunless %}
+					{% endfor %}
 
-					<!-- Footer -->
-						<footer>
-              <ul class="actions">
-				  			{% if page.url != "/about/" %}
-	  						  <li><a href="{{ "/about/" | prepend:site.baseurl }}" class="button">Lo Squadrone</a></li>
+					<p><span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span></p>
+
+					<div class="align-center">
+              <ul class="actions videoactions">
+							{% if page.video_category %}
+								<li><a href="{{ "/video/" | prepend:site.baseurl }}" class="button">Tutti i video</a></li>
 							{% endif %}
-							{% if page.url != "/bgs/" %}
-							  <li><a href="{{ "/bgs/" | prepend:site.baseurl }}" class="button">Background Simulation</a></li>
-							{% endif %}
+							{% for other in site.data.video_categories %}
+								{% unless other.id == page.video_category %}
+								<li><a href="{{ other.url | prepend:site.baseurl }}" class="button">{{ other.title }}</a></li>
+								{% endunless %}
+							{% endfor %}
 							  <li><a href="{{ "/blog/" | prepend:site.baseurl }}" class="button">Blog</a></li>
-							{% if page.url != "/" %}
- 							  <li><a href="{{ "/" | prepend:site.baseurl }}" class="button">Torna alla Home</a></li>
-							{% endif %}
+							  <li><a href="{{ "/" | prepend:site.baseurl }}" class="button">Torna alla Home</a></li>
               </ul>
-						</footer>
-					</div>
+						</div>
+					</article>
 
 				<!-- Footer -->
         {% include foot.html %}

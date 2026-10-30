@@ -1,10 +1,13 @@
 .hoverbox {
   position: relative;
-  display: inline-block;
-  /* Make the width of box same as image */
-  border: 1px solid #eee;
-  border-top: 0;
-  border-left: 0;
+  display: block;
+  width: 100%;
+  margin: 0;
+  border: 0;
+  img {
+    display: block;
+    width: 100%;
+  }
   .hovertext {
     position: absolute;
     z-index: 999;
@@ -22,7 +25,7 @@
     }
   }
   .hoversub {
-    position: absolute;
+    position: relative;
     z-index: 999;
     margin: 0 auto;
     left: 0;
@@ -68,4 +71,68 @@
     padding: 20px;
     border-radius: 5px;
   }
+}
+
+.videocard {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin: 0;
+  cursor: pointer;
+  img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+  h3 {
+    margin: 0.75em 0 0;
+    font-size: 0.8em;
+    line-height: 1.5;
+    text-align: center;
+  }
+  &::after {
+    content: "\25B6";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5em;
+    color: #fff;
+    text-shadow: 0 0 8px #000;
+    opacity: 0.85;
+    pointer-events: none;
+  }
+  &:hover::after,
+  &:focus::after {
+    color: #f07b05;
+  }
+}
+
+.videogrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2.5rem 2rem;
+  margin-bottom: 2rem;
+  align-items: start;
+  @media (max-width: 980px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media (max-width: 736px) {
+    grid-template-columns: 1fr;
+  }
+  .videoitem {
+    min-width: 0;
+    &.playing {
+      grid-column: 1 / -1;
+    }
+  }
+}
+
+.videoactions li {
+  margin-bottom: 1rem;
 }

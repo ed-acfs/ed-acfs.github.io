@@ -14,7 +14,18 @@
   url: /blog/
 
 - title: Video
-  url: /videotutorials/
+  url: /video/
+  sublinks:
+    - title: Tutti i video
+      url: /video/
+    - title: Guide e Tutorial
+      url: /video/guide-e-tutorial/
+    - title: Storie di Flotta
+      url: /video/storie-di-flotta/
+    - title: Eventi di Squadrone
+      url: /video/eventi-di-squadrone/
+    - title: I video del Cok
+      url: /videotutorials/
 
 - title: Il Gioco
   url: '#'
