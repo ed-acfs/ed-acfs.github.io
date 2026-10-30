@@ -1,6 +1,8 @@
 .hoverbox {
   position: relative;
   display: inline-block;
+  vertical-align: top;
+  margin-bottom: 2rem;
   /* Make the width of box same as image */
   border: 1px solid #eee;
   border-top: 0;
@@ -22,7 +24,7 @@
     }
   }
   .hoversub {
-    position: absolute;
+    position: relative;
     z-index: 999;
     margin: 0 auto;
     left: 0;
