@@ -90,7 +90,6 @@
 								</iframe>
 							</div>
 						{% endfor %}
-					</article>
 
 					{% for cat in cats %}
 					{% assign catvideos = site.data.videos | where: "category", cat.id | sort: 'pubDate' %}
@@ -147,8 +146,7 @@
 
 					<p><span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span></p>
 
-					<!-- Footer -->
-						<footer>
+					<div class="align-center">
               <ul class="actions">
 							{% if page.video_category %}
 								<li><a href="{{ "/video/" | prepend:site.baseurl }}" class="button">Tutti i video</a></li>
@@ -161,8 +159,8 @@
 							  <li><a href="{{ "/blog/" | prepend:site.baseurl }}" class="button">Blog</a></li>
 							  <li><a href="{{ "/" | prepend:site.baseurl }}" class="button">Torna alla Home</a></li>
               </ul>
-						</footer>
-					</div>
+						</div>
+					</article>
 
 				<!-- Footer -->
         {% include foot.html %}
