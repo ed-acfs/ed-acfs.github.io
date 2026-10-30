@@ -1,0 +1,15 @@
+- id: tutorial
+  title: "Guide e Tutorial"
+  intro: "Le guide di Elite Dangerous in italiano: dai primi passi al BGS, fino a Odyssey e agli strumenti per la Flotta."
+  label: "Video tutorial di Elite Dangerous"
+  order: asc
+- id: storie-di-flotta
+  title: "Storie di Flotta"
+  intro: "Racconti, imprese e momenti di vita dei Comandanti dell'Alto Comando Flotta Stellare."
+  label: "Storia di Flotta dell'Alto Comando Flotta Stellare"
+  order: desc
+- id: eventi-di-squadrone
+  title: "Eventi di Squadrone"
+  intro: "Allenamenti, sfide e incontri organizzati dal nostro Squadrone."
+  label: "Evento di Squadrone dell'Alto Comando Flotta Stellare"
+  order: desc

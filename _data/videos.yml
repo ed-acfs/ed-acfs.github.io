@@ -7,6 +7,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:Z6abCgqIHZo"
     videoId: "Z6abCgqIHZo"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #02"
     subtitle: "Missioni Reputazione e Mappa"
@@ -15,6 +16,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:gmIZsAfLkYs"
     videoId: "gmIZsAfLkYs"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #03"
     subtitle: "La Mappa"
@@ -23,6 +25,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:W4DPx1Lf2ak"
     videoId: "W4DPx1Lf2ak"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #04"
     subtitle: "Outfitting"
@@ -31,6 +34,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:7l-wRMuqGCg"
     videoId: "7l-wRMuqGCg"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #05"
     subtitle: "Esplorazione: Introduzione"
@@ -39,6 +43,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:0384ZSKm0lw"
     videoId: "0384ZSKm0lw"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #06"
     subtitle: "SRV e pianeti"
@@ -47,6 +52,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:ggmH5-CYmi8"
     videoId: "ggmH5-CYmi8"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #07"
     subtitle: "Bounty Hunting"
@@ -55,6 +61,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:JKILXFpKAHk"
     videoId: "JKILXFpKAHk"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #08"
     subtitle: "Compravendita navi"
@@ -63,6 +70,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:XTA1ddoXe3E"
     videoId: "XTA1ddoXe3E"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #09"
     subtitle: "Introduzione al BGS"
@@ -71,6 +79,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:vBL_LjgTqDQ"
     videoId: "vBL_LjgTqDQ"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #10"
     subtitle: "Siti Web: Inara Eddb Edsm"
@@ -79,6 +88,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:2IRPnU5rokI"
     videoId: "2IRPnU5rokI"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #11"
     subtitle: "Missione kill known pirate e sblocco Ing Marco Qwent"
@@ -87,6 +97,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:GtnirOgV8K8"
     videoId: "GtnirOgV8K8"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #12"
     subtitle: "Palin dall'inizio alla fine"
@@ -95,6 +106,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:8I-fNjWZ8rw"
     videoId: "8I-fNjWZ8rw"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #13"
     subtitle: "A caccia di pirati!"
@@ -103,6 +115,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:q3Ousvk1jjs"
     videoId: "q3Ousvk1jjs"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #14"
     subtitle: "Illegal Black Box Salvage"
@@ -111,6 +124,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:piS3-Ksl_vs"
     videoId: "piS3-Ksl_vs"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #15"
     subtitle: "Fire Groups"
@@ -119,6 +133,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:jj-q3x19P2c"
     videoId: "jj-q3x19P2c"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #16"
     subtitle: "Tutorial Base base che più base non si può"
@@ -127,6 +142,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:MhsP9RA2w-o"
     videoId: "MhsP9RA2w-o"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #17"
     subtitle: "Rank Impero come e dove"
@@ -135,6 +151,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:Cm5QTv7WHbE"
     videoId: "Cm5QTv7WHbE"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #18"
     subtitle: "Arruolamento squadrone ALTO COMANDO FLOTTA STELLARE"
@@ -143,6 +160,7 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:u8fHT5th64Y"
     videoId: "u8fHT5th64Y"
+    category: tutorial
   - 
     title: "Elite Dangerous Tutorial #19 Base"
     subtitle: "Neutron Star"
@@ -151,3 +169,124 @@
     author: "CMDR COK7SETTE"
     id: "yt:video:i5wOD08inr0"
     videoId: "i5wOD08inr0"
+    category: tutorial
+  - 
+    title: "Odyssey VR anche a piedi? Non ci crederete, ma... SI !!!"
+    link: "https://www.youtube.com/watch?v=q2NZxbiveLU"
+    pubDate: "2026-10-27 17:42:28 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:q2NZxbiveLU"
+    videoId: "q2NZxbiveLU"
+    category: tutorial
+  - 
+    title: "Elite Dangerous Odyssey - Guida all'exo-biologia"
+    link: "https://www.youtube.com/watch?v=CcEXkKGqK2A"
+    pubDate: "2024-12-29 14:12:49 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:CcEXkKGqK2A"
+    videoId: "CcEXkKGqK2A"
+    category: tutorial
+  - 
+    title: "[ACFS] Death of Titan Cocijo - From the black box of our CMDR Raven83ITA"
+    link: "https://www.youtube.com/watch?v=Qq-a8g6U3Q4"
+    pubDate: "2024-12-24 14:11:07 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:Qq-a8g6U3Q4"
+    videoId: "Qq-a8g6U3Q4"
+    category: storie-di-flotta
+  - 
+    title: "Elite Dangerous: Odyssey Material Helper -tutorial- [ACFS]"
+    link: "https://www.youtube.com/watch?v=7RCkEflmF04"
+    pubDate: "2024-11-10 15:50:27 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:7RCkEflmF04"
+    videoId: "7RCkEflmF04"
+    category: tutorial
+  - 
+    title: "ACFS - Haz Res a bordo di un Viper Mk3"
+    link: "https://www.youtube.com/watch?v=eUc-ap1zZFQ"
+    pubDate: "2024-10-06 21:17:57 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:eUc-ap1zZFQ"
+    videoId: "eUc-ap1zZFQ"
+    category: storie-di-flotta
+  - 
+    title: "CQC amichevole - ACFS+AIRONE"
+    link: "https://www.youtube.com/watch?v=s52B64UBlpw"
+    pubDate: "2024-09-24 07:03:26 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:s52B64UBlpw"
+    videoId: "s52B64UBlpw"
+    category: eventi-di-squadrone
+  - 
+    title: "ACFS - Kessel Keep Tour - Una nuova conquista"
+    link: "https://www.youtube.com/watch?v=mkkPjDkiZeo"
+    pubDate: "2024-08-29 21:16:12 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:mkkPjDkiZeo"
+    videoId: "mkkPjDkiZeo"
+    category: storie-di-flotta
+  - 
+    title: "ACFS - A Sad Little Story by Cosmus Max"
+    link: "https://www.youtube.com/watch?v=sA47euS0j1c"
+    pubDate: "2024-03-12 17:51:07 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:sA47euS0j1c"
+    videoId: "sA47euS0j1c"
+    category: storie-di-flotta
+  - 
+    title: "ACFS - Furto di materiale in una base anarchica"
+    link: "https://www.youtube.com/watch?v=YohHOjW210g"
+    pubDate: "2024-03-11 18:03:12 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:YohHOjW210g"
+    videoId: "YohHOjW210g"
+    category: storie-di-flotta
+  - 
+    title: "[ACFS] CMDR Cosmus Max's day off"
+    link: "https://www.youtube.com/watch?v=FbhAyZ_Gc1E"
+    pubDate: "2024-03-09 09:54:18 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:FbhAyZ_Gc1E"
+    videoId: "FbhAyZ_Gc1E"
+    category: storie-di-flotta
+  - 
+    title: "ACFS - The Death of Taranis by Cosmus Max"
+    link: "https://www.youtube.com/watch?v=Ifzs3VtyOFM"
+    pubDate: "2024-03-05 22:30:32 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:Ifzs3VtyOFM"
+    videoId: "Ifzs3VtyOFM"
+    category: storie-di-flotta
+  - 
+    title: "ACFS - Death of Taranis"
+    link: "https://www.youtube.com/watch?v=9vEYsr0Vy_o"
+    pubDate: "2024-03-02 21:40:28 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:9vEYsr0Vy_o"
+    videoId: "9vEYsr0Vy_o"
+    category: storie-di-flotta
+  - 
+    title: "ACFS - Exploration diaries - The Black in Green"
+    link: "https://www.youtube.com/watch?v=_IWqgeRr2PI"
+    pubDate: "2024-02-24 17:55:06 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:_IWqgeRr2PI"
+    videoId: "_IWqgeRr2PI"
+    category: storie-di-flotta
+  - 
+    title: "ACFS - Sparring Day - PvP training matches"
+    link: "https://www.youtube.com/watch?v=-OpjV6XaiNE"
+    pubDate: "2024-02-22 07:09:04 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:-OpjV6XaiNE"
+    videoId: "-OpjV6XaiNE"
+    category: eventi-di-squadrone
+  - 
+    title: "ACFS Sparring Match - Allenamento PvP"
+    link: "https://www.youtube.com/watch?v=5ZH8I1E37cs"
+    pubDate: "2024-02-13 22:21:57 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:5ZH8I1E37cs"
+    videoId: "5ZH8I1E37cs"
+    category: eventi-di-squadrone

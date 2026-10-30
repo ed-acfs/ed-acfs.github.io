@@ -8,17 +8,19 @@
 			<script type="application/ld+json">
 			[
 			{% for video in ld_videos %}
+				{% assign vcat = site.data.video_categories | where: "id", video.category | first %}
+				{% capture vname %}{{ video.title }}{% if video.subtitle %} – {{ video.subtitle }}{% endif %}{% endcapture %}
 				{
 					"@context": "https://schema.org",
 					"@type": "VideoObject",
-					"name": {{ video.title | append: " – " | append: video.subtitle | jsonify }},
-					"description": {{ video.title | append: " in italiano: " | append: video.subtitle | append: ". Video tutorial di Elite Dangerous a cura di " | append: video.author | append: ", Alto Comando Flotta Stellare." | jsonify }},
+					"name": {{ vname | jsonify }},
+					"description": {{ vname | append: " – " | append: vcat.label | append: " a cura di " | append: video.author | append: "." | jsonify }},
 					"thumbnailUrl": "https://i.ytimg.com/vi/{{ video.videoId }}/hqdefault.jpg",
 					"uploadDate": "{{ video.pubDate | date_to_xmlschema }}",
 					"contentUrl": {{ video.link | jsonify }},
 					"embedUrl": "https://www.youtube-nocookie.com/embed/{{ video.videoId }}",
 					"inLanguage": "it",
-					"author": { "@type": "Person", "name": {{ video.author | jsonify }} }
+					"author": { "@type": "{% if video.author contains 'CMDR' %}Person{% else %}Organization{% endif %}", "name": {{ video.author | jsonify }} }
 				}{% unless forloop.last %},{% endunless %}
 			{% endfor %}
 			]
@@ -56,7 +58,7 @@
 						{% for video in latestvideo limit:1 %}
 						<div class="video-container">
 								<iframe 
-									id="ytplayer" width="560" height="315" title="{{video.title}} – {{video.subtitle}}"
+									id="ytplayer" width="560" height="315" title="{{video.title}}{% if video.subtitle %} – {{video.subtitle}}{% endif %}"
 									src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent" 
 									frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen>
 								</iframe>
@@ -64,31 +66,39 @@
 						{% endfor %}
 					</article>
 
-					<!-- Video -->
+					<!-- Video per categoria -->
+					{% for cat in site.data.video_categories %}
+					{% assign catvideos = site.data.videos | where: "category", cat.id | sort: 'pubDate' %}
+					{% if cat.order == "desc" %}{% assign catvideos = catvideos | reverse %}{% endif %}
+					<h2 id="{{ cat.id }}">{{ cat.title }}</h2>
+					<p>{{ cat.intro }}</p>
 					<section class="posts">
-							{% assign sorted = site.data.videos | sort: 'pubDate' %}
-							{% for video in sorted %}
-						
+							{% for video in catvideos %}
+							{% capture vname %}{{video.title}}{% if video.subtitle %} - {{video.subtitle}}{% endif %}{% endcapture %}
+
 							 <div class="hoverbox" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
-								<img src="/images/videodelcock.png" style="cursor:pointer" alt="Copertina di {{video.title}}: {{video.subtitle}}. Clicca per avviare il video" title="{{video.title}} ITA - {{video.subtitle}}">
+								<img src="/images/videodelcock.png" style="cursor:pointer" alt="Copertina di {{vname}}. Clicca per avviare il video" title="{{vname}}">
 									<div class="hovertext">
 										<h3>{{video.title}}</h3>
 									</div>
+									{% if video.subtitle %}
 									<div class="hoversub">
 										<h3>{{video.subtitle}}</h3>
 									</div>
+									{% endif %}
 							 </div>
-					
+
 								<div class="video-container" style="display:none;">
 									<iframe 
 										width="560" height="315" loading="lazy"
-										title="{{video.title}} – {{video.subtitle}}"
+										title="{{vname}}"
 										src="https://www.youtube-nocookie.com/embed/{{video.videoId}}?autoplay=0&amp;wmode=transparent"
 										frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen>
 									</iframe>
 								</div>
 							{% endfor %}
 					</section>
+					{% endfor %}
 
 					<!-- Footer -->
 						<footer>
