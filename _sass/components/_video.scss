@@ -73,28 +73,44 @@
 .videocard {
   position: relative;
   display: inline-block;
+  vertical-align: top;
+  width: calc(50% - 1.5rem);
+  margin: 0 0.75rem 2rem;
   cursor: pointer;
   img {
     display: block;
     width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
   }
   h3 {
-    margin: 0.5em 0 0;
-    font-size: 0.9em;
+    margin: 0.75em 0 0;
+    font-size: 0.8em;
+    line-height: 1.5;
+    text-align: center;
   }
   &::after {
-    content: "B6";
+    content: "\25B6";
     position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 2em;
+    top: 0;
+    left: 0;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5em;
     color: #fff;
-    text-shadow: 0 0 6px #000;
+    text-shadow: 0 0 8px #000;
     opacity: 0.85;
+    pointer-events: none;
   }
   &:hover::after,
   &:focus::after {
     color: #f07b05;
+  }
+  @media (max-width: 736px) {
+    width: 100%;
+    margin: 0 0 2rem;
   }
 }
