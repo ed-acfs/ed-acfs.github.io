@@ -1,8 +1,8 @@
 - id: tutorial
   title: "Guide e Tutorial"
-  intro: "Le guide di Elite Dangerous in italiano: dai primi passi al BGS, fino a Odyssey e agli strumenti per la Flotta."
+  intro: "Guide di Elite Dangerous in italiano: Odyssey, exo-biologia e gli strumenti utili alla Flotta."
   label: "Video tutorial di Elite Dangerous"
-  order: asc
+  order: desc
 - id: storie-di-flotta
   title: "Storie di Flotta"
   intro: "Racconti, imprese e momenti di vita dei Comandanti dell'Alto Comando Flotta Stellare."
@@ -13,3 +13,9 @@
   intro: "Allenamenti, sfide e incontri organizzati dal nostro Squadrone."
   label: "Evento di Squadrone dell'Alto Comando Flotta Stellare"
   order: desc
+- id: video-del-cok
+  title: "I video del Cok"
+  intro: "I video tutorials di CMDR COK7SETTE, il nostro Vice Ammiraglio: le guide storiche con cui siamo cresciuti e a cui siamo affezionati. Segui anche tu i suoi video per arrivare lá... dove nessun video è mai giunto prima. Scopri cosa si nasconde dietro la copertina!"
+  label: "Video tutorial di Elite Dangerous"
+  order: asc
+  cover: true

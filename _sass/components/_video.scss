@@ -69,3 +69,32 @@
     border-radius: 5px;
   }
 }
+
+.videocard {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  img {
+    display: block;
+    width: 100%;
+  }
+  h3 {
+    margin: 0.5em 0 0;
+    font-size: 0.9em;
+  }
+  &::after {
+    content: "B6";
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    color: #fff;
+    text-shadow: 0 0 6px #000;
+    opacity: 0.85;
+  }
+  &:hover::after,
+  &:focus::after {
+    color: #f07b05;
+  }
+}

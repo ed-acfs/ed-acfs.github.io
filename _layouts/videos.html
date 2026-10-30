@@ -47,8 +47,8 @@
 				<div id="main">		
 					<article class="post featured">
 						<header class="major">
-							<h2><a href="#">I video tutorials di CMDR COK7SETTE</a></h2>
-							<p>Segui anche tu i Video Tutorials del nostro Vice Ammiraglio per arrivare lá... dove nessun video è mai giunto prima
+							<h2><a href="#">I video dell'Alto Comando Flotta Stellare</a></h2>
+							<p>Guide, storie ed eventi del nostro Squadrone, e i video storici del Cok
 							</p>					
 						<span class="image fit"><img src="/images/Elite-Division-png.png" alt="Elite Dangerous Division, Flotta Stellare"></span>
 						</header>
@@ -76,6 +76,7 @@
 							{% for video in catvideos %}
 							{% capture vname %}{{video.title}}{% if video.subtitle %} - {{video.subtitle}}{% endif %}{% endcapture %}
 
+							 {% if cat.cover %}
 							 <div class="hoverbox" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
 								<img src="/images/videodelcock.png" style="cursor:pointer" alt="Copertina di {{vname}}. Clicca per avviare il video" title="{{vname}}">
 									<div class="hovertext">
@@ -87,6 +88,12 @@
 									</div>
 									{% endif %}
 							 </div>
+							 {% else %}
+							 <div class="videocard" role="button" tabindex="0" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click();}" onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
+								<img src="https://i.ytimg.com/vi/{{video.videoId}}/hqdefault.jpg" loading="lazy" alt="Anteprima di {{vname}}. Clicca per avviare il video" title="{{vname}}">
+								<h3>{{video.title}}</h3>
+							 </div>
+							 {% endif %}
 
 								<div class="video-container" style="display:none;">
 									<iframe 
