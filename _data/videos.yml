@@ -290,3 +290,48 @@
     id: "yt:video:5ZH8I1E37cs"
     videoId: "5ZH8I1E37cs"
     category: eventi-di-squadrone
+  - 
+    title: "ACFS - Guardian Paint Jobs"
+    link: "https://www.youtube.com/watch?v=1kjxnsKGz0w"
+    pubDate: "2024-01-26 12:24:23 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:1kjxnsKGz0w"
+    videoId: "1kjxnsKGz0w"
+    duration: "PT2M15S"
+    category: storie-di-flotta
+  - 
+    title: "Elite Dangerous - Xeno Research Mission - ACFS"
+    link: "https://www.youtube.com/watch?v=N9ikSpyJfYg"
+    pubDate: "2023-08-27 11:09:25 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:N9ikSpyJfYg"
+    videoId: "N9ikSpyJfYg"
+    duration: "PT11M31S"
+    category: eventi-di-squadrone
+  - 
+    title: "ACFS - Tutorial svolgimento Pattuglie"
+    link: "https://www.youtube.com/watch?v=iP_xs4cGp1s"
+    pubDate: "2023-07-23 12:22:45 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:iP_xs4cGp1s"
+    videoId: "iP_xs4cGp1s"
+    duration: "PT23M11S"
+    category: tutorial
+  - 
+    title: "Tutorial di installazione - BGS Tally"
+    link: "https://www.youtube.com/watch?v=E5UDhXW7s38"
+    pubDate: "2023-04-16 16:07:25 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:E5UDhXW7s38"
+    videoId: "E5UDhXW7s38"
+    duration: "PT15M21S"
+    category: tutorial
+  - 
+    title: "Tutorial di installazione EDMC"
+    link: "https://www.youtube.com/watch?v=4YvSC49iNKM"
+    pubDate: "2022-12-30 15:18:14 +0000"
+    author: "Alto Comando Flotta Stellare"
+    id: "yt:video:4YvSC49iNKM"
+    videoId: "4YvSC49iNKM"
+    duration: "PT6M12S"
+    category: tutorial

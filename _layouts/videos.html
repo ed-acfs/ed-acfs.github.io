@@ -32,7 +32,8 @@
 			"description": {{ vname | append: " – " | append: cat.label | append: " a cura di " | append: video.author | append: "." | jsonify }},
 			"thumbnailUrl": "https://i.ytimg.com/vi/{{ video.videoId }}/hqdefault.jpg",
 			"uploadDate": "{{ video.pubDate | date_to_xmlschema }}",
-			"contentUrl": {{ video.link | jsonify }},
+{% if video.duration %}			"duration": "{{ video.duration }}",
+{% endif %}			"contentUrl": {{ video.link | jsonify }},
 			"embedUrl": "https://www.youtube-nocookie.com/embed/{{ video.videoId }}",
 			"inLanguage": "it",
 			"author": { "@type": "{% if video.author contains 'CMDR' %}Person{% else %}Organization{% endif %}", "name": {{ video.author | jsonify }} }
