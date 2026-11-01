@@ -78,6 +78,14 @@
 			li {
 				border-top: solid 2px _palette(border);
 
+					// Sottomenu nel flusso: se resta absolute si sovrappone alle icone social.
+					ul.drop {
+						position: static;
+						box-shadow: none;
+						white-space: normal;
+						margin-bottom: 0.75rem;
+					}
+
 				a {
 					border-bottom: 0;
 					display: block;
