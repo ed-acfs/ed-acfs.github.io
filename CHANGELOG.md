@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.9.1] - 2026-11-08 — La PWA del sito non intercetta più il Tool
+
+- **Corretto**: il service worker del sito (scope `/`) copre anche `/acfs-bgs-tool/`; se la PWA del Tool
+  non aveva il proprio service worker attivo e la rete falliva, la finestra mostrava la home del sito
+  invece del Tool (segnalato l'8 novembre 2026, risolto reinstallando la PWA). Ora le navigazioni sotto
+  `/acfs-bgs-tool/` non passano più dal service worker del sito. Cache offline portata a `v3`.
+
 ## [1.9.0] - 2026-10-23 — Mappa 3D con i dati aggiornati dal server
 
 - La mappa legge all'apertura i sistemi dal server dello Squadrone (`api.flottastellare.it/v1/site`, Spansh

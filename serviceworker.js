@@ -1,4 +1,4 @@
-const CACHE = "pwabuilder-offline-v2";
+const CACHE = "pwabuilder-offline-v3";
 
 const offlineFallbackPage = "index.html";
 
@@ -40,6 +40,9 @@ self.addEventListener("fetch", function (event) {
   if (event.request.method !== "GET") return;
   if (event.request.mode !== "navigate") return;
   if (new URL(event.request.url).origin !== self.location.origin) return;
+  // Il ACFS BGS Tool (/acfs-bgs-tool/) è una PWA a sé, con un proprio service worker:
+  // se questo la intercettasse, in caso di rete assente le servirebbe la home del sito.
+  if (new URL(event.request.url).pathname.indexOf("/acfs-bgs-tool/") === 0) return;
 
   event.respondWith(
     fetch(event.request).catch(function () {
