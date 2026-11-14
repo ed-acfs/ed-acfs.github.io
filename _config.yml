@@ -90,6 +90,13 @@ defaults:
       layout: post
       image: /images/logo_843x885.png
 
+  # Demo della mappa 3D: bloccate in robots.txt, quindi fuori anche dalla sitemap
+  -
+    scope:
+      path: "map/demo_*"
+    values:
+      sitemap: false
+
 collections:
   posts:
     output: true
