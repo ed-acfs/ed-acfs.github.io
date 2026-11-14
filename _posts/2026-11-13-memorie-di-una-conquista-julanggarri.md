@@ -58,11 +58,11 @@ A Julanggarri le Fazioni non native, cioè quelle che non hanno origine nel sist
     <span class="image fit"><a href="/images/posts/memorie-julanggarri/leviathan.jpg"><img src="{{ "/images/posts/memorie-julanggarri/leviathan.jpg" | prepend:site.baseurl }}" alt="La [ACFS] Leviathan, la principale nave da BGS di WiitifulSky"  title="Immagine 2"/></a></span>
 </div>
 
-<blockquote>La scelta ricadde sulla <b>Dewikum League</b>.</blockquote>
+<blockquote>La scelta ricadde sui <b>Dewikum League</b>.</blockquote>
 
 Delle tre era la più debole: aveva l'influenza più bassa, e quindi richiedeva meno lavoro per scendere sotto la soglia. In una manovra in cui i tempi dovevano essere precisi al giorno, non potevamo permetterci un bersaglio che opponesse resistenza.
 
-La Dewikum League era la Fazione nativa di [Dewikum](https://inara.cz/elite/starsystem/12393/), un sistema che conoscevamo benissimo: ci eravamo arrivati a Luglio, l'avevamo conquistato ad Agosto, e avevamo festeggiato offrendo biscotti a tutti gli abitanti. Ma soprattutto, Dewikum è la casa di Cok7Sette, che nella Flotta abbiamo sempre chiamato, con affetto, **l'Imperatore**.
+I Dewikum League erano la Fazione nativa di [Dewikum](https://inara.cz/elite/starsystem/12393/), un sistema che conoscevamo benissimo: ci eravamo arrivati a Luglio, l'avevamo conquistato ad Agosto, e avevamo festeggiato offrendo biscotti a tutti gli abitanti. Ma soprattutto, Dewikum è la casa di Cok7Sette, che nella Flotta abbiamo sempre chiamato, con affetto, **l'Imperatore**.
 
 Insomma, la Fazione da sfrattare veniva dalla [casa dell'Imperatore](/map/).
 
@@ -72,11 +72,11 @@ Mandare in [retreat](/blog/stati-fazioni-minori/) una Fazione, di per sé, non e
 
 L'espansione sarebbe partita da 14 Geminorum. Ci eravamo entrati a Luglio del 3305, dopo un lungo lavoro di convincimento. Il giorno dopo era cominciata la [battaglia per Eisenhower Square](/blog/battaglia-14-geminorum-day1/), che avevamo vinto in meno di una settimana, e a fine mese era arrivata anche Clarke Keep. Il controllo del sistema, però, ce lo eravamo guadagnato solo a Settembre, dopo un periodo elettorale lungo e combattuto. Da quel giorno governavamo oltre 36 milioni di persone.
 
-Passai giorni a fare e rifare i conti. Da 14 Geminorum dovevamo avviare la pending expansion e poi l'espansione vera e propria, e io contavo i giorni uno per uno. Il pending retreat della Dewikum League doveva scattare esattamente il primo giorno dell'espansione, e il retreat il giorno dopo. Non prima, non dopo.
+Passai giorni a fare e rifare i conti. Da 14 Geminorum dovevamo avviare la pending expansion e poi l'espansione vera e propria, e io contavo i giorni uno per uno. Il pending retreat dei Dewikum League doveva scattare esattamente il primo giorno dell'espansione, e il retreat il giorno dopo. Non prima, non dopo.
 
-Il motivo era semplice, e non ci lasciava margini. Non eravamo gli unici a guardare Julanggarri. Nei sistemi vicini c'erano altre Fazioni già a tiro di espansione, alcune addirittura in espansione, e Julanggarri rientrava anche nel loro raggio. Sbagliare anche di un solo giorno significava liberare il posto della Dewikum League per regalarlo a qualcun altro.
+Il motivo era semplice, e non ci lasciava margini. Non eravamo gli unici a guardare Julanggarri. Nei sistemi vicini c'erano altre Fazioni già a tiro di espansione, alcune addirittura in espansione, e Julanggarri rientrava anche nel loro raggio. Sbagliare anche di un solo giorno significava liberare il posto dei Dewikum League per regalarlo a qualcun altro.
 
-Per riuscirci serviva un undermining potente contro la Dewikum League.
+Per riuscirci serviva un undermining potente contro i Dewikum League.
 
 <div class="box">
 <i class="fa fa-lightbulb-o fa-lg" aria-hidden="true" style="color: #f07b05;"></i>&nbsp;<b>BGS Tip:</b>&nbsp;Per mandare in retreat una Fazione serve un undermining costante: abbassarne l'influenza giorno dopo giorno, fino a portarla sotto il 2,5%. Sotto quella soglia la Fazione entra in pending retreat, e il giorno successivo scatta il retreat vero e proprio.</div>
@@ -97,9 +97,9 @@ La Leviathan, del resto, vola ancora con me. Le sono davvero affezionato.
 
 Ed è qui che la faccenda si complicò. Per quasi una settimana intera.
 
-Ogni volta che la Yavin IV faceva fallire una missione della Dewikum League, io perdevo reputazione nei loro confronti. Era logico, se ci si pensa. Ma se la reputazione fosse scesa fino a Hostile, la Dewikum League avrebbe smesso di darmi missioni, e senza missioni non avrei più potuto farle fallire. E io dovevo andare avanti fino alla fine del retreat, per tenerli costantemente intorno all'1%.
+Ogni volta che la Yavin IV faceva fallire una missione dei Dewikum League, io perdevo reputazione nei loro confronti. Era logico, se ci si pensa. Ma se la reputazione fosse scesa fino a Hostile, i Dewikum League avrebbero smesso di darmi missioni, e senza missioni non avrei più potuto farle fallire. E io dovevo andare avanti fino alla fine del retreat, per tenerli costantemente intorno all'1%.
 
-Dovevo quindi recuperare reputazione, ogni giorno. E la Dewikum League, oltre a Julanggarri, era presente in pochissimi altri sistemi: in pratica potevo farlo solo a Dewikum, a casa loro.
+Dovevo quindi recuperare reputazione, ogni giorno. E i Dewikum League, oltre a Julanggarri, erano presenti in pochissimi altri sistemi: in pratica potevo farlo solo a Dewikum, a casa loro.
 
 Il ciclo era sempre lo stesso. Prima andavo a caccia di taglie per loro. Poi raggiungevo Dewikum, vendevo le taglie, controllavo se c'era qualche missione da fare, e insistevo finché la reputazione non tornava almeno a Cordial. Poi tornavo a Julanggarri, e ricominciavo a sbattere.
 
@@ -113,9 +113,9 @@ C'era solo un piccolo problema. L'unico outpost di Dewikum si trova a 223.028 LS
 
 ## 22 Febbraio 3306
 
-L'ultimo viaggio verso Dewikum lo feci la sera prima. Duecentoventitremila secondi luce all'andata e altrettanti al ritorno, con gli occhi sul contatore della distanza che scendeva lentissimo. Ormai conoscevo quel tragitto minuto per minuto. Poi tornai a Julanggarri, attraccai, e aspettai il tick.
+L'ultimo viaggio verso Dewikum lo feci la sera prima. Duecentoventitremila secondi luce per arrivare all'outpost, con gli occhi sul contatore della distanza che scendeva lentissimo. Ormai conoscevo quel tragitto minuto per minuto. Il ritorno, almeno, era immediato: una volta lasciato l'outpost, si saltava subito fuori dal sistema. Poi tornai a Julanggarri, attraccai, e aspettai il tick.
 
-Non ci furono giorni di incertezza, né conteggi da rifare all'ultimo momento. Il piano era stato congegnato così bene, e portato avanti così di concerto, che al momento del tick tutto cambiò nello stesso istante. Aprii il pannello del sistema: la Dewikum League non c'era più. Al suo posto, nell'elenco delle Fazioni del sistema, c'era il nostro nome: Flotta Stellare.
+Non ci furono giorni di incertezza, né conteggi da rifare all'ultimo momento. Il piano era stato congegnato così bene, e portato avanti così di concerto, che al momento del tick tutto cambiò nello stesso istante. Aprii il pannello del sistema: i Dewikum League non c'erano più. Al loro posto, nell'elenco delle Fazioni del sistema, c'era il nostro nome: Flotta Stellare.
 
 ## Finalmente, Julanggarri
 
@@ -123,7 +123,7 @@ Non ci furono giorni di incertezza, né conteggi da rifare all'ultimo momento. I
     <span class="image fit"><a href="/images/posts/memorie-julanggarri/arrivo-julanggarri.jpg"><img src="{{ "/images/posts/memorie-julanggarri/arrivo-julanggarri.jpg" | prepend:site.baseurl }}" alt="Una nave della Flotta Stellare davanti allo slot di una stazione di Julanggarri"  title="Immagine 5"/></a></span>
 </div>
 
-La Dewikum League fuori, e noi dentro. Nello stesso tick, come serviva.
+I Dewikum League fuori, e noi dentro. Nello stesso tick, come serviva.
 
 Nel canale dello squadrone, quella notte, i messaggi continuarono ad arrivare per un bel pezzo. Io risposi a pochi. Provavo una grande soddisfazione, e insieme una stanchezza che non sentivo da tempo. Avevo passato sei giorni a fare la spola tra Julanggarri e il fondo del sistema di Dewikum, a far fallire missioni e a ricomprarmi, ogni sera, la fiducia della Fazione che stavo sfrattando.
 
