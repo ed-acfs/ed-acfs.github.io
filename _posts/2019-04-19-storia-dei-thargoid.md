@@ -2,7 +2,7 @@
 layout: post
 title:  "Storia di Elite: I Thargoids"
 date:   2019-04-19
-excerpt: "I Thargoid sono una specie aliena insettoide molto avanzata presente nella nostra Galassia da milioni di anni. E sono estremamente pericolosi"
+excerpt: "La storia dei Thargoid in Elite Dangerous: le origini, il conflitto con i Guardiani, le due guerre contro l'umanità e lo stato attuale del conflitto"
 image: "/images/posts/storia-dei-thargoids/thargoids2.jpg"
 tags: lore-di-elite thargoids
 author: scorpion
@@ -132,5 +132,5 @@ Negli ultimi giorni l’AEGIS ha deciso di incrementare la produzione delle armi
 <span class="image fit"><img src="/images/posts/storia-dei-thargoids/for-humanity.jpg" alt=""></span>
 
 <div class="box">
-<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i> &nbsp; Prosegui la lettura sui Thargoids con la seconda parte di questo speciale: <a href="/blog/societa-targhoid/">La Società Thargoid</a>
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i> &nbsp; Prosegui la lettura sui Thargoids con la seconda parte di questo speciale, dedicata a biologia, struttura sociale, flotta e tecnologia: <a href="/blog/societa-targhoid/">La Società Thargoid</a>
 </div>

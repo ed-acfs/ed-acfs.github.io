@@ -2,7 +2,7 @@
 layout: post
 title:  "Approfondimento: La società Thargoid"
 date:   2019-04-20
-excerpt: "Approfondiamo ulteriormente l'argomento Thargoids entrando nel dettaglio riguardo la loro struttura sociale e militare"
+excerpt: "Chi sono i Thargoid: biologia, società ad alveare, flotta di Intercettori e Scout, tecnologia e l'ipotesi della guerra civile fra Oresrian e Klaxian"
 image: "/images/posts/societa-thargoids/thargoids.jpg"
 tags: lore-di-elite thargoids
 author: scorpion
@@ -12,7 +12,7 @@ sticky: no
 
 ## Biologia Thargoid
 
-Come già detto in precedenza i Thargoid sono una specie insettoide e la loro
+Come già detto [nella prima parte](/blog/storia-dei-thargoid/) i Thargoid sono una specie insettoide e la loro
 composizione chimica è basata sul'ammoniaca. Si sono sviluppati in un ambiente freddo ed ostile, il che probabilmente ha portato questa specie ad essere molto aggressiva.
 
 ## La società Targhoid
@@ -99,7 +99,7 @@ Aumenta la manovrabilità e la velocità degli scout nelle vicinanze.
 
 ### Nave Madre Thargoid
 
-Non si hanno informazioni sulle capacità belliche di questa nave. E' stata identificata durante la [prima guerra Thargoid](/blog/storia-dei-thargoid#prima-guerra-thargoid-umani); è stata vista distruggere una base dell’INRA nel sistema HIP 161824
+Non si hanno informazioni sulle capacità belliche di questa nave. E' stata identificata durante la [prima guerra Thargoid](/blog/storia-dei-thargoid/#prima-guerra-thargoid-umani); è stata vista distruggere una base dell’INRA nel sistema HIP 161824
 
 ## Tecnologia Thargoid
 
@@ -121,4 +121,8 @@ I Klaxian stanno lentamente vincendo questa guerra, mentre gli Oresrian sono cos
 <div class="box">
 Queste sono comunque solo congetture, poiché la risposta Thargoid ad un primo contatto è sempre la stessa ovvero la <b>Guerra</b>.
 <p>Non cambiando nel corso dei millenni, non ci sono pervenute informazioni riguardanti la politica interna che ci facciano comprendere le loro reali intenzioni.</p>
+</div>
+
+<div class="box">
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i> &nbsp; Questa è la seconda parte dello speciale sui Thargoids. Per la loro storia, dalle origini alle guerre contro l'umanità, leggi la prima parte: <a href="/blog/storia-dei-thargoid/">Storia di Elite: I Thargoids</a>
 </div>
