@@ -3,7 +3,7 @@ layout: page
 title: BGS - Background Simulation
 description: Cosa è la Background Simulation (BGS) Di Elite Dangerous e come far si che la propria fazione si possa espndare all'interno del mondo di gioco
 image: /images/logo_843x885.png
-last_modified_at: 2019-04-09
+last_modified_at: 2026-11-14
 ---
 ## Cosa è la BGS
 
@@ -63,5 +63,9 @@ Nessun conflitto può verificarsi al di sotto del 7% di influenza.
 Questi stati di conflitto hanno la priorità sugli stati economici e li bloccheranno o li faranno terminare molto presto. 
 I conflitti non possono finire prima della loro durata minima. 
 Una fazione può prendere parte a un singolo conflitto, indipendentemente dal numero di sistemi in cui sono presenti.
+
+## Lo strumento BGS che usiamo ogni giorno
+
+Per seguire l'influenza e gli stati della nostra Fazione in centinaia di sistemi usiamo l'**[ACFS BGS Tool](https://flottastellare.it/acfs-bgs-tool/)**: mette in un'unica tabella i sistemi in cui siamo presenti e li ordina per priorità, da P1 a P5, così dopo ogni tick si vede subito dove lavorare. Come è nato e come si usa è raccontato nel post [ACFS BGS Tool](/blog/acfs-bgs-tool/).
 
 FONTI: [Elite-Dangerous Fandom](https://elite-dangerous.fandom.com/wiki/Background_Simulation), [Elite Dangerous Italia](https://www.elitedangerousitalia.it/background-simulation/)
