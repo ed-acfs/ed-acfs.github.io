@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.9.2] - 2026-11-14 — robots.txt segnala la sitemap dell'ACFS BGS Tool
+
+- `robots.txt` ha una seconda riga `Sitemap:` verso `/acfs-bgs-tool/sitemap.xml`, la sitemap del Tool
+  (pubblicata dal repo `acfs-bgs-tool`): la pagina del Tool non era nella sitemap del dominio e Google
+  non la conosceva. Le `Disallow` sono invariate.
+
 ## [1.9.1] - 2026-11-08 — La PWA del sito non intercetta più il Tool
 
 - **Corretto**: il service worker del sito (scope `/`) copre anche `/acfs-bgs-tool/`; se la PWA del Tool

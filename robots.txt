@@ -11,3 +11,4 @@ Disallow: /corocoropollon/
 Disallow: /map/demo_
 
 Sitemap: {{site.url}}/sitemap.xml
+Sitemap: {{site.url}}/acfs-bgs-tool/sitemap.xml
