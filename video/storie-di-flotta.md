@@ -1,7 +1,7 @@
 ---
 layout: videos
 permalink: /video/storie-di-flotta/
-title: "Storie di Flotta: i video dell'Alto Comando Flotta Stellare"
+title: "Storie di Flotta: i video dello Squadrone"
 description: "Racconti, imprese, esplorazioni e momenti di vita dei Comandanti dell'Alto Comando Flotta Stellare in Elite Dangerous."
 heading: "Storie di Flotta"
 image: /images/Elite-Division-png.png
