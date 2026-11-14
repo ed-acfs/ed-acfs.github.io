@@ -2,7 +2,8 @@
 layout: post
 title:  "Approfondimento: Le Stazioni in Elite Dangerous"
 date:   2019-04-23
-excerpt: "Ne veniamo a contatto fin dai primi istanti di gioco. Conosciamo meglio tutte le tipologie di stazioni presenti in Elite: Dangerous"
+excerpt: "Tutte le stazioni di Elite Dangerous: Orbis, Coriolis, Ocellus, avamposti, basi planetarie e le stazioni mobili della flotta, le Fleet Carrier dei comandanti"
+last_modified_at: 2026-11-14
 image: "/images/posts/stazioni-elitedangerous/coriolisblueprint.png"
 tags: tecnica stazioni lore-di-elite
 author: scorpion
@@ -177,6 +178,16 @@ Le installazioni possono essere:
 ## Stazioni sulla superficie planetaria
 
 Svolgono gli stessi compiti degli spazioporti ed inoltre dispongono di strade su cui è possibile muoversi con gli SRV.
+
+## Fleet Carrier: le stazioni mobili della flotta
+
+Dal 3306 alle stazioni fisse si sono aggiunte le **Fleet Carrier**: stazioni mobili che un comandante può acquistare per circa **5 miliardi di crediti** nei cantieri della Brewer Corporation e spostare da un sistema all'altro, con salti fino a **500 anni luce** alimentati a trizio.
+
+Come una stazione offrono mercato, riparazioni, rifornimento, armeria, outfitting e shipyard, ma è il proprietario a decidere quali servizi attivare e chi può atterrare: nessuno, solo gli amici, solo lo squadrone, oppure tutti. Per questo sono diventate la base operativa di molti squadroni durante esplorazioni, operazioni BGS e colonizzazione.
+
+<div class="box">
+<i class="fa fa-hand-o-right fa-lg" aria-hidden="true" style="color: #f07b05;"></i> &nbsp; Costi, servizi, autonomia e varianti sono spiegati nel dettaglio nel nostro approfondimento: <a href="/blog/fleet-carrier-drake-class/">Le Fleet Carrier</a>
+</div>
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 <div class="box alt">
