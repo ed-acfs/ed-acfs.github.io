@@ -4,7 +4,7 @@ title: "Chi Siamo"
 description: Alto Comando Flotta Stellare è uno Squadrone di Elite Dangerous. Abbiamo una minor faction in game con oltre 250 sistemi controllati e abbiamo i biscotti
 datatable: true
 image: /images/logo_843x885.png
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-21
 ---
 <style>
 .wrap-collapsible {
@@ -173,14 +173,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **413 sistemi**, di cui **269** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **417 sistemi**, di cui **273** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **445** stazioni
   - **928** insediamenti
   - **174** installazioni
   - **1** megaship
 
-Governiamo su **26.535.678.800** abitanti
+Governiamo su **26.544.801.849** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -193,7 +193,7 @@ Governiamo su **26.535.678.800** abitanti
 |     | 37 Geminorum                 | Dittatoriale  | 9.207.049.116 | Indipendente         | Non Controllato  |
 |     | 50 A2 Cancri                 | Democratico   | 421.017 | Indipendente         | Controllato      |
 |     | 71 Orionis                   | Democratico   | 398.021 | Indipendente         | Controllato      |
-|     | 74 K Orionis                 | Democratico   | 200.546 | Indipendente         | Controllato      |
+|     | 74 K Orionis                 | Democratico   | 200.592 | Indipendente         | Controllato      |
 |     | Aldebaran                    | Democratico   | 15.000 | Indipendente         | Controllato      |
 |     | Alzirr                       | Democratico   | 2.196.672 | Indipendente         | Controllato      |
 |     | Amait                        | Corporativo   | 47.774 | Federale             | Non Controllato  |
@@ -201,7 +201,7 @@ Governiamo su **26.535.678.800** abitanti
 |     | Ao Kang                      | Democratico   | 2.234.693.565 | Indipendente         | Controllato      |
 |     | Aravaci                      | Democratico   | 72.561 | Indipendente         | Controllato      |
 |     | BD+08 1303                   | Democratico   | 20.853.922 | Indipendente         | Controllato      |
-|     | BD+11 1163                   | Corporativo   | 437.586 | Indipendente         | Non Controllato  |
+|     | BD+11 1163                   | Corporativo   | 437.614 | Indipendente         | Controllato      |
 |     | BD+14 831                    | Democratico   | 105.603 | Indipendente         | Controllato      |
 |     | BD+21 717                    | Corporativo   | 239.313.993 | Imperiale            | Non Controllato  |
 |     | Bellapa                      | Democratico   | 24.191 | Indipendente         | Controllato      |
@@ -294,7 +294,7 @@ Governiamo su **26.535.678.800** abitanti
 |     | HIP 96960                    | Democratico   | 3.502.011 | Indipendente         | Controllato      |
 |     | HR 2251                      | Corporativo   | 218.621 | Federale             | Non Controllato  |
 |     | Hyades Sector AB-M b8-5      | Corporativo   | 1.562.041 | Federale             | Non Controllato  |
-|     | Hyades Sector AR-K b9-2      | Democratico   | 84.880.730 | Indipendente         | Non Controllato  |
+|     | Hyades Sector AR-K b9-2      | Democratico   | 87.945.922 | Indipendente         | Non Controllato  |
 |     | Hyades Sector CM-K b9-5      | Democratico   | 595.183 | Indipendente         | Controllato      |
 |     | Hyades Sector IH-V d2-98     | Democratico   | 47.988.492 | Indipendente         | Controllato      |
 |     | Hyades Sector IR-V c2-9      | Patronale     | 957.303 | Indipendente         | Non Controllato  |
@@ -359,7 +359,7 @@ Governiamo su **26.535.678.800** abitanti
 |     | LBN 623 Sector RD-T c3-4     | Democratico   | 192.715 | Indipendente         | Controllato      |
 |     | LBN 623 Sector RD-T c3-7     | Democratico   | 190.680 | Indipendente         | Controllato      |
 |     | LBN 623 Sector RJ-G a11-1    | Democratico   | 197.658 | Indipendente         | Controllato      |
-|     | LBN 623 Sector UU-E a12-0    | Democratico   | 2.650.919 | Indipendente         | Controllato      |
+|     | LBN 623 Sector UU-E a12-0    | Democratico   | 2.651.216 | Indipendente         | Controllato      |
 |     | LBN 623 Sector VZ-P b5-3     | Dittatoriale  | 245.096 | Indipendente         | Non Controllato  |
 |     | LBN 623 Sector WZ-P b5-2     | Democratico   | 245.251 | Indipendente         | Non Controllato  |
 |     | LBN 623 Sector YU-P b5-0     | Democratico   | 192.852 | Indipendente         | Controllato      |
@@ -371,7 +371,7 @@ Governiamo su **26.535.678.800** abitanti
 |     | LHS 1803                     | Democratico   | 142.434 | Indipendente         | Non Controllato  |
 |     | LHS 1814                     | Dittatoriale  | 320.910 | Imperiale            | Non Controllato  |
 |     | LHS 1828                     | Democratico   | 397.594 | Indipendente         | Non Controllato  |
-|     | LHS 1838                     | Dittatoriale  | 198.905 | Indipendente         | Non Controllato  |
+|     | LHS 1838                     | Dittatoriale  | 198.917 | Indipendente         | Non Controllato  |
 |     | LHS 1857                     | Democratico   | 94.563 | Indipendente         | Controllato      |
 |     | LHS 1912                     | Dittatoriale  | 159.218 | Indipendente         | Non Controllato  |
 |     | LHS 1914                     | Dittatoriale  | 3.985.538.940 | Indipendente         | Non Controllato  |
@@ -489,7 +489,7 @@ Governiamo su **26.535.678.800** abitanti
 |     | Synuefe GT-H b43-4           | Corporativo   | 84.375 | Federale             | Non Controllato  |
 |     | Tamalhikas                   | Democratico   | 3.756.266 | Indipendente         | Controllato      |
 |     | Tao Ti                       | Democratico   | 3.551.128 | Indipendente         | Controllato      |
-|     | Tascheter Sector AA-Z b2     | Democratico   | 272.708 | Indipendente         | Controllato      |
+|     | Tascheter Sector AA-Z b2     | Democratico   | 273.167 | Indipendente         | Controllato      |
 |     | Tascheter Sector AA-Z b4     | Corporativo   | 1.477.905 | Federale             | Non Controllato  |
 |     | Tascheter Sector BL-O a6-1   | Corporativo   | 159.094 | Federale             | Non Controllato  |
 |     | Tascheter Sector CQ-Y c21    | Corporativo   | 1.609.354 | Federale             | Non Controllato  |
@@ -502,7 +502,7 @@ Governiamo su **26.535.678.800** abitanti
 |     | Tascheter Sector EV-Y a4     | Democratico   | 6.236.030 | Indipendente         | Controllato      |
 |     | Tascheter Sector FB-X b1-4   | Democratico   | 47.488.740 | Indipendente         | Controllato      |
 |     | Tascheter Sector FB-X b1-6   | Democratico   | 398.082 | Indipendente         | Controllato      |
-|     | Tascheter Sector FB-X b1-7   | Corporativo   | 157.208 | Imperiale            | Non Controllato  |
+|     | Tascheter Sector FB-X b1-7   | Corporativo   | 157.297 | Imperiale            | Non Controllato  |
 |     | Tascheter Sector FG-X b1-1   | Democratico   | 59.898.000 | Indipendente         | Controllato      |
 |     | Tascheter Sector FG-X b1-2   | Democratico   | 1.597.872 | Indipendente         | Controllato      |
 |     | Tascheter Sector FG-X b1-6   | Democratico   | 200.928 | Indipendente         | Controllato      |
@@ -565,8 +565,8 @@ Governiamo su **26.535.678.800** abitanti
 |     | Wredguia GX-S b31-3          | Cooperativo   | 338.777 | Indipendente         | Non Controllato  |
 |     | Wredguia HH-U b30-1          | Democratico   | 317.665 | Indipendente         | Controllato      |
 |     | Wredguia MI-S b31-1          | Democratico   | 185.166 | Indipendente         | Controllato      |
-|     | Wredguia PA-Y c14-8          | Democratico   | 39.870.424 | Indipendente         | Controllato      |
-|     | Wredguia PA-Y c14-9          | Democratico   | 633.266 | Indipendente         | Controllato      |
+|     | Wredguia PA-Y c14-8          | Democratico   | 48.398.166 | Indipendente         | Controllato      |
+|     | Wredguia PA-Y c14-9          | Democratico   | 790.157 | Indipendente         | Controllato      |
 |     | Wredguia QO-Q b32-1          | Democratico   | 54.374.809 | Indipendente         | Controllato      |
 |     | Wredguia QO-Q b32-3          | Democratico   | 332.185 | Indipendente         | Controllato      |
 |     | Wredguia RO-Q b32-0          | Democratico   | 83.180 | Indipendente         | Controllato      |
@@ -599,6 +599,7 @@ Governiamo su **26.535.678.800** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>21 Novembre 3312: Conquistiamo <b>BD+11 1163</b>, sistema corporativo con oltre 437 mila abitanti, che passa sotto il nostro controllo diretto</li>
           <li>08 Novembre 3312: Approdiamo su <b>BD+11 1163</b>, sistema corporativo indipendente con oltre 437 mila abitanti, per ora non sotto il nostro controllo</li>
           <li>05 Novembre 3312: Colonizziamo <b>Col 285 Sector TT-X b2-0</b></li>
           <li>29 Ottobre 3312: Colonizziamo <b>Wregoe ZF-Y b55-8</b></li>
