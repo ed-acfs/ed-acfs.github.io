@@ -173,14 +173,14 @@ Chi entra in ACFS prende visione e accetta il fatto che Elite è un gioco con un
 
 ## Il nostro BGS
 
-Siamo presenti in: **417 sistemi**, di cui **273** sono sotto il nostro controllo diretto.<br>
+Siamo presenti in: **418 sistemi**, di cui **274** sono sotto il nostro controllo diretto.<br>
 Controlliamo inoltre:
   - **445** stazioni
   - **928** insediamenti
   - **174** installazioni
   - **1** megaship
 
-Governiamo su **26.544.801.849** abitanti
+Governiamo su **29.150.287.975** abitanti
 
 <div class="datatable-begin"></div>
 
@@ -382,7 +382,7 @@ Governiamo su **26.544.801.849** abitanti
 |     | LHS 6119                     | Dittatoriale  | 1.997.892 | Indipendente         | Non Controllato  |
 |     | Lowne 1                      | Patronale     | 62.137 | Indipendente         | Non Controllato  |
 |     | LP 254-26                    | Dittatoriale  | 18.448.576 | Indipendente         | Non Controllato  |
-|     | LP 302-22                    | Democratico   | 2.605.486.126 | Indipendente         | Non Controllato  |
+|     | LP 302-22                    | Democratico   | 2.605.486.126 | Indipendente         | Controllato      |
 |     | LP 307-8                     | Democratico   | 1.596.791 | Indipendente         | Controllato      |
 |     | LP 308-10                    | Dittatoriale  | 92.860 | Indipendente         | Non Controllato  |
 |     | LP 366-45                    | Dittatoriale  | 159.039 | Indipendente         | Non Controllato  |
@@ -586,6 +586,7 @@ Governiamo su **26.544.801.849** abitanti
 |     | Yin Sector CV-Y b4           | Democratico   | 49.857.216 | Indipendente         | Controllato      |
 |     | Yin Sector EQ-Y b3           | Democratico   | 1.754.029 | Indipendente         | Controllato      |
 |     | Yin Sector EQ-Y b4           | Democratico   | 315.514 | Indipendente         | Controllato      |
+|     | Yin Sector WO-A b1           | Corporativo   | 1.999.111 | Federale             | Non Controllato  |
 |     | Yin Sector XZ-Y b2           | Teocratico    | 1.997.009 | Indipendente         | Non Controllato  |
 |     | Yin Sector YJ-A c16          | Dittatoriale  | 218.893 | Indipendente         | Non Controllato  |
 |     | Zandu                        | Democratico   | 11.105.861 | Indipendente         | Controllato      |
@@ -599,6 +600,8 @@ Governiamo su **26.544.801.849** abitanti
   <div class="collapsible-content">
     <div class="content-inner">
       <ul>
+          <li>21 Novembre 3312: Prendiamo il controllo di <b>LP 302-22</b>, sistema democratico con oltre 2,6 miliardi di abitanti in cui eravamo presenti dal 3307</li>
+          <li>21 Novembre 3312: Approdiamo su <b>Yin Sector WO-A b1</b> con un'espansione da HIP 28774, sistema corporativo federale con quasi 2 milioni di abitanti, per ora non sotto il nostro controllo</li>
           <li>21 Novembre 3312: Conquistiamo <b>BD+11 1163</b>, sistema corporativo con oltre 437 mila abitanti, che passa sotto il nostro controllo diretto</li>
           <li>08 Novembre 3312: Approdiamo su <b>BD+11 1163</b>, sistema corporativo indipendente con oltre 437 mila abitanti, per ora non sotto il nostro controllo</li>
           <li>05 Novembre 3312: Colonizziamo <b>Col 285 Sector TT-X b2-0</b></li>
