@@ -2,7 +2,7 @@
 layout: page
 title: Trailblazers
 description: Trailblazers è l'aggiornamento gratuito di Elite Dangerous che introduce la System Colonisation, la possibilità di reclamare e sviluppare i propri sistemi stellari.
-image: /images/logo_843x885.png
+image: /images/social/acfs-social-1200x630.png
 permalink: /trailblazers/
 last_modified_at: 2026-08-15
 ---

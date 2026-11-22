@@ -3,7 +3,7 @@ layout: page
 title: "Chi Siamo" 
 description: Alto Comando Flotta Stellare è uno Squadrone di Elite Dangerous. Abbiamo una minor faction in game con oltre 250 sistemi controllati e abbiamo i biscotti
 datatable: true
-image: /images/logo_843x885.png
+image: /images/social/acfs-social-1200x630.png
 last_modified_at: 2026-11-21
 ---
 <style>

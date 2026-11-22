@@ -38,10 +38,10 @@ social:
     - https://ed-acfs.github.io
 
 twitter:
-  card: summary
+  card: summary_large_image
   username: Flotta_Stellare
 
-logo: /images/logo_843x885.png
+logo: /assets/icon-vanguards/icon-512x512.png
 
 settings:
   rating: general  # May be general, mature, restricted, 14 years or safe for kids
@@ -70,6 +70,13 @@ slapform_thankyou_page: /thank-you
 
 # Scopes
 defaults:
+  # Immagine social di ripiego per ogni pagina senza "image:" nel front matter
+  -
+    scope:
+      path: ""
+    values:
+      image: /images/social/acfs-social-1200x630.png
+
   -
     scope:
       path: ""
@@ -78,7 +85,7 @@ defaults:
       permalink: "/blog/:title/"
       layout: post
       author:
-      image: /images/logo_843x885.png
+      image: /images/social/acfs-social-1200x630.png
       lightbox: true
 
   -
@@ -88,7 +95,7 @@ defaults:
     values:
       permalink: "/guide/:title/"
       layout: post
-      image: /images/logo_843x885.png
+      image: /images/social/acfs-social-1200x630.png
 
   # Demo della mappa 3D: bloccate in robots.txt, quindi fuori anche dalla sitemap
   -

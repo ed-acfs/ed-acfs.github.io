@@ -4,7 +4,7 @@ permalink: /video/eventi-di-squadrone/
 title: "Eventi di Squadrone: allenamenti e sfide"
 description: "Sparring PvP, partite CQC e sfide organizzate dallo Squadrone Alto Comando Flotta Stellare di Elite Dangerous."
 heading: "Eventi di Squadrone"
-image: /images/Elite-Division-png.png
+image: /images/social/acfs-social-1200x630.png
 author: cok7sette
 video_category: eventi-di-squadrone
 seo:

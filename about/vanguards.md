@@ -2,7 +2,7 @@
 layout: page
 title: Vanguards
 description: Vanguards è l'aggiornamento gratuito di Elite Dangerous che riscrive da zero il sistema Squadrons, con nuovi strumenti di gestione, personalizzazione e una nuova Squadron Carrier.
-image: /images/logo_843x885.png
+image: /images/social/acfs-social-1200x630.png
 permalink: /vanguards/
 last_modified_at: 2026-08-15
 ---

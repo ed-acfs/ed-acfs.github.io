@@ -2,7 +2,7 @@
 layout: page
 title: Operations
 description: Operations è il grande aggiornamento gratuito di Elite Dangerous lanciato il 30 giugno 2026, scenari cooperativi in squadra tra megaship, pianeti e spazio aperto.
-image: /images/logo_843x885.png
+image: /images/social/acfs-social-1200x630.png
 permalink: /operations/
 last_modified_at: 2026-08-15
 ---

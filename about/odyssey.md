@@ -2,7 +2,7 @@
 layout: page
 title: Odyssey
 description: Odyssey è la terza grossa espansione (DLC) di Elite Dangerous. Vediamo quali sono le sue principali caratteristiche 
-image: /images/logo_843x885.png
+image: /images/social/acfs-social-1200x630.png
 permalink: /odyssey/
 last_modified_at: 2021-05-31
 ---

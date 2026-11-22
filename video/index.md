@@ -5,7 +5,7 @@ title: "Video di Elite Dangerous in italiano"
 description: "Guide, storie ed eventi dell'Alto Comando Flotta Stellare, e i video storici del Cok, per Elite Dangerous in italiano."
 heading: "I video dell'Alto Comando Flotta Stellare"
 subheading: "Guide, storie ed eventi del nostro Squadrone, e i video storici del Cok"
-image: /images/Elite-Division-png.png
+image: /images/social/acfs-social-1200x630.png
 author: cok7sette
 seo:
     type: CollectionPage
