@@ -90,7 +90,7 @@ Piazzato il Beacon, arriverà nel sistema una gigantesca **Megaship di Colonizza
 
 ## E se il sistema che voglio è troppo lontano?
 
-Il raggio di rivendicazione da un singolo contatto è di soli 15 anni luce. Per raggiungere un sistema più distante, bisogna costruire una catena di piccoli avamposti "ponte" (**bridging**): reclami un sistema, costruisci un piccolo avamposto, e da lì reclami il successivo, ripetendo la sequenza fino a destinazione. Alcune community hanno costruito ponti lunghi centinaia di sistemi in questo modo. Per pianificare un bridge è utile il [Colonization Plotter di Spansh](https://spansh.co.uk/){:target="_blank"}.
+Il raggio di rivendicazione da un singolo contatto è di soli 15 anni luce. Per raggiungere un sistema più distante, bisogna costruire una catena di piccoli avamposti "ponte" (**bridging**): rivendichi un sistema, costruisci un piccolo avamposto, e da lì rivendichi il successivo, ripetendo la sequenza fino a destinazione. Alcune community hanno costruito ponti lunghi centinaia di sistemi in questo modo. Per pianificare un bridge è utile il [Colonization Plotter di Spansh](https://spansh.co.uk/){:target="_blank"}. Per i sistemi attorno alle stazioni dello Squadrone c'è anche il nostro [Colony Plotter](https://cristiancastellari.it/it/blog/progetti-personali/acfs-colony-plotter-colonizzare-elite-dangerous/){:target="_blank"}, con il Ponte per raggiungere quelli più lontani.
 
 <span class="image fit"><img src="/images/Elite-Division-png.png" alt=""></span>
 
